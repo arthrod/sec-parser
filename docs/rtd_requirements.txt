@@ -1224,7 +1224,7 @@ tokenize-rt==5.2.0 ; python_version >= "3.9" and python_full_version != "3.9.7" 
 tomli==2.0.1 ; python_version >= "3.9" and python_full_version != "3.9.7" and python_version < "3.11" \
     --hash=sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc \
     --hash=sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f
-tornado==6.4.1 ; python_version >= "3.9" and python_full_version != "3.9.7" and python_version < "4.0" \
+tornado==6.5 ; python_version >= "3.9" and python_full_version != "3.9.7" and python_version < "4.0" \
     --hash=sha256:163b0aafc8e23d8cdc3c9dfb24c5368af84a81e3364745ccb4427669bf84aec8 \
     --hash=sha256:25486eb223babe3eed4b8aecbac33b37e3dd6d776bc730ca14e1bf93888b979f \
     --hash=sha256:454db8a7ecfcf2ff6042dde58404164d969b6f5d58b926da15e6b23817950fc4 \
