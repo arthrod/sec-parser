@@ -1,0 +1,262 @@
+Heading (L1): STOCK
+PURCHASE AGREEMENT
+|-- Party: Inc. (Nevada
+corporation (“Seller”))
+|-- Recital: WHEREAS,
+Seller owns 90,437,591 shares (the “Common Shares”) of common stock, each with a par value ...
+|-- Recital: WHEREAS,
+the Seller desires to sell the Shares pursuant to the terms and conditions set forth herein...
+`-- Recital: NOW,
+THEREFORE, on the stated premises and for and in consideration of the mutual covenants and agre...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE
+I
+
+--- (Additional Root Structure) ---
+Heading (L1): SALE
+AND PURCHASE OF THE SHARES
+|-- Content: Section
+1.1 Closing. The purchase of the Shares shall be consummated on December 22, 2023 unless ext...
+`-- Content: Section
+1.2 Sale and Purchase. Subject to the terms and conditions hereof, at the Closing, Seller ag...
+
+--- (Additional Root Structure) ---
+Exhibit Schedule B
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE
+II REPRESENTATIONS
+
+--- (Additional Root Structure) ---
+Heading (L1): AND WARRANTIES OF SELLER
+|-- Content: As
+an inducement to and to obtain the reliance of Buyer, Seller represents and warrants to Buyer tha...
+|-- Content: Section
+2.1 No Conflict, Authority. The execution of this Agreement and the consummation of the tran...
+|-- Content: Section
+2.2 Title to the Shares. Seller owns of record and beneficially the Shares, which Shares are...
+|-- Content: Section
+2.3 Authorization; Enforceability. The Seller is a corporation duly organized, validly exist...
+|-- Content: Section
+2.4 No General Solicitation or Advertisement. Neither the Seller, nor any person acting on S...
+|-- Content: Section
+2.5 Tax Matters. The Shares are not subject to any Lien arising in connection with any failu...
+|-- Content: Section
+2.6 Due Diligence Materials Provided. Seller has provided Buyer with true and accurate copie...
+|-- Content: Seller
+has no actual or constructive knowledge of any liability or obligation of the Company other t...
+`-- Content: Section
+2.7 Brokers and Finders. The Seller represents and warrants that there are no agreements inv...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE
+III
+
+--- (Additional Root Structure) ---
+Heading (L1): REPRESENTATIONS
+AND WARRANTIES OF THE COMPANY
+|-- Content: The
+Seller and the Company, jointly and severally, represent and warrant to Buyer that each of the f...
+|-- Content: Section
+3.1 Organization and Qualification. The Company is a corporation duly organized, validly exi...
+|-- Content: Section
+3.2 Authorization; Enforcement. The Company has all requisite power and authority to enter i...
+|-- Content: Section
+3.3 No Conflict. The execution, delivery and performance by the Company of this Agreement, t...
+|-- Content: Section
+3.4 OTC Filings. The Company has filed all reports and financial statements required to be f...
+`-- Section 3.5
+
+--- (Additional Root Structure) ---
+Exhibit Schedule 3
+|-- Content: Section
+3.7. Consents and Approvals. The Company is not required to obtain any consent, waiver, auth...
+|-- Content: Section
+3.8 Litigation. There is no (i) claim, legal action, suit, arbitration, investigation or hea...
+|-- Content: Section
+3.9 Liabilities. As of the Closing Date, there will be no liabilities, debts or obligations ...
+`-- Content: Section
+3.10 Compliance with Laws. The Company has complied in all respects with all laws, ordinance...
+
+--- (Additional Root Structure) ---
+Exhibit Schedule 3
+|-- Content: Section
+3.12 Trading. The shares of Common Stock are quoted on the OTC Pink under the symbol “TRFE,”...
+|-- Content: Section
+3.13 Sarbanes-Oxley. The Company (i) makes and keeps accurate books and records and (ii) mai...
+|-- Content: Section
+3.14 Internal Accounting Controls. The Company maintains a system of internal accounting con...
+|-- Content: Section
+3.15 Disclosure. Neither this Agreement, nor any certificate, exhibit, or other written docu...
+|-- Content: Section
+3.16 Securities Exchange Act Registration. The Common Stock is subject to Section 12(g) of t...
+|-- Content: Section
+3.17 Auditors. Gries and Associates, LLC, certified independent public accountants within th...
+|-- Content: Other
+than a “going concern” qualification in the report of the auditors with respect to the financi...
+|-- Content: At
+the Closing, (A) the Company shall have no properties or assets other than those described in the...
+|-- Content: Section
+3.18 Assets. At the Closing, (A) the Company shall have no properties or assets other than t...
+|-- Content: Section
+3.19 Employees. The Company has no employees other than Rasmus Refer, the Company’s sole exe...
+|-- Content: Section
+3.20 FCPA. (i) The Company has not, and no person or entity acting on behalf or at the reque...
+|-- Content: (ii) Neither
+the Company, nor any director, officer, agent, employee, or other person associated wit...
+`-- Party: Closing Date (party to any bankruptcy petition against)
+    |-- Content: Section
+3.21 Trading. The Company has not, and no person acting on behalf thereof, has taken or will...
+    `-- Content: Section
+3.22 No Registration Rights. No stockholder of the Company has any right to request or requi...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE
+IV REPRESENTATIONS
+
+--- (Additional Root Structure) ---
+Heading (L1): AND WARRANTIES OF BUYER
+`-- Definition: shall: the actual knowledge, after reasonable investigation.
+    |-- Content: Section
+4.1 No Conflict, Authority. The execution of this Agreement and the consummation of the tran...
+    |-- Content: Section
+4.2 Restricted Shares. Buyer acknowledges that the Shares purchased have not been registered...
+    |-- Content: Section
+4.3 Buyer’s Sophistication. The Buyer (i) acknowledges that the purchase of Shares involves ...
+    |-- Content: Section
+4.4 Brokers and Finders. The Buyer represents and warrants that he/she/it has made no agreem...
+    `-- Content: Section
+4.5 Due Diligence Materials Provided. Prior to the Closing, the Buyer will conduct a due dil...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE
+V
+
+--- (Additional Root Structure) ---
+Heading (L1): EXCHANGE
+PROCEDURE AND OTHER CONSIDERATION
+|-- Content: Section
+5.1 Seller’s Delivery. On the Closing Date, the Seller shall deliver the following to Buyer ...
+|-- Content: (a) The
+original stock certificate(s) representing the Shares together with an irrevocable stock pow...
+|-- Clause (b): Written
+|-- Clause (c): Written
+|-- Clause (d): A written resignation from all officers of the Company, effective upon Closing.
+|-- Clause (e): A list of shareholders from the Company’s transfer agent as of the Closing.
+|-- Clause (f): A
+|-- Clause (g): All schedules to this Agreement.
+|   `-- Content: (h) Documents to be filed pursuant to Section 6.1.
+|-- Clause (i): Seller
+`-- Heading (L2): Section
+5.3 Company’s Delivery.
+    |-- Content: At
+the Closing, the Company shall deliver to the Buyer the following:
+    |-- Clause (a)
+    `-- Clause (h)
+        `-- Content: Section
+5.3 Buyer’s Delivery. On the Closing Date, Buyer shall deliver the following to Seller, cond...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE
+VI
+
+--- (Additional Root Structure) ---
+Heading (L1): CLOSING
+COVENANTS OF THE PARTIES
+|-- Content: Section
+6.1 Notification of OTC Markets, FINRA and Nevada Secretary of State. Seller shall, at its s...
+|-- Content: (d) Confirm
+to the other party hereto in writing via email, that the obligations pursuant to Section...
+|-- Content: Section
+6.2 Exclusivity. Neither Seller, the Company nor any affiliate, consultant, representative o...
+`-- Content: Section
+6.3 Further SEC Filings. The Seller shall cause each of the officers and directors of the Co...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE
+VII
+
+--- (Additional Root Structure) ---
+Heading (L1): MISCELLANEOUS
+|-- Content: Section
+7.1 Indemnification. Seller and the Company shall jointly and severally indemnify and hold t...
+|   `-- Clause (ii)
+`-- Content: (iii)any
+                                            inaccuracy or breach of any of the representati...
+    `-- Clause (iv)
+
+--- (Additional Root Structure) ---
+Exhibit Schedule B
+|-- Content: Section
+7.3 Attorneys’ Fees. Except as expressly provided herein, each party will be responsible for...
+|-- Content: Section
+7.4 Confidentiality. Each party hereto agrees with the other party that, unless and until th...
+|-- Content: Section
+7.5 Severability. Any provision of this Agreement that is invalid or unenforceable in any ju...
+|-- Content: Section
+7.6 Entire Agreement. This Agreement represents the entire agreement between the parties rel...
+|-- Content: Section
+7.7 Survival; Termination; Limitation of Seller’s Liability. The representations, warranties...
+|-- Content: Section
+7.8 Counterparts. This Agreement may be executed in multiple counterparts, each of which sha...
+|-- Content: Section
+7.9 Amendment or Waiver. Every right and remedy provided herein shall be cumulative with eve...
+|-- Content: Section
+7.10 Expenses. Each party herein shall bear all of their respective costs and expenses incur...
+|-- Content: Section
+7.11 Headings; Context. The headings of the sections and paragraphs contained in this Agreem...
+|-- Content: Section
+7.12 Benefit. This Agreement shall be binding upon and shall inure only to the benefit of th...
+|-- Content: Section
+7.13 Severability. In the event that any particular provision or provisions of this Agreemen...
+|-- Content: Section
+7.14 No Strict Construction. The language of this Agreement shall be construed as a whole, a...
+|-- Content: Section
+7.15 Execution Knowing and Voluntary. In executing this Agreement, the parties severally ack...
+|-- Content: Section
+7.16 Further Assurances, Cooperation. Each party shall, upon reasonable request by the other...
+|-- Content: Section
+7.17 Covenants. Seller also hereby covenants and agrees to provide any such historical docum...
+`-- Content: Section
+7.18 Governing Law. This Agreement shall be construed (both as to validity and performance) ...
+
+--- (Additional Root Structure) ---
+Heading (L1): [SIGNATURE
+PAGE FOLLOWS]
+|-- Content: IN
+WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date firs...
+`-- Content: COMPANY
+
+ 
+ 
+
+ 
+/s/
+    Rasmus Refer
+
+ 
+By:
+    
+Rasmus
+    Refer 
+
+ 
+Title:
+Director
+
+ 
+ 
+ 
+
+ 
+SELL...
+
+--- (Additional Root Structure) ---
+Heading (L1): SCHEDULE
+A
+`-- Party: LLC (Delaware limited liability company)
+
+--- (Additional Root Structure) ---
+Heading (L1): SCHEDULE
+B

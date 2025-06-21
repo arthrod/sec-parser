@@ -1,0 +1,599 @@
+PROCESSING STEP TRACE REPORT
+================================================================================
+
+Agreement 1:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 14, 'type_changes': {}}
+
+Agreement 2:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 49, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 28, 'type_changes': {}}
+
+Agreement 3:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 111, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 137, 'type_changes': {}}
+
+Agreement 4:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 113, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 163, 'type_changes': {}}
+
+Agreement 5:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 120, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 86, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 541, 'type_changes': {}}
+
+Agreement 6:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 121, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 86, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 558, 'type_changes': {}}
+
+Agreement 7:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 129, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 86, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 589, 'type_changes': {}}
+
+Agreement 8:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 129, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 86, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 589, 'type_changes': {}}
+
+Agreement 9:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 130, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 86, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 601, 'type_changes': {}}
+
+Agreement 10:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 130, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 86, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 631, 'type_changes': {}}
+
+Agreement 11:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 142, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 87, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 669, 'type_changes': {}}
+
+Agreement 12:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 156, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 100, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 732, 'type_changes': {}}
+
+Agreement 13:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 156, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 105, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 791, 'type_changes': {}}
+
+Agreement 14:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 182, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 105, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 832, 'type_changes': {}}
+
+Agreement 15:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 241, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 120, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 909, 'type_changes': {}}
+
+Agreement 16:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 241, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 120, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 909, 'type_changes': {}}
+
+Agreement 17:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 241, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 120, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 918, 'type_changes': {}}
+
+Agreement 18:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 244, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 120, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 928, 'type_changes': {}}
+
+Agreement 19:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 246, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 120, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 941, 'type_changes': {}}
+
+Agreement 20:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 247, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 120, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 946, 'type_changes': {}}
+
+Agreement 21:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 247, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 120, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 946, 'type_changes': {}}
+
+Agreement 22:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 253, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 120, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1099, 'type_changes': {}}
+
+Agreement 23:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 267, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 126, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1167, 'type_changes': {}}
+
+Agreement 24:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 268, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 126, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1179, 'type_changes': {}}
+
+Agreement 25:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 282, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 126, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1208, 'type_changes': {}}
+
+Agreement 26:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 333, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 136, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1266, 'type_changes': {}}
+
+Agreement 27:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 365, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 139, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1344, 'type_changes': {}}
+
+Agreement 28:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 365, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 139, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1344, 'type_changes': {}}
+
+Agreement 29:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 365, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 165, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1430, 'type_changes': {}}
+
+Agreement 30:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 381, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 168, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1514, 'type_changes': {}}
+
+Agreement 31:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 423, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 168, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1631, 'type_changes': {}}
+
+Agreement 32:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 432, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 172, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1714, 'type_changes': {}}
+
+Agreement 33:
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 444, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 181, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1808, 'type_changes': {}}
+
+Agreement 34:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 496, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 181, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1808, 'type_changes': {}}
+
+Agreement 35:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 497, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 181, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1808, 'type_changes': {}}
+
+Agreement 36:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 503, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 181, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1857, 'type_changes': {}}
+
+Agreement 37:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 503, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 181, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1857, 'type_changes': {}}
+
+Agreement 38:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 590, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 192, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2010, 'type_changes': {}}
+
+Agreement 39:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 590, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 192, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2012, 'type_changes': {}}
+
+Agreement 40:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 595, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 192, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2022, 'type_changes': {}}
+
+Agreement 41:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 595, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 192, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2022, 'type_changes': {}}
+
+Agreement 42:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 613, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 194, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2042, 'type_changes': {}}
+
+Agreement 43:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 613, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 194, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2055, 'type_changes': {}}
+
+Agreement 44:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 638, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 194, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2144, 'type_changes': {}}
+
+Agreement 45:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 668, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 197, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2222, 'type_changes': {}}
+
+Agreement 46:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 677, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 200, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2296, 'type_changes': {}}
+
+Agreement 47:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 677, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 203, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2483, 'type_changes': {}}
+
+Agreement 48:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 677, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 203, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2494, 'type_changes': {}}
+
+Agreement 49:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 677, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 203, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2524, 'type_changes': {}}
+
+Agreement 50:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 689, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 203, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2595, 'type_changes': {}}
+
+Agreement 51:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 702, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 203, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2662, 'type_changes': {}}
+
+Agreement 52:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 702, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 203, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2676, 'type_changes': {}}
+
+Agreement 53:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 702, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 203, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2676, 'type_changes': {}}
+
+Agreement 54:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 801, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 225, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2811, 'type_changes': {}}
+
+Agreement 55:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 801, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 225, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2827, 'type_changes': {}}
+
+Agreement 56:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 839, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 225, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2995, 'type_changes': {}}
+
+Agreement 57:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 849, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 227, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3047, 'type_changes': {}}
+
+Agreement 58:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 849, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 231, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3083, 'type_changes': {}}
+
+Agreement 59:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 849, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 231, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3083, 'type_changes': {}}
+
+Agreement 60:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 862, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 234, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3175, 'type_changes': {}}
+
+Agreement 61:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 869, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 241, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3223, 'type_changes': {}}
+
+Agreement 62:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 879, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 241, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3270, 'type_changes': {}}
+
+Agreement 63:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 898, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 261, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3618, 'type_changes': {}}
+
+Agreement 64:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 905, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 261, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3627, 'type_changes': {}}
+
+Agreement 65:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 923, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 265, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3707, 'type_changes': {}}
+
+Agreement 66:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 923, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 267, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3719, 'type_changes': {}}
+
+Agreement 67:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 925, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 268, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3801, 'type_changes': {}}
+
+Agreement 68:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 965, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 268, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3847, 'type_changes': {}}
+
+Agreement 69:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 965, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 268, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3852, 'type_changes': {}}
+
+Agreement 70:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 970, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 270, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3876, 'type_changes': {}}
+
+Agreement 71:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 971, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 270, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3893, 'type_changes': {}}
+
+Agreement 72:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 986, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 276, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3957, 'type_changes': {}}
+
+Agreement 73:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 988, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 276, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3987, 'type_changes': {}}
+
+Agreement 74:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1005, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 279, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4098, 'type_changes': {}}
+
+Agreement 75:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1007, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 279, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4180, 'type_changes': {}}
+
+Agreement 76:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1144, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 391, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5021, 'type_changes': {}}
+
+Agreement 77:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1235, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 415, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5294, 'type_changes': {}}
+
+Agreement 78:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1236, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 415, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5300, 'type_changes': {}}
+
+Agreement 79:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1263, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 439, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5533, 'type_changes': {}}
+
+Agreement 80:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1347, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 577, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6159, 'type_changes': {}}
+
+Agreement 81:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1347, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 577, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6194, 'type_changes': {}}
+
+Agreement 82:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1348, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 577, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6210, 'type_changes': {}}
+
+Agreement 83:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1390, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 603, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6293, 'type_changes': {}}
+
+Agreement 84:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1390, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 603, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6293, 'type_changes': {}}
+
+Agreement 85:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1418, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 603, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6293, 'type_changes': {}}
+
+Agreement 86:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1621, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 620, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6719, 'type_changes': {}}
+
+Agreement 87:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1621, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 621, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6786, 'type_changes': {}}
+
+Agreement 88:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1626, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 621, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6794, 'type_changes': {}}
+
+Agreement 89:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1772, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 621, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6794, 'type_changes': {}}
+
+Agreement 90:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1772, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 621, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6794, 'type_changes': {}}
+
+Agreement 91:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1772, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 627, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6806, 'type_changes': {}}
+
+Agreement 92:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1778, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 627, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6886, 'type_changes': {}}
+
+Agreement 93:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1778, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 630, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6939, 'type_changes': {}}
+
+Agreement 94:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1779, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 630, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6975, 'type_changes': {}}
+
+Agreement 95:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1786, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 682, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7449, 'type_changes': {}}
+
+Agreement 96:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1793, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 682, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7457, 'type_changes': {}}
+
+Agreement 97:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 25, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1809, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 682, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7515, 'type_changes': {}}
+
+Agreement 98:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 44, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1929, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 682, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7515, 'type_changes': {}}
+
+Agreement 99:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 44, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1936, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 682, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7532, 'type_changes': {}}
+
+Agreement 100:
+  EmptyElementClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 44, 'type_changes': {}}
+  ImprovedMetadataRemoverv8: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1936, 'type_changes': {}}
+  EnhancedClauseClassifierV6: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 682, 'type_changes': {}}
+  TextClassifier: {'Δelement_count': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7535, 'type_changes': {}}
+
+
+SUMMARY BY PROCESSING STEP
+--------------------------------------------------------------------------------
+
+ImprovedMetadataRemoverv8:
+  Agreements affected: 100
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 79814
+
+TextClassifier:
+  Agreements affected: 100
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 317103
+
+EnhancedClauseClassifierV6:
+  Agreements affected: 98
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 27919
+
+EmptyElementClassifier:
+  Agreements affected: 67
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 661

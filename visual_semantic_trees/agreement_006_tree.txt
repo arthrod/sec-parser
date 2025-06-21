@@ -1,0 +1,28 @@
+Heading (L1): AMENDMENT NO. 3
+
+--- (Additional Root Structure) ---
+Heading (L1): TO THE
+
+--- (Additional Root Structure) ---
+Heading (L1): DEFINED CONTRIBUTION RESTORATION PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): OF ENTERGY CORPORATION AND SUBSIDIARIES
+|-- Content: (As Amended and Restated Effective January 1, 2009)
+|-- Content: THIS AMENDMENT, executed this 13th day of December, 2023, and effective January 1, 2024, is made by ...
+|-- Content: All capitalized terms used in this Amendment No. 3 shall have the meanings assigned to them in the P...
+|-- Content: Pursuant to Section 10.01 of the Plan and in accordance with the Resolutions of the Board of Directo...
+`-- Heading (L2): Definitions.
+    |-- Definition: shall: and are replaced with “Talent and Compensation Committee,” and a new Section 1.28 titled, “Ta...
+    `-- Definition: shall: and are replaced with “Talent and Compensation Committee” and shall include any committee int...
+        |-- Content: Where not inconsistent herewith, all the terms and provisions of the Plan shall remain in full force...
+        `-- Content: IN WITNESS WHEREOF, this Amendment is executed on the day, month and year set forth above.
+
+--- (Additional Root Structure) ---
+Heading (L1): ENTERGY CORPORATION
+
+--- (Additional Root Structure) ---
+Heading (L1): TALENT AND COMPENSATION COMMITTEE
+|-- Content: through the undersigned duly authorized representative
+|-- Content: _/s/ Kathryn Collins___________________________ KATHRYN COLLINS
+`-- Content: Senior Vice President, HR and Chief Human Resources Officer

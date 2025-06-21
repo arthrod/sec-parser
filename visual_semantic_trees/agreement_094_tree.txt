@@ -1,0 +1,211 @@
+Content: TABLE OF CONTENTS 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+Page
+ 
+
+ ARTICLE I. DEFINITIONS
+  
+ 
+1
+ 
+
+ Section 1.01
+ 
+De...
+
+--- (Additional Root Structure) ---
+Content: TABLE OF CONTENTS 
+(continued)   
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+Page
+ 
+
+
+
+
+ ARTICLE V. OTHER MATTERS PERTAINING...
+
+--- (Additional Root Structure) ---
+Content: TABLE OF CONTENTS 
+(continued)   
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+Page
+ 
+
+ Section 9.13
+ 
+Submission to Jurisdict...
+
+--- (Additional Root Structure) ---
+Exhibit Exhibit A
+`-- Definition: shall: those representations identified
+
+--- (Additional Root Structure) ---
+Article ARTICLE II: ENGAGEMENT; ACCEPTANCE
+|-- Content: Section 3.02 Review Notices. 
+Upon receipt of (i) a Review Notice from the Indenture Trustee in acco...
+|-- Content: not provided the missing Review Material for a Subject Receivable to the Asset Representations Revie...
+|-- Content: Section 3.08 Completion of Review for Certain Subject Receivables. 
+Following the delivery of the li...
+`-- Content: Section 3.12 Representatives. 
+(a) Servicer Representative. The Servicer will provide reasonable acc...
+
+--- (Additional Root Structure) ---
+Article ARTICLE IV: PAYMENTS TO ASSET REPRESENTATIONS REVIEW
+|-- Content: Section 4.04 Payment.  
+All payments made to the Asset Representations Reviewer shall be made to the...
+|-- Content: (e) No Proceedings. There are no actions, orders, suits or proceedings pending or, to
+the knowledge ...
+|-- Content: (b) The indemnification set forth in this Section 5.03 will
+survive the termination of this Agreemen...
+|-- Content: Section 6.02 Resignation and Removal of Asset Representations Reviewer. 
+(a) No Resignation of Asset...
+|-- Content: (b) Effectiveness of Resignation or Removal. No resignation or removal of the Asset
+Representations ...
+|-- Content: (b) Use of Confidential Information. Each party acknowledges that during the term of
+this Agreement ...
+|-- Content: recovery, legal and/or regulatory purposes, and (ii) neither party will be required to search archiv...
+|-- Content: (e) Breach. In the event of any actual or apparent theft, unauthorized use or
+disclosure of any Pers...
+|-- Content: (i) the Sponsor or the Servicer delivers an Opinion of Counsel to the
+Indenture Trustee to the effec...
+|-- Content: Section 9.02 Notices, Etc. All demands, notices and communications
+hereunder shall be in writing and...
+|-- Content: liability with respect to, any electronic signature or faxed, scanned, or photocopied manual signatu...
+|-- Content: a trustee, receiver, liquidator, custodian or other similar official with respect to such Bankruptcy...
+|-- Content: IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year
+first wri...
+|-- Content: DRIVE AUTO RECEIVABLES TRUST 2024-1
+
+
+
+
+By:
+ 
+Citibank, N.A.,
+
+
+ 
+not in its individual capacity but...
+|-- Content: CLAYTON FIXED INCOME SERVICES LLC,
+
+as Asset Representations Reviewer
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Name:
+
+
+ 
+Tit...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    (x) had an original
+term to maturity of not mo...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures   
+
+
+ 
+a)
+ Confirm the title documents show Santa...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures   
+
+
+xi)
+ Outstanding Principal Balance 
+ 
+
+
+ 
+a)...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+b) Compliance with Law  The Re...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures   
+
+
+ 
+b)
+ Confirm the Calculated Total of Paymen...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+c) Binding Obligation  The Rec...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+d) Receivable in Force  The Re...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+e) No Default; No Waiver  Exce...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+f) Insurance  The Receivable r...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+g) No Government Obligor  The ...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+h) Assignment  No Receivable h...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+i) Good Title  As of the Closi...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+j) Characterizations of Receiv...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+k) One Original  There is only...
+|-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+l) No Defenses  The records of...
+`-- Content: Santander
+Consumer USA Inc. Agreed Upon Procedures    Representation 
+m) Early Payments  The Obligor...

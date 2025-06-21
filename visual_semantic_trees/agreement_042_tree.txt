@@ -1,0 +1,92 @@
+Heading (L1): WARRANT CANCELLATION AND EXCHANGE AGREEMENT
+|-- Party: Canoo Inc. (Delaware
+corporation (the “Company”))
+|-- Recital: WHEREAS, pursuant to that
+certain (i) Warrant Agreement, dated January 31, 2024, by and between the ...
+|-- Recital: WHEREAS, the Company and
+Warrant Holder intend to enter into this Agreement pursuant to which the Pr...
+|-- Recital: NOW, THEREFORE, in consideration
+of the premises and the mutual promises herein and other good and v...
+|-- Section 1: Cancellation
+|   |-- Clause (a): Warrant
+|   |-- Clause (b): Warrant
+|   `-- Clause (c): It
+|-- Section 2: Representations
+|   |-- Content: (b)             Accredited
+Investor. Warrant Holder is an “Accredited Investor” as such term is defi...
+|   |-- Content: (c)             Investment
+Purpose. Warrant Holder has substantial experience in evaluating
+and inve...
+|   `-- Clause (d): Exemptions.
+|       |-- Content: (e)             Authorization
+and Compliance. The execution, delivery and performance by Warrant Hol...
+|       |-- Content: 3.             Representations
+and Warranties of the Company. The Company represents and warrants th...
+|       |-- Content: (a)             Organization
+and Good Standing. The Company is a corporation duly organized and vali...
+|       |-- Content: (b)             Authorization.
+The execution, delivery and performance by the Company of this Agreem...
+|       |-- Content: (e)             Compliance.
+The Company is not in violation of (i) any provision of its Certificate ...
+|       `-- Content: 4.             Further
+Assurances. Each of the Company and Warrant Holder agrees to take such furthe...
+`-- Section 5: General
+    |-- Content: (a)             Governing
+Law. This Agreement shall be governed by and construed and enforced in acc...
+    |-- Content: (b)             Amendments
+and Waivers. Any provision of this Agreement may be amended or waived if,...
+    |-- Content: (c)             Successors
+and Assigns; Third Party Beneficiaries. The provisions of this Agreement ...
+    |-- Content: (d)             Counterparts.
+This Agreement may be signed in any number of counterparts, each of wh...
+    `-- Clause (e): Entire
+        |-- Content: (f)             Severability.
+If any term, provision, covenant or restriction of this Agreement is h...
+        |-- Content: IN WITNESS WHEREOF, the parties
+hereto have executed this Warrant Cancellation and Exchange Agreemen...
+        |-- Content: CANOO INC.
+
+ 
+ 
+
+ 
+By:
+/s/
+    Tony Aquila
+
+ 
+ 
+Name: 
+Tony Aquila
+
+ 
+ 
+Title:
+Chief Executive Offic...
+        |-- Content: [Signature Page to
+Warrant Cancellation and Exchange Agreement]
+        |-- Content: IN WITNESS WHEREOF, the parties
+hereto have executed this Warrant Cancellation and Exchange Agreemen...
+        |-- Content: YA II PN, LTD.
+
+ 
+ 
+
+ 
+By: 
+Yorkville Advisors
+    Global LP
+
+ 
+Its:
+Investment Manager
+
+ 
+ 
+By:
+Yor...
+        `-- Content: [Signature Page to
+Warrant Cancellation and Exchange Agreement]
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF NEW WARRANT

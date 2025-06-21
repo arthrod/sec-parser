@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Semantic Tree Dump</title>
+    <style>
+        body { font-family: monospace; }
+        .element { margin: 5px 0; padding: 5px; border-left: 3px solid #ccc; }
+        .hierarchical { border-left-color: #007acc; }
+        .section { border-left-color: #28a745; }
+        .clause { border-left-color: #dc3545; }
+        .content { border-left-color: #ffc107; }
+        .metadata { border-left-color: #6c757d; opacity: 0.7; }
+        .type { font-weight: bold; color: #007acc; }
+        .level { color: #28a745; }
+        .text { color: #333; margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Semantic Tree Dump</h1>
+    <div class="element hierarchical" style="margin-left: 20px;">
+        <span class="type">HeadingElement</span> <span class="level">[L1]</span> <span class="id">#HeadingElement_5</span>
+        <div class="text">GROUPON, INC. 2011 INCENTIVE PLAN</div>
+    </div>
+    <div class="element hierarchical" style="margin-left: 20px;">
+        <span class="type">HeadingElement</span> <span class="level">[L1]</span> <span class="id">#HeadingElement_6</span>
+        <div class="text">NOTICE OF RESTRICTED SHARE UNIT AWARD</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_6)</span> <span class="id">#ContentTextElement_9</span>
+        <div class="text">The Participant (as defined herein) has been granted a Full Value Award of restricted share units (“...</div>
+    </div>
+    <div class="element" style="margin-left: 0px;">
+        <span class="type">TextElement</span> <span class="id">#elem_3</span>
+        <div class="text">1.Name: [________] (the “Participant”)         2.Total Number of RSUs: [___]                        ...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_6)</span> <span class="id">#ContentTextElement_10</span>
+        <div class="text">4.Vesting: Unless otherwise provided in the Participant’s individual employment, severance or other ...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_6)</span> <span class="id">#ContentTextElement_11</span>
+        <div class="text">5.Settlement:  The RSUs shall be converted to Shares contingent upon the Participant’s Continuous Se...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_6)</span> <span class="id">#ContentTextElement_12</span>
+        <div class="text">6.Termination:  Unless otherwise provided in the Participant’s individual employment, severance or o...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_6)</span> <span class="id">#ContentTextElement_13</span>
+        <div class="text">7.General Terms:  The Participant understands that the Participant’s employment with or service to t...</div>
+    </div>
+    <div class="element" style="margin-left: 0px;">
+        <span class="type">TableElement</span> <span class="id">#elem_8</span>
+        <div class="text">PARTICIPANT(Accept award online via your [insert Fidelity website] account)Date</div>
+    </div>
+    <div class="element hierarchical" style="margin-left: 20px;">
+        <span class="type">HeadingElement</span> <span class="level">[L1]</span> <span class="id">#HeadingElement_7</span>
+        <div class="text">GROUPON, INC. 2011 INCENTIVE PLAN</div>
+    </div>
+    <div class="element hierarchical" style="margin-left: 20px;">
+        <span class="type">HeadingElement</span> <span class="level">[L1]</span> <span class="id">#HeadingElement_8</span>
+        <div class="text">RESTRICTED SHARE UNIT AWARD AGREEMENT</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_8)</span> <span class="id">#ContentTextElement_14</span>
+        <div class="text">Capitalized terms in this agreement (this “Agreement”), unless otherwise defined herein, shall have ...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_8)</span> <span class="id">#ContentTextElement_15</span>
+        <div class="text">You, as the Participant, have been granted a Full Value Award of restricted share units (“RSUs”) in ...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_8)</span> <span class="id">#ContentTextElement_16</span>
+        <div class="text">1.No Stockholder Rights.  Unless and until such time as Shares are issued in settlement of vested RS...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_8)</span> <span class="id">#ContentTextElement_17</span>
+        <div class="text">2.No Transfer.  Awards under the Plan are not transferable except to the Participant’s Beneficiary u...</div>
+    </div>
+    <div class="element" style="margin-left: 0px;">
+        <span class="type">TextElement</span> <span class="id">#elem_15</span>
+        <div class="text">3.Tax Withholding Obligations.</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: HeadingElement_8)</span> <span class="id">#ContentTextElement_18</span>
+        <div class="text">(a)Regardless of any action the Company takes with respect to any or all income tax, social insuranc...</div>
+    </div>
+    <div class="element hierarchical clause" style="margin-left: 60px;">
+        <span class="type">ClauseElement</span> <span class="level">[L3]</span> <span class="parent">(parent: HeadingElement_8)</span> <span class="id">#ClauseElement_0</span>
+        <br>Clause: (b) - ...
+        <div class="text">(b)Prior to any relevant taxable or tax withholding event, the Participant shall pay or make adequat...</div>
+    </div>
+    <div class="element hierarchical clause" style="margin-left: 60px;">
+        <span class="type">ClauseElement</span> <span class="level">[L3]</span> <span class="parent">(parent: HeadingElement_8)</span> <span class="id">#ClauseElement_1</span>
+        <br>Clause: (i) - ...
+        <div class="text">(i)Withholding from any wages or other cash compensation paid to the Participant by the Company;</div>
+    </div>
+    <div class="element hierarchical clause" style="margin-left: 100px;">
+        <span class="type">ClauseElement</span> <span class="level">[L5]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ClauseElement_2</span>
+        <br>Clause: (ii) - ...
+        <div class="text">(ii)Withholding otherwise deliverable Shares to be issued upon vesting/settlement of the RSUs; or</div>
+    </div>
+    <div class="element hierarchical clause" style="margin-left: 100px;">
+        <span class="type">ClauseElement</span> <span class="level">[L5]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ClauseElement_3</span>
+        <br>Clause: (iii) - ...
+        <div class="text">(iii)Withholding from the proceeds of the sale of Shares acquired upon vesting/settlement of the RSU...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_19</span>
+        <div class="text">(c)To avoid negative accounting treatment, the Company may withhold or account for Tax-Related Items...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_20</span>
+        <div class="text">(d)Further, to the extent applicable, the settlement of the RSUs is intended to either be exempt fro...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_21</span>
+        <div class="text">of the Code and will have no liability to the Participant or any other party if the settlement of th...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_22</span>
+        <div class="text">4.Compliance with Laws and Regulations.  The issuance of Shares underlying the RSUs will be subject ...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_23</span>
+        <div class="text">5.No Advice Regarding Award.   The Company is not providing any tax, legal, or financial advice, nor...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_24</span>
+        <div class="text">6.Legend on Certificates.  The certificates and/or book-entry notation representing the Shares issue...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_25</span>
+        <div class="text">7.Successors and Assigns.  The Company may assign any of its rights under this Agreement. This Agree...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_26</span>
+        <div class="text">8.Entire Agreement; Severability.  The Plan and the Notice are incorporated herein by reference.  Ex...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_27</span>
+        <div class="text">9.Waiver.  Waiver of any term or condition of this Agreement by any party shall not be construed as ...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_28</span>
+        <div class="text">10.Governing Law and Venue.  The validity, interpretation, instruction, performance, enforcement and...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_29</span>
+        <div class="text">11.Notices.  Any notice or document required to be filed with the Committee or the Company under the...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_30</span>
+        <div class="text">12.Need to Accept Award.  The Participant acknowledges that the Notice and this Agreement must be ac...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_31</span>
+        <div class="text">Participant in hard copy format, the Participant must sign the agreement and return it to the Compan...</div>
+    </div>
+    <div class="element hierarchical content" style="margin-left: 80px;">
+        <span class="type">ContentTextElement</span> <span class="level">[L4]</span> <span class="parent">(parent: ClauseElement_1)</span> <span class="id">#ContentTextElement_32</span>
+        <div class="text">By the Participant’s signature and the signature of the Company’s representative below and on the No...</div>
+    </div>
+    <div class="element" style="margin-left: 0px;">
+        <span class="type">TableElement</span> <span class="id">#elem_35</span>
+        <div class="text">PARTICIPANT(Accept award online via your [insert Fidelity website] account)Date</div>
+    </div>
+</body>
+</html>

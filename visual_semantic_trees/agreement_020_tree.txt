@@ -1,0 +1,28 @@
+Exhibit Schedule A
+
+--- (Additional Root Structure) ---
+Article ARTICLE 1
+
+--- (Additional Root Structure) ---
+Article ARTICLE 2
+
+--- (Additional Root Structure) ---
+Exhibit Schedule A
+
+--- (Additional Root Structure) ---
+Article ARTICLE 4
+|-- Content: Section 4.02 Directors. Notwithstanding any provision of this Agreement to the
+contrary, nothing in ...
+`-- Content: Section 4.05 Adverse Actions. The Stockholder hereby agrees that the Stockholder
+shall not, at any t...
+
+--- (Additional Root Structure) ---
+Article ARTICLE 5
+|-- Content: Section 5.02 No Ownership Interest. Nothing contained in this Agreement shall be
+deemed to vest in P...
+|-- Content: Section 5.04 Amendments; Termination. Any provision of this Agreement may be
+amended or waived if, b...
+|-- Content: Section 5.09 WAIVER OF JURY TRIAL. EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY
+CONTROVERSY THAT MAY ...
+`-- Content: Section 5.12 Specific Performance. Subject to Section 5.13, the parties
+hereto agree that irreparabl...

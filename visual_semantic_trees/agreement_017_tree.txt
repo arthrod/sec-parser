@@ -1,0 +1,14 @@
+Heading (L1): AMENDMENT NUMBER 12 TO THE
+
+--- (Additional Root Structure) ---
+Heading (L1): METLIFE AUXILIARY RETIREMENT PLAN
+|-- Content: (As amended and restated effective January 1, 2008)
+|-- Content: The MetLife Auxiliary Retirement Plan (the “Plan”) is hereby amended, effective as of December 1, 20...
+`-- Section 4.9
+    |-- Content: 4.9    Dodd-Frank Recoupment/Clawback: Notwithstanding anything contained herein to the contrary, a ...
+    `-- Content: IN WITNESS WHEREOF, the Company has caused this Amendment to be adopted in its name and behalf this ...
+
+--- (Additional Root Structure) ---
+Heading (L1): METROPOLITAN LIFE INSURANCE COMPANY
+|-- Content: By: __/s/ Andrew J. Bernstein______________________________ Andrew J. Bernstein, Plan Administrator
+`-- Content: ATTEST: ___/s/ Danielle Hodorowski___________________________________

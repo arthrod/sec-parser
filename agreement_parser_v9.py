@@ -50,6 +50,13 @@ except ImportError:
 
 
 # ========================================================================
+# GLOBAL CONTEXT FOR WORKIVA DETECTION
+# ========================================================================
+
+# Global flag for Workiva detection (set during analysis)
+_GLOBAL_IS_WDESK = False
+
+# ========================================================================
 # STYLE UTILITIES (v9 addition)
 # ========================================================================
 
@@ -105,10 +112,11 @@ def computed_style(bs4_node) -> dict[str, str]:
     Cheap: look at class names on ancestors; we do *not* parse the whole
     <style> sheet.
     """
+    MAX_SCAN_DEPTH = 5  # was 2
     props = {}
     node = bs4_node
     depth = 0
-    while node and depth < 3:  # inheritance: at most 3 hops
+    while node and depth < MAX_SCAN_DEPTH:  # inheritance: at most MAX_SCAN_DEPTH hops
         if isinstance(node, str):
             break
         style_attr = node.get('style', '')
@@ -387,7 +395,7 @@ class RepeatedHeaderFooterDetector(AbstractProcessingStep):
     MAX_LEN = 90
     MIN_REPEATS = 3
 
-    def _process(self, elements, ctx=None):
+    def _process(self, elements: list[AbstractSemanticElement]) -> list[AbstractSemanticElement]:
         counter = defaultdict(int)
         for el in elements:
             txt = getattr(el.html_tag, 'text', '').strip() if hasattr(el, 'html_tag') else ''
@@ -399,7 +407,7 @@ class RepeatedHeaderFooterDetector(AbstractProcessingStep):
                 counter[txt_norm] += 1
         repeated = {t for t, c in counter.items() if c >= self.MIN_REPEATS}
 
-        out = []
+        out: List[AbstractSemanticElement] = []
         for el in elements:
             if isinstance(el, TextElement):
                 txt_original = el.html_tag.text.strip()
@@ -501,9 +509,9 @@ class ConsecutivePageNumberClassifier(AbstractProcessingStep):
             return False
         return txt.isdigit() or bool(self._roman.fullmatch(txt))
 
-    def _process(self, elements, context=None):
+    def _process(self, elements: list[AbstractSemanticElement]) -> list[AbstractSemanticElement]:
         i = 0
-        out = []
+        out: list[AbstractSemanticElement] = []
         consecutive_count = 0
 
         while i < len(elements):
@@ -665,11 +673,11 @@ class VisualHeadingDetector(AbstractElementwiseProcessingStep):
     ENHANCED: Excludes "continued" and "page" from section titles
     """
 
-    # ENHANCED: Exclude common false positives including "table"
+    # ENHANCED: Exclude common false positives (continued, page)
     _SECTION_RE = re.compile(
         r"""^(?P<num>\d+(?:\.\d+)*)
-            [\.\)]\s+
-            (?P<title>(?!continued\b|page\b|table\b)[^.;]{3,80})$""",
+            \s*[-–—.]\)?\s+
+            (?P<title>(?!continued\b|page\b)[^.;]{3,80})$""",
         re.I | re.X,
     )
 
@@ -715,8 +723,18 @@ class VisualHeadingDetector(AbstractElementwiseProcessingStep):
             size_pt = 0
             mtop_pt = 0
 
-        if not (bold and (size_pt >= 11 or mtop_pt >= 12)):
-            return element  # not visually prominent enough
+        # Step 12: Check for Workiva (Wdesk) context for more lenient heading detection
+        global _GLOBAL_IS_WDESK
+        
+        # For Wdesk documents, be more lenient with bold/size requirements
+        if _GLOBAL_IS_WDESK:
+            # For Wdesk, treat bold text with any size bump or reasonable margin as potential heading
+            if not (bold or size_pt >= 10 or mtop_pt >= 8):
+                return element
+        else:
+            # Standard requirements for non-Wdesk documents
+            if not (bold and (size_pt >= 11 or mtop_pt >= 12)):
+                return element  # not visually prominent enough
 
         # NEW - normalize whitespace before pattern matching
         txt = re.sub(r'\s+', ' ', element.text.strip())
@@ -782,6 +800,11 @@ class HierarchyBuilder(AbstractProcessingStep):
             else:
                 hierarchical_elements.append(element)
 
+        # Step 11: Add fallback indentation hierarchy if insufficient heading structure
+        head_count = len([e for e in hierarchical_elements if isinstance(e, (HeadingElement, SectionElement, ArticleElement))])
+        if head_count < 3:
+            hierarchical_elements = self.apply_indentation_heuristic(hierarchical_elements)
+
         return hierarchical_elements
 
     def _build_hierarchy(self, element: HierarchicalElement) -> None:
@@ -805,6 +828,72 @@ class HierarchyBuilder(AbstractProcessingStep):
 
         # Add to stack
         self.element_stack.append(element)
+
+    def apply_indentation_heuristic(self, elements: List[AbstractSemanticElement]) -> List[AbstractSemanticElement]:
+        """Apply indentation-based hierarchy when insufficient headings are detected."""
+        # Get elements that might benefit from indentation hierarchy
+        text_elements = [e for e in elements if isinstance(e, (TextElement, ContentTextElement)) and hasattr(e.html_tag, '_bs4')]
+        
+        if len(text_elements) < 2:
+            return elements
+            
+        # Extract indentation levels from margin-left styles
+        indented_elements = []
+        for element in text_elements:
+            tag = element.html_tag._bs4 if hasattr(element.html_tag, '_bs4') else None
+            if tag:
+                style = computed_style(tag)
+                margin_left = _to_pt(style.get('margin-left', '0'))
+                text_indent = _to_pt(style.get('text-indent', '0'))
+                total_indent = margin_left + text_indent
+                indented_elements.append((element, total_indent))
+        
+        if len(indented_elements) < 2:
+            return elements
+            
+        # Sort by indentation to create tiers
+        indented_elements.sort(key=lambda x: x[1])
+        
+        # Group into indentation tiers (every 20pt is a new level)
+        INDENT_THRESHOLD = 20.0
+        indent_levels = {}
+        current_level = 1
+        last_indent = indented_elements[0][1]
+        
+        for element, indent in indented_elements:
+            if indent > last_indent + INDENT_THRESHOLD:
+                current_level += 1
+                last_indent = indent
+            indent_levels[element] = current_level
+        
+        # Convert qualifying text elements to hierarchical elements based on indentation
+        result_elements: List[AbstractSemanticElement] = []
+        parent_stack = []  # Stack of (level, element) tuples
+        
+        for element in elements:
+            if element in indent_levels:
+                level = indent_levels[element]
+                # Create a simple heading element based on indentation
+                if len(element.html_tag.text.strip()) > 10:  # Only promote substantial text
+                    heading = HeadingElement(element.html_tag, heading_text=element.html_tag.text.strip(), level=level)
+                    
+                    # Build parent-child relationships
+                    while parent_stack and parent_stack[-1][0] >= level:
+                        parent_stack.pop()
+                    
+                    if parent_stack:
+                        parent = parent_stack[-1][1]
+                        heading.parent_id = parent.id
+                        parent.add_child(heading.id)
+                    
+                    parent_stack.append((level, heading))
+                    result_elements.append(heading)
+                else:
+                    result_elements.append(element)
+            else:
+                result_elements.append(element)
+        
+        return result_elements
 
 
 class EarlyMetadataRemoverStep(AbstractProcessingStep):
@@ -906,9 +995,12 @@ class OrphanAttacherStep(AbstractProcessingStep):
 # NEW: Table-as-Root Heuristic
 class TableRootPromoter(AbstractProcessingStep):
     """
-    If the first non-metadata element is a table and the next 3 elements
+    If the first non-metadata element is a table and the next 5 elements
     are paragraph-like TextElements, treat that table as a SectionElement.
     """
+    
+    MIN_PARA_LEN = 15  # was 30
+    LOOKAHEAD = 5      # was 3
 
     def _process(self, elements, context=None):
         # Find first non-metadata element
@@ -922,14 +1014,14 @@ class TableRootPromoter(AbstractProcessingStep):
             return elements
 
         # Check if it's a table followed by text
-        if isinstance(elements[first_content_idx], TableElement) and first_content_idx + 3 < len(elements):
-            # Check next 3 elements
-            next_three = elements[first_content_idx + 1 : first_content_idx + 4]
+        if isinstance(elements[first_content_idx], TableElement) and first_content_idx + self.LOOKAHEAD < len(elements):
+            # Check next LOOKAHEAD elements
+            next_elements = elements[first_content_idx + 1 : first_content_idx + 1 + self.LOOKAHEAD]
             paragraph_like = all(
                 isinstance(el, (TextElement, ContentTextElement))
                 and el.html_tag
-                and len(el.html_tag.text.strip()) >= 30
-                for el in next_three
+                and len(el.html_tag.text.strip()) >= self.MIN_PARA_LEN
+                for el in next_elements
             )
 
             if paragraph_like:
@@ -944,7 +1036,7 @@ class TableRootPromoter(AbstractProcessingStep):
 class FallbackTitleClassifier(AbstractProcessingStep):
     KNOWN_PREFIX = re.compile(r'^(Exhibit|Schedule|Appendix)\s+\d+[A-Z]?\b', re.I)
 
-    def _process(self, elements, context=None):
+    def _process(self, elements: list[AbstractSemanticElement]) -> list[AbstractSemanticElement]:
         if any(isinstance(el, AgreementTitleElement) for el in elements):
             return elements
 
@@ -1085,6 +1177,10 @@ class SmartSectionClassifierV6(AbstractElementwiseProcessingStep):
         self, element: AbstractSemanticElement, context: ElementProcessingContext
     ) -> AbstractSemanticElement:
         """Process element with correct signature matching parent class."""
+        # Disable duplicate-section guard in TOC context
+        if context and hasattr(context, 'ancestor') and context.ancestor and hasattr(context.ancestor, 'is_table_of_content') and context.ancestor.is_table_of_content():  
+            self.seen_sections.clear()
+            
         if not element.html_tag:
             return element
 
@@ -1279,6 +1375,7 @@ class EnhancedClauseClassifierV6(AbstractElementwiseProcessingStep):
         clause_patterns = [
             (r'^\(([a-z])\)(?:\s+(.*))?', 3),
             (r'^\(([A-Z])\)(?:\s+(.*))?', 4),
+            (r'^\(([A-Z])\.\)(?:\s+(.*))?', 4),  # NEW: (A.) pattern
             (r'^\((\d+)\)(?:\s+(.*))?', 4),
             (r'^\(([ivxlcdm]+)\)(?:\s+(.*))?', 5),
             (r'^([a-z])\.(?:\s+(.*))?', 3),
@@ -1292,7 +1389,13 @@ class EnhancedClauseClassifierV6(AbstractElementwiseProcessingStep):
             match = re.match(pattern, text, re.IGNORECASE if 'ivx' in pattern else 0)
             if match:
                 clause_id = match.group(1)
-                clause_id = f'({clause_id})' if '(' in pattern else f'{clause_id}.'
+                # Handle different pattern types for clause_id formatting
+                if r'\.\)' in pattern:  # (A.) pattern
+                    clause_id = f'({clause_id}.)'
+                elif pattern.startswith(r'^\(') and not r'\.\)' in pattern:  # (A) pattern
+                    clause_id = f'({clause_id})'
+                else:  # A. pattern
+                    clause_id = f'{clause_id}.'
                 clause_text = match.group(2).strip() if match.group(2) else ''
 
                 if self._is_likely_clause(text, clause_text):
@@ -1688,6 +1791,10 @@ class HtmlCommentRemoverStep(AbstractProcessingStep):
 
 class AgreementParserv9Enhanced(AbstractSemanticElementParser):
     """Legal Agreement Parser v9 Enhanced - All improvements implemented."""
+    
+    def __init__(self):
+        super().__init__()
+        self.is_wdesk = False
 
     def get_default_steps(
         self, get_checks: Optional[Callable[[], list[AbstractSingleElementCheck]]] = None
@@ -1760,6 +1867,11 @@ def analyze_agreement_v9_enhanced(
 ) -> dict[str, Any]:
     """Analyze a single agreement and return results with enhanced metrics."""
     try:
+        # Step 12: Detect Workiva (Wdesk) profile
+        global _GLOBAL_IS_WDESK
+        _GLOBAL_IS_WDESK = "<!-- Document created using Wdesk -->" in html_content
+        parser.is_wdesk = _GLOBAL_IS_WDESK
+            
         elements = parser.parse(html_content)
 
         # Get v8/v9 statistics from processing steps
@@ -1830,7 +1942,8 @@ def analyze_agreement_v9_enhanced(
             else:
                 status = '⚠️ PARTIAL'
 
-        return {
+        # idiot-proof alarm  
+        result = {
             'num': agreement_num,
             'status': status,
             'title': has_title,
@@ -1853,9 +1966,18 @@ def analyze_agreement_v9_enhanced(
             'orphan_count': orphan_count,
             'root_count': root_count,
         }
+        
+        if len(hierarchical_elements) == 0:  
+            if "flags" not in result:
+                result["flags"] = []
+            flags_list = result["flags"]
+            if isinstance(flags_list, list):
+                flags_list.append("NO_STRUCTURE")  
+            
+        return result
 
     except Exception as e:
-        return {
+        result = {
             'num': agreement_num,
             'status': '💥 ERROR',
             'error': str(e),
@@ -1872,7 +1994,9 @@ def analyze_agreement_v9_enhanced(
             'has_toc': False,
             'total_elements': 0,
             'relevant_count': 0,
+            'flags': ["NO_STRUCTURE"],
         }
+        return result
 
 
 def comprehensive_test_v9_enhanced_with_regression_check(
@@ -2072,5 +2196,118 @@ def comprehensive_test_v9_enhanced_with_regression_check(
             print('\n📁 Trace reports saved to v9_enhanced_trace_report.txt and v9_enhanced_trace_metrics.csv')
 
 
+def dump_semantic_tree(elements: List[AbstractSemanticElement], filename: str) -> None:
+    """Dump semantic tree to HTML file for debugging."""
+    import html
+    
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write("""<!DOCTYPE html>
+<html>
+<head>
+    <title>Semantic Tree Dump</title>
+    <style>
+        body { font-family: monospace; }
+        .element { margin: 5px 0; padding: 5px; border-left: 3px solid #ccc; }
+        .hierarchical { border-left-color: #007acc; }
+        .section { border-left-color: #28a745; }
+        .clause { border-left-color: #dc3545; }
+        .content { border-left-color: #ffc107; }
+        .metadata { border-left-color: #6c757d; opacity: 0.7; }
+        .type { font-weight: bold; color: #007acc; }
+        .level { color: #28a745; }
+        .text { color: #333; margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Semantic Tree Dump</h1>
+""")
+        
+        for i, element in enumerate(elements):
+            css_class = "element"
+            if isinstance(element, HierarchicalElement):
+                css_class += " hierarchical"
+            if isinstance(element, SectionElement):
+                css_class += " section"
+            elif isinstance(element, ClauseElement):
+                css_class += " clause"
+            elif isinstance(element, ContentTextElement):
+                css_class += " content"
+            elif isinstance(element, MetadataElement):
+                css_class += " metadata"
+            
+            level = getattr(element, 'level', 0)
+            parent_id = getattr(element, 'parent_id', None)
+            element_id = getattr(element, 'id', f'elem_{i}')
+            
+            f.write(f'    <div class="{css_class}" style="margin-left: {level * 20}px;">\n')
+            f.write(f'        <span class="type">{type(element).__name__}</span>')
+            
+            if level > 0:
+                f.write(f' <span class="level">[L{level}]</span>')
+            if parent_id:
+                f.write(f' <span class="parent">(parent: {parent_id})</span>')
+            
+            f.write(f' <span class="id">#{element_id}</span>\n')
+            
+            # Add element-specific info
+            if isinstance(element, SectionElement):
+                f.write(f'        <br>Section: {element.section_number} - {element.section_title}\n')
+            elif isinstance(element, ClauseElement):
+                f.write(f'        <br>Clause: {element.clause_id} - {element.clause_text[:50]}...\n')
+            elif isinstance(element, ArticleElement):
+                f.write(f'        <br>Article: {element.article_number} - {element.article_title}\n')
+            
+            # Show text content
+            if hasattr(element, 'html_tag') and element.html_tag:
+                text = element.html_tag.text.strip()
+                if text:
+                    text_preview = text[:100] + '...' if len(text) > 100 else text
+                    f.write(f'        <div class="text">{html.escape(text_preview)}</div>\n')
+            
+            f.write('    </div>\n')
+        
+        f.write('</body>\n</html>')
+
+
 if __name__ == '__main__':
-    comprehensive_test_v9_enhanced_with_regression_check(enable_tracing=True, save_traces=True)
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Agreement Parser v9 Enhanced')
+    parser.add_argument('html_file', nargs='?', help='HTML file to parse')
+    parser.add_argument('--dump-tree', action='store_true', help='Dump intermediate trees to HTML files')
+    parser.add_argument('--test', action='store_true', help='Run comprehensive test suite')
+    
+    args = parser.parse_args()
+    
+    if args.test or not args.html_file:
+        comprehensive_test_v9_enhanced_with_regression_check(enable_tracing=True, save_traces=True)
+    else:
+        # Parse single file with optional tree dumping
+        from pathlib import Path
+        
+        html_file = Path(args.html_file)
+        if not html_file.exists():
+            print(f"Error: File {html_file} does not exist")
+            exit(1)
+        
+        html_content = html_file.read_text()
+        parser_inst = AgreementParserv9Enhanced()
+        
+        # Parse the document
+        print("🔄 Parsing document...")
+        elements = parser_inst.parse(html_content)
+        
+        # If dump-tree is enabled, create a simple dump of final result
+        if args.dump_tree:
+            print("📄 Dumping semantic tree...")
+            dump_semantic_tree(elements, "final_tree.html")
+            print("📄 Dumped final tree to final_tree.html")
+        
+        # Get analysis result
+        result = analyze_agreement_v9_enhanced(parser_inst, html_content, 1)
+        
+        print(f"✅ Parsing complete!")
+        print(f"Status: {result['status']}")
+        print(f"Elements: {result['total_elements']}")
+        print(f"Hierarchical: {len(result.get('hierarchical_elements', []))}")
+        print(f"Orphan rate: {result['orphan_rate']:.1f}%")

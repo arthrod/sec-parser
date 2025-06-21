@@ -1,0 +1,79 @@
+Heading (L1): PRIVATE WARRANT UNDERTAKING AGREEMENT
+|-- Party: Pegasus Digital Mobility
+Sponsor LLC (Cayman Islands limited liability company)
+|-- Recital: WHEREAS,
+Pegasus, the Company, TopCo, and Pegasus MergerSub Corp., a Cayman Islands exempted company...
+|-- Recital: WHEREAS,
+the Private Warrant Holders together currently hold 9,750,000 private warrants (the "Privat...
+|-- Recital: WHEREAS,
+the Sponsor has on the day of this Agreement entered into a Warrant Transfer Agreement with...
+|-- Recital: WHEREAS,
+the Parties have agreed that the Private Warrant Holders shall agree to certain undertaking...
+`-- Recital: NOW,
+THEREFORE, in consideration of the premises and the mutual promises contained herein and for ot...
+    |-- Content: 1.UnterTAKING TO ONLY CASHLESS EXERCISE PRIVATE WARRANTS
+    `-- Content: Each of the Sponsor and each of the
+Insider Parties, in its respective capacity as holders of Privat...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.UNTERTAKING TO CASHLESS EXERCISE PRIVATE WARRANTS AT $18.00
+|-- Content: Unless previously exercised or redeemed,
+each of the Sponsor and each of the Insider Parties in its ...
+|-- Heading (L2): 3.Termination
+|   |-- Content: This Agreement shall terminate and be
+void and of no further force and effect, and all rights and ob...
+|   |-- Content: Notwithstanding anything to the contrary
+contained herein or otherwise, but without limiting any pro...
+|   `-- Content: Notwithstanding anything in this Agreement
+to the contrary, (a) the Sponsor makes no agreement or un...
+|-- Heading (L2): 6.Representations and Warranties
+|   |-- Content: Each of the parties hereto represents
+and warrants that (a) it has the power and authority, or capac...
+|   |-- Content: This Agreement shall be for the sole
+benefit of the Parties and their respective successors and perm...
+|   `-- Content: Each of the Parties hereto is entitled
+to rely upon this Agreement and is irrevocably authorized to ...
+|-- Heading (L2): 9.Notices
+|   |-- Content: Any notice or communication required
+or permitted hereunder shall be in writing and either delivered...
+|   |-- Clause (a)
+|   |-- Clause (b)
+|   `-- Clause (c)
+|-- Heading (L2): If to Sponsor:
+|   |-- Content: Pegasus Digital Mobility Sponsor LLC Attention: Jim Condon
+|   |-- Content: with a required copy (which copy shall
+not constitute notice) to:
+|   `-- Content: Attn:Heath D. Linsky
+
+Email:heath.linsky@troutman.com
+|-- Heading (L2): If to Pegasus:
+|   |-- Content: Attn:Jeremey Mistry and Stefan
+Berger Email:jmistry@pegasusdm.com; sberger@pegasusdm.com
+|   |-- Content: with a required copy (which copy shall
+not constitute notice) to:
+|   |-- Content: 60311 Frankfurt am Main, Germany
+|   `-- Content: Attn:George Hacket and Axel Wittmann Email:george.hacket@cliffordchance.com;
+
+  axel.wittmann@cliffo...
+`-- Heading (L2): If to the Company:
+    |-- Content: Robert-Bosch-Str.
+32-36 72250 Freudenstadt
+    |-- Content: Attn:Christian Schmid, Anette
+Schmid and Julia Natterer Email:natterer.ju@schmid-group.com;
+
+  Schmi...
+    |-- Content: with a required copy (which copy shall
+not constitute notice) to:
+    |-- Content: 60329 Frankfurt am Main, Germany
+    |-- Content: Attn:Stephan
+Aubel and Alexander Gebhardt Email:alexander.gebhardt@gleisslutz.com;
+    |-- Content: No failure or delay by a Party hereto
+in exercising any right, power or remedy under this Agreement,...
+    |-- Content: Sections
+1.2 (Construction); 12.3 (Assignment); 12.6 (Governing Law); 12.7 (Captions; Counterparts);...
+    `-- Content: IN
+WITNESS WHEREOF, each of the Parties has caused this Agreement to be duly executed on its behalf ...
+
+--- (Additional Root Structure) ---
+Heading (L1): INSIDERS:
+`-- Signature Block

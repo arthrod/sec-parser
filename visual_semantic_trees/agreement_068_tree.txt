@@ -1,0 +1,193 @@
+Heading (L2): Exhibit
+10.12
+
+--- (Additional Root Structure) ---
+Heading (L1): DATED
+THIS DAY OF 2022
+
+--- (Additional Root Structure) ---
+Heading (L1): MYISCO
+SDN BHD
+`-- Heading (L2): (Registration
+No: 201901046119)(1355449-A)
+
+--- (Additional Root Structure) ---
+Heading (L1): SUPER
+APPS HOLDINGS SDN BHD
+`-- Heading (L2): (Registration
+No: 202201014353)(1460050-W)
+
+--- (Additional Root Structure) ---
+Heading (L1): COLLABORATION
+AGREEMENT
+`-- Content: This
+Collaboration Agreement (the “Agreement”) is made and entered into on 19th day of October 2022 ...
+
+--- (Additional Root Structure) ---
+Heading (L1): BETWEEN
+`-- Party: SDN BHD (Registration No: 201901046119 (1355449-A)) (company incorporated in Malaysia and hav)
+
+--- (Additional Root Structure) ---
+Heading (L1): AND
+`-- Party: SDN BHD (Registration No: 202201014353 (1460050-W)) (company incorporated in Malaysia and hav)
+    `-- Content: MYISCO
+and the Financing Partner may be referred to in this Agreement individually as a “Party” and ...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+|-- Heading (L2): NOW
+IT IS HEREBY AGREED as follows:
+|-- Section 1: DEFINITION AND INTERPRETATION
+|   |-- Content: “Agreement”
+means
+    this collaboration agreement, including all of its schedules;
+
+ 
+ 
+ 
+
+ 
+“Appli...
+|   `-- Content: “Financing
+Partner
+                                            Content”
+means
+    the content as ref...
+`-- Section 2: PERSONAL FINANCING PROGRAMME
+    `-- Content: 2.8
+Upon
+    written confirmation of the Returns Statement by the Financing Partner, MYISCO shall ma...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.
+FINANCING PARTNER’S
+  OBLIGATIONS
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.
+OBLIGATIONS OF MYISCO
+
+--- (Additional Root Structure) ---
+Heading (L1): 5.
+MUTUAL OBLIGATIONS
+`-- Heading (L2): 5.1
+Both Parties shall:
+    `-- Content: (a)
+    
+provide
+    the other with reasonable information and other support, advise, consultation, ...
+
+--- (Additional Root Structure) ---
+Heading (L1): 6.
+CONFIDENTIALITY
+`-- Definition: Confidential Information is defined as: all information
+
+--- (Additional Root Structure) ---
+Heading (L1): 7.
+DATA PROTECTION
+
+--- (Additional Root Structure) ---
+Heading (L1): 8.
+INTELLECTUAL PROPERTY RIGHTS
+
+--- (Additional Root Structure) ---
+Heading (L1): 9.
+EXCLUSIVITY
+`-- Content: This
+Agreement is non-exclusive in nature and this agreement will not prohibit either parties from e...
+
+--- (Additional Root Structure) ---
+Heading (L1): 10.
+TERMINATION
+
+--- (Additional Root Structure) ---
+Heading (L1): 11.
+INDEMNITIES AND LIABILITIES
+
+--- (Additional Root Structure) ---
+Heading (L1): 12.
+NOTICES
+|-- Content: 12.1
+    
+Service
+    of notice
+
+ 
+ 
+
+ 
+A
+    notice or other communication required or permitted un...
+|-- Content: 12.2
+    
+Particulars
+    for Service
+
+ 
+ 
+
+ 
+12.2.1
+The
+    particulars for service of MYISCO are:
+...
+|-- Content: 12.2.2
+The
+    particulars for service of the Financing Partner are:
+
+ 
+ 
+ 
+
+ 
+ 
+Address
+:
+L5-07,
+  ...
+|-- Content: 12.3
+Either
+    Party may change its particulars for service by way of written notice to the other P...
+|-- Section 13: FORCE
+    MAJEURE
+|-- Section 14: DURATION
+    OF AGREEMENT
+`-- Section 15: MISCELLANEOUS
+    |-- Content: [The
+remainder of this page is intentionally left blank]
+    `-- Content: IN
+WITNESS WHEREOF the Parties have hereunto set their respective hands and seal on the day and year...
+
+--- (Additional Root Structure) ---
+Heading (L1): THE
+FINANCING PARTNER
+|-- Heading (L2): Schedule
+1
+|   `-- Content: Trust
+Deed Between MYISCO and MyAngkasa Amanah Berhad
+`-- Heading (L2): Schedule
+2
+    |-- Content: MYISCO
+shall provide the Customers with personal financings as per the following details:
+    `-- Content: 1.
+    
+Name
+    of Financing Product
+
+ 
+ 
+ 
+
+ 
+ 
+Revolving
+    Credit Line
+
+ 
+ 
+ 
+
+ 
+2.
+    
+Annual...
