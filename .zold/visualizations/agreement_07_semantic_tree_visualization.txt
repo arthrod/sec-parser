@@ -1,0 +1,129 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_07.html
+====================================================================================================
+📊 Quality Score: 0.90
+📄 Format: html
+🔢 Total Elements: 152
+🔗 Cross-References: 117
+📋 Title: Guaranty
+Agreement
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 1
+  paragraph           : 23
+  section             : 39
+  signature           : 14
+  subsection          : 28
+  table               : 44
+  title               : 3
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 23
+  Document Self Ref   : 28
+  Exhibit Ref         : 4
+  Legal Ref           : 5
+  Positional Ref      : 5
+  Section Ref         : 52
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.5
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] E xecution Version
+   ⚠️  Confidence: 0.80
+
+[TITLE] Guaranty Agreement
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Nxt-ID, Inc.,
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Fit Pay, Inc., and
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] 3D-ID, LLC
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] as Guarantors
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] and
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Sagard Holdings Manager LP , as Administrative Agent
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Dated as of May 24, 2018
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Table of Contents
+   ⚠️  Confidence: 0.80
+
+[TABLE] Section
+   ⚠️  Confidence: 0.80
+
+[TABLE] Page
+   ⚠️  Confidence: 0.80
+
+[SECTION] Section 1.
+   ⚠️  Confidence: 0.80
+├─ [TABLE] Guaranty;     Limitation of Liability
+│     ⚠️  Confidence: 0.80
+
+[SECTION] Section 2.
+   ⚠️  Confidence: 0.80
+├─ [TABLE] Guaranty     Absolute
+│     ⚠️  Confidence: 0.80
+
+... and 39 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (23 references):
+   • "hereof" → hereof (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereunder" → hereunder (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   ... and 18 more document ref references
+
+📌 Document Self Ref (28 references):
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   ... and 23 more document self ref references
+
+📌 Exhibit Ref (4 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "Exhibit A" → A (confidence: 0.80)
+   • "Exhibit A" → A (confidence: 0.80)
+   • "Schedule 10" → 10 (confidence: 0.80)
+
+📌 Legal Ref (5 references):
+   • "pursuant to Section 8" → 8 (confidence: 0.80)
+   • "pursuant to Section 3.01" → 3.01 (confidence: 0.80)
+   • "in accordance with Section 10.01" → 10.01 (confidence: 0.80)
+   • "under Section 10.02" → 10.02 (confidence: 0.80)
+   • "in accordance with Section 10.02" → 10.02 (confidence: 0.80)
+
+📌 Positional Ref (5 references):
+   • "below" → below (confidence: 0.80)
+   • "preceding" → preceding (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+
+📌 Section Ref (52 references):
+   • "Section 1" → 1 (confidence: 0.80)
+   • "Section 2" → 2 (confidence: 0.80)
+   • "Section 3" → 3 (confidence: 0.80)
+   • "Section 4" → 4 (confidence: 0.80)
+   • "Section 5" → 5 (confidence: 0.80)
+   ... and 47 more section ref references
+
+====================================================================================================

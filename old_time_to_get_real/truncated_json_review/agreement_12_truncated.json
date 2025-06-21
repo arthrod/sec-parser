@@ -1,0 +1,777 @@
+{
+  "agreement_summary": {
+    "number": 12,
+    "filename": "agreement_12.html",
+    "title": "ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES",
+    "total_elements": 75,
+    "hierarchical_elements": 56,
+    "total_text_chars": 18791,
+    "element_type_counts": {
+      "TextElement": 6,
+      "TableElement": 13,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 11,
+      "ContentTextElement": 31,
+      "HeadingElement": 9,
+      "PartyElement": 2,
+      "SectionElement": 2
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "Freddie Mac Loan Number: 503996270 Property Name: Oak Crossing Apartments",
+      "text_length": 73
+    },
+    {
+      "class_name": "TextElement",
+      "text": "(Revised 7-12-2016)",
+      "text_length": 19
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees",
+      "text_length": 72
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 2",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 3",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "If to Lender:PNC Bank, National Association 26901 Agoura Road, Suite 200 Cala...",
+      "text_length": 492
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 4",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 5",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "X Exhibit AModifications to Assignment    X Exhibit BCopy of Management Agree...",
+      "text_length": 81
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 6",
+      "text_length": 79
+    },
+    {
+      "class_name": "TextElement",
+      "text": "SIR OAK CROSSING, LLC, a Delaware limitedliability companyBy:Steadfast Income...",
+      "text_length": 222
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 7",
+      "text_length": 79
+    },
+    {
+      "class_name": "TextElement",
+      "text": "PNC BANK, NATIONAL ASSOCIATION, a national banking association By: _/s/ Kelli...",
+      "text_length": 128
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 8",
+      "text_length": 79
+    },
+    {
+      "class_name": "TextElement",
+      "text": "By: _/s/ Ana Marie del Rio______________Name: Ana Marie del Rio Title: Secretary",
+      "text_length": 80
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 9",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page...",
+      "text_length": 81
+    },
+    {
+      "class_name": "TextElement",
+      "text": "See Attached",
+      "text_length": 12
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page...",
+      "text_length": 81
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES",
+      "text_length": 71,
+      "id": "AgreementTitleElement_874",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 8,
+      "normalized_id": "title"
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "Freddie Mac Loan Number: 503996270 Property Name: Oak Crossing Apartments",
+      "text_length": 73
+    },
+    {
+      "class_name": "TextElement",
+      "text": "(Revised 7-12-2016)",
+      "text_length": 19
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees",
+      "text_length": 72
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 2",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 3",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "If to Lender:PNC Bank, National Association 26901 Agoura Road, Suite 200 Cala...",
+      "text_length": 492
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 4",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 5",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "X Exhibit AModifications to Assignment    X Exhibit BCopy of Management Agree...",
+      "text_length": 81
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 6",
+      "text_length": 79
+    },
+    {
+      "class_name": "TextElement",
+      "text": "SIR OAK CROSSING, LLC, a Delaware limitedliability companyBy:Steadfast Income...",
+      "text_length": 222
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 7",
+      "text_length": 79
+    },
+    {
+      "class_name": "TextElement",
+      "text": "PNC BANK, NATIONAL ASSOCIATION, a national banking association By: _/s/ Kelli...",
+      "text_length": 128
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 8",
+      "text_length": 79
+    },
+    {
+      "class_name": "TextElement",
+      "text": "By: _/s/ Ana Marie del Rio______________Name: Ana Marie del Rio Title: Secretary",
+      "text_length": 80
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 9",
+      "text_length": 79
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page...",
+      "text_length": 81
+    },
+    {
+      "class_name": "TextElement",
+      "text": "See Attached",
+      "text_length": 12
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Assignment of Management Agreement and  Subordination of Management Fees Page...",
+      "text_length": 81
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES",
+      "text_length": 71,
+      "id": "AgreementTitleElement_874",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 8,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "B.Pursuant to a Management Agreement between Borrower and Property Manager (“...",
+      "text_length": 378,
+      "id": "ClauseElement_877",
+      "parent_id": "HeadingElement_890",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(B)",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "C.Lender requires as a condition to the making of the Loan that Borrower assi...",
+      "text_length": 230,
+      "id": "ClauseElement_878",
+      "parent_id": "HeadingElement_890",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(C)",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a)The Management Agreement is in full force and effect and has not been modi...",
+      "text_length": 142,
+      "id": "ClauseElement_879",
+      "parent_id": "HeadingElement_891",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b)Neither Property Manager nor Borrower is in default under any of the terms...",
+      "text_length": 306,
+      "id": "ClauseElement_880",
+      "parent_id": "HeadingElement_891",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c)Neither Property Manager nor Borrower has commenced any action or given or...",
+      "text_length": 154,
+      "id": "ClauseElement_881",
+      "parent_id": "HeadingElement_891",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(c)",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(d) The Management Fees and all other sums due and payable to the Property Ma...",
+      "text_length": 137,
+      "id": "ClauseElement_882",
+      "parent_id": "HeadingElement_891",
+      "level": 3,
+      "children_count": 4,
+      "clause_id": "(d)",
+      "clause_text": "The Management Fees and all other sums due and payable to the Property Manage...",
+      "normalized_id": "d"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) It will not contest or impede the exercise by Lender of any right Lender ...",
+      "text_length": 125,
+      "id": "ClauseElement_883",
+      "parent_id": "HeadingElement_891",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "It will not contest or impede the exercise by Lender of any right Lender has ...",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) It will give at least 30 days prior written notice to Lender of its inten...",
+      "text_length": 233,
+      "id": "ClauseElement_884",
+      "parent_id": "HeadingElement_891",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "It will give at least 30 days prior written notice to Lender of its intention...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c) It will not amend any of the provisions or terms of the Management Agreem...",
+      "text_length": 117,
+      "id": "ClauseElement_885",
+      "parent_id": "HeadingElement_891",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(c)",
+      "clause_text": "It will not amend any of the provisions or terms of the Management Agreement ...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a)This Assignment will be construed in accordance with and governed by the l...",
+      "text_length": 110,
+      "id": "ClauseElement_886",
+      "parent_id": "HeadingElement_892",
+      "level": 3,
+      "children_count": 17,
+      "clause_id": "(a)",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a)The Management Agreement is in full force and effect and has not been modi...",
+      "text_length": 260,
+      "id": "ClauseElement_887",
+      "parent_id": "SectionElement_875",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "A.Borrower has requested that Lender make a loan to Borrower (“Loan”). The Lo...",
+      "text_length": 846,
+      "id": "ContentTextElement_899",
+      "parent_id": "HeadingElement_890",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "1.Assignment of Management Agreement. As additional collateral security for t...",
+      "text_length": 624,
+      "id": "ContentTextElement_900",
+      "parent_id": "HeadingElement_891",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.Subordination of Management Fees. The Management Fees and all rights and pr...",
+      "text_length": 618,
+      "id": "ContentTextElement_901",
+      "parent_id": "HeadingElement_891",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "3.Estoppel. Property Manager and Borrower represent and warrant that all of t...",
+      "text_length": 133,
+      "id": "ContentTextElement_902",
+      "parent_id": "HeadingElement_891",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.Agreement by Borrower and Property Manager. Borrower and Property Manager a...",
+      "text_length": 1029,
+      "id": "ContentTextElement_903",
+      "parent_id": "ClauseElement_882",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.Lender’s Right to Replace Property Manager. If Lender, in Lender’s reasonab...",
+      "text_length": 1174,
+      "id": "ContentTextElement_904",
+      "parent_id": "ClauseElement_882",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "6.Receipt of Management Fees. Property Manager will not be obligated to retur...",
+      "text_length": 580,
+      "id": "ContentTextElement_905",
+      "parent_id": "ClauseElement_882",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "7.Consent and Agreement by Property Manager. Property Manager acknowledges an...",
+      "text_length": 705,
+      "id": "ContentTextElement_906",
+      "parent_id": "ClauseElement_882",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "8.Termination. When the Loan is paid in full and the Security Instrument is r...",
+      "text_length": 236,
+      "id": "ContentTextElement_907",
+      "parent_id": "ClauseElement_885",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a)All notices under or concerning this Assignment (“Notice”) will be in writ...",
+      "text_length": 571,
+      "id": "ContentTextElement_908",
+      "parent_id": "HeadingElement_892",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b)Any party to this Assignment may change the address to which Notices inten...",
+      "text_length": 666,
+      "id": "ContentTextElement_909",
+      "parent_id": "HeadingElement_892",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "10.Governing Law; Consent to Jurisdiction and Venue.",
+      "text_length": 52,
+      "id": "ContentTextElement_910",
+      "parent_id": "HeadingElement_892",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b)Borrower and Property Manager agree that any controversy arising under or ...",
+      "text_length": 778,
+      "id": "ContentTextElement_911",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "11.Captions, Cross References and Exhibits. The captions assigned to provisio...",
+      "text_length": 516,
+      "id": "ContentTextElement_912",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "12.Number and Gender. Use of the singular in this Assignment includes the plu...",
+      "text_length": 200,
+      "id": "ContentTextElement_913",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "13.No Partnership. This Assignment is not intended to, and will not, create a...",
+      "text_length": 264,
+      "id": "ContentTextElement_914",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "14.Severability. The invalidity or unenforceability of any provision of this ...",
+      "text_length": 203,
+      "id": "ContentTextElement_915",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "15.Entire Assignment. This Assignment contains the entire agreement among the...",
+      "text_length": 158,
+      "id": "ContentTextElement_916",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "16.No Waiver; No Remedy Exclusive. Any forbearance by a party to this Assignm...",
+      "text_length": 536,
+      "id": "ContentTextElement_917",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "17.Third Party Beneficiaries. Neither any creditor of any party to this Assig...",
+      "text_length": 169,
+      "id": "ContentTextElement_918",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "18.Further Assurances and Corrective Instruments. To the extent permitted by ...",
+      "text_length": 386,
+      "id": "ContentTextElement_919",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "19.Counterparts. This Assignment may be executed in multiple counterparts, ea...",
+      "text_length": 182,
+      "id": "ContentTextElement_920",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "20.Indemnity. By executing this Assignment Borrower agrees to indemnify and h...",
+      "text_length": 312,
+      "id": "ContentTextElement_921",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "21.Costs and Expenses. Wherever pursuant to this Assignment it is provided th...",
+      "text_length": 194,
+      "id": "ContentTextElement_922",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "22.Determinations by Lender. In any instance where the consent or approval of...",
+      "text_length": 600,
+      "id": "ContentTextElement_923",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "23.Successors and Assigns. This Assignment will be binding upon and inure to ...",
+      "text_length": 182,
+      "id": "ContentTextElement_924",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "24.Secondary Market.  Lender may sell, transfer and deliver the Note and assi...",
+      "text_length": 722,
+      "id": "ContentTextElement_925",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "25.Attached Exhibits.  The following Exhibits, if marked with an “X” in the s...",
+      "text_length": 124,
+      "id": "ContentTextElement_926",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF the undersigned have executed this Assignment as of the da...",
+      "text_length": 109,
+      "id": "ContentTextElement_927",
+      "parent_id": "ClauseElement_886",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The following modifications are made to the text of the Assignment that prece...",
+      "text_length": 94,
+      "id": "ContentTextElement_928",
+      "parent_id": "HeadingElement_897",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "6.Receipt of Management Fees.  Property Manager will not be obligated to retu...",
+      "text_length": 785,
+      "id": "ContentTextElement_929",
+      "parent_id": "SectionElement_876",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "RECITALS:",
+      "text_length": 9,
+      "id": "HeadingElement_890",
+      "parent_id": "AgreementTitleElement_874",
+      "level": 1,
+      "children_count": 5,
+      "heading_text": "RECITALS:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "For good and valuable consideration the parties agree as follows:",
+      "text_length": 65,
+      "id": "HeadingElement_891",
+      "parent_id": "HeadingElement_890",
+      "level": 2,
+      "children_count": 10,
+      "heading_text": "For good and valuable consideration the parties agree as ..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "9.Notices.",
+      "text_length": 10,
+      "id": "HeadingElement_892",
+      "parent_id": "HeadingElement_890",
+      "level": 2,
+      "children_count": 4,
+      "heading_text": "9.Notices."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "[END OF PAGE – SIGNATURES TO FOLLOW]",
+      "text_length": 36,
+      "id": "HeadingElement_893",
+      "parent_id": "AgreementTitleElement_874",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "[END OF PAGE – SIGNATURES TO FOLLOW]"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "BORROWER:",
+      "text_length": 9,
+      "id": "HeadingElement_894",
+      "parent_id": "AgreementTitleElement_874",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "BORROWER:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "LENDER:",
+      "text_length": 7,
+      "id": "HeadingElement_895",
+      "parent_id": "AgreementTitleElement_874",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "LENDER:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "PROPERTY MANAGER:",
+      "text_length": 17,
+      "id": "HeadingElement_896",
+      "parent_id": "AgreementTitleElement_874",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "PROPERTY MANAGER:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "MODIFICATIONS TO ASSIGNMENT",
+      "text_length": 27,
+      "id": "HeadingElement_897",
+      "parent_id": "AgreementTitleElement_874",
+      "level": 1,
+      "children_count": 3,
+      "heading_text": "MODIFICATIONS TO ASSIGNMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "[INTENTIONALLY OMITTED]",
+      "text_length": 23,
+      "id": "HeadingElement_898",
+      "parent_id": "AgreementTitleElement_874",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "[INTENTIONALLY OMITTED]"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "THIS ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES ...",
+      "text_length": 391,
+      "id": "PartyElement_888",
+      "parent_id": "AgreementTitleElement_874",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "LLC",
+      "party_type": "Delaware limited liability company (“...",
+      "normalized_id": "party_llc"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "STEADFAST MANAGEMENT COMPANY, INC., a California corporation",
+      "text_length": 60,
+      "id": "PartyElement_889",
+      "parent_id": "HeadingElement_896",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "INC.",
+      "party_type": "California corporation",
+      "normalized_id": "party_inc_"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.    Section 3(a) is deleted in its entirety and replaced with the following:",
+      "text_length": 78,
+      "id": "SectionElement_875",
+      "parent_id": "HeadingElement_897",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "1",
+      "section_title": "Section 3(a) is deleted in its entirety and replaced with...",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.    Section 6 is deleted in its entirety and replaced with the following:",
+      "text_length": 75,
+      "id": "SectionElement_876",
+      "parent_id": "HeadingElement_897",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "2",
+      "section_title": "Section 6 is deleted in its entirety and replaced with th...",
+      "normalized_id": "2"
+    }
+  ]
+}

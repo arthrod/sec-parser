@@ -1,0 +1,226 @@
+AGREEMENT 15 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_15.html
+Total Elements: 153
+Hierarchical Elements: 147
+Status: ✅ EXCELLENT
+
+Title: MASTER SERVICE AGREEMENT AND
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ClauseElement: 59
+  ContentTextElement: 46
+  DefinitionElement: 2
+  ExhibitElement: 1
+  HeadingElement: 7
+  PartyElement: 1
+  RecitalElement: 8
+  SectionElement: 22
+  TextElement: 6
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: MASTER SERVICE AGREEMENT AND
+  ├─ Heading: LICENSE AGREEMENT
+    ├─ Party: Inc.
+    ├─ Recital: WHEREAS, beginning on or about January 16, 2016 LVRE intends
+    ├─ Recital: WHEREAS, LVRE has established various services and has engag
+    ├─ Recital: WHEREAS, LVRE has negotiated or entered into certain conting
+    ├─ Recital: WHEREAS , LVRE has entered into discussions and/or agreement
+    ├─ Recital: WHEREAS, LVRE represents that it has obtained all necessary 
+    ├─ Recital: WHEREAS, LVRE requests certain services to be provided by XR
+    ├─ Recital: WHEREAS, XREE shall be the operating railroad for the Servic
+      ├─ ContentText: WHEREAS. it is the objective of both Parties to ensure the p
+    ├─ Recital: NOW THEREFORE, in consideration of the mutual promises and u
+    ├─ Section: 1: Definitions
+      ├─ Clause: (a) ·'Lessee and Lessor" shall have the meaning set forth...
+      ├─ Clause: (b) "Mobilization Services" shall mean those services des...
+      ├─ Clause: (c) "Host Railroad" National Railroad Passenger Corporati...
+      ├─ Clause: (d) "LVRE" shall have the meaning set forth in the first ...
+      ├─ Clause: (e) "LVRE Equipment" shall mean the rolling stock used in...
+      ├─ Clause: (f) "FELA" shall mean the Federal Employers Liability Act...
+      ├─ Clause: (g) "FRA" shall mean the Federal Railroad Administration.
+      ├─ Clause: (h) "Mobilization Schedule" shall mean that schedule set ...
+      ├─ Definition: "Party"
+      ├─ Definition: "Parties"
+      ├─ Clause: (k) "Qualified" shall mean that a person has satisfied al...
+        ├─ Clause: (I) "T&E Crew" shall mean one (1) locomotive engineer and...
+    ├─ Section: 2: Grant of License
+    ├─ Heading: 2.1
+
+
+The Intellectual Property Rights under the Agreement.
+      ├─ ContentText: Under the terms and conditions hereinafter set forth, the LV
+    ├─ Heading: 2.2
+
+
+Scope
+      ├─ Section: 2.2
+        ├─ ContentText: 2.2.2
+
+
+The License in this Agreement is effective in the Un
+    ├─ Heading: 2.3
+
+
+XREE's confirmation
+      ├─ ContentText: XREE confirms that it does not have any rights, titles or in
+    ├─ Heading: 2.4
+
+
+Prohibitions
+      ├─ Section: 2.4
+        ├─ ContentText: 2.4.2
+
+
+apply for the registration of any of the Intellectua
+      ├─ ContentText: XREE undertakes that, at any time either during or after the
+    ├─ Section: 3: XREE Services to be provided and responsibilities unde...
+      ├─ Clause: (a) Coordinate Train and Engine Crews.
+        ├─ ContentText: XREE shall coordinate with Amtrak a T&E Crew for each schedu
+      ├─ Clause: (b) Mobilization Services.
+      ├─ ContentText: XREE shall provide the following Services in support of LVRE
+  ├─ Exhibit: XREE shall provide the following mobilization services in ac
+    ├─ Section: 4: Obligations of LVRE
+      ├─ Clause: (a) Equipment for Operation of Service
+      ├─ Clause: (i) LVRE shall be solely responsible for the provision of...
+        ├─ Clause: (ii) Throughout the term of this Agreement, LVRE shall be...
+      ├─ Clause: (a) Complying with FRA and Amtrak Standard Maintenance Pr...
+      ├─ Clause: (b) Obtaining any required FRA approvals of the LVRE Equi...
+      ├─ Clause: (c) Inspecting and maintaining the LVRE Equipment incompl...
+      ├─ Clause: (d) LVRE Equipment familiarity, inspection and maintenanc...
+        ├─ Clause: (iii) In the event an applicable federal, state or local ...
+        ├─ Clause: (iv) XREE and LVRE shall each have the unilateral right t...
+      ├─ Clause: (b) Train Personnel Other than T&E Crews
+      ├─ Clause: (i) XREE shall be solely responsible for providing qualif...
+        ├─ Clause: (ii) XREE shall be solely responsible for baggage handlin...
+      ├─ Clause: (c) Train Movements Other Than Scheduled Movements
+        ├─ ContentText: XREE shall be solely responsible for all train movements (e.
+      ├─ Clause: (d) Maintenance of Equipment
+        ├─ ContentText: XREE shall be solely responsible for all maintenance service
+      ├─ Clause: (i) XREE shall retain all records and reports concerning ...
+        ├─ Clause: (ii) XREE shall ensure that all personnel assigned to the...
+        ├─ Clause: (iii) XREE shall assure that all LVRE Equipment operated ...
+      ├─ Clause: (e) Storage of Equipment
+      ├─ Clause: (i) XREE shall be solely responsible for providing safe s...
+        ├─ Clause: (ii) LVRE shall be solely responsible for securing the LV...
+      ├─ Clause: (f) Coordination with Host Railroad
+        ├─ ContentText: XREE shall be responsible for obtaining access arrangements 
+      ├─ Clause: (g) Provision of Food and Beverage Service
+        ├─ ContentText: XREE shall be solely responsible for the provision of food a
+      ├─ Clause: (h) Substitute Service
+        ├─ ContentText: XREE shall be solely responsible for providing and operating
+      ├─ Clause: (i) Stations and/or Infrastructure Improvements
+        ├─ ContentText: LVRE shall be solely responsible for access to and managemen
+    ├─ Section: 5: Schedule of Service Operations
+      ├─ Clause: (a) The initial schedules for the operation of the Servic...
+        ├─ Clause: (D) In the event of any change in the schedule of trains ...
+        ├─ Clause: (30) days prior to the schedule change in order to permit...
+    ├─ Section: 6: Risk of Liability
+      ├─ Clause: (e) The indemnity provisions set forth above shall surviv...
+      ├─ ContentText: (a)
+
+
+LVRE agrees to defend, indemnify and hold harmless XRE
+      ├─ ContentText: (b)
+
+
+Where claims are made against XREE and LVRE arising ou
+      ├─ ContentText: (c)
+
+
+LVRE agrees to defend, indemnify and hold harmless XRE
+      ├─ ContentText: (d)
+
+
+Neither Party shall be liable to the other Party, whet
+    ├─ Section: 7: Insurance and Payment
+      ├─ Clause: (a) Liability Insurance
+        ├─ ContentText: LVRE shall procure and maintain for the duration of this Agr
+      ├─ Clause: (b) Property Insurance
+        ├─ ContentText: Throughout the term of this Agreement, LVRE shall procure an
+        ├─ ContentText: (c)
+
+
+LVRE shall procure and maintain for the duration of th
+    ├─ Section: 8: Compensation
+      ├─ Clause: (a) Payment to LVRE. In consideration for the rights and ...
+      ├─ Clause: (b) Royalties to LVRE. XREE shall pay LVRE royalties base...
+    ├─ Section: 9: Disruption of Service
+      ├─ ContentText: In the event of disruption of the Service due to a Force Maj
+      ├─ ContentText: LVRE shall be obligated to pay any direct costs plus all app
+    ├─ Section: 10: Term and Termination
+      ├─ Clause: (a) The term of this Agreement shall be from January 15, ...
+        ├─ ContentText: (b)
+
+
+In case of a material breach by either Party of its ob
+      ├─ Clause: (c) Upon termination of this Agreement , all rights and o...
+    ├─ Section: 11: Dispute Resolution
+      ├─ Clause: (v) The arbitrators, or a majority of them, shall promptl...
+        ├─ ContentText: (vii)
+
+
+Each Party shall bear its own costs and expenses of 
+        ├─ ContentText: (viii)
+
+
+The Parties agree that every reasonable effort shal
+        ├─ Clause: (vi) Any arbitration award rendered hereunder shall be fi...
+      ├─ Clause: (b) In the event of a dispute arising under or related to...
+      ├─ Clause: (i) In the event of such a dispute only the disputed port...
+        ├─ ContentText: (ii)
+
+
+The Party disputing an amount set forth in an invoice
+      ├─ Clause: (c) Pending resolution of a dispute as set forth under th...
+      ├─ ContentText: (a)
+
+
+In the event of a dispute by the Parties over any issu
+      ├─ ContentText: (i)
+
+
+The Party wishing to initiate arbitration shall notify
+        ├─ Clause: (ii) Within fifteen (15) days of such notice, the other P...
+      ├─ ContentText: (iii)
+
+
+Within fifteen (15) days of designation of the secon
+        ├─ Clause: (iv) The arbitrators shall promptly hear and decide the i...
+    ├─ Section: 12: Force Majeure
+      ├─ ContentText: XREE will be excused from performance of any of its obligati
+    ├─ Section: 13: Compliance with Laws
+    ├─ Heading: LVRE represents and warrants that:
+      ├─ Clause: (a) It is qualified to do business in the States of Delaw...
+      ├─ Clause: (b) It shall comply with all federal, state and local law...
+      ├─ Clause: (c) It shall obtain, at its expense, all licenses, permit...
+    ├─ Section: 14: Notices
+      ├─ ContentText: Any request, demand, authorization, direction, notice, conse
+      ├─ ContentText: If to XREE:
+
+X Rail Enterprises, Inc. 3651 Lindell Road, 048
+      ├─ ContentText: If to LVRE:                          Las Vegas Railway Expre
+      ├─ ContentText: 9480 South Eastern Avenue Las Vegas, Nevada 89123 Attention:
+      ├─ ContentText: Either Party may change the address by notifying the other P
+    ├─ Section: 15: Confidential Information
+      ├─ ContentText: This Agreement, and the documents and information disclosed 
+    ├─ Section: 16: Assignment
+      ├─ ContentText: This Agreement may not be assigned by XREE or LVRE without t
+    ├─ Section: 17: Severability
+      ├─ ContentText: If any term, covenant, condition, or provision (or part ther
+    ├─ Section: 18: Governing Law
+      ├─ ContentText: This Agreement and the rights and obligations of the Parties
+    ├─ Section: 19: Amendments
+      ├─ ContentText: This Agreement may be amended only upon the mutual written a
+    ├─ Section: 20: Entire Agreement
+      ├─ ContentText: No oral statement or prior written matter will have any forc
+      ├─ ContentText: IN  WITNESS WHEREOF, the Parties have caused this Agreement 
+    ├─ Clause: (c) Managerial Control
+      ├─ ContentText: In the performance of its obligations under this Agreement, 
+    ├─ Clause: (d) Conduct of Employees
+      ├─ ContentText: All XREE employees who are engaged in the provision of the S
+    ├─ Clause: (e) Control of Alcohol and Drug Use
+      ├─ ContentText: XREE will be responsible for compliance with FRA regulations
+  ├─ Heading: LAS VEGAS RAILWAY EXPRESS, INC.

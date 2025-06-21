@@ -1,0 +1,1633 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "EXHIBIT 10.2\n \nINVESTOR RIGHTS AGREEMENT\n \nDated as of January 2, 2024",
+    "level": 0
+  },
+  {
+    "id": "element_0002",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0003",
+    "cls": "TitleElement",
+    "text": "TABLE OF CONTENTS",
+    "level": 1
+  },
+  {
+    "id": "element_0004",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0005",
+    "cls": "TableOfContentsElement",
+    "text": "Page\n\n\n \n \n\n\n\nARTICLE I GOVERNANCE MATTERS\n\n\n1\n\n\n\n \n \n\n\n\n1.1\n\n\nComposition of the Parent Board at the Closing\n\n \n\n\n\n1.2\n\n\nComposition of the Parent Board Following the Closing\n\n \n\n\n\n1.3\n\n\nEligibility Criteria\n\n \n\n\n\n1.4\n\n\nCommittee Representation\n\n \n\n\n\n1.5\n\n\nConfidentiality\n\n \n\n\n\n1.6\n\n\nVoting Agreements\n\n \n\n\n\n1.7\n\n\nParent Board Obligations\n\n \n\n\n\n1.8\n\n\nCorporate Opportunities\n\n \n\n\n\n1.9\n\n\nOrganizational Documents\n\n \n\n\n\n1.10\n\n\nInformation Rights\n\n \n\n\n \n \n \n\n\n\nARTICLE II TRANSFERS; STANDSTILL\n\n8\n\n\n \n \n\n\n\n2.1\n\n\nTransfer Restrictions\n\n \n\n\n\n2.2\n\n\nStandstill Provisions\n\n \n\n\n \n \n \n\n\n\nARTICLE III REPRESENTATIONS AND WARRANTIES\n\n12\n\n\n \n \n\n\n\n3.1\n\n\nRepresentations and Warranties of the Investor\n\n \n\n\n\n3.2\n\n\nRepresentations and Warranties of Parent\n\n \n\n\n \n \n \n\n\n\nARTICLE IV REGISTRATION\n\n13\n\n\n \n \n\n\n\n4.1\n\n\nDemand Registrations\n\n \n\n\n\n4.2\n\n\nPiggyback Registrations\n\n \n\n\n\n4.3\n\n\nShelf Registration Statement\n\n \n\n\n\n4.4\n\n\nHoldback Agreements\n\n \n\n\n\n4.5\n\n\nRegistration Procedures\n\n \n\n\n\n4.6\n\n\nRegistration Expenses\n\n \n\n\n\n4.7\n\n\nMiscellaneous\n\n \n\n\n\n4.8\n\n\nRegistration Indemnification\n\n \n\n\n \n \n \n\n\n\nARTICLE V DEFINITIONS\n\n\n27\n\n\n\n \n \n\n\n\n5.1\n\n\nDefined Terms\n\n \n\n\n\n5.2\n\n\nOther Defined Terms\n\n \n\n\n\n5.3\n\n\nInterpretation"
+  },
+  {
+    "id": "element_0006",
+    "cls": "TitleElement",
+    "text": "i",
+    "level": 0
+  },
+  {
+    "id": "element_0007",
+    "cls": "TableElement",
+    "text": "ARTICLE VI MISCELLANEOUS\n\n\n34\n\n\n\n \n \n\n\n\n6.1\n\n\nTerm\n\n \n\n\n\n6.2\n\n\nNotices\n\n \n\n\n\n6.3\n\n\nAmendments and Waivers\n\n \n\n\n\n6.4\n\n\nSuccessors and Assigns\n\n \n\n\n\n6.5\n\n\nSeverability\n\n \n\n\n\n6.6\n\n\nCounterparts\n\n \n\n\n\n6.7\n\n\nEntire Agreement\n\n \n\n\n\n6.8\n\n\nGoverning Law; Jurisdiction; WAIVER OF JURY TRIAL\n\n \n\n\n\n6.9\n\n\nSpecific Performance\n\n \n\n\n\n6.10\n\n\nNo Third-Party Beneficiaries"
+  },
+  {
+    "id": "element_0008",
+    "cls": "TitleElement",
+    "text": "ii",
+    "level": 0
+  },
+  {
+    "id": "element_0009",
+    "cls": "TextElement",
+    "text": "INVESTOR RIGHTS AGREEMENT,\n          dated as of January 2, 2024 (this “Agreement”), by and between Carrier Global Corporation, a corporation incorporated under the laws of Delaware (“Parent”) and Viessmann Group GmbH & Co. KG, a limited partnership organized under the laws of Germany, registered in the commercial register of the local court (Amtsgericht) of Marburg under register no. HRA 3389 (the “Investor”)."
+  },
+  {
+    "id": "element_0010",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0011",
+    "cls": "TitleElement",
+    "text": "W I T N E S S E T H:",
+    "level": 2
+  },
+  {
+    "id": "element_0012",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0013",
+    "cls": "TextElement",
+    "text": "WHEREAS, on 25 April 2023, Parent, Johann Purchaser GmbH, a limited liability company (Gesellschaft mit beschränkter Haftung) incorporated under the laws of Germany and wholly owned Subsidiary of Parent (the “Purchaser”) and Investor entered into a Share\n        Purchase Agreement (as it may be amended, supplemented or otherwise modified from time to time, the “Share Purchase Agreement”), pursuant to which, among other things, Investor agreed to\n        sell, and Purchaser agreed to purchase, all of the outstanding shares in Viessmann Climate Solutions SE, a European stock company (Societas Europaea) incorporated under the\n        laws of Germany and registered in the commercial register of the local court (Amtsgericht) of Marburg under registration no. HRB 7562 (the “Company”), on the terms and subject to the conditions set forth in the Share Purchase Agreement;WHEREAS, pursuant to and subject to the terms and conditions of the Share Purchase Agreement, in connection with the closing of the share purchase\n        transaction contemplated thereby (the “Closing”), the Investor has received cash and shares of common stock, par value $0.01 per share, of Parent (the “Parent Common Stock”); and WHEREAS, in connection with and pursuant to the Share Purchase Agreement, each of the parties hereto wishes to set forth in this Agreement certain\n        terms and conditions regarding certain governance matters and the Investor’s ownership of the Shares and to establish certain rights, restrictions and obligations of Parent and the Investor with respect to the Shares.NOW, THEREFORE, in consideration of the mutual covenants, representations, warranties and agreements contained in this Agreement, and other good and\n        valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound hereby, the parties agree as follows:"
+  },
+  {
+    "id": "element_0014",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0015",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0016",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0017",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0018",
+    "cls": "TitleElement",
+    "text": "ARTICLE I",
+    "level": 1
+  },
+  {
+    "id": "element_0019",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0020",
+    "cls": "TitleElement",
+    "text": "GOVERNANCE MATTERS",
+    "level": 1
+  },
+  {
+    "id": "element_0021",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0022",
+    "cls": "TextElement",
+    "text": "Section 1.1           Composition of the Parent Board at the Closing.  As of the Closing, Parent and the Board of Directors of Parent (the “Parent Board”) have taken\n        all action necessary to cause (i) the number of directors that comprise the Parent Board to be increased by one (1), and (ii) Maximilian Viessmann, as designated by the Investor, to be appointed to fill such newly created vacancy on the Parent\n        Board as the initial Investor Designee hereunder.Section 1.2           Composition of the Parent Board Following the Closing.  From the Closing and until the date that is ten (10) years after the Closing; and provided,\n        at all times, that the Investor Parties, collectively, continue to Beneficially Own, in the aggregate, at least 50% of the number of Shares Beneficially Owned by the Investor as of the Closing:PROfilePageNumberReset%Num%2%%%(a)          Parent and the Parent Board shall take\n            all necessary actions to ensure that, at all times when any Investor Director is eligible to be designated, nominated and/or elected pursuant hereto, there is a vacancy on the Parent Board to permit such designation, nomination and/or election.(b)          At each annual or special meeting of\n            the shareholders of Parent at which directors are to be elected to the Parent Board, Parent and the Parent Board shall nominate and use its reasonable best efforts to cause the election to the Parent Board (which reasonable best efforts shall,\n            for the avoidance of doubt, include Parent and the Parent Board (1) recommending that Parent’s shareholders vote in favor of the election of the applicable Investor Designee and (2) otherwise supporting such applicable Investor Designee in a\n            manner substantially the same in all material respects as the manner in which Parent and the Parent Board supports other Parent and Parent Board director nominees) of a slate of directors which includes the Investor Director.(c)          The Investor shall have the right to\n            cause any Investor Director to resign from his or her directorship on the Parent Board at any time.(d)          The Investor shall notify Parent of the\n            identity of each proposed Investor Designee, in writing, on or before the time such information is reasonably requested, in writing, by the Parent Board or the Governance Committee of the Parent Board for inclusion in a proxy statement for a\n            meeting of shareholders, together with all information about each proposed Investor Designee as shall be reasonably requested by the Parent Board or the Governance Committee of the Parent Board; provided,\n            that in the event the Investor fails to provide any such notice, the applicable individual then serving as the Investor Director shall be deemed to be the Investor Designee for such meeting.  For the avoidance of doubt, the Investor shall not\n            be required to comply with any other advance notice provisions generally applicable to the nomination of directors by Parent so long as the Investor complies with this Section 1.2(d).(e)          In the event of the death, disability,\n            resignation or removal of an Investor Director or if an Investor Director ceases to serve on the Parent Board for any other reason, Parent and the Parent Board shall take all action necessary to promptly appoint to the Parent Board, and to all\n            committees on which such Investor Director served, respectively, a replacement Investor Director designated by the Investor to fill the resulting vacancy, subject to and in accordance with the procedures set forth in Section 1.3; provided, that if an Investor Director is removed for cause, the replacement Investor Director shall not be the same individual who\n            was removed.(f)          In the event that an Investor Designee\n            fails to be elected to the Parent Board following any annual or special meeting of the shareholders at which the Investor Designee stood for election but was nevertheless not elected, Parent and the Parent Board will promptly appoint a\n            replacement Investor Director designated by the Investor to the Parent Board, and such individual shall then be deemed an Investor Director for all purposes hereunder.(g)          For the avoidance of doubt, each\n            Investor Director shall be entitled (i) to the same retainer, equity compensation and other fees or compensation, including travel and expense reimbursement, paid to the other non-employee directors of Parent for their service on the Parent\n            Board, including any service on any committee of the Parent Board, and (ii) to indemnification rights no less favorable than those generally provided to other non-employee directors of Parent (including entering into an indemnification\n            agreement that is no less favorable than that provided to any other non-employee director in the event that Parent enters into any such agreement with another non-employee director) and in any event no less favorable than as in effect as of the\n            Closing.  Parent shall maintain in full force and effect directors’ and officers’ liability insurance and each Investor Director shall be covered thereby in such a manner as to provide each Investor Director in his or her capacity as a director\n            of Parent with rights and benefits under all directors’ and officers’ insurance policies no less favorable than those generally provided to other non-employee directors of Parent.  Parent acknowledges and agrees that Parent is the indemnitor of\n            first resort with respect to any Investor Director (i.e., its obligations to such Investor Director pursuant to this Section\n\n\n\n\n\n\n\n\n                1.2(g) are primary and any obligation of any other Persons to which such Investor Director may have rights to advancement of expenses or to indemnification for the same expenses or liabilities incurred by such Investor Director\n            are secondary) with respect to the matters set forth in this Section 1.2(g).Section 1.3          Eligibility Criteria.(a)          Each Investor Director shall (i) not be\n            or have been the subject of a conviction or proceeding enumerated in Item 2(d) or (e) of Schedule 13D under the Exchange Act, (ii) not be or have been a party to a proceeding, or be subject to an order, judgment or decree, of the type\n            enumerated in Item 401(f) of Regulation S-K in the five (5) year period preceding the date of determination or be subject to any order, decree or judgment of any court or agency prohibiting service as a director of any United States public\n            company, (iii) satisfy all applicable requirements and standards imposed by Applicable Law, the New York Stock Exchange (“NYSE”) or any other national securities exchange on which\n            shares of Parent Common Stock are then listed, (iv) be reasonably acceptable to the Governance Committee of the Parent Board, taking into account, among other things, the terms of this Agreement and the other Transaction Documents and (v) be\n            “independent” pursuant to the listing standards of the NYSE or other national securities exchange on which shares of Parent Common Stock are then listed (provided that in no event shall any Investor Designee be deemed not to satisfy this clause\n            (v) by virtue of the relationship between the Investor and its Affiliates, on the one hand, and the Company and its Affiliates, on the other hand, including Investor’s ownership of Equity Interests of the Company prior to the Closing or the\n            fact that such Investor Designee is an employee, officer, director, agent or other representative of the Investor or any of its Affiliates) (collectively, the “Eligibility Criteria”);\n            it being understood and agreed by the parties that Maximilian Viessmann meets the foregoing Eligibility Criteria.  Notwithstanding anything to the contrary in this Article I, the\n            Investor will not be entitled to designate any individual to the Parent Board or any committee of the Parent Board pursuant to this Article I if such individual does not satisfy the\n            Eligibility Criteria, and the Investor agrees to cause any Investor Director then serving on the Parent Board to resign from such position promptly upon written notice, setting forth the relevant facts upon which such notice is based, from\n            Parent to the Investor (which notice and facts underlying such notice are not disputed by the Investor) of such Investor Designee’s failure to satisfy any of the eligibility criteria set forth in clause\n\n\n\n\n\n\n\n\n                (i), (ii), (iii), or (iv) of the first\n            sentence of this Section 1.3.(b)          In the event that the Investor\n            designates any Investor Designee other than Maximilian Viessmann and the Parent Board or the Governance Committee of the Parent Board determines in good faith that such Investor Designee fails to satisfy the Eligibility Criteria, (1) the Parent\n            Board or the Governance Committee of the Parent Board shall notify the Investor within ten (10) Business Days of such designation by written notice, setting forth the relevant facts upon which such notice is based, and (2) the Investor may\n            propose another individual as a replacement therefor, whose appointment shall be subject to satisfaction of the Eligibility Criteria described above.Section 1.4          Committee Representation.  Following the Closing and at any time at which an Investor Designee is serving as a member of the Parent Board, the Investor Designee shall be entitled to serve as a member of,\n        and Parent and the Parent Board shall take all action necessary to promptly appoint the Investor Director to, two (2) committees of the Parent Board; provided, that with respect to each\n        such committee the Investor Director shall, in addition to satisfying the Eligibility Criteria, satisfy and comply with all requirements regarding service as a member of such committee as provided under Applicable Law, the listing requirements and\n        corporate governance rules of NYSE or any national securities exchange on which shares of Parent Common Stock are then listed (including any heightened independence requirements for service on such committee) and the practices and policies of such\n        committee, in each case, applicable generally to its members (provided that the Parent Board shall not, and Parent shall cause the Parent Board not to, implement or maintain any practices,\n        policies or requirements that disproportionately and adversely impact the Investor’s rights hereunder or any Investor Director).  Without prejudice to the foregoing sentence, the parties agree that for so long as Maximilian Viessmann is and remains\n        the Investor Designee hereunder, he shall be entitled to serve as a member of the Technology & Innovation Committee of the Parent Board as one of the two (2) committee appointments to which he is entitled pursuant to the foregoing sentence (and\n        that he satisfies any and all requirements regarding service as a member of such committee as of the date hereof).  If and to the extent that any Investor Director is unable to serve as a voting member of one or both of the committees to which he\n        or she is entitled to be appointed under this Section 1.4 as a result of any requirement regarding service as a member of any such committee provided under Applicable Law or the listing\n        requirements and corporate governance rules of NYSE or any national securities exchange on which shares of Parent Common Stock are then listed (including any heightened independence requirements for service on any such committee), then to the\n        extent permitted by such Laws, requirements and rules, the Parent Board shall, and Parent shall cause the Parent Board to, take all action necessary to promptly appoint such Investor Director to serve as an observer on the relevant committee(s). \n        To the extent permitted by such Laws, requirements and rules, any Investor Director so designated to serve as an observer shall have the right to attend, contribute to and observe, but not vote at, meetings of the relevant committee(s) and Parent\n        shall provide, or cause to be provided, to such observer all notices and written materials provided to voting members of such committee(s), and the minutes of, and resolutions passed at, all meetings of such committee(s), in each case, at the same\n        time and in the same manner provided to voting members of such committee(s).Section 1.5          Confidentiality.(a)         The Investor hereby agrees that all\n            Confidential Information with respect to Parent, its Subsidiaries and its and their businesses, finances and operations shall be kept confidential by the Investor and each Investor Director and shall not be disclosed by the Investor or any\n            Investor Director in any manner whatsoever, except as expressly permitted by this Section 1.5(a).  Notwithstanding the preceding sentence or anything else to the contrary in this\n            Agreement, any Confidential Information may be disclosed:(i)          by an Investor Director to the\n            Investor or any of its Affiliates;(ii)         by the Investor to any of its\n            Affiliates or any Investor Director;(iii)        by (x) an Investor Director to any of\n            its authorized representatives (including attorneys, accountants, consultants, bankers and financial advisors) or (y) the Investor to its or any of its Affiliates’ respective directors, officers, employees and authorized representatives\n            (including attorneys, accountants, consultants, bankers and financial advisors thereof) (each of the Persons described in the foregoing clauses (x) and (y), a “Representative”), in\n            each case, solely if and to the extent any Representative needs to be provided such Confidential Information to enable or assist the Investor Director or the Investor (or any of its Affiliates) in evaluating or reviewing its investment in\n            Parent, including in connection with the disposition thereof, and such Confidential Information shall only be used by the Investor Director or the Investor (or any of its Affiliates) and their respective Representatives for that purpose.  Each\n            Representative shall be deemed to be bound by the provisions of this Section 1.5(a) and the Investor shall be responsible for any breach of this Section 1.5(a) by the Investor Director, any of the Investor’s Affiliates or any Representative to the same extent as if such breach had been committed by the Investor; provided,\n            that each of the Investor Director and the Investor shall (and Investor shall cause its Affiliates to) direct their respective Representatives to maintain adequate procedures to prevent any Confidential Information from being used in connection\n            with the purchase or sale of securities of Parent in violation of Applicable Law;(iv)        by the Investor Director, Investor or\n            any of the Investor’s Affiliates, or any of their respective Representatives to the extent Parent consents in writing to such disclosure; and(v)         by the Investor Director, Investor or\n            any of the Investor’s Affiliates, or any of their respective Representatives to the extent that any such Person has received advice from its counsel (which may be internal counsel) that it is legally compelled to do so or is required to do so\n            to comply with Applicable Law or legal process; provided, that prior to making such disclosure, the Person intending to make such disclosure uses its commercially reasonable efforts\n            to preserve the confidentiality of the Confidential Information to the extent permitted by Applicable Law, including, to the extent permitted by Applicable Law and reasonably practicable under the circumstances, by (A) consulting with Parent\n            regarding such disclosure and (B) if requested by Parent, reasonably cooperating with Parent (at Parent’s sole cost and expense) in seeking a protective order to limit the scope of the required disclosure; and provided, further, that the Person making such disclosure shall use its commercially reasonable efforts to disclose only that portion of the Confidential\n            Information as is, based on the advice of its counsel, legally required or compelled and to obtain assurances that confidential treatment will be afforded to any Confidential Information so disclosed.(b)          For the avoidance of doubt, in the\n            event of a breach or threatened breach of the obligations under this Section 1.5 by the Investor Director, Investor or any of their respective Representatives, Parent, in addition to\n            all other available remedies, shall be entitled to seek specific performance to enforce the provisions of this Section 1.5 in accordance with Section 6.9.Section 1.6           Voting Agreements.(a)          At all times during the Standstill\n            Period and all times in which the Investor is a 10.15% Shareholder, Investor shall, and shall cause each of its Affiliates to, cause all Voting Securities Beneficially Owned by it to be counted as present for purposes of establishing a quorum;(b)          Investor shall, and shall cause each of\n            its Affiliates to, cause to be voted by proxy (returned sufficiently in advance of the deadline for proxy voting for Parent to have the reasonable opportunity to verify receipt) on or in accordance with the proxy card mailed by Parent to the\n            shareholders of Parent in connection with the solicitation of any proxy (including, if applicable, through the execution of one or more written consents if shareholders of Parent are requested to vote through the execution of an action by\n            written consent in lieu of any such annual or special meeting of shareholders of Parent), in the following manner:(i)          At all times during the Standstill\n            Period and at all times in which the Investor is a 10.15% Shareholder, (w) in favor of all those persons nominated to serve as directors of Parent by the Parent Board or the Governance Committee of the Parent Board, (x) in favor of Parent’s\n            proposal for ratification of the appointment of Parent’s independent registered public accounting firm, (y) in favor of Parent’s “say-on-pay” proposal and any proposal by Parent relating to equity compensation that has been approved by the\n            Compensation Committee of the Parent Board and (z) in accordance with the recommendation of the Parent Board with respect to any proposal brought by any stockholder of Parent (including any proposal pursuant to Rule 14a-8 under the Exchange\n            Act), and(ii)        At all times in which the Investor is a\n            15% Shareholder, in accordance with the recommendation of the Parent Board with respect to (A) all matters referenced in clauses (w) through (z) of Section 1.6(b)(i) and (B) all matters relating to any merger, acquisition or business\n            combination transaction involving Parent or any of its Subsidiaries or equity issuance of Parent;in the case of each of clause (i) and (ii) above, to the extent such matters are to be voted upon by the shareholders of Parent (including through action by written\n        consent), in accordance with the recommendation of the Parent Board.  Except as set forth in this Section 1.6(b), none of the Investor, any of its Affiliates, the Investor Director or any\n        of their respective Representatives shall be under any obligation by virtue of this Agreement to vote in the same manner as recommended by the Parent Board or any other Person, or in any other manner, other than in its sole discretion.(c)          The obligations set forth in this Section 1.6 shall not apply during any Material Parent Breach Period; it being understood, for the avoidance of doubt, that the obligations set forth in this Section 1.6 shall apply from and after termination of any Material Parent Breach Period by reason of a cure of the material breach giving rise to such Material Parent Breach Period.Section 1.7          Parent Board Obligations.  Any breach by the Parent Board, or any committee of the Parent Board, of its obligations under this Article I shall\n        be deemed a breach by Parent of its obligations hereunder.Section 1.8          Corporate Opportunities.  Except as otherwise expressly set forth in the Share Purchase Agreement or any other Transaction Document, the Investor and its Affiliates may freely offer to any other Person\n        or effect on behalf of itself or any other Person any investment or business opportunity or prospective economic advantage (which may include investments or activities relating to competitors of, or businesses competitive with, Parent or its\n        Subsidiaries (including the Company and its Subsidiaries)), or other transactions in which Parent, its Subsidiaries (including the Company and its Subsidiaries), any member of the Parent Board or any holder of Parent’s securities may have an\n        interest or expectancy, including as a result of any fiduciary duties applicable to such Person, in each case without any prior Parent, Parent Board or stockholder notification or approval; provided,\n        that if Parent and the Investor (or any of the Investor’s Affiliates) are, to the Investor’s knowledge, considering the same transaction, the Investor will promptly notify Parent of its (or its relevant Affiliate’s) interest in such transaction\n        and, if requested by the Parent Board, cause the Investor Director to recuse himself or herself from all Parent Board discussions and activities relating to such transaction.Section 1.9          Organizational Documents.  Parent and the Parent Board shall take or cause to be taken all lawful action necessary to ensure at all times that Parent’s certificate of incorporation, bylaws, committee\n        charters, director qualification standards and all other rules, policies and guidelines applicable to members of the Parent Board are consistent in all but de minimis\n        respects with the provisions of this Agreement.Section 1.10        Information Rights.  Following the Closing and for so long as the Investor Parties, collectively, continue to Beneficially Own, in the aggregate, at least 25% of the number of Shares Beneficially Owned\n        by the Investor as of the Closing, Parent shall provide to the Investor:(a)         within 90 days after the end of each\n            fiscal year of Parent, (i) an audited, consolidated balance sheet of Parent and its Subsidiaries as of the end of such fiscal year and (ii) audited, consolidated statements of income, comprehensive income, cash flows and changes in\n            shareholders’ equity of Parent and its Subsidiaries for such fiscal year; provided that this requirement shall be deemed to have been satisfied if on or prior to such date Parent\n            files its annual report on Form 10-K for the applicable fiscal year with the SEC;(b)         within 45 days after the end of each of\n            the first three quarters of each fiscal year of Parent, (i) an unaudited, consolidated balance sheet of Parent and its Subsidiaries as of the end of such fiscal quarter and (ii) consolidated statements of income, comprehensive income and cash\n            flows of Parent and its Subsidiaries for such fiscal quarter; provided that this requirement shall be deemed to have been satisfied if on or prior to such date Parent files its\n            quarterly report on Form 10-Q for the applicable fiscal quarter with the SEC;(c)          any other financial, tax and other\n            information or documentation reasonably requested from time to time by the Investor to facilitate the preparation by the Investor or any of its Affiliates of its or their respective periodic financial statements or as may be reasonably required\n            by Investor or any of its Affiliates to facilitate compliance by the Investor or any such Affiliate with its of their financial, tax and reporting requirements under any Applicable Law including, for the avoidance of doubt, any filing,\n            election, return or any other requirements of any accounting, revenue or tax authority, provided that Parent shall not be required to provide the Investor with “material nonpublic technical information,” as such term is defined in section\n            800.232 of Title 31 of the U.S. Code of Federal Regulations."
+  },
+  {
+    "id": "element_0023",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0024",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0025",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0026",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0027",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0028",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0029",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0030",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0031",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0032",
+    "cls": "PageNumberElement",
+    "text": "2"
+  },
+  {
+    "id": "element_0033",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0034",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0035",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0036",
+    "cls": "PageNumberElement",
+    "text": "3"
+  },
+  {
+    "id": "element_0037",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0038",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0039",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0040",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0041",
+    "cls": "PageNumberElement",
+    "text": "4"
+  },
+  {
+    "id": "element_0042",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0043",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0044",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0045",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0046",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0047",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0048",
+    "cls": "PageNumberElement",
+    "text": "5"
+  },
+  {
+    "id": "element_0049",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0050",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0051",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0052",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0053",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0054",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0055",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0056",
+    "cls": "PageNumberElement",
+    "text": "6"
+  },
+  {
+    "id": "element_0057",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0058",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0059",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0060",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0061",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0062",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0063",
+    "cls": "PageNumberElement",
+    "text": "7"
+  },
+  {
+    "id": "element_0064",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0065",
+    "cls": "TitleElement",
+    "text": "ARTICLE II",
+    "level": 1
+  },
+  {
+    "id": "element_0066",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0067",
+    "cls": "TitleElement",
+    "text": "TRANSFERS; STANDSTILL",
+    "level": 1
+  },
+  {
+    "id": "element_0068",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0069",
+    "cls": "TextElement",
+    "text": "Section 2.1          Transfer Restrictions.(a)         Other than in the case of a Permitted\n            Transfer, from the Closing Date to the date that is two (2) years from the Closing Date (such period, the “Restricted Period”) no Investor Party shall Transfer or publicly announce any\n            intention to Transfer any Voting Securities; provided that on the twelve (12)-month anniversary of the Closing Date, a number of Voting Securities equal to 25% of the total number of\n            Voting Securities held by the Investor as of the Closing shall be released from, and shall be deemed not to be subject to, the prohibition on Transfer set out in this Section 2.1(a).(b)         “Permitted Transfer” means a Transfer of all or any portion of or any interest in any Voting Securities by any Investor Party to any Permitted Transferee, or between or amongst Permitted Transferees; provided, that any such Permitted Transferee shall agree in writing for the benefit of Parent (in such customary form and substance reasonably acceptable to Parent) to be bound by the\n            terms of this Agreement.(c)          Prior to any Transfer of Voting\n            Securities during the Restricted Period, the Investor Party intending to make such Transfer shall provide written notice to Parent at least three (3) Business Days in advance of such Transfer, which notice shall state (i) the expected date of\n            the Transfer, (ii) the total number of Voting Securities to be transferred and (iii) the identity of the Transferee.(d)          Notwithstanding anything to the\n            contrary contained herein, including Article IV hereof and the expiration or inapplicability of the Restricted Period, no Investor Party shall Transfer any Voting Securities:(i)          in any Transfer or series of related\n            Transfers in which any Person or Group purchases from the Investor Parties 2% or more of the outstanding Voting Securities; or(ii)         to any Person or Group if, after giving\n            effect to such Transfer, such Person or Group would, to such Investor Party’s knowledge, Beneficially Own 5% or more of the outstanding Voting Securities;(iii)        on any given day in an amount greater\n            than 20% of the average daily trading volume of Parent Common Stock for the 20-trading day period immediately preceding the date of such Transfer; or(iv)        to any Activist Stockholder or material\n            competitor of Parent or the Climate Solutions Business (as defined in the Share Purchase Agreement); except, in each case, in a Transfer effected solely through a bona fide Underwritten Offering pursuant to an exercise of the registration\n            rights provided in Article IV of this Agreement (including any “block trade” registered under the Securities Act) or one or more open market transactions pursuant to Rule 144 under\n            the Securities Act, as long as the Investor Party making such Transfer does not have knowledge that the Transfer would otherwise violate any of the foregoing clauses (i), (ii) (iii) or (iv).(e)          The restrictions set forth in Section 2.1(a) and 2.1(d) shall not apply to Transfers of Voting Securities (1) to Parent or its Subsidiaries, (2) in any\n            tender offer or exchange offer that has been at any time recommended by, or approved by, the Parent Board or (3) pursuant to any sale, merger, consolidation, acquisition (including by way of tender offer or exchange offer or share exchange),\n            recapitalization or other business combination in one or a series of related transactions (i) involving Parent or any of its Affiliates pursuant to which more than 50% of the Voting Securities or the consolidated total assets of Parent and its\n            Affiliates, taken as a whole, would be acquired or received by any Person (other than Parent or its Subsidiaries) or (ii) involving the Investor or any Affiliate of the Investor pursuant to which more than 50% of the consolidated total assets\n            of the Investor and its Affiliates, taken as a whole, would be acquired or received by any Person (other than the Investor or its Subsidiaries).(f)           The Investor agrees to use its\n            commercially reasonable efforts to provide written notification to Parent within five (5) Business Days after the end of each calendar quarter in which any Investor Party has transferred any Voting Securities the number of Voting Securities\n            transferred by the Investor Parties during such quarter and (other than in the case of a Transfer effected solely through a bona fide Underwritten Offering pursuant to an exercise of the registration rights provided in Article IV (including any “block trade” registered under the Securities Act) or one or more open market transactions pursuant to Rule 144 under the Securities Act in which the identity of\n            the Transferees is not reasonably ascertainable) the identity of any Transferee; provided, that any public disclosure (including pursuant to the Exchange Act or the Securities Act)\n            regarding a Transfer will be deemed to have satisfied such notification obligations pursuant to this sentence with respect to such Transfer.(g)          The right of any Investor Party to\n            Transfer Voting Securities Beneficially Owned by such Person is subject to the restrictions set forth in this Section 2.1, and no Transfer by any Person of Voting Securities\n            Beneficially Owned by such Person may be effected except in compliance with this Section 2.1.  Any Transfer or attempted Transfer of Voting Securities in violation of this Agreement\n            shall be of no effect and null and void ab initio, regardless of whether the purported Transferee has any actual or constructive knowledge of the Transfer restrictions\n            set forth in this Agreement, and Parent shall not, and shall instruct its transfer agent and other third parties not to, record or recognize any such purported transaction on the share register of Parent.Section 2.2          Standstill Provisions.(a)         From the Closing Date until the\n            termination of the Standstill Period, neither the Investor nor any of its Affiliates shall (or shall permit any of their respective Representatives, acting on the behalf of or at the direction of any of them), directly or indirectly:(i)          acquire, agree to acquire, propose or\n            offer to acquire, facilitate the acquisition or ownership of, or solicit the acquisition of, by purchase, tender or exchange offer, through the acquisition of control of another Person (including by way of merger or consolidation), by joining a\n            partnership, syndicate or other Group, through the use of a derivative instrument or voting agreement, or otherwise, Beneficial Ownership of any Voting Securities, or securities of Parent that are convertible, exchangeable or exercisable into\n            Voting Securities, other than (A) as a result of any stock split, stock dividend, subdivision, recapitalization or similar reorganization of Voting Securities effected by Parent, (B) as a result of issuances by Parent of Voting Securities or\n            options, warrants or other rights to acquire Voting Securities (or the exercise thereof) to any Investor Director as compensation for his or her membership on the Parent Board; provided\n            that, in the event of any offer, sale or issuance of Parent Common Stock or other Equity Interests of Parent following the Closing Date, this clause (i) shall not prohibit any\n            Investor Party from acquiring securities of Parent so long as the Beneficial Ownership of Voting Securities by the Investor Parties, taken as a whole, does not, as a result of any such acquisition of securities, exceed the Investor Percentage\n            Interest as of the Closing Date and (C) in an aggregate amount not to exceed (except with the prior consent of the Parent Board), in the aggregate, 13.5% of the Voting Securities at any time outstanding (which, for the avoidance of doubt, shall\n            be in addition to those Shares Beneficially Owned by the Investor as of the Closing);(ii)          deposit any Voting Securities into a\n            voting trust or similar Contract or subject any Voting Securities to any voting agreement, pooling arrangement or similar arrangement or other Contract, or grant any proxy with respect to any Voting Securities (other than to Parent or a Person\n            specified by Parent in a proxy card provided to shareholders of Parent by or on behalf of Parent);(iii)         enter, agree to enter, publicly\n            propose or offer to enter into, or make any public announcement with respect to, any merger, business combination, recapitalization, restructuring, change in control transaction, sale of all or a material portion of the assets of Parent or any\n            of its Subsidiaries or other similar extraordinary transaction involving Parent or any of its Subsidiaries (unless such transaction is affirmatively publicly recommended by the Parent Board and there has otherwise been no breach of this Section 2.2 in connection with or relating to such transaction);(iv)         make, or knowingly and publicly\n            facilitate, encourage or otherwise participate or engage in, any “solicitation” of “proxies” (as such terms are used in the proxy rules of the Commission) to vote, or advise or knowingly influence any Person with respect to the voting of, any\n            Voting Securities;(v)          call, or seek to call, a meeting of\n            the shareholders of Parent or initiate any shareholder proposal for action by shareholders of Parent, including action by written consent;(vi)         form, join or in any way participate\n            in a Group (other than a Group which consists solely of the Investor and one or more of its Affiliates), with respect to any Voting Securities;(vii)        otherwise act, alone or in concert\n            with others, to seek to control or influence the management or the policies of Parent (provided, that this clause (vii)\n            shall in no way limit the activities of any Investor Director taken in good faith in his or her capacity as a Director);(viii)       sell, offer or agree to sell, directly\n            or indirectly, through swap or hedging transactions or otherwise, voting rights decoupled from the underlying Voting Securities to any third party; or(ix)         publicly disclose any intention, plan,\n            arrangement or other Contract prohibited by, or inconsistent with, the foregoing;provided that, notwithstanding anything to the contrary in\n          this Section 2.2(a), (1) the Investor and any of its Affiliates may at any time (A) initiate and engage in private discussions with, and submit non-public, confidential proposals to,\n          the Parent Board (or any committee or other designee thereof) or (B) make a confidential request to Parent seeking an amendment or waiver of this Section 2.2(a), in each case so long as\n          such proposals or requests do not require public disclosure and the making of such proposal or request would not reasonably be expected to require Parent to make a public announcement of its receipt and (2) for the avoidance of doubt, (A) (x) the\n          consummation of the transactions contemplated by the Share Purchase Agreement and (y) the Investor’s exercise of its rights or the performance of its obligations under any other Transaction Document shall not be deemed violations of this Section 2.2(a) and (B) nothing in this Section 2.2(a) shall limit the ability of any Investor Director to take any action in such\n          Investor Director’s capacity as a member of the Parent Board (or any committee thereof).(b)          The Investor further agrees that, during\n            the Standstill Period, neither the Investor nor any of its Affiliates shall (or shall permit any of their respective Representatives, acting on the behalf of or at the direction of any of them), directly or indirectly (x) publicly request\n            Parent to amend or waive any provision of this Section 2.2 (including this sentence) or (y) take any action that would reasonably be expected to require Parent to make a public\n            announcement regarding the possibility of a business combination, merger or other type of transaction or any other matter described in this Section 2.2.(c)          Notwithstanding the foregoing, this Section 2.2 shall not prevent, limit or affect in any matter whatsoever, the Investor from designating any Investor Designee in accordance with this Agreement or taking any action to cause\n            such Investor Designee to be appointed to the Parent Board (or any committee of the Parent Board).(d)          The restrictions in this Section 2.2 shall not apply during any Material Parent Breach Period; it being understood, for the avoidance of doubt, that the restrictions in this Section 2.2 shall apply from and after termination of any Material Parent Breach Period by reason of a cure of the material breach giving rise to such Material Parent Breach Period.Section 2.3          Section 16 Matters.  If Parent becomes a party to a consolidation, merger or other similar transaction that may result in the Investor, any of its Affiliates or any Investor Director being deemed to have\n        made a disposition of Equity Interests of Parent or derivatives thereof for purposes of Section 16 of the Exchange Act, and if any Investor Director is serving on the Parent Board at such time or has served on the Parent Board during the preceding\n        six months (i) the Parent Board will pre-approve such disposition of Equity Interests or derivatives thereof for the express purpose of exempting the Investor’s, its Affiliates’ and any Investor Director’s (to the extent the Investor or its\n        Affiliates may be deemed to be “directors by deputization”) interests in such transaction from Section 16(b) of the Exchange Act pursuant to Rule 16b-3 thereunder and (ii) if the transaction involves (A) a merger or consolidation to which Parent is\n        a party and the Equity Interests in Parent are, in whole or in part, converted into or exchanged for Equity Interests of a different issuer, (B) a potential acquisition by the Investor, any of its Affiliates, or any Investor Director of Equity\n        Interests of such other issuer or derivatives thereof and (C) an Affiliate or other designee of the Investor or its Affiliates will serve on the board of directors (or its equivalent) of such other issuer, then if Parent requires that the other\n        issuer pre-approve any acquisition of Equity Interests or derivatives thereof for the express purpose of exempting the interests of any director or officer of Parent or any of its Subsidiaries in such transactions from Section 16(b) of the Exchange\n        Act pursuant to Rule 16b- 3 thereunder, Parent shall require that such other issuer pre-approve any such acquisitions of Equity Interests or derivatives thereof for the express purpose of exempting the Investor’s, its Affiliates’ and any Investor\n        Director’s (for the Investor and its Affiliates, to the extent such persons may be deemed to be “directors by deputization” of such other issuer) interests in such transactions from Section 16(b) of the Exchange Act pursuant to Rule 16b-3\n        thereunder."
+  },
+  {
+    "id": "element_0070",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0071",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0072",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0073",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0074",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0075",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0076",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0077",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0078",
+    "cls": "PageNumberElement",
+    "text": "8"
+  },
+  {
+    "id": "element_0079",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0080",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0081",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0082",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0083",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0084",
+    "cls": "PageNumberElement",
+    "text": "9"
+  },
+  {
+    "id": "element_0085",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0086",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0087",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0088",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0089",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0090",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0091",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0092",
+    "cls": "PageNumberElement",
+    "text": "10"
+  },
+  {
+    "id": "element_0093",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0094",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0095",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0096",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0097",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0098",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0099",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0100",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0101",
+    "cls": "PageNumberElement",
+    "text": "11"
+  },
+  {
+    "id": "element_0102",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0103",
+    "cls": "TitleElement",
+    "text": "ARTICLE III",
+    "level": 1
+  },
+  {
+    "id": "element_0104",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0105",
+    "cls": "TitleElement",
+    "text": "REPRESENTATIONS AND WARRANTIES",
+    "level": 1
+  },
+  {
+    "id": "element_0106",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0107",
+    "cls": "TextElement",
+    "text": "Section 3.1          Representations and Warranties of the Investor.  The Investor hereby represents and warrants to Parent as follows:(a)         The Investor is duly organized, validly\n            existing and in good standing under the laws of the jurisdiction of its organization.  The Investor has all requisite power and authority to execute and deliver this Agreement and to perform its obligations under this Agreement.(b)         The execution and delivery by the Investor of this Agreement and the performance by the Investor of its obligations under this Agreement do not and will not conflict with or violate any provision of, or require the consent or approval\n            of any Person (except for any such consents or approvals which have been obtained) under, (x) Applicable Law, (y) its organizational documents or (z) any material contract or agreement to which it is a party.(c)         The execution and delivery by the\n            Investor of this Agreement and the performance by the Investor of its obligations under this Agreement have been duly authorized by all necessary corporate or other analogous action on its part and does not require any corporate or other action\n            on the part of any trustee or beneficial or record owner of any equity interest in it, other than those which have been obtained prior to the date hereof and are in full force and effect.(d)         This Agreement has been duly executed\n            and delivered by the Investor and, assuming the due authorization, execution and delivery by the other parties hereto, constitutes a legal, valid and binding obligation of the Investor, enforceable against the Investor in accordance with its\n            terms, subject to bankruptcy, insolvency and other laws of general applicability relating to or affecting creditors’ rights and to general principles of equity.Section 3.2           Representations and Warranties of Parent.  Parent hereby represents and warrants to the Investor as follows:(a)          Parent is a corporation duly\n            incorporated, validly existing and in good standing under the laws of the jurisdiction of its incorporation.  Parent has all requisite power and authority to execute and deliver this Agreement and to perform its obligations under this\n            Agreement.(b)          The execution and delivery by Parent of\n            this Agreement and the performance by Parent of its obligations under this Agreement do not and will not conflict with or violate any provision of, or require the consent or approval of any Person (except for any such consents or approvals\n            which have been obtained) under, (x) Applicable Law, (y) its organizational documents or (z) any material contract or agreement to which it is a party.(c)          The execution and delivery by Parent of\n            this Agreement and the performance by Parent of its obligations under this Agreement have been duly authorized by all necessary corporate action on its part and does not require any corporate or other action on the part of any trustee or\n            beneficial or record owner of any equity interest in it, other than those which have been obtained prior to the date hereof and are in full force and effect.(d)          This Agreement has been duly executed\n            and delivered by Parent and, assuming the due authorization, execution and delivery by the other parties hereto, constitutes a legal, valid and binding obligation of Parent, enforceable against Parent in accordance with its terms, subject to\n            bankruptcy, insolvency and other laws of general applicability relating to or affecting creditors’ rights and to general principles of equity."
+  },
+  {
+    "id": "element_0108",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0109",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0110",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0111",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0112",
+    "cls": "PageNumberElement",
+    "text": "12"
+  },
+  {
+    "id": "element_0113",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0114",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0115",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0116",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0117",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0118",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0119",
+    "cls": "TitleElement",
+    "text": "ARTICLE IV",
+    "level": 1
+  },
+  {
+    "id": "element_0120",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0121",
+    "cls": "TitleElement",
+    "text": "REGISTRATION",
+    "level": 1
+  },
+  {
+    "id": "element_0122",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0123",
+    "cls": "TextElement",
+    "text": "Section 4.1          Demand Registrations.(a)         From and after the expiration of the\n            Restricted Period, subject to the terms and conditions hereof (x) solely during any period that Parent is then ineligible under Applicable Law to register Registrable Securities on Form S-3 pursuant to Section 4.3 or (y) following the expiration of Parent’s obligation to keep the Shelf Registration Statement continuously effective pursuant to Section 4.3(b),\n            but only if there is no Shelf Registration Statement then in effect, the Holder or Holders of a majority of the Registrable Securities shall be entitled to make an unlimited number of written requests of Parent (each, a “Demand”) for registration under the Securities Act of an amount of Registrable Securities then held by such Holder or Holders that equals or is greater than the Registrable Amount (a “Demand Registration”); provided that the Holders collectively shall not be entitled to make more than two (2) Demands during\n            any twelve (12) month period.  Thereupon Parent will, subject to the terms of this Agreement, use its commercially reasonable efforts to effect the registration as promptly as practicable under the Securities Act of:(i)          the Registrable Securities which Parent\n            has been so requested to register by the Holders for disposition in accordance with the intended method of disposition stated in such Demand; and(ii)         all shares of Parent Common Stock which\n            Parent may elect to register in connection with any offering of Registrable Securities pursuant to this Section 4.1;but, in each case, subject to Section 4.1(f), and to the extent necessary to permit the orderly disposition\n        (in accordance with the intended methods thereof) of the Registrable Securities and the additional shares of Parent Common Stock, if any, to be so registered; provided, that Parent may\n        use a registration statement on Form S-3 or any successor form thereto if Parent would qualify to use such form within thirty (30) days after the date on which the Demand Registration is given and Parent shall not be required to file such\n        registration statement until it is so qualified.(b)          A Demand shall specify: (i) the number\n            of Registrable Securities requested to be registered in such Demand Registration, (ii) the intended method of disposition in connection with such Demand Registration, to the extent then known, including whether such Demand Registration will be\n            an Underwritten Offering, (iii) the intended timing of disposition in connection with such Demand Registration and (iv) the estimated gross proceeds of such Demand Registration, which may not be less than the Registrable Amount.(c)          A Demand Registration shall not be\n            deemed to have been effected and shall not count as a Demand Registration (i) unless a registration statement with respect thereto has become effective and has remained effective for a period of at least ninety (90) days or such shorter period\n            in which all Registrable Securities included in such Demand Registration have actually been sold thereunder or have ceased being Registrable Securities (provided, that such period\n            shall be extended for a period of time equal to the period any Holder of Registrable Securities refrains from selling any securities included in such registration statement at the request of Parent or the lead managing underwriter(s) pursuant\n            to the provisions of this Agreement) or (ii) if, after it has become effective, such Demand Registration becomes subject, prior to ninety (90) days after effectiveness, to any stop order, injunction or other order or requirement of the\n            Commission or other Governmental Authority such that no sales are possible thereunder for a period of ten (10) consecutive days or more, other than by reason of any act or omission by any Holder.(d)         Demand Registrations shall be on such\n            appropriate registration form of the Commission as shall be reasonably selected by Parent and reasonably acceptable to each Holder.(e)          Parent shall not be obligated to (i)\n            subject to Section 4.1(c), maintain the effectiveness of a registration statement under the Securities Act filed pursuant to a Demand Registration for a period longer than ninety (90)\n            days or (ii) effect any Demand Registration (A) within six (6) months of a “firm commitment” Underwritten Offering in which the Holders were offered “piggyback” rights pursuant to Section 4.2\n            (subject to Section 4.2(b)) and at least 75% of the number of Registrable Securities requested by the Holders to be included in such Demand Registration were included and sold, (B)\n            within three (3) months of the completion of any other Demand Registration (including any Underwritten Offering pursuant to any Shelf Registration Statement), (C) if, in Parent’s reasonable judgment, it is not feasible for Parent to proceed\n            with the Demand Registration because of the unavailability of audited or other required financial statements or other required information; provided, that Parent shall use its\n            commercially reasonable efforts to obtain such financial statements or information as promptly as practicable or (D) for an amount that is less than the Registrable Amount.(f)          If, in connection with a Demand\n            Registration that involves an Underwritten Offering, the lead managing underwriter(s) advise(s) Parent that, in its (their) good faith opinion, the inclusion of all of the securities sought to be registered in connection with such Demand\n            Registration would adversely affect the price, timing or distribution of the securities offered, the market for the securities offered or the success of such Demand Registration, then Parent shall include in such registration statement only\n            such securities as Parent is advised by such lead managing underwriter(s) can be sold without such an adverse effect as follows and in the following order of priority: (i) first, up to the number of Registrable Securities requested to be\n            included in such Demand Registration by the Holders, which, in the opinion of the lead managing underwriter(s), can be sold without such an effect; (ii) second, securities Parent proposes to sell; and (iii) third, all other securities of Parent\n            duly requested to be included in such registration statement, pro rata on the basis of the amount of such other securities requested to be included or such other allocation method determined by Parent.(g)         Any time that a Demand Registration\n            involves an Underwritten Offering, the Holder or Holders of a majority of the Registrable Securities to be sold in such Underwritten Offering shall select the investment banker(s) and manager(s) that will serve as managing underwriter(s)\n            (including which such managing underwriter(s) will serve as lead or co-lead) and underwriter(s) with respect to the offering of such Registrable Securities; provided, that such\n            investment banker(s) and manager(s) shall be acceptable to Parent (such acceptance not to be unreasonably withheld, conditioned or delayed).(h)         Any Holder may, by written notice to\n            Parent, withdraw its Registrable Securities from a Demand Registration at any time prior to the effectiveness of the applicable registration statement.  Upon receipt of notice from a Holder to such effect, or if such withdrawal shall reduce the\n            number of Registrable Securities sought to be included in such Demand Registration below the Registrable Amount, Parent shall cease all efforts to seek effectiveness of the applicable registration statement, unless Parent intends to effect a\n            primary offering of securities or a Piggyback Registration pursuant to such registration statement.  In any such event, such Demand Registration shall count as a Demand Registration for purposes of the limitations set forth in Section 4.1(a).Section 4.2          Piggyback Registrations.(a)         From and after the expiration of the\n            Restricted Period, subject to the terms and conditions hereof, whenever Parent proposes to register any Parent Common Stock under the Securities Act (other than a registration by Parent (i) on Form S-4 or any successor form thereto (or similar\n            form that relates to a transaction subject to Rule 145 under the Securities Act or any successor rule thereto), (ii) on Form S-8 or any successor form thereto (or other registration solely relating to an offering or sale to employees or\n            directors of Parent pursuant to any employee stock plan or other employee benefit arrangement), (iii) on a Shelf Registration Statement, (iv) in connection with any dividend or distribution reinvestment or similar plan, (v) incidental to an\n            issuance of debt securities under Rule 144A or (vi) pursuant to Section 4.1) (such registration other than those referred to in the immediately preceding parenthetical, a “Piggyback Registration”), whether for its own account or for the account of others, Parent shall give each Holder prompt written notice thereof (but not less than fifteen (15) Business\n            Days prior to the filing by Parent with the Commission of any registration statement with respect thereto).  Such notice (a “Piggyback Notice”) shall specify the number of shares of\n            Parent Common Stock proposed to be registered, the proposed date of filing of such registration statement with the Commission, the proposed means of distribution, the proposed managing underwriter(s) (if any) and a good faith estimate by Parent\n            of the proposed minimum offering price of such shares of Parent Common Stock, in each case to the extent then known.  Subject to Section 4.2(b), Parent shall include in each such\n            Piggyback Registration all Registrable Securities held by the Holders with respect to which Parent has received a written request (which written request shall specify the number of Registrable Securities requested to be disposed of by each\n            Holder) for inclusion therein within ten (10) Business Days after such Piggyback Notice is received by each Holder.(b)          If, in connection with a Piggyback\n            Registration that involves an Underwritten Offering, the lead managing underwriter(s) advises Parent that, in its opinion, the inclusion of all the shares of Parent Common Stock sought to be included in such Piggyback Registration by (i)\n            Parent, (ii) other Persons who have sought to have shares of Parent Common Stock registered in such Piggyback Registration pursuant to rights to demand (other than pursuant to so-called “piggyback” or other incidental or participation\n            registration rights) such registration (such Persons being “Other Demanding Sellers”), (iii) the Holders and (iv) any other proposed sellers of shares of Parent Common Stock (such\n            Persons being “Other Proposed Sellers”), as the case may be, would adversely affect the price, timing or distribution of the securities offered, the market for the securities offered\n            or the success of such Piggyback Registration, then Parent shall include in the registration statement applicable to such Piggyback Registration only such shares of Parent Common Stock as Parent is so advised by such lead managing\n            underwriter(s) can be sold without such an effect, as follows and in the following order of priority:(i)          if the Piggyback Registration relates\n            to an offering for Parent’s own account, then (A) first, the shares of Parent Common Stock to be sold by Parent, and (B) second, the Registrable Securities of the Holders and shares of Parent Common Stock sought to be registered by Other\n            Demanding Sellers and by Other Proposed Sellers, pro rata on the basis of the number of Registrable Securities proposed to be sold by the Holders and the number of shares of Parent Common Stock proposed to be sold by such Other Demanding\n            Sellers and by such Other Proposed Sellers; or(ii)         if the Piggyback Registration relates\n            to an offering other than for Parent’s own account, then (A) first, the Registrable Securities of the Holders and shares of Parent Common Stock sought to be registered by the Other Demanding Sellers and any Other Proposed Sellers, pro rata on\n            the basis of the number of shares of Parent Common Stock proposed to be sold by the Holders and the number of shares of Parent Common Stock proposed to be sold by such Other Demanding Sellers and Other Proposed Sellers, and (B) second, the\n            shares of Parent Common Stock to be sold by Parent.(c)           In connection with any Underwritten\n            Offering under this Section 4.2, Parent shall not be required to include the Registrable Securities of any Holder in the Underwritten Offering unless such Holder accepts the terms of\n            the underwriting as agreed upon between Parent and the lead managing underwriter(s), which shall be selected in good faith by Parent.(d)           If, at any time after giving written\n            notice of its intention to register any shares of Parent Common Stock as set forth in this Section 4.2, Parent shall determine for any reason not to register such shares of Parent\n            Common Stock, Parent may, at its election, give written notice of such determination to each Holder and thereupon shall be relieved of its obligation to register any Registrable Securities in connection with such particular withdrawn or\n            abandoned Piggyback Registration.Section 4.3           Shelf Registration Statement.(a)          Parent shall use its commercially\n            reasonable efforts to prepare and file, as soon as reasonably practicable following the expiration of the Restricted Period, a registration statement covering the sale or distribution from time to time by any Investor Party holding Registrable\n            Securities (each such Investor Party, a “Holder”), on a delayed or continuous basis pursuant to Rule 415 of the Securities Act, of all of the Registrable Securities of such Holder on\n            Form S-3 or any successor form thereto (“Form S-3”) (except if Parent is not then eligible to register for resale the Registrable Securities on Form S-3, in which case such\n            registration shall be on another appropriate form and shall provide for the registration of such Registrable Securities for resale by each Holder in accordance with any reasonable method of distribution elected by such Holder) (the “Shelf Registration Statement”) and shall further use its commercially reasonable efforts to cause such Shelf Registration Statement to be declared effective by the Commission as soon as\n            reasonably practicable after the filing thereof (it being agreed that the Shelf Registration Statement shall be an automatic shelf registration statement that shall become effective upon filing with the SEC pursuant to Rule 462(e) if Rule\n            462(e) is then available to Parent).(b)          Subject to Section 4.3(c), Parent will use its commercially reasonable efforts to keep the Shelf Registration Statement continuously effective under the Securities Act until such time as all Registrable Securities\n            covered by the Shelf Registration Statement have been sold or otherwise cease to be Registrable Securities.  Parent shall supplement and amend any Shelf Registration Statement if required by the Securities Act or the rules, regulations or\n            instructions applicable to the registration form used by Parent for such Shelf Registration Statement.(c)          At any time that a Shelf Registration\n            Statement is effective, if any Holder delivers a notice to Parent (a “Take-Down Notice”) stating that it intends to sell all or part of its Registrable Securities included by it on the\n            Shelf Registration Statement in an Underwritten Offering (a “Shelf Offering”), then Parent shall promptly amend or supplement the Shelf Registration Statement as may be necessary in\n            order to enable such Registrable Securities to be distributed pursuant to the Shelf Offering; provided, that Parent shall not be obligated to effect more than three (3) Shelf\n            Offerings during any twelve (12) month period or to effect any Shelf Offering for less than the Registrable Amount.(d)          In connection with any Shelf Offering,\n            if the lead managing underwriter(s) advises Parent and each Holder participating in such Shelf Offering that, in its opinion, the inclusion of all of the securities sought to be sold in connection with such Shelf Offering would adversely affect\n            the price, timing or distribution of the securities offered, the market for the securities offered or the success of such Shelf Offering, then there shall be included in such Shelf Offering only such securities as the lead managing\n            underwriter(s) advises can be sold without such adverse effect, and such number of Registrable Securities shall be allocated in the same manner as described in Section 4.1(f).  Except\n            as otherwise expressly specified in this Section 4.3, any Shelf Offering shall be subject to the same requirements, limitations and other provisions of this Article IV as would be applicable to a Demand Registration (i.e., as if such Shelf Offering were a Demand Registration), including Section 4.1(e)(ii), Section 4.1(g) and Section 4.1(h).(e)          If any of the Registrable Securities is\n            to be sold in a Shelf Offering initiated by a Holder, the Holder or Holders of a majority of the Registrable Securities to be sold in such Shelf Offering shall select the investment banker(s) and manager(s) that will serve as managing\n            underwriter(s) (including which such managing underwriter(s) will serve as lead or co-lead) and underwriter(s) with respect to the offering of such Registrable Securities; provided,\n            that such investment banker(s) and manager(s) shall be acceptable to Parent (such acceptance not to be unreasonably withheld, conditioned or delayed).(f)          If a Person entitled to the benefits of\n            this Agreement becomes a Holder of Registrable Securities after a Shelf Registration Statement becomes effective under the Securities Act, Parent shall, as promptly as is reasonably practicable following delivery of written notice to Parent of\n            such Person becoming a Holder and requesting for its name to be included as a selling securityholder in the prospectus related to the Shelf Registration Statement:(i)          if required and permitted by\n            Applicable Law, file with the SEC a supplement to the related prospectus or a post-effective amendment to the Shelf Registration Statement so that such Holder is named as a selling securityholder in the Shelf Registration Statement and the\n            related prospectus in such a manner as to permit such Holder to deliver a prospectus to purchasers of the Registrable Securities in accordance with Applicable Law; provided, however, that Parent shall not be required to file more than one post-effective amendment or a supplement to the related prospectus for such purpose in any 30-day period; and(ii)         if, pursuant to the foregoing clause (i), Parent shall have filed a post-effective amendment to the Shelf Registration Statement that is not automatically effective, use its commercially reasonable efforts to cause\n            such post-effective amendment to become effective under the Securities Act as promptly as is reasonably practicable and notify such Holder as promptly as is reasonably practicable after the effectiveness under the Securities Act of any\n            post-effective amendment filed pursuant to this clause (ii).Section 4.4          Holdback Agreements.  In connection with any Underwritten Offering, each Holder shall enter into customary agreements restricting the public sale or distribution of Equity Interests of Parent (including\n        sales pursuant to Rule 144 under the Securities Act) to the extent required by the lead managing underwriter(s) with respect to an applicable Underwritten Offering during the period commencing on the date of the request (which shall be no earlier\n        than seven (7) days prior to the expected “pricing” of such Underwritten Offering) and continuing for not more than ninety (90) days after the date of the “final” prospectus (or “final” prospectus supplement if the Underwritten Offering is made\n        pursuant to a Shelf Registration Statement), pursuant to which such Underwritten Offering shall be made, or such lesser period and permitted exceptions as is otherwise agreed by the lead managing underwriter(s) of such Underwritten Offering.  If\n        any Demand Registration or Shelf Offering involves an Underwritten Offering, Parent will not effect any public sale or distribution of any common equity (or securities convertible into or exchangeable or exercisable for common equity) (other than\n        as part of such Underwritten Offering, a registration statement on Form S-4, Form S-8 or any successor forms thereto or in connection with any dividend or distribution reinvestment or similar plan) for its own account, within sixty (60) days after\n        the effective date of such registration except as may otherwise be agreed between Parent and the lead managing underwriter(s) of such Underwritten Offering.Section 4.5          Registration Procedures.(a)          If and whenever Parent is required to\n            use commercially reasonable efforts to effect the registration of any Registrable Securities under the Securities Act as provided in Section 4.1 or Section 4.3, Parent shall as promptly as reasonably practicable:(i)          prepare and file with the Commission a registration statement to effect such registration in accordance with the intended method or methods of distribution of such securities and thereafter use commercially reasonable efforts to cause\n            such registration statement to become and remain effective pursuant to the terms of this Article IV; provided, however, that Parent may discontinue any registration of its securities which are not Registrable Securities at any time prior to the\n          effective date of the registration statement relating thereto; provided, further, that before filing such registration\n          statement or any amendments thereto, Parent will furnish to each Holder, counsel to each Holder and the lead managing underwriter(s), if any, copies of all such documents proposed to be filed, which documents will be subject to the review and\n          reasonable comment of the Holders and such counsel, and other documents reasonably requested by any Holder or such counsel, including any comment letter from the Commission, and, if requested by any Holder or such counsel, provide such counsel\n          reasonable opportunity to participate in the preparation of such registration statement and each prospectus included therein and such other opportunities to conduct a reasonable investigation within the meaning of the Securities Act, including\n          reasonable access to Parent’s books and records, officers, accountants and other advisors; provided, that Parent shall not have any obligation to modify any information if Parent\n          reasonably expects that so doing would cause (i) the registration statement to contain an untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein not\n          misleading or (ii) the prospectus to contain an untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading;(ii)          prepare and file with the Commission\n            such amendments and supplements to such registration statement and the prospectus used in connection therewith as may be necessary to keep such registration statement effective pursuant to the terms of this Article IV, and comply with the provisions of the Securities Act with respect to the disposition of all securities covered by such registration statement;(iii)         if requested by the lead managing\n            underwriter(s), if any, or the Holder of any Registrable Securities to be sold an Underwritten Offering, as promptly as reasonably practicable, include in a prospectus supplement or post-effective amendment such information as the lead managing\n            underwriter(s), if any, and such Holder may reasonably request in order to permit the intended method of distribution of such securities and make all required filings of such prospectus supplement or such post-effective amendment as soon as\n            reasonably practicable after Parent has received such request; provided, however, that Parent shall not be required to\n            take any actions under this Section 4.5(a)(iii) that are not, in the opinion of counsel for Parent, in compliance with Applicable Law;(iv)         furnish to each Holder and each\n            underwriter, if any, of the securities being sold such number of conformed copies of such registration statement and of each amendment and supplement thereto, such number of copies of the prospectus contained in such registration statement\n            (including each preliminary prospectus and any summary prospectus) and each free writing prospectus (as defined in Rule 405 of the Securities Act) (a “Free Writing Prospectus”)\n            utilized in connection therewith and any other prospectus filed under Rule 424 under the Securities Act, in conformity with the requirements of the Securities Act, and such other documents as any Holder or the underwriter(s), if any, may\n            reasonably request in order to facilitate the public sale or other disposition of the Registrable Securities;(v)          use commercially reasonable efforts to\n            register or qualify or cooperate with each Holder, the underwriter(s), if any, and their respective counsel in connection with the registration or qualification (or exemption from such registration or qualification) of the Registrable\n            Securities covered by such registration statement under such other securities laws or “blue sky” laws of such jurisdictions as any Holder and any underwriter of the securities being sold shall reasonably request, and to keep each such\n            registration or qualification (or exemption therefrom) effective during the period such registration statement is required to be kept effective and take any other action which may be necessary to enable the Holders and underwriter(s) to\n            consummate the disposition in such jurisdictions of the Registrable Securities, except that Parent shall not for any such purpose be required to (A) qualify generally to do business as a foreign corporation in any jurisdiction wherein it would\n            not but for the requirements of this clause (v) be obligated to be so qualified, (B) subject itself to taxation in any such jurisdiction or (C) file a general consent to service of\n            process in any such jurisdiction;(vi)          use commercially reasonable efforts to\n            cause such Registrable Securities to be listed on each securities exchange on which similar securities issued by Parent are then listed;(vii)         use commercially reasonable efforts\n            to provide and cause to be maintained a transfer agent and registrar for all Registrable Securities covered by such registration statement from and after a date not later than the effective date of such registration statement;(viii)        enter into such agreements (including\n            an underwriting agreement in form, scope and substance as is customary in underwritten offerings) and use its commercially reasonable efforts to take all such other actions reasonably requested by the Holders of a majority of the Registrable\n            Securities being sold in connection therewith (including those reasonably requested by the lead managing underwriter(s), if any) to expedite or facilitate the disposition of such Registrable Securities;(ix)          in connection with an Underwritten\n            Offering, use commercially reasonable efforts to obtain for each Holder and underwriter(s), if any, (A) opinions of counsel for Parent, covering the legal matters customarily covered in opinions requested of legal counsel to issuers in\n            underwritten secondary offerings and (B) “comfort” letters and updates thereof (or, in the case of any such Person which does not satisfy the conditions for receipt of a “comfort” letter specified in AS 6101 published by the Public Company\n            Accounting Oversight Board (PCAOB), an “agreed upon procedures” letter) signed by the independent public accountants who have certified Parent’s financial statements and, to the extent required, any other financial statements included in such\n            registration statement, covering the matters customarily covered in “comfort” letters in connection with underwritten offerings;(x)           make available for inspection by each\n            Holder, any underwriter participating in any disposition pursuant to any registration statement, and any attorney, accountant or other agent or representative retained in connection with such offering by any Holder or underwriter (collectively,\n            the “Inspectors”), financial and other records, pertinent corporate documents and instruments of Parent and other relevant information of Parent (collectively, the “Records”), as shall be reasonably necessary to enable them to exercise their due diligence responsibility; provided, however, that Parent shall not be required to provide any information under this clause (x) if (A) Parent believes, after\n            consultation with counsel for Parent, that to do so would cause Parent to forfeit an attorney-client or other applicable privilege that was applicable to such information or (B) if either (1) Parent has requested and been granted from the\n            Commission confidential treatment of such information contained in any filing with the Commission or documents provided supplementally or otherwise or (2) Parent reasonably determines in good faith that such Records are confidential and so\n            notifies the Inspectors in writing; unless, prior to furnishing any such information with respect to clause (1) or (2), each Holder enters into, and causes each of its Inspectors to enter into, a confidentiality agreement on terms and conditions reasonably acceptable to Parent; provided, further, that each Holder agrees that it will, upon learning that disclosure of such Records is sought in a court of\n            competent jurisdiction or by another Governmental Authority, give notice to Parent and allow Parent, at its expense, to undertake appropriate action seeking to prevent disclosure of the Records deemed confidential;(xi)          as promptly as practicable notify\n            each Holder and the underwriter(s), if any, of the following events: (a) the filing of the registration statement, any amendment thereto, the prospectus or any prospectus supplement related thereto or post-effective amendment to the\n            registration statement or any Free Writing Prospectus utilized in connection therewith, and, with respect to the registration statement or any post-effective amendment thereto, when the same has become effective; (b) any request by the\n            Commission or any other U.S. or state governmental authority for amendments or supplements to the registration statement or the prospectus or for additional information; (c) the issuance by the Commission of any stop order suspending the\n            effectiveness of the registration statement or the initiation of any proceedings by any Person for that purpose; (d) the receipt by Parent of any notification with respect to the suspension of the qualification of any Registrable Securities for\n            sale under the securities or “blue sky” laws of any jurisdiction or the initiation or threat of any proceeding for such purpose; (e) if at any time the representations and warranties of Parent contained in any underwriting agreement\n            contemplated by Section 4.5(a)(viii) cease to be true and correct in any material respect; and (f) upon becoming aware of the happening of any event that makes any statement made in\n            such registration statement or related prospectus or any document incorporated or deemed to be incorporated therein by reference untrue in any material respect or that requires the making of any changes in such registration statement,\n            prospectus or documents so that, in the case of the registration statement, it will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein\n            not misleading, and that in the case of the prospectus, it will not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in light of the circumstances under which\n            they were made, not misleading, and, at the request of any Holder, promptly prepare and furnish to such Holder a reasonable number of copies of a supplement to or an amendment of such registration statement or prospectus as may be necessary so\n            that, as thereafter delivered to the purchasers of such Registrable Securities, such prospectus shall not include an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the\n            statements therein, in light of the circumstances under which they were made, not misleading;(xii)          use commercially reasonable efforts\n            to obtain the withdrawal of any order suspending the effectiveness of such registration statement, or the lifting of any suspension of the qualification (or exemption from qualification) of any of the Registrable Securities for sale in any\n            jurisdiction at the earliest reasonable practicable date, except that Parent shall not for any such purpose be required to (A) qualify generally to do business as a foreign corporation in any jurisdiction wherein it would not but for the\n            requirements of this clause (xii) be obligated to be so qualified, (B) subject itself to taxation in any such jurisdiction or (C) file a general consent to service of process in any\n            such jurisdiction;(xiii)        cooperate with each Holder and the\n            lead managing underwriter(s) to facilitate the timely preparation and delivery of certificates (which shall not bear any restrictive legends unless required under Applicable Law) representing securities sold under any registration statement,\n            and enable such securities to be in such denominations and registered in such names as the lead managing underwriter(s) or any Holder may request and keep available and make available to Parent’s transfer agent prior to the effectiveness of\n            such registration statement a supply of such certificates;(xiv)         cooperate with each Holder and each\n            underwriter or agent participating in the disposition of any Registrable Securities and their respective counsel in connection with any filings required to be made with FINRA; and (xv)         have appropriate officers of Parent prepare and\n            make presentations at a reasonable and customary number of “road shows” and before analysts and rating agencies, as the case may be, and other information meetings reasonably organized by the underwriter(s) and otherwise use its commercially\n            reasonable efforts to cooperate as reasonably requested by any Holder and the underwriter(s) in the offering, marketing or selling of the Registrable Securities.(b)          Parent may require each Holder and each\n            underwriter, if any, to furnish Parent in writing such information regarding such Holder or underwriter and the distribution of such Registrable Securities as Parent may from time to time reasonably request in writing to complete or amend the\n            information required by such registration statement.(c)           Each Holder shall as promptly as\n            practicable notify in writing Parent and the underwriter(s), if any, with respect to any registered offering of Registrable Securities if at any time the representations and warranties of such Holder contained in any underwriting agreement\n            cease to be true and correct in any material respect and upon becoming aware of the happening of any event that makes any statement made in such registration statement or related prospectus or any document incorporated or deemed to be\n            incorporated therein by reference, to the extent based on information provided by such Holder, untrue in any material respect or that requires the making of any changes in such registration statement, prospectus or documents so that, in the\n            case of the registration statement, it will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein not misleading, and that in the case of\n            the prospectus, it will not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading, in each\n            case to the extent based on information provided by such Holder.(d)           Each Holder agrees that upon receipt\n            of any notice from Parent of the happening of any event of the kind described in clauses (B), (C), (D), (E) and (F) of Section\n\n\n\n\n\n\n\n\n                4.5(a)(xi), such Holder shall forthwith discontinue its disposition of Registrable Securities pursuant to the applicable registration statement and prospectus relating thereto until it receives copies of the supplemented or\n            amended prospectus contemplated by Section 4.5(a)(xi), or until it is advised in writing by Parent that the use of the applicable prospectus may be resumed, and has received copies of\n            any additional or supplemental filings that are incorporated or deemed to be incorporated by reference in such prospectus; provided, however,\n            that Parent shall extend the time periods under Section 4.1(c) with respect to the length of time that the effectiveness of a registration statement must be maintained by the amount\n            of time such Holder is required to discontinue disposition of such securities.(e)           With a view to making available to the\n            Holders the benefits of Rule 144 under the Securities Act and any other rule or regulation of the Commission that may at any time permit a Holder to sell securities of Parent to the public without registration or pursuant to a registration on\n            Form S-3 (or any successor form), Parent shall:(i)          use commercially reasonable efforts to\n            make and keep public information available, as those terms are understood and defined in Rule 144 under the Securities Act;(ii)         use commercially reasonable efforts to\n            file with the Commission in a timely manner all reports and other documents required of Parent under the Exchange Act, at any time when Parent is subject to such reporting requirements; and(iii)        furnish to any Holder, promptly upon\n            request, a written statement by Parent as to its compliance with the reporting requirements of Rule 144 under the Securities Act and of the Exchange Act, a copy of the most recent annual or quarterly report of Parent, and such other reports and\n            documents so filed or furnished by Parent with the Commission as such Holder may reasonably request in connection with the sale of Registrable Securities without registration (in each case to the extent not readily publicly available).Section 4.6          Registration Expenses.  All fees and expenses incident to Parent’s performance of its obligations under this Article IV, including (a) all\n        registration and filing fees, including all fees and expenses of compliance with securities and “blue sky” laws and all fees and expenses associated with filings required to be made with FINRA (including, if applicable, the fees and expenses of any\n        “qualified independent underwriter” as such term is defined in FINRA Rule 5121), (b) all printing (including expenses of printing certificates for the Registrable Securities in a form eligible for deposit with the Depository Trust Company and of\n        printing prospectuses if the printing of prospectuses is requested by any Holder) and copying expenses, (c) all messenger, telephone and delivery expenses, (d) all fees and expenses of Parent’s independent certified public accountants and counsel\n        (including with respect to “comfort” letters and opinions) and (e) expenses of Parent incurred in connection with any “road show”, shall be borne solely by Parent whether or not any registration statement is filed or becomes effective.  Each Holder\n        shall pay (i) all underwriters’, brokers’ or dealers’ discounts or commissions and transfer taxes, if any, relating to the sale of such Holder’s Registrable Securities pursuant to any registration and (ii) the legal fees and expenses of its\n        counsel.Section 4.7          Miscellaneous.(a)         Not less than five (5) Business Days\n            before the expected filing date of each registration statement pursuant to this Agreement, Parent shall notify each Holder, if such Holder has timely provided the requisite notice hereunder entitling it to register Registrable Securities in\n            such registration statement, of the information, documents and instruments from such Holder that Parent or any underwriter reasonably requests in connection with such registration statement, including a questionnaire, custody agreement, power\n            of attorney, lock-up letter and underwriting agreement (the “Requested Information”).  If Parent has not received, on or before the second (2nd) Business Day before the expected filing\n            date, the Requested Information from any Holder, Parent may file the registration statement without including Registrable Securities of such Holder.  The failure to so include in any registration statement the Registrable Securities of a Holder\n            (with regard to that registration statement) shall not result in any liability on the part of Parent to such Holder.(b)         Notwithstanding anything in this Article IV to the contrary, Parent shall be entitled on up to two (2) occasions in any twelve (12) month period, for a period of time not to exceed ninety (90) days in the aggregate in any\n            twelve (12) month period to (x) defer any registration of Registrable Securities and shall have the right not to file and not to cause the effectiveness of any registration covering any Registrable Securities, (y) suspend the use of any\n            prospectus and registration statement covering any Registrable Securities and (z) require the Holders to suspend any offerings or sales of Registrable Securities pursuant to a registration statement, if Parent delivers to each Holder a\n            certificate signed by an executive officer certifying that such registration and offering would (i) require Parent to make an Adverse Disclosure or (ii) materially interfere with any bona fide material financing, acquisition, disposition or\n            other similar transaction involving Parent or any of its Subsidiaries then under consideration.  Such certificate shall contain a statement of the reasons for such suspension and an approximation of the anticipated length of such suspension. \n            Each Holder shall keep the information contained in such certificate confidential subject to the same terms set forth in Section 1.5.Section 4.8          Registration Indemnification.(a)         Parent agrees to indemnify and hold\n            harmless, to the fullest extent permitted by Applicable Law, each Holder and its Affiliates and their respective current and former officers, directors, employees, accountants, attorneys and agents and each Person who controls (within the\n            meaning of Section 15 of the Securities Act and Section 20 of the Exchange Act) such Holder or such other indemnified Person and the current and former officers, directors, employees, accountants, attorneys and agents of each such controlling\n            Person (collectively, the “Parent Indemnified Parties”) from and against all losses, claims, damages, liabilities, costs, expenses (including reasonable expenses of investigation and\n            reasonable and documented attorneys’ fees and expenses), judgments, fines, penalties, charges and amounts paid in settlement and other liabilities, joint or several (or actions in respect thereof) (collectively, the “Losses”), as incurred, arising out of or resulting from any untrue statement (or alleged untrue statement) of a material fact contained in any registration statement, prospectus or preliminary prospectus or\n            Free Writing Prospectus filed pursuant to this Agreement or any amendment or supplement thereto or any omission (or alleged omission) of a material fact required to be stated therein or necessary to make the statements therein, in light of the\n            circumstances under which they were made, not misleading and (without limitation of the preceding portions of this Section 4.8(a)) will reimburse each Parent Indemnified Party for any\n            reasonable and documented legal and any other expenses reasonably incurred in connection with investigating and defending or settling any such claim, Loss, damage, liability or action, except in each case insofar as the same are caused by any\n            information furnished to Parent by any other party expressly for use therein.(b)         To the fullest extent permitted by\n            Applicable Law, each Holder will, if Registrable Securities held by such Holder are included in securities as to which registration is being effected, indemnify and hold harmless Parent and its Affiliates and their respective current and former\n            officers, directors, employees, accountants, attorneys and agents and each Person who controls (within the meaning of Section 15 of the Securities Act and Section 20 of the Exchange Act) Parent or such other indemnified Person and the current\n            and former officers, directors, employees, accountants, attorneys and agents of each such controlling Person (collectively, the “Holder Indemnified Parties”), from and against all\n            Losses, as incurred, arising out of or resulting from any untrue statement (or alleged untrue statement) of material fact contained in any registration statement, prospectus or preliminary prospectus or Free Writing Prospectus filed pursuant to\n            this Agreement or any amendment or supplement thereto or any omission (or alleged omission) of a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made,\n            not misleading, and (without limitation of the preceding portions of this Section 4.8(b)) will reimburse each Holder Indemnified Party for any reasonable and documented legal and any\n            other expenses reasonably incurred in connection with investigating and defending or settling any such claim, Loss, damage, liability or action, in each case to the extent, but only to the extent, that such untrue statement or omission is made\n            in such registration statement, prospectus or preliminary prospectus or Free Writing Prospectus or any amendment or supplement thereto in reliance upon and in conformity with information furnished to Parent by the Holder expressly for inclusion\n            in such registration statement, prospectus or preliminary prospectus or Free Writing Prospectus or any amendment or supplement thereto; provided, however, that in no event shall any indemnity under this Section 4.8(b) payable any Holder exceed an amount equal to the net proceeds received by such Holder\n            in respect of the Registrable Securities sold pursuant to the relevant registration statement.  The indemnity agreement contained in this Section 4.8(b) shall not apply to amounts\n            paid in settlement of any loss, claim, damage, liability or action if such settlement is effected without the prior written consent of the applicable Holder (which consent shall not be unreasonably withheld or delayed).(c)          Any Person entitled to indemnification\n            hereunder shall give prompt written notice to the indemnifying party of any claim with respect to which it seeks indemnification; provided, however, that the failure to give such notice shall not release the indemnifying party from its obligation, except to the extent that the indemnifying party has been actually and materially prejudiced by such failure to\n            provide such notice on a timely basis.(d)          In any case in which an action is\n            brought against any indemnified party under this Section 4.8, the indemnifying party will be entitled to participate therein, and, to the extent that it may wish, to assume the\n            defense thereof, with counsel reasonably satisfactory to such indemnified party, and after notice from the indemnifying party to such indemnified party of its election to so assume the defense thereof and acknowledging the obligations of the\n            indemnifying party with respect to such proceeding, the indemnifying party will not (so long as it shall continue to have the right to defend, contest, litigate and settle the matter in question in accordance with this paragraph) be liable to\n            such indemnified party hereunder for any legal or other expense subsequently incurred by such indemnified party in connection with the defense thereof other than reasonable costs of investigation, supervision and monitoring (unless (i) such\n            indemnified party (based upon advice of its counsel) reasonably objects to such assumption on the grounds that there may be defenses available to it which are different from or in addition to the defenses available to such indemnifying party\n            and, as a result, a conflict of interest exists or (ii) the indemnifying party shall have failed within a reasonable period of time to assume such defense and the indemnified party is or would reasonably be expected to be materially prejudiced\n            by such delay, in either event the indemnified party shall be promptly reimbursed by the indemnifying party for the reasonable expenses incurred in connection with retaining one separate legal counsel (for all indemnified parties in connection\n            therewith)).  Notwithstanding any such assumption by an indemnifying party, the indemnified party shall have the right to employ separate counsel in any such matter and participate in the defense thereof, but the fees and expenses of such\n            counsel shall be at the expense of such indemnified party except as provided in the previous sentence.  An indemnifying party shall not be liable for any settlement of an action or claim effected without its consent.  No matter shall be settled\n            by an indemnifying party without the consent of the indemnified party (which consent shall not be unreasonably withheld, conditioned or delayed), unless such settlement (x) includes as an unconditional term thereof the giving by the claimant or\n            plaintiff to such indemnified party of a release from all liability in respect to such claim or litigation, (y) does not include any statement as to or any admission of fault, culpability or a failure to act by or on behalf of any indemnified\n            party and (z) does not involve any injunctive or equitable relief that would be binding on the indemnified party or any payment that is not covered by the indemnification hereunder.(e)          The indemnification provided for under\n            this Agreement shall survive the Transfer of the Registrable Securities and the termination of this Agreement.(f)           If recovery is not available under the\n            foregoing indemnification provisions for any reason or reasons other than as specified therein, any Person who would otherwise be entitled to indemnification by the terms thereof shall nevertheless be entitled to contribution with respect to\n            any Losses with respect to which such Person would be entitled to such indemnification but for such reason or reasons, in such proportion as is appropriate to reflect the relative fault of the indemnifying party, on the one hand, and such\n            indemnified party, on the other hand, in connection with the actions, statements or omissions that resulted in such Losses as well as any other relevant equitable considerations.  The relative fault of the indemnifying party and of the\n            indemnified party shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission to state a material fact relates to information supplied by the indemnifying party or\n            by the indemnified party, the Persons’ relative knowledge and access to information concerning the matter with respect to which the claim was asserted, the opportunity to correct and prevent any statement or omission, and other equitable\n            considerations appropriate under the circumstances.  It is hereby agreed that it would not necessarily be equitable if the amount of such contribution were determined by pro\n              rata or per capita allocation.  No Person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any Person who was not found guilty of such fraudulent\n            misrepresentation.  Notwithstanding the foregoing, in no event shall any contribution payable by any Holder under this Section 4.8(f) exceed an amount equal to the net proceeds\n            received by such Holder in respect of the Registrable Securities sold pursuant to the registration statement giving rise to such obligation to contribute."
+  },
+  {
+    "id": "element_0124",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0125",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0126",
+    "cls": "PageNumberElement",
+    "text": "13"
+  },
+  {
+    "id": "element_0127",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0128",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0129",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0130",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0131",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0132",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0133",
+    "cls": "PageNumberElement",
+    "text": "14"
+  },
+  {
+    "id": "element_0134",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0135",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0136",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0137",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0138",
+    "cls": "PageNumberElement",
+    "text": "15"
+  },
+  {
+    "id": "element_0139",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0140",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0141",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0142",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0143",
+    "cls": "PageNumberElement",
+    "text": "16"
+  },
+  {
+    "id": "element_0144",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0145",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0146",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0147",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0148",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0149",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0150",
+    "cls": "PageNumberElement",
+    "text": "17"
+  },
+  {
+    "id": "element_0151",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0152",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0153",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0154",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0155",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0156",
+    "cls": "PageNumberElement",
+    "text": "18"
+  },
+  {
+    "id": "element_0157",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0158",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0159",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0160",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0161",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0162",
+    "cls": "PageNumberElement",
+    "text": "19"
+  },
+  {
+    "id": "element_0163",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0164",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0165",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0166",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0167",
+    "cls": "PageNumberElement",
+    "text": "20"
+  },
+  {
+    "id": "element_0168",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0169",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0170",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0171",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0172",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0173",
+    "cls": "PageNumberElement",
+    "text": "21"
+  },
+  {
+    "id": "element_0174",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0175",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0176",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0177",
+    "cls": "PageNumberElement",
+    "text": "22"
+  },
+  {
+    "id": "element_0178",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0179",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0180",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0181",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0182",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0183",
+    "cls": "PageNumberElement",
+    "text": "23"
+  },
+  {
+    "id": "element_0184",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0185",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0186",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0187",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0188",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0189",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0190",
+    "cls": "PageNumberElement",
+    "text": "24"
+  },
+  {
+    "id": "element_0191",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0192",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0193",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0194",
+    "cls": "PageNumberElement",
+    "text": "25"
+  },
+  {
+    "id": "element_0195",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0196",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0197",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0198",
+    "cls": "PageNumberElement",
+    "text": "26"
+  },
+  {
+    "id": "element_0199",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0200",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0201",
+    "cls": "TitleElement",
+    "text": "ARTICLE V",
+    "level": 1
+  },
+  {
+    "id": "element_0202",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0203",
+    "cls": "TitleElement",
+    "text": "DEFINITIONS",
+    "level": 1
+  },
+  {
+    "id": "element_0204",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0205",
+    "cls": "TextElement",
+    "text": "Section 5.1          Defined Terms.  Capitalized terms when used in this Agreement have the following meanings:“Activist Stockholder” means, as of any date of determination, a Person (other than the\n        Investor, Parent and their respective Affiliates (and, in the case of Investor, Investor’s Permitted Transferees)) that has, directly or indirectly through its Affiliates, whether individually or as a member of a group, within the three (3) year\n        period immediately preceding such date of determination (i) called or publicly sought to call a meeting of the stockholders or other equityholders of any Person not publicly approved (at the time of the first such action) by the board of directors\n        or similar governing body of such Person, (ii) publicly initiated any proposal for action by stockholders or other equityholders of any Person initially publicly opposed by the board of directors or similar governing body of such Person, (iii)\n        publicly sought election to, or to place a director or representative on, the board of directors or similar governing body of a Person, or publicly sought the removal of a director or other representative from such board of directors or similar\n        governing body, in each case which election or removal was not recommended or approved publicly (at the time such election or removal is first sought) by the board of directors or (iv) publicly disclosed any intention, plan or arrangement to do any\n        of the foregoing.“Adverse Disclosure” means public disclosure of material non-public information that, in\n        the good faith judgment of Parent (after consultation with legal counsel): (a) would be required to be made in any registration statement filed with the SEC by Parent so that such registration statement would not be materially misleading; (b) would\n        not be required to be made at such time but for the filing, effectiveness or continued use of such registration statement; and (c) the Parent has a bona fide business purpose for not disclosing publicly.“Affiliate” means, with respect to any Person, any other Person directly or indirectly\n        controlling, controlled by, or under common control with such Person.  For purposes of this definition, “control” when used with respect to any Person, unless otherwise specified, means\n        the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms “controlling”\n        and “controlled” have correlative meanings; provided, however,\n        that the Investor shall not be deemed an Affiliate of Parent or any of its Subsidiaries for purposes of this Agreement (it being understood and agreed, for the avoidance of doubt, that the Company and its Subsidiaries following the Closing will\n        cease to be Affiliates of the Investor and will be Affiliates of Parent).“Applicable Law” means, with respect to any Person, all applicable U.S., non-U.S. or\n        transnational federal, state or local Laws.“Beneficial Owner”, “Beneficially Own”\n        or “Beneficial Ownership” has the meaning assigned to such term in Rule 13d-3 under the Exchange Act, and a Person’s beneficial ownership of securities shall be calculated in accordance\n        with the provisions of such Rule (in each case, irrespective of whether or not such Rule is actually applicable in such circumstance).“Business Day” means a day, other than a Saturday or Sunday or public holiday in New York,\n        New York on which banks are open in New York, New York for general commercial business.“Change in Control” means the occurrence of any of the following events:(a)          the sale or disposition, in one or a\n            series of related transactions, of all or substantially all, of the assets of Parent to any Person or Group;(b)          any Person or Group is or becomes the\n            Beneficial Owner, directly or indirectly, of more than 50% of the total voting power of the Voting Securities of Parent (or any Person which controls Parent or which is a successor to all or substantially all of the assets of Parent), including\n            by way of merger, recapitalization, reorganization, redemption, issuance of capital stock, consolidation, tender or exchange offer or otherwise; or(c)          a merger of Parent with or into another\n            Person in which the holders of Voting Securities of Parent as of immediately prior to such merger cease to hold at least 50% of the outstanding equity or voting securities of Parent (or the surviving corporation in such merger or the ultimate\n            parent thereof) immediately following such merger.“Closing Date” means the date of the Closing.“Commission” means the Securities and Exchange Commission or any other federal agency\n        administering the Securities Act.“Company” has the meaning set forth in the Preamble.“Confidential Information” means all confidential and/or non-public information\n        (irrespective of the form of communication, and irrespective of whether obtained prior to or after the date hereof) obtained by or on behalf of the Investor or its Representatives from or on behalf of Parent or its Representatives, other than\n        information which (i) was or becomes generally available to the public other than as a result of a breach of this Agreement by the Investor or any of its Representatives, (ii) was or becomes available to the Investor or any of its Representatives\n        on a non-confidential basis from a source other than Parent or its Representatives; provided that the source thereof is not known by the Investor or its Representatives to be bound by an\n        obligation of confidentiality to Parent or its Subsidiaries in respect of such information, or (iii) is independently developed by the Investor or its Representatives without the use of or reference to any such information that would otherwise be\n        Confidential Information hereunder.“Contract” means any written or oral contract, agreement, obligation, understanding or\n        instrument, lease or license.“Equity Interest” means any share of capital stock or other class of equity securities of a\n        Person, whether voting or non-voting.“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and\n        regulations promulgated thereunder.“FINRA” means the Financial Industry Regulatory Authority, Inc.“Governmental Authority” means any federal, national, state, local, cantonal, municipal,\n        international or multinational government or political subdivision thereof, governmental department, commission, board, bureau, agency, taxing or regulatory authority, instrumentality or judicial or administrative body, or arbitrator or SRO, having\n        jurisdiction over the matter or matters in question.“Group” has the meaning assigned to such term in Section 13(d)(3) of the Exchange Act.“Identified Viessmann Familymembers” means Professor Martin Viessmann and Maximilian\n        Viessmann.“Investor Designee” means an individual designated in writing by the Investor for election\n        or appointment to the Parent Board.“Investor Director” means an Investor Designee who has been elected or appointed to the\n        Parent Board.“Investor Parties” means the Investor and each Permitted Transferee of the Investor to whom\n        Voting Securities are transferred pursuant to and in accordance with Section 2.1.“Investor Percentage Interest” means the percentage calculated by dividing (x) the number\n        of Voting Securities that are, as of the date of such calculation, Beneficially Owned by the Investor Parties, in the aggregate, by (y) the number of issued and outstanding Voting Securities as of the date of such calculation.“Laws” means laws, statutes, binding Orders, rules, and regulations, ordinances,\n        directives, treaties, rules of common law and rules of any applicable SRO.“Material Parent Breach Period” means a period in which Parent is in material breach of any\n        of its obligations under Section 1.1, 1.2, 1.3, or 1.4 hereof and such breach continues for, and is not cured within, ten (10) Business Days after Parent has received written notice thereof from the Investor and such breach has not been waived\n        in writing by the Investor; provided, that such a period shall be deemed to have commenced on the date upon which Parent received written notice thereof from the Investor and shall\n        terminate upon the cure of any such material breach giving rise to the commencement of such Material Parent Breach Period.“Order” means any order, writ, decree, judgment, award, decision, injunction, ruling,\n        settlement, verdict, consent decree, compliance order, civil or administrative order, or stipulation issued, promulgated, made, rendered or entered into by or with any Governmental Authority or arbitrator (in each case, whether temporary,\n        preliminary or permanent).“Person” an individual, firm, body corporate (wherever incorporated), partnership, limited\n        liability company, association, joint venture, trust, foundation, works council or employee representative body (whether or not having separate legal personality) or other entity or organization, including a Governmental Authority.“Permitted Transferee” means:(a)          any Affiliate of the Investor; and(b)          any member, stockholder, partner or\n            other holder of Equity Interests of any Affiliate of the Investor that, in each case, is an “accredited investor”, as that term is defined in Rule 501 of Regulation D, as promulgated under the Securities Act (including, for the avoidance of\n            doubt, any Identified Viessmann Familymember); provided, that, in relation to any Person identified in the foregoing clauses (a) and (b),\n            the term “Permitted Transferee” shall also mean (i) such Person’s estate upon the death of such Person, (ii) any ancestor, descendant, sibling or spouse of such Person or any trust,\n            foundation, partnership, custodianship or other fiduciary vehicle or account with respect to which any ancestor, descendant, sibling or spouse of such Person is a beneficiary, (iii) any vehicle or account established by any such Person for bona\n            fide tax planning purposes, and (iv) any charitable trust, foundation or other Person established or controlled by such Person.“Registrable Amount” means an amount of Registrable Securities having an aggregate value of\n        at least $50 million (based on the anticipated offering price (as reasonably determined in good faith by Parent)), without regard to any underwriting discount or commission, or such lesser amount of Registrable Securities as would result in the\n        disposition of all of the Registrable Securities Beneficially Owned by the Investor.“Registrable Securities” means any shares of Parent Common Stock issued to the Investor\n        pursuant to the Share Purchase Agreement and any other securities issued or issuable by Parent or any of its successors or assigns in respect of any such shares of Parent Common Stock received (including in connection with any stock split or\n        subdivision, stock dividend, distribution or similar transaction, together with any Equity Interests acquired by the Investor in connection with the exercise of the Investor’s rights under Section\n            2.2(a)(i), or by way of any conversion, exchange, merger, consolidation, sale of assets or other reorganization) or acquired (including in open market or other purchases before or after the Effective Date) or held by (or deemed to be\n        held by) any Investor Party (and, if applicable, any transferee of any Investor Party that receives “restricted securities” in connection with a transfer of Parent Common Stock or such other securities other than pursuant to an effective\n        Registration Statement or Rule 144); provided, that any such shares of Parent Common Stock or other securities shall cease to be Registrable Securities when (i) they are sold pursuant to an effective registration statement under the Securities Act,\n        (ii) they are sold pursuant to Rule 144 under the Securities Act, (iii) they become eligible for sale pursuant to Rule 144 under the Securities Act without volume or manner-of-sale restrictions or (iv) they shall have ceased to be outstanding.“Securities Act” means the Securities Act of 1933, as amended, and the rules and\n        regulations promulgated thereunder.“Shares” means the shares of Parent Common Stock issued to the Investor pursuant to the\n        Share Purchase Agreement (as adjusted for any stock split, reverse stock split, stock dividend, subdivision, reclassification, recapitalization, exchange or similar reorganization of shares).“10.15% Shareholder” means when referring to the Investor, that the Investor Parties and\n        their Permitted Transferees, collectively hold Voting Securities (and derivative instruments convertible, exchangeable or exercisable into Voting Securities) that collectively constitute 10.15% or more of the Voting Securities outstanding at such\n        time.“15% Shareholder” means when referring to the Investor, that the Investor Parties and their\n        Permitted Transferees, collectively hold Voting Securities (and derivative instruments convertible, exchangeable or exercisable into Voting Securities) that collectively constitute 15% or more of the Voting Securities outstanding at such time.“SRO” means (i) any “self-regulatory organization” as defined in Section 3(a)(26) of the\n        Exchange Act, (ii) any other United States or foreign securities exchange, futures exchange, commodities exchange or contract market, or (iii) any other securities exchange.“Standstill Period” means the period beginning on the Closing and ending on the later of\n        (1) the date that is twelve (12) months from the Closing Date, and (2) the date on which the Investor Director ceases to serve on the Parent Board, no replacement Investor Designee is designated by the Investor to fill the resulting vacancy in\n        accordance with this Agreement and Investor does not have the right (or has irrevocably relinquished the right) to designate a director to the Parent Board in accordance with this Agreement.“Subsidiary” means, with respect to any Person, another Person with respect to which the\n        first Person holds, directly or indirectly, (a) an amount of the voting securities, other voting ownership or voting partnership interests sufficient to elect at least a majority of its board of directors or other governing body or (b) more than\n        fifty (50%) of the equity interests.“Transaction Document” means this Agreement, the Share Purchase Agreement, the Transitional\n        Services Agreement (as defined in the Share Purchase Agreement) and the License Agreement (as defined in the Share Purchase Agreement).“Transfer” means (i) any direct or indirect offer, sale, lease, assignment, encumbrance,\n        pledge, hypothecation, disposition or other transfer (by operation of law or otherwise), either voluntary or involuntary, or entry into any contract, option or other arrangement or understanding with respect to any offer, sale, lease, assignment,\n        encumbrance, pledge, hypothecation, disposition or other transfer (by operation of law or otherwise), of any capital stock or interest in any capital stock or (ii) in respect of any capital stock or interest in any capital stock, entry into any\n        swap, put option, derivative, or any other agreement, transaction or series of transactions that hedges or transfers, in whole or in part, directly or indirectly, the economic consequence of ownership of such capital stock or interest in capital\n        stock, whether any such swap, derivative, put option, agreement, transaction or series of transaction is to be settled by delivery of securities, in cash or otherwise; provided that a\n        “Transfer” will not include (A) the granting of a pledge, lien or other security interest over any capital stock or interest in any capital stock to a nationally recognized bank or broker-dealer in connection with any bona fide financing\n        arrangements (including any bona fide margin loan transaction) entered into with any such nationally recognized bank or broker-dealer, or the ability of such a bank or broker-dealer to foreclose on and Transfer such capital stock or interest in any\n        capital stock and any foreclosure or Transfer by such a bank or broker-dealer, as long as such bank or broker-dealer agrees with the relevant Transferee (with Parent as an express third party beneficiary of such agreement) that following such\n        foreclosure it shall not directly or indirectly Transfer (other than pursuant to a broadly distributed public offering or a sale effected through a broker dealer) any such foreclosed capital stock or interest in any capital stock without Parent’s\n        prior written consent, or the enforcement of any rights related thereto or (B) any indirect Transfer of Equity Interests of Parent by virtue of an issuance of a direct or indirect Equity Interest in the Investor, any of its Affiliates or any of\n        their respective securityholders.  “Transferor” means a Person that Transfers or proposes to Transfer; and “Transferee” means a\n        Person to whom a Transfer is made or is proposed to be made.“Underwritten Offering” means a sale of securities of Parent, in an amount no less than the\n        Registrable Amount, to an underwriter or underwriters for reoffering to the public.“Voting Securities” means shares of Parent Common Stock and any other securities of Parent\n        entitled to vote generally in the election of directors of Parent.Section 5.2           Other Defined Terms."
+  },
+  {
+    "id": "element_0206",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0207",
+    "cls": "PageNumberElement",
+    "text": "27"
+  },
+  {
+    "id": "element_0208",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0209",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0210",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0211",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0212",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0213",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0214",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0215",
+    "cls": "PageNumberElement",
+    "text": "28"
+  },
+  {
+    "id": "element_0216",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0217",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0218",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0219",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0220",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0221",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0222",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0223",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0224",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0225",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0226",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0227",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0228",
+    "cls": "PageNumberElement",
+    "text": "29"
+  },
+  {
+    "id": "element_0229",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0230",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0231",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0232",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0233",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0234",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0235",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0236",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0237",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0238",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0239",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0240",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0241",
+    "cls": "PageNumberElement",
+    "text": "30"
+  },
+  {
+    "id": "element_0242",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0243",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0244",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0245",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0246",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0247",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0248",
+    "cls": "PageNumberElement",
+    "text": "31"
+  },
+  {
+    "id": "element_0249",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0250",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0251",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0252",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0253",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0254",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0255",
+    "cls": "PageNumberElement",
+    "text": "32"
+  },
+  {
+    "id": "element_0256",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0257",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0258",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0259",
+    "cls": "TableElement",
+    "text": "Term\n\n\nSection\n\n\n\n \n \n\n\n\nAgreement\n\n\nPreamble\n\n\n\n\nClosing\n\n\nRecitals\n\n\n\n\nCompany\n\n\nRecitals\n\n\n\n\nDemand\n\n\n4.1(a)\n\n\n\n\nDemand Registration\n\n\n5.1(a)\n\n\n\n\nEligibility Criteria\n\n\n1.3(a)\n\n\n\n\nForm S-3\n\n\n4.3(a)\n\n\n\n\nFree Writing Prospectus\n\n\n4.5(a)(iv)\n\n\n\n\nHolder\n\n\n4.3(a)\n\n\n\n\nHolder Indemnified Party\n\n\n4.8(b)\n\n\n\n\nInspectors\n\n\n4.5(a)(x)\n\n\n\n\nInvestor\n\n\nPreamble\n\n\n\n\nInvestor Related Parties\n\n\n1.2(h)\n\n\n\n\nLosses\n\n\n4.8(a)\n\n\n\n\nNYSE\n\n\n1.3(a)\n\n\n\n\nOther Demanding Sellers\n\n\n4.2(b)\n\n\n\n\nOther Proposed Sellers\n\n\n4.2(b)\n\n\n\n\nParent\n\n\nPreamble\n\n\n\n\nParent Board\n\n\n1.1\n\n\n\n\nParent Common Stock\n\n\nRecitals\n\n\n\n\nParent Indemnified Party\n\n\n4.8(a)\n\n\n\n\nPermitted Transfer\n\n\n2.1(b)\n\n\n\n\nPermitted Transferee\n\n\n2.1(b)\n\n\n\n\nPiggyback Notice\n\n\n4.2(a)\n\n\n\n\nPiggyback Registration\n\n\n4.2(a)\n\n\n\n\nProposed Securities\n\n\n2.4(a)(i)\n\n\n\n\nRecords\n\n\n4.5(a)(x)\n\n\n\n\nRepresentatives\n\n\n1.9(a)(iii)\n\n\n\n\nRequested Information\n\n\n4.7(a)\n\n\n\n\nRestricted Period\n\n\n2.1(a)\n\n\n\n\nShare Purchase Agreement\n\n\nRecitals\n\n\n\n\nShelf Notice\n\n\n4.3(a)\n\n\n\n\nShelf Offering\n\n\n4.3(d)\n\n\n\n\nShelf Registration Statement\n\n\n4.3(a)\n\n\n\n\nStandstill Period\n\n\n2.2(d)\n\n\n\n\nTake-Down Notice\n\n\n4.3(d)"
+  },
+  {
+    "id": "element_0260",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0261",
+    "cls": "PageNumberElement",
+    "text": "33"
+  },
+  {
+    "id": "element_0262",
+    "cls": "TextElement",
+    "text": "Section 5.3          Interpretation.  Whenever used: the words “include,” “includes” and “including”\n        shall be deemed to be followed by the phrase “without limitation,” and the words “hereof,” “hereunder” and “herein” and similar words shall be construed as references to this Agreement as a whole and not limited to the particular provision of the Article or Section in which the reference appears. \n        Unless the context otherwise requires, references herein: (x) to Articles and Sections mean the Articles and Sections of this Agreement; (y) to an agreement, instrument or other document means such agreement, instrument or other document as\n        amended, supplemented and modified from time to time to the extent permitted by the provisions thereof; and (z) to a statute, rule or regulation means such statute, rule or regulation as amended or supplemented from time to time and includes any\n        successor legislation thereto and any rules or regulations promulgated thereunder.  References to “$” or “dollars” means United\n        States dollars.  Any reference in this Agreement to any gender shall include all genders.  The meanings of defined terms are equally applicable to the singular and plural forms of the defined terms.  The headings and captions herein are for\n        convenience of reference only and do not affect the construction or interpretation of any of the provisions hereof.  The word “extent” in the phrase “to the extent” shall mean the degree\n        to which a subject or other theory extends and such phrase shall not mean “if.” The word “or” when used in this Agreement is not exclusive.  If, and as often as, there is any change in the outstanding shares of Parent Common Stock by reason of any\n        stock split, reverse stock split, stock dividend, subdivision, reclassification, recapitalization or exchange or similar reorganization of shares, appropriate adjustment shall be made in the provisions of this Agreement so as to fairly and\n        equitably preserve, as far as practicable, the rights and obligations set forth herein that continue to be applicable on the date of such change.  Any reference to “written” or “in writing” refers to printing, typing and other means of reproducing words (including electronic media) in a visible form, including e-mail.  To the extent that this Agreement requires an\n        Affiliate or Subsidiary of any party to take or omit to take any action, such covenant or agreement includes the obligation of such party to cause such Affiliate or Subsidiary to take or omit to take such action.  The parties hereto have\n        participated jointly in the negotiation and drafting of this Agreement and, in the event an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as jointly drafted by the parties hereto and no presumption or\n        burden of proof shall arise favoring or disfavoring any party by virtue of the authorship of any provision of this Agreement.  References to any Person include the successors and permitted assigns of that Person.  References from or through any\n        date mean, unless otherwise specified, from and including or through and including, respectively.  The word “party” is to be deemed to refer to a party hereto, unless the context requires otherwise."
+  },
+  {
+    "id": "element_0263",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0264",
+    "cls": "TitleElement",
+    "text": "ARTICLE VI",
+    "level": 1
+  },
+  {
+    "id": "element_0265",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0266",
+    "cls": "TitleElement",
+    "text": "MISCELLANEOUS",
+    "level": 1
+  },
+  {
+    "id": "element_0267",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0268",
+    "cls": "TextElement",
+    "text": "Section 6.1          Term.  This Agreement will be effective as of the date hereof and, except as otherwise set forth herein, will continue in effect thereafter until the first date on which the Investor ceases to\n        Beneficially Own any Voting Securities; provided, however, that (a) the provisions contained in Article IV of this Agreement, except Section 4.8, shall survive so long as there are, and shall automatically terminate when there are no longer, any\n        Registrable Securities outstanding and (b) Section 1.5, the representations and warranties of the Investor and Parent in Section 3.1\n        and Section 3.2, respectively, the indemnity and contribution provisions contained in Section 4.8, Article V, and this Article VI shall survive any termination of this Agreement.Section 6.2          Notices.(a)          Notices and other statements in\n            connection with this Agreement shall be in writing in the English language and shall be delivered by hand, email or overnight courier to the recipient’s address as set forth below or to such other address as a party hereto may notify to the\n            other parties hereto from time to time and shall be given:\n\n\n\n(i)\n\nif to Parent, to:\n\n\n\n\n\n\nName:\n\nCarrier Global Corporation\n\n\n\n\n\n\nAddress:\n\n13955 Pasteur Boulevard\nPalm Beach Gardens \nFlorida 33418 \nUnited States of America \n\n\n\n        with a copy to (which shall not be considered notice):\n\n\n\nName:\n\nPaul, Weiss, Rifkind Wharton & Garrison LLP\n\n\n\n\n\n\nAddress:\n\n1285 Avenue of the Americas\nNew York \nNew York, 10019 \nUnited States of America \n\n\n\n\n\n \n\n(ii)\n\n\nif to the Investor, to:\n\n\n\n\n\n\n\nName:\n\nViessmann Group GmbH & Co. KG\n\n\n\n\n\n\nAddress:\n\nViessmannstraße 1\n35108 Allendorf (Eder) \nGermany \n\n\nwith a copy to (which shall not be considered notice):\n\n\n\nName:\n\nDavis Polk & Wardwell London LLP\n\n\n\n\n\n\nAddress:\n\n5 Aldermanbury Square\nLondon EC2V 7HR \nUnited Kingdom \n\n\n\n\n\n\nName:\n\nHengeler Mueller Partnerschaft von\nRechtsanwälten mbH \n\n\n\n\n\n\nAddress:\n\nBenrather Straße 18-20\n\n40213 Düsseldorf\n\nGermany\n\n\n\n\n(b)          A notice shall be effective upon receipt\n            and shall be deemed to have been received: (i) at the time of delivery, if delivered by hand, or overnight courier; or (ii) at the time of transmission if sent by email (receipt confirmation requested).Section 6.3           Amendments and Waivers.  Each of the parties hereto agrees that no provision of this Agreement may be amended or modified unless such amendment or modification is in writing and signed by Parent and the\n        Investor.  No failure or delay by any party in exercising any right, power or privilege hereunder shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of\n        any other right, power or privilege.  The rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies provided by Applicable Law.Section 6.4           Successors and Assigns.  The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns; provided, that, except in connection with a Change in Control, no party may assign, delegate or otherwise transfer any of its rights or obligations under this Agreement without the consent of the other party\n        hereto.Section 6.5           Severability.  It is the intent of the parties that the provisions of this Agreement shall be enforced to the fullest extent permissible under Applicable Law and public policies applied in each\n        jurisdiction in which enforcement is sought.  If any particular provision or portion of this Agreement shall be adjudicated to be invalid or unenforceable, such provision or portion thereof shall be deemed amended to the minimum extent necessary to\n        render such provision or portion valid and enforceable, and such amendment will apply only with respect to the operation of such provision or portion in the particular jurisdiction in which such adjudication is made.Section 6.6           Counterparts.  This Agreement may be executed in two or more counterparts, all of which shall be considered one and the same agreement and shall become effective when counterparts have been signed by\n        each of the parties and delivered to the other parties, it being understood that each party need not sign the same counterpart.  This Agreement and any signed agreement or instrument entered into in connection with this Agreement, and any\n        amendments or waivers hereto or thereto, to the extent signed and delivered by means of electronic signature or by e-mail delivery of an electronic data file, shall be treated in all manner and respects as an original agreement or instrument and\n        shall be considered to have the same binding legal effect as if it were the original signed version thereof delivered in person.  No party hereto or to any such agreement or instrument shall raise the use of electronic signature or e-mail delivery\n        of an electronic data file to deliver a signature to this Agreement or any amendment hereto or the fact that any signature or agreement or instrument was transmitted or communicated through the use of electronic signature or e-mail delivery of an\n        electronic data file as a defense to the formation of a contract and each party hereto forever waives any such defense.Section 6.7           Entire Agreement.  This Agreement (including the documents and the instruments referred to in this Agreement) constitutes the entire agreement and supersedes all prior agreements and understandings, both\n        written and oral, between the parties with respect to the subject matter of this Agreement.Section 6.8           Governing Law; Jurisdiction; WAIVER OF JURY TRIAL.(a)          This Agreement shall be governed by and\n            construed in accordance with the law of the State of Delaware, without regard to the conflicts of law rules of such state that would cause the law of any other jurisdiction to apply.(b)          The parties hereto agree that any suit,\n            action or proceeding seeking to enforce any provision of, or based on any matter arising out of or in connection with, this Agreement or the transactions contemplated hereby shall be brought exclusively in the Delaware Court of Chancery in and\n            for New Castle County, or in the event (but only in the event) that such Delaware Court of Chancery does not have subject matter jurisdiction over such dispute, the United States District Court for the District of Delaware; provided, that if such court does not have jurisdiction, any such action shall be brought exclusively in any other state court sitting in the State of Delaware, so long as such courts\n            shall have subject matter jurisdiction over such suit, action or proceeding, and that any cause of action arising out of this Agreement shall be deemed to have arisen from a transaction of business in the State of Delaware, and each of the\n            parties hereby irrevocably consents to the jurisdiction of such courts (and of the appropriate appellate courts therefrom) in any such suit, action or proceeding and irrevocably waives, to the fullest extent permitted by law, any objection that\n            it may now or hereafter have to the laying of the venue of any such suit, action or proceeding in any such court or that any such suit, action or proceeding brought in any such court has been brought in an inconvenient forum.  Process in any\n            such suit, action or proceeding may be served on any party anywhere in the world, whether within or without the jurisdiction of any such court.  Without limiting the foregoing, each party agrees that service of process on such party as provided\n            in Section 6.2 shall be deemed effective service of process on such party."
+  },
+  {
+    "id": "element_0269",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0270",
+    "cls": "PageNumberElement",
+    "text": "34"
+  },
+  {
+    "id": "element_0271",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0272",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0273",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0274",
+    "cls": "PageHeaderElement",
+    "text": "Attention:"
+  },
+  {
+    "id": "element_0275",
+    "cls": "PageHeaderElement",
+    "text": "Email:"
+  },
+  {
+    "id": "element_0276",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0277",
+    "cls": "PageHeaderElement",
+    "text": "Attention:"
+  },
+  {
+    "id": "element_0278",
+    "cls": "PageHeaderElement",
+    "text": "Email:"
+  },
+  {
+    "id": "element_0279",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0280",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0281",
+    "cls": "PageHeaderElement",
+    "text": "Attention:"
+  },
+  {
+    "id": "element_0282",
+    "cls": "PageHeaderElement",
+    "text": "Email:"
+  },
+  {
+    "id": "element_0283",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0284",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0285",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0286",
+    "cls": "PageNumberElement",
+    "text": "35"
+  },
+  {
+    "id": "element_0287",
+    "cls": "PageHeaderElement",
+    "text": "Attention:"
+  },
+  {
+    "id": "element_0288",
+    "cls": "PageHeaderElement",
+    "text": "Email:"
+  },
+  {
+    "id": "element_0289",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0290",
+    "cls": "PageHeaderElement",
+    "text": "Attention:"
+  },
+  {
+    "id": "element_0291",
+    "cls": "PageHeaderElement",
+    "text": "Email:"
+  },
+  {
+    "id": "element_0292",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0293",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0294",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0295",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0296",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0297",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0298",
+    "cls": "PageNumberElement",
+    "text": "36"
+  },
+  {
+    "id": "element_0299",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0300",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0301",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0302",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0303",
+    "cls": "TitleElement",
+    "text": "(c)          EACH OF THE PARTIES HERETO HEREBY\n            IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.",
+    "level": 3
+  },
+  {
+    "id": "element_0304",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0305",
+    "cls": "PageNumberElement",
+    "text": "37"
+  },
+  {
+    "id": "element_0306",
+    "cls": "TextElement",
+    "text": "Section 6.9           Specific Performance.  The parties hereto agree that irreparable damage would occur, and that the parties would not have any adequate remedy at law, in the event that any of the provisions of this\n        Agreement were not performed in accordance with their specific terms or were otherwise breached.  It is accordingly agreed that the parties shall be entitled to an injunction or injunctions to prevent breaches of this Agreement and to specifically\n        enforce the terms and provisions of this Agreement, without proof of actual damages or otherwise, in addition to any other remedy to which any party is entitled at law or in equity.  Each party agrees to waive any requirement for the securing or\n        posting of any bond in connection with such remedy.  The parties further agree not to assert that a remedy of specific enforcement is unenforceable, invalid, contrary to law or inequitable for any reason, nor to assert that a remedy of monetary\n        damages would provide an adequate remedy.Section 6.10         No Third-Party Beneficiaries.  Nothing in this Agreement shall confer any rights upon any Person other than the parties hereto and each such party’s respective heirs, successors and permitted assigns; provided, that the Parent Indemnified Parties and the Holder Indemnified Parties are intended third party beneficiaries of Section 4.8."
+  },
+  {
+    "id": "element_0307",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0308",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0309",
+    "cls": "TitleElement",
+    "text": "The remainder of this page intentionally left blank",
+    "level": 4
+  },
+  {
+    "id": "element_0310",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0311",
+    "cls": "PageNumberElement",
+    "text": "38"
+  },
+  {
+    "id": "element_0312",
+    "cls": "TextElement",
+    "text": "IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement by their authorized representatives as of the date first above written.\n\n\n\n\nCARRIER GLOBAL CORPORATION\n\n\n\n\n\n\n\n\n\n\n\n\nBy:\n/s/ Francesca Campbell\n\n\n\n\n\n\n\nName: Francesca Campbell\n\n\n\n\n\n\nTitle: Vice President, Secretary"
+  },
+  {
+    "id": "element_0313",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0314",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0315",
+    "cls": "TitleElement",
+    "text": "[Signature Page to Investor Rights Agreement]",
+    "level": 4
+  },
+  {
+    "id": "element_0316",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0317",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0318",
+    "cls": "TextElement",
+    "text": "IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement by their authorized representatives as of the date first above written.\n\n\n\n\nVIESSMANN GROUP GMBH & CO. KG\n\n\n\n\nby its sole general partner, VIESSMANN KOMPLEMENTÄR B.V.\n\n\n\n\n\n\n\n\n\n\n\n\nBy:\n/s/ Ulrich Hüllmann \n\n\n\n\n\n\nName: Ulrich Hüllmann\n\n\n\n\n\n\n\n\n\n\n\n\nBy:\n/s/ Hans-Jörg Harth\n\n\n\n\n\n\n\nName: Hans-Jörg Harth"
+  },
+  {
+    "id": "element_0319",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0320",
+    "cls": "EmptyElement",
+    "text": ""
+  },
+  {
+    "id": "element_0321",
+    "cls": "TitleElement",
+    "text": "[Signature Page to Investor Rights Agreement]",
+    "level": 4
+  }
+]

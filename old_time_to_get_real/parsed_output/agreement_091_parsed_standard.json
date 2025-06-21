@@ -1,0 +1,85 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TitleElement",
+    "text": "Exhibit 10.17",
+    "level": 0
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "Forte Biosciences, Inc.",
+    "level": 1
+  },
+  {
+    "id": "element_0002",
+    "cls": "TitleElement",
+    "text": "Amended and Restated Non-Employee Director Compensation Policy",
+    "level": 1
+  },
+  {
+    "id": "element_0003",
+    "cls": "SupplementaryText",
+    "text": "(March 14, 2024)"
+  },
+  {
+    "id": "element_0004",
+    "cls": "TextElement",
+    "text": "Each member of the Board of Directors (the “Board”) who is not also serving as an employee of or consultant to Forte Biosciences, Inc. (“Forte Biosciences”) or any of its subsidiaries (each such member, an “Eligible Director”) will receive the compensation described in this Amended and Restated Non-Employee Director Compensation Policy for his or her Board service.  This policy is effective as of March 14, 2024 (the “Effective Date”) and may be amended at any time in the sole discretion of the Board or the Compensation Committee of the Board."
+  },
+  {
+    "id": "element_0005",
+    "cls": "TitleElement",
+    "text": "Annual Cash Compensation",
+    "level": 0
+  },
+  {
+    "id": "element_0006",
+    "cls": "TextElement",
+    "text": "The annual cash compensation amount set forth below is payable in equal quarterly installments, payable in arrears on the last day of each fiscal quarter in which the service occurred. If an Eligible Director joins the Board or a committee of the Board at a time other than effective as of the first day of a fiscal quarter, each annual retainer set forth below will be pro-rated based on days served in the applicable fiscal year, with the pro-rated amount paid for the first fiscal quarter in which the Eligible Director provides the service, and regular full quarterly payments thereafter. All annual cash fees are vested upon payment."
+  },
+  {
+    "id": "element_0007",
+    "cls": "TitleElement",
+    "text": "1.\tAnnual Board Service Retainer:",
+    "level": 2
+  },
+  {
+    "id": "element_0008",
+    "cls": "TextElement",
+    "text": "a.\tAll Eligible Directors: $42,500b.\tChairman of the Board Service Retainer (in addition to Eligible Director Service Retainer): $30,000c.\tLead Independent Director Service Retainer (in addition to Eligible Director Service Retainer): $20,000"
+  },
+  {
+    "id": "element_0009",
+    "cls": "TitleElement",
+    "text": "2.\tAnnual Committee Member Service Retainer:",
+    "level": 2
+  },
+  {
+    "id": "element_0010",
+    "cls": "TextElement",
+    "text": "a.\tMember of the Audit Committee: $8,000b.\tMember of the Compensation Committee: $6,000c.\tMember of the Nominating & Governance Committee: $5,000"
+  },
+  {
+    "id": "element_0011",
+    "cls": "TitleElement",
+    "text": "3.\tAnnual Committee Chair Service Retainer (in addition to Committee Member Service Retainer):",
+    "level": 2
+  },
+  {
+    "id": "element_0012",
+    "cls": "TextElement",
+    "text": "a.\tChairman of the Audit Committee: $16,000b.\tChairman of the Compensation Committee: $12,000c.\tChairman of the Nominating & Governance Committee: $10,000"
+  },
+  {
+    "id": "element_0013",
+    "cls": "TitleElement",
+    "text": "Equity Compensation",
+    "level": 0
+  },
+  {
+    "id": "element_0014",
+    "cls": "TextElement",
+    "text": "The equity compensation set forth below will be granted under the Forte Biosciences, Inc. 2021 Equity Incentive Plan (the “Plan”). All stock options granted under this policy will be nonstatutory stock options, with an exercise price per share equal to 100% of the Fair Market Value (as defined in the Plan) of the underlying Forte Biosciences Common Stock on the date of grant, and a term  1.  of ten years from the date of grant (subject to earlier termination in connection with a termination of service as provided in the Plan, provided that upon a termination of service other than for death, disability or cause, the post-termination exercise period will be 12 months from the date of termination).1.\tInitial Grant: On the date of the Eligible Director’s initial election to the Board, for each Eligible Director who is first elected to the Board following the Effective Date (or, if such date is not a market trading day, the first market trading day thereafter), the Eligible Director will be automatically, and without further action by the Board or Compensation Committee of the Board, granted a stock option for 50,000 shares (the “Initial Grant”).  The shares subject to each Initial Grant will vest in equal monthly installments over a three year period such that the option is fully vested on the third anniversary of the date of grant, subject to the Eligible Director’s Continuous Service (as defined in the Plan) through each such vesting date and will vest in full upon a Change in Control (as defined in the Plan).2.\tAnnual Grant: On the date of each Forte Biosciences annual stockholder meeting held after the Effective Date, for each Eligible Director who continues to serve as a non-employee member of the Board (or who is first elected to the Board at such annual stockholder meeting), the Eligible Director will be automatically, and without further action by the Board or Compensation Committee of the Board, granted a stock option for 50,000 shares (the “Annual Grant”). In addition, each Eligible Director who is first elected to the Board following the Effective Date and other than at an annual stockholder meeting will be automatically, and without further action by the Board or Compensation Committee of the Board, granted an Annual Grant, pro rated for the number of months remaining until the next annual stockholder meeting.  The shares subject to the Annual Grant will vest in equal monthly installments over the 12 months following the date of grant, provided that the Annual Grant will in any case be fully vested on the date of Forte Biosciences’ next annual stockholder meeting, subject to the Eligible Director’s Continuous Service (as defined in the Plan) through such vesting date and will vest in full upon a Change in Control (as defined in the Plan).  2."
+  }
+]

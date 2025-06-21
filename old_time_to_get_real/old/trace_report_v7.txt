@@ -1,0 +1,1356 @@
+PROCESSING STEP TRACE REPORT
+================================================================================
+
+Agreement 1:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 9, 'type_changes': {}}
+
+Agreement 2:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 50, 'type_changes': {}}
+  MainTitleClassifierV6: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 1}}
+  LegalContentClassifierV6: {'Δcount': 3, 'Δroots': 0, 'Δorphans': 3, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 1, 'PartyElement': 1, 'DefinitionElement': 1}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 39, 'type_changes': {}}
+  ContentClassifierV6: {'Δcount': 10, 'Δroots': 0, 'Δorphans': 10, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 10}}
+
+Agreement 3:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 159, 'type_changes': {}}
+  MainTitleClassifierV6: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 1}}
+  LegalContentClassifierV6: {'Δcount': 4, 'Δroots': 0, 'Δorphans': 4, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 1, 'PartyElement': 1, 'DefinitionElement': 2}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 122, 'type_changes': {}}
+  ContentClassifierV6: {'Δcount': 25, 'Δroots': 0, 'Δorphans': 25, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 25}}
+
+Agreement 4:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 222, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 20, 'Δroots': 10, 'Δorphans': 10, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 10}}
+  EnhancedClauseClassifierV6: {'Δcount': 26, 'Δroots': 0, 'Δorphans': 26, 'Δdepth': 2, 'Δretyped': 0, 'type_changes': {'ClauseElement': 26}}
+  MainTitleClassifierV6: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 2}}
+  LegalContentClassifierV6: {'Δcount': 10, 'Δroots': 2, 'Δorphans': 8, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 5, 'PartyElement': 1, 'DefinitionElement': 2, 'ExhibitElement': 2}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 252, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 6, 'Δroots': 4, 'Δorphans': 2, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 6}}
+  ContentClassifierV6: {'Δcount': 127, 'Δroots': 0, 'Δorphans': 127, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 127}}
+
+Agreement 5:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 230, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 20, 'Δroots': 10, 'Δorphans': 10, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 10}}
+  EnhancedClauseClassifierV6: {'Δcount': 26, 'Δroots': 0, 'Δorphans': 26, 'Δdepth': 2, 'Δretyped': 0, 'type_changes': {'ClauseElement': 26}}
+  MainTitleClassifierV6: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 2}}
+  LegalContentClassifierV6: {'Δcount': 14, 'Δroots': 3, 'Δorphans': 11, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 5, 'PartyElement': 1, 'DefinitionElement': 5, 'ExhibitElement': 3}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 640, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 6, 'Δroots': 4, 'Δorphans': 2, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 6}}
+  ContentClassifierV6: {'Δcount': 154, 'Δroots': 0, 'Δorphans': 154, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 154}}
+
+Agreement 6:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 237, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 26, 'Δroots': 16, 'Δorphans': 10, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 16}}
+  EnhancedClauseClassifierV6: {'Δcount': 76, 'Δroots': 0, 'Δorphans': 76, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'ClauseElement': 76}}
+  MainTitleClassifierV6: {'Δcount': 3, 'Δroots': 3, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 3}}
+  LegalContentClassifierV6: {'Δcount': 21, 'Δroots': 5, 'Δorphans': 16, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 6, 'PartyElement': 2, 'DefinitionElement': 8, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1013, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 35, 'Δroots': 19, 'Δorphans': 16, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 35}}
+  ContentClassifierV6: {'Δcount': 346, 'Δroots': 0, 'Δorphans': 346, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 346}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 7:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 246, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 26, 'Δroots': 16, 'Δorphans': 10, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 16}}
+  EnhancedClauseClassifierV6: {'Δcount': 76, 'Δroots': 0, 'Δorphans': 76, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'ClauseElement': 76}}
+  MainTitleClassifierV6: {'Δcount': 4, 'Δroots': 4, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 4}}
+  LegalContentClassifierV6: {'Δcount': 23, 'Δroots': 5, 'Δorphans': 18, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 6, 'PartyElement': 2, 'DefinitionElement': 10, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1055, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 42, 'Δroots': 25, 'Δorphans': 17, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 42}}
+  ContentClassifierV6: {'Δcount': 353, 'Δroots': 0, 'Δorphans': 353, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 353}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 8:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 254, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 26, 'Δroots': 16, 'Δorphans': 10, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 16}}
+  EnhancedClauseClassifierV6: {'Δcount': 76, 'Δroots': 0, 'Δorphans': 76, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'ClauseElement': 76}}
+  MainTitleClassifierV6: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 5}}
+  LegalContentClassifierV6: {'Δcount': 24, 'Δroots': 5, 'Δorphans': 19, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 7, 'PartyElement': 2, 'DefinitionElement': 10, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1086, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 48, 'Δroots': 31, 'Δorphans': 17, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 48}}
+  ContentClassifierV6: {'Δcount': 377, 'Δroots': 0, 'Δorphans': 377, 'Δdepth': 2, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 377}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 9:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 255, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 26, 'Δroots': 16, 'Δorphans': 10, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 16}}
+  EnhancedClauseClassifierV6: {'Δcount': 76, 'Δroots': 0, 'Δorphans': 76, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'ClauseElement': 76}}
+  MainTitleClassifierV6: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 5}}
+  LegalContentClassifierV6: {'Δcount': 24, 'Δroots': 5, 'Δorphans': 19, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 7, 'PartyElement': 2, 'DefinitionElement': 10, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1094, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 48, 'Δroots': 31, 'Δorphans': 17, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 48}}
+  ContentClassifierV6: {'Δcount': 377, 'Δroots': 0, 'Δorphans': 377, 'Δdepth': 2, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 377}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 10:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 278, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 26, 'Δroots': 16, 'Δorphans': 10, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 16}}
+  EnhancedClauseClassifierV6: {'Δcount': 76, 'Δroots': 0, 'Δorphans': 76, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'ClauseElement': 76}}
+  MainTitleClassifierV6: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 5}}
+  LegalContentClassifierV6: {'Δcount': 24, 'Δroots': 5, 'Δorphans': 19, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 7, 'PartyElement': 2, 'DefinitionElement': 10, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1132, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 48, 'Δroots': 31, 'Δorphans': 17, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 48}}
+  ContentClassifierV6: {'Δcount': 390, 'Δroots': 0, 'Δorphans': 390, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 390}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 11:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 300, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 27, 'Δroots': 16, 'Δorphans': 11, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 16, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 76, 'Δroots': 0, 'Δorphans': 76, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'ClauseElement': 76}}
+  MainTitleClassifierV6: {'Δcount': 6, 'Δroots': 6, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 6}}
+  LegalContentClassifierV6: {'Δcount': 25, 'Δroots': 5, 'Δorphans': 20, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 7, 'PartyElement': 3, 'DefinitionElement': 10, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1187, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 52, 'Δroots': 33, 'Δorphans': 19, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 52}}
+  ContentClassifierV6: {'Δcount': 412, 'Δroots': 0, 'Δorphans': 412, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 412}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 12:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 312, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 27, 'Δroots': 16, 'Δorphans': 11, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 16, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 80, 'Δroots': 0, 'Δorphans': 80, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 80}}
+  MainTitleClassifierV6: {'Δcount': 7, 'Δroots': 7, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 7}}
+  LegalContentClassifierV6: {'Δcount': 25, 'Δroots': 5, 'Δorphans': 20, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 7, 'PartyElement': 3, 'DefinitionElement': 10, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1242, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 55, 'Δroots': 36, 'Δorphans': 19, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 55}}
+  ContentClassifierV6: {'Δcount': 436, 'Δroots': 0, 'Δorphans': 436, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 436}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 13:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 338, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 27, 'Δroots': 16, 'Δorphans': 11, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 16, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 87, 'Δroots': 0, 'Δorphans': 87, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 87}}
+  MainTitleClassifierV6: {'Δcount': 7, 'Δroots': 7, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 7}}
+  LegalContentClassifierV6: {'Δcount': 27, 'Δroots': 5, 'Δorphans': 22, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 7, 'PartyElement': 4, 'DefinitionElement': 11, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1332, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 58, 'Δroots': 37, 'Δorphans': 21, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 58}}
+  ContentClassifierV6: {'Δcount': 462, 'Δroots': 0, 'Δorphans': 462, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 462}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 14:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 352, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 27, 'Δroots': 16, 'Δorphans': 11, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 10, 'ArticleElement': 16, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 98, 'Δroots': 0, 'Δorphans': 98, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 98}}
+  MainTitleClassifierV6: {'Δcount': 8, 'Δroots': 8, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 8}}
+  LegalContentClassifierV6: {'Δcount': 32, 'Δroots': 5, 'Δorphans': 27, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 7, 'PartyElement': 5, 'DefinitionElement': 15, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1439, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 65, 'Δroots': 40, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 65}}
+  ContentClassifierV6: {'Δcount': 505, 'Δroots': 0, 'Δorphans': 505, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 505}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 15:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 378, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 35, 'Δroots': 16, 'Δorphans': 19, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 18, 'ArticleElement': 16, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 104, 'Δroots': 0, 'Δorphans': 104, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 104}}
+  MainTitleClassifierV6: {'Δcount': 9, 'Δroots': 9, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 9}}
+  LegalContentClassifierV6: {'Δcount': 50, 'Δroots': 5, 'Δorphans': 45, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 14, 'PartyElement': 6, 'DefinitionElement': 25, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1509, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 67, 'Δroots': 42, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 67}}
+  ContentClassifierV6: {'Δcount': 557, 'Δroots': 0, 'Δorphans': 557, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 557}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 16:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 463, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 38, 'Δroots': 19, 'Δorphans': 19, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 18, 'ArticleElement': 19, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 104, 'Δroots': 0, 'Δorphans': 104, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 104}}
+  MainTitleClassifierV6: {'Δcount': 10, 'Δroots': 10, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 10}}
+  LegalContentClassifierV6: {'Δcount': 59, 'Δroots': 5, 'Δorphans': 54, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 21, 'PartyElement': 7, 'DefinitionElement': 26, 'ExhibitElement': 5}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1572, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 67, 'Δroots': 42, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 67}}
+  ContentClassifierV6: {'Δcount': 598, 'Δroots': 0, 'Δorphans': 598, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 598}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 17:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 522, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 47, 'Δroots': 26, 'Δorphans': 21, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 20, 'ArticleElement': 26, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 115, 'Δroots': 0, 'Δorphans': 115, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 115}}
+  MainTitleClassifierV6: {'Δcount': 11, 'Δroots': 11, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 11}}
+  LegalContentClassifierV6: {'Δcount': 70, 'Δroots': 9, 'Δorphans': 61, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 24, 'PartyElement': 10, 'DefinitionElement': 27, 'ExhibitElement': 9}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1649, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 75, 'Δroots': 50, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 75}}
+  ContentClassifierV6: {'Δcount': 666, 'Δroots': 0, 'Δorphans': 666, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 666}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 18:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 522, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 47, 'Δroots': 26, 'Δorphans': 21, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 20, 'ArticleElement': 26, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 115, 'Δroots': 0, 'Δorphans': 115, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 115}}
+  MainTitleClassifierV6: {'Δcount': 11, 'Δroots': 11, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 11}}
+  LegalContentClassifierV6: {'Δcount': 70, 'Δroots': 9, 'Δorphans': 61, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 24, 'PartyElement': 10, 'DefinitionElement': 27, 'ExhibitElement': 9}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1657, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 75, 'Δroots': 50, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 75}}
+  ContentClassifierV6: {'Δcount': 667, 'Δroots': 0, 'Δorphans': 667, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 667}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 19:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 525, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 48, 'Δroots': 26, 'Δorphans': 22, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 21, 'ArticleElement': 26, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 115, 'Δroots': 0, 'Δorphans': 115, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 115}}
+  MainTitleClassifierV6: {'Δcount': 12, 'Δroots': 12, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 12}}
+  LegalContentClassifierV6: {'Δcount': 70, 'Δroots': 9, 'Δorphans': 61, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 24, 'PartyElement': 10, 'DefinitionElement': 27, 'ExhibitElement': 9}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1674, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 77, 'Δroots': 52, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 77}}
+  ContentClassifierV6: {'Δcount': 672, 'Δroots': 0, 'Δorphans': 672, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 672}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 20:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 530, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 48, 'Δroots': 26, 'Δorphans': 22, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 21, 'ArticleElement': 26, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 123, 'Δroots': 0, 'Δorphans': 123, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 123}}
+  MainTitleClassifierV6: {'Δcount': 12, 'Δroots': 12, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 12}}
+  LegalContentClassifierV6: {'Δcount': 70, 'Δroots': 9, 'Δorphans': 61, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 24, 'PartyElement': 10, 'DefinitionElement': 27, 'ExhibitElement': 9}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1692, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 79, 'Δroots': 54, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 79}}
+  ContentClassifierV6: {'Δcount': 679, 'Δroots': 0, 'Δorphans': 679, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 679}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 21:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 532, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 48, 'Δroots': 26, 'Δorphans': 22, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 21, 'ArticleElement': 26, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 123, 'Δroots': 0, 'Δorphans': 123, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 123}}
+  MainTitleClassifierV6: {'Δcount': 13, 'Δroots': 13, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 13}}
+  LegalContentClassifierV6: {'Δcount': 74, 'Δroots': 9, 'Δorphans': 65, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 27, 'PartyElement': 11, 'DefinitionElement': 27, 'ExhibitElement': 9}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1705, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 79, 'Δroots': 54, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 79}}
+  ContentClassifierV6: {'Δcount': 692, 'Δroots': 0, 'Δorphans': 692, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 692}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 22:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 533, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 48, 'Δroots': 26, 'Δorphans': 22, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 21, 'ArticleElement': 26, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 123, 'Δroots': 0, 'Δorphans': 123, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 123}}
+  MainTitleClassifierV6: {'Δcount': 14, 'Δroots': 14, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 14}}
+  LegalContentClassifierV6: {'Δcount': 77, 'Δroots': 9, 'Δorphans': 68, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 30, 'PartyElement': 11, 'DefinitionElement': 27, 'ExhibitElement': 9}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1708, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 79, 'Δroots': 54, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 79}}
+  ContentClassifierV6: {'Δcount': 695, 'Δroots': 0, 'Δorphans': 695, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 695}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 23:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 534, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 52, 'Δroots': 30, 'Δorphans': 22, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 21, 'ArticleElement': 30, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 123, 'Δroots': 0, 'Δorphans': 123, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 123}}
+  MainTitleClassifierV6: {'Δcount': 14, 'Δroots': 14, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 14}}
+  LegalContentClassifierV6: {'Δcount': 78, 'Δroots': 10, 'Δorphans': 68, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 30, 'PartyElement': 11, 'DefinitionElement': 27, 'ExhibitElement': 10}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1713, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 79, 'Δroots': 54, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 79}}
+  ContentClassifierV6: {'Δcount': 701, 'Δroots': 0, 'Δorphans': 701, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 701}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 24:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 540, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 52, 'Δroots': 30, 'Δorphans': 22, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 21, 'ArticleElement': 30, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 123, 'Δroots': 0, 'Δorphans': 123, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 123}}
+  MainTitleClassifierV6: {'Δcount': 14, 'Δroots': 14, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 14}}
+  LegalContentClassifierV6: {'Δcount': 78, 'Δroots': 10, 'Δorphans': 68, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 30, 'PartyElement': 11, 'DefinitionElement': 27, 'ExhibitElement': 10}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1852, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 79, 'Δroots': 54, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 79}}
+  ContentClassifierV6: {'Δcount': 702, 'Δroots': 0, 'Δorphans': 702, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 702}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 25:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 560, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 54, 'Δroots': 30, 'Δorphans': 24, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 23, 'ArticleElement': 30, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 123, 'Δroots': 0, 'Δorphans': 123, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 123}}
+  MainTitleClassifierV6: {'Δcount': 15, 'Δroots': 15, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 15}}
+  LegalContentClassifierV6: {'Δcount': 87, 'Δroots': 12, 'Δorphans': 75, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 35, 'PartyElement': 12, 'DefinitionElement': 28, 'ExhibitElement': 12}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2057, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 87, 'Δroots': 62, 'Δorphans': 25, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 87}}
+  ContentClassifierV6: {'Δcount': 750, 'Δroots': 0, 'Δorphans': 750, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 750}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 26:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 575, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 62, 'Δroots': 30, 'Δorphans': 32, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 31, 'ArticleElement': 30, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 127, 'Δroots': 0, 'Δorphans': 127, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 127}}
+  MainTitleClassifierV6: {'Δcount': 16, 'Δroots': 16, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 16}}
+  LegalContentClassifierV6: {'Δcount': 95, 'Δroots': 14, 'Δorphans': 81, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 39, 'PartyElement': 14, 'DefinitionElement': 28, 'ExhibitElement': 14}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2130, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 90, 'Δroots': 64, 'Δorphans': 26, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 90}}
+  ContentClassifierV6: {'Δcount': 804, 'Δroots': 0, 'Δorphans': 804, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 804}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 27:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 590, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 62, 'Δroots': 30, 'Δorphans': 32, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 31, 'ArticleElement': 30, 'SignatureBlockElement': 1}}
+  EnhancedClauseClassifierV6: {'Δcount': 127, 'Δroots': 0, 'Δorphans': 127, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 127}}
+  MainTitleClassifierV6: {'Δcount': 16, 'Δroots': 16, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 16}}
+  LegalContentClassifierV6: {'Δcount': 95, 'Δroots': 14, 'Δorphans': 81, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 39, 'PartyElement': 14, 'DefinitionElement': 28, 'ExhibitElement': 14}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2157, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 90, 'Δroots': 64, 'Δorphans': 26, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 90}}
+  ContentClassifierV6: {'Δcount': 817, 'Δroots': 0, 'Δorphans': 817, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 817}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 28:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 654, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 64, 'Δroots': 30, 'Δorphans': 34, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 31, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 133, 'Δroots': 0, 'Δorphans': 133, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 133}}
+  MainTitleClassifierV6: {'Δcount': 17, 'Δroots': 17, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 17}}
+  LegalContentClassifierV6: {'Δcount': 95, 'Δroots': 14, 'Δorphans': 81, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 39, 'PartyElement': 14, 'DefinitionElement': 28, 'ExhibitElement': 14}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2227, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 92, 'Δroots': 66, 'Δorphans': 26, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 92}}
+  ContentClassifierV6: {'Δcount': 837, 'Δroots': 0, 'Δorphans': 837, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 837}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 29:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 736, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 68, 'Δroots': 30, 'Δorphans': 38, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 35, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 152, 'Δroots': 0, 'Δorphans': 152, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 152}}
+  MainTitleClassifierV6: {'Δcount': 18, 'Δroots': 18, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 18}}
+  LegalContentClassifierV6: {'Δcount': 104, 'Δroots': 15, 'Δorphans': 89, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 45, 'PartyElement': 16, 'DefinitionElement': 28, 'ExhibitElement': 15}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2318, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 96, 'Δroots': 68, 'Δorphans': 28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 96}}
+  ContentClassifierV6: {'Δcount': 887, 'Δroots': 0, 'Δorphans': 887, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 887}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 30:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 768, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 158, 'Δroots': 0, 'Δorphans': 158, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 158}}
+  MainTitleClassifierV6: {'Δcount': 19, 'Δroots': 19, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 19}}
+  LegalContentClassifierV6: {'Δcount': 106, 'Δroots': 15, 'Δorphans': 91, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 45, 'PartyElement': 16, 'DefinitionElement': 30, 'ExhibitElement': 15}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2397, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 109, 'Δroots': 70, 'Δorphans': 39, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 109}}
+  ContentClassifierV6: {'Δcount': 949, 'Δroots': 0, 'Δorphans': 949, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 949}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 31:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 768, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 158, 'Δroots': 0, 'Δorphans': 158, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 158}}
+  MainTitleClassifierV6: {'Δcount': 19, 'Δroots': 19, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 19}}
+  LegalContentClassifierV6: {'Δcount': 106, 'Δroots': 15, 'Δorphans': 91, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 45, 'PartyElement': 16, 'DefinitionElement': 30, 'ExhibitElement': 15}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2455, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 109, 'Δroots': 70, 'Δorphans': 39, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 109}}
+  ContentClassifierV6: {'Δcount': 950, 'Δroots': 0, 'Δorphans': 950, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 950}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 32:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 768, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 180, 'Δroots': 0, 'Δorphans': 180, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 180}}
+  MainTitleClassifierV6: {'Δcount': 19, 'Δroots': 19, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 19}}
+  LegalContentClassifierV6: {'Δcount': 106, 'Δroots': 15, 'Δorphans': 91, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 45, 'PartyElement': 16, 'DefinitionElement': 30, 'ExhibitElement': 15}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2531, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 112, 'Δroots': 71, 'Δorphans': 41, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 112}}
+  ContentClassifierV6: {'Δcount': 1022, 'Δroots': 0, 'Δorphans': 1022, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1022}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 33:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 784, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 180, 'Δroots': 0, 'Δorphans': 180, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 180}}
+  MainTitleClassifierV6: {'Δcount': 19, 'Δroots': 19, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 19}}
+  LegalContentClassifierV6: {'Δcount': 106, 'Δroots': 15, 'Δorphans': 91, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 45, 'PartyElement': 16, 'DefinitionElement': 30, 'ExhibitElement': 15}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2603, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 112, 'Δroots': 71, 'Δorphans': 41, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 112}}
+  ContentClassifierV6: {'Δcount': 1026, 'Δroots': 0, 'Δorphans': 1026, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1026}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 34:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 842, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 193, 'Δroots': 0, 'Δorphans': 193, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 193}}
+  MainTitleClassifierV6: {'Δcount': 20, 'Δroots': 20, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 20}}
+  LegalContentClassifierV6: {'Δcount': 110, 'Δroots': 17, 'Δorphans': 93, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 46, 'PartyElement': 17, 'DefinitionElement': 30, 'ExhibitElement': 17}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2692, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 115, 'Δroots': 74, 'Δorphans': 41, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 115}}
+  ContentClassifierV6: {'Δcount': 1100, 'Δroots': 0, 'Δorphans': 1100, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1100}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 35:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 893, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 193, 'Δroots': 0, 'Δorphans': 193, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 193}}
+  MainTitleClassifierV6: {'Δcount': 21, 'Δroots': 21, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 21}}
+  LegalContentClassifierV6: {'Δcount': 115, 'Δroots': 17, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 49, 'PartyElement': 19, 'DefinitionElement': 30, 'ExhibitElement': 17}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2875, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 126, 'Δroots': 83, 'Δorphans': 43, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 126}}
+  ContentClassifierV6: {'Δcount': 1174, 'Δroots': 0, 'Δorphans': 1174, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1174}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 36:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 16, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 914, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 205, 'Δroots': 0, 'Δorphans': 205, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 205}}
+  MainTitleClassifierV6: {'Δcount': 22, 'Δroots': 22, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 22}}
+  LegalContentClassifierV6: {'Δcount': 115, 'Δroots': 17, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 49, 'PartyElement': 19, 'DefinitionElement': 30, 'ExhibitElement': 17}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3027, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 129, 'Δroots': 86, 'Δorphans': 43, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 129}}
+  ContentClassifierV6: {'Δcount': 1250, 'Δroots': 0, 'Δorphans': 1250, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1250}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 37:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 19, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 978, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 222, 'Δroots': 0, 'Δorphans': 222, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 222}}
+  MainTitleClassifierV6: {'Δcount': 23, 'Δroots': 23, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 23}}
+  LegalContentClassifierV6: {'Δcount': 115, 'Δroots': 17, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 49, 'PartyElement': 19, 'DefinitionElement': 30, 'ExhibitElement': 17}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3108, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 133, 'Δroots': 89, 'Δorphans': 44, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 133}}
+  ContentClassifierV6: {'Δcount': 1334, 'Δroots': 0, 'Δorphans': 1334, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1334}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 38:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 19, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1030, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 222, 'Δroots': 0, 'Δorphans': 222, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 222}}
+  MainTitleClassifierV6: {'Δcount': 23, 'Δroots': 23, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 23}}
+  LegalContentClassifierV6: {'Δcount': 115, 'Δroots': 17, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 49, 'PartyElement': 19, 'DefinitionElement': 30, 'ExhibitElement': 17}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3108, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 133, 'Δroots': 89, 'Δorphans': 44, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 133}}
+  ContentClassifierV6: {'Δcount': 1334, 'Δroots': 0, 'Δorphans': 1334, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1334}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 39:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 19, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1036, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 222, 'Δroots': 0, 'Δorphans': 222, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 222}}
+  MainTitleClassifierV6: {'Δcount': 23, 'Δroots': 23, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 23}}
+  LegalContentClassifierV6: {'Δcount': 116, 'Δroots': 18, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 49, 'PartyElement': 19, 'DefinitionElement': 30, 'ExhibitElement': 18}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3141, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 134, 'Δroots': 90, 'Δorphans': 44, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 134}}
+  ContentClassifierV6: {'Δcount': 1334, 'Δroots': 0, 'Δorphans': 1334, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1334}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 40:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1042, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 226, 'Δroots': 0, 'Δorphans': 226, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 226}}
+  MainTitleClassifierV6: {'Δcount': 24, 'Δroots': 24, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 24}}
+  LegalContentClassifierV6: {'Δcount': 116, 'Δroots': 18, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 49, 'PartyElement': 19, 'DefinitionElement': 30, 'ExhibitElement': 18}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3190, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 137, 'Δroots': 92, 'Δorphans': 45, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 137}}
+  ContentClassifierV6: {'Δcount': 1380, 'Δroots': 0, 'Δorphans': 1380, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1380}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 41:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1129, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 69, 'Δroots': 30, 'Δorphans': 39, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 36, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 226, 'Δroots': 0, 'Δorphans': 226, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 226}}
+  MainTitleClassifierV6: {'Δcount': 24, 'Δroots': 24, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 24}}
+  LegalContentClassifierV6: {'Δcount': 117, 'Δroots': 18, 'Δorphans': 99, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 49, 'PartyElement': 20, 'DefinitionElement': 30, 'ExhibitElement': 18}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3331, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 137, 'Δroots': 92, 'Δorphans': 45, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 137}}
+  ContentClassifierV6: {'Δcount': 1380, 'Δroots': 0, 'Δorphans': 1380, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1380}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 42:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1216, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 73, 'Δroots': 30, 'Δorphans': 43, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 40, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 249, 'Δroots': 0, 'Δorphans': 249, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 249}}
+  MainTitleClassifierV6: {'Δcount': 25, 'Δroots': 25, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 25}}
+  LegalContentClassifierV6: {'Δcount': 128, 'Δroots': 24, 'Δorphans': 104, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 49, 'PartyElement': 22, 'DefinitionElement': 33, 'ExhibitElement': 24}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3489, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 149, 'Δroots': 100, 'Δorphans': 49, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 149}}
+  ContentClassifierV6: {'Δcount': 1511, 'Δroots': 0, 'Δorphans': 1511, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1511}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 43:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1238, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 73, 'Δroots': 30, 'Δorphans': 43, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 40, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 249, 'Δroots': 0, 'Δorphans': 249, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 249}}
+  MainTitleClassifierV6: {'Δcount': 25, 'Δroots': 25, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 25}}
+  LegalContentClassifierV6: {'Δcount': 128, 'Δroots': 24, 'Δorphans': 104, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 49, 'PartyElement': 22, 'DefinitionElement': 33, 'ExhibitElement': 24}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3506, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 149, 'Δroots': 100, 'Δorphans': 49, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 149}}
+  ContentClassifierV6: {'Δcount': 1514, 'Δroots': 0, 'Δorphans': 1514, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1514}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 44:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1264, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 73, 'Δroots': 30, 'Δorphans': 43, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 40, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 257, 'Δroots': 0, 'Δorphans': 257, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 257}}
+  MainTitleClassifierV6: {'Δcount': 26, 'Δroots': 26, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 26}}
+  LegalContentClassifierV6: {'Δcount': 134, 'Δroots': 25, 'Δorphans': 109, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 52, 'PartyElement': 23, 'DefinitionElement': 34, 'ExhibitElement': 25}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3557, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 156, 'Δroots': 102, 'Δorphans': 54, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 156}}
+  ContentClassifierV6: {'Δcount': 1543, 'Δroots': 0, 'Δorphans': 1543, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1543}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 45:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1268, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 77, 'Δroots': 30, 'Δorphans': 47, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 44, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 257, 'Δroots': 0, 'Δorphans': 257, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 257}}
+  MainTitleClassifierV6: {'Δcount': 27, 'Δroots': 27, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 27}}
+  LegalContentClassifierV6: {'Δcount': 134, 'Δroots': 25, 'Δorphans': 109, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 52, 'PartyElement': 23, 'DefinitionElement': 34, 'ExhibitElement': 25}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3568, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 156, 'Δroots': 102, 'Δorphans': 54, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 156}}
+  ContentClassifierV6: {'Δcount': 1553, 'Δroots': 0, 'Δorphans': 1553, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1553}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 46:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1286, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 77, 'Δroots': 30, 'Δorphans': 47, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 44, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 257, 'Δroots': 0, 'Δorphans': 257, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 257}}
+  MainTitleClassifierV6: {'Δcount': 27, 'Δroots': 27, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 27}}
+  LegalContentClassifierV6: {'Δcount': 134, 'Δroots': 25, 'Δorphans': 109, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 52, 'PartyElement': 23, 'DefinitionElement': 34, 'ExhibitElement': 25}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3586, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 156, 'Δroots': 102, 'Δorphans': 54, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 156}}
+  ContentClassifierV6: {'Δcount': 1554, 'Δroots': 0, 'Δorphans': 1554, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1554}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 47:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1304, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 78, 'Δroots': 30, 'Δorphans': 48, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 45, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 262, 'Δroots': 0, 'Δorphans': 262, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 262}}
+  MainTitleClassifierV6: {'Δcount': 28, 'Δroots': 28, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 28}}
+  LegalContentClassifierV6: {'Δcount': 138, 'Δroots': 25, 'Δorphans': 113, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 55, 'PartyElement': 24, 'DefinitionElement': 34, 'ExhibitElement': 25}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3622, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 157, 'Δroots': 103, 'Δorphans': 54, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 157}}
+  ContentClassifierV6: {'Δcount': 1575, 'Δroots': 0, 'Δorphans': 1575, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1575}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 48:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1329, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 78, 'Δroots': 30, 'Δorphans': 48, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 45, 'ArticleElement': 30, 'SignatureBlockElement': 3}}
+  EnhancedClauseClassifierV6: {'Δcount': 262, 'Δroots': 0, 'Δorphans': 262, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 262}}
+  MainTitleClassifierV6: {'Δcount': 28, 'Δroots': 28, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 28}}
+  LegalContentClassifierV6: {'Δcount': 142, 'Δroots': 27, 'Δorphans': 115, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 55, 'PartyElement': 25, 'DefinitionElement': 35, 'ExhibitElement': 27}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3661, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 157, 'Δroots': 103, 'Δorphans': 54, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 157}}
+  ContentClassifierV6: {'Δcount': 1589, 'Δroots': 0, 'Δorphans': 1589, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1589}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 49:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1367, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 80, 'Δroots': 30, 'Δorphans': 50, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 45, 'ArticleElement': 30, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 275, 'Δroots': 0, 'Δorphans': 275, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 275}}
+  MainTitleClassifierV6: {'Δcount': 29, 'Δroots': 29, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 29}}
+  LegalContentClassifierV6: {'Δcount': 155, 'Δroots': 30, 'Δorphans': 125, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 60, 'PartyElement': 27, 'DefinitionElement': 38, 'ExhibitElement': 30}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3771, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 170, 'Δroots': 110, 'Δorphans': 60, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 170}}
+  ContentClassifierV6: {'Δcount': 1652, 'Δroots': 0, 'Δorphans': 1652, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1652}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 50:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1406, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 80, 'Δroots': 30, 'Δorphans': 50, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 45, 'ArticleElement': 30, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 286, 'Δroots': 0, 'Δorphans': 286, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 286}}
+  MainTitleClassifierV6: {'Δcount': 30, 'Δroots': 30, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 30}}
+  LegalContentClassifierV6: {'Δcount': 163, 'Δroots': 32, 'Δorphans': 131, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 60, 'PartyElement': 32, 'DefinitionElement': 39, 'ExhibitElement': 32}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3917, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 173, 'Δroots': 112, 'Δorphans': 61, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 173}}
+  ContentClassifierV6: {'Δcount': 1722, 'Δroots': 0, 'Δorphans': 1722, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1722}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 51:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1415, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 86, 'Δroots': 36, 'Δorphans': 50, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 45, 'ArticleElement': 36, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 315, 'Δroots': 0, 'Δorphans': 315, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 315}}
+  MainTitleClassifierV6: {'Δcount': 31, 'Δroots': 31, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 31}}
+  LegalContentClassifierV6: {'Δcount': 165, 'Δroots': 32, 'Δorphans': 133, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 60, 'PartyElement': 32, 'DefinitionElement': 41, 'ExhibitElement': 32}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4176, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 178, 'Δroots': 117, 'Δorphans': 61, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 178}}
+  ContentClassifierV6: {'Δcount': 1788, 'Δroots': 0, 'Δorphans': 1788, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1788}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 52:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1415, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 86, 'Δroots': 36, 'Δorphans': 50, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 45, 'ArticleElement': 36, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 325, 'Δroots': 0, 'Δorphans': 325, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 325}}
+  MainTitleClassifierV6: {'Δcount': 32, 'Δroots': 32, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 32}}
+  LegalContentClassifierV6: {'Δcount': 168, 'Δroots': 32, 'Δorphans': 136, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 60, 'PartyElement': 35, 'DefinitionElement': 41, 'ExhibitElement': 32}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4368, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 197, 'Δroots': 130, 'Δorphans': 67, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 197}}
+  ContentClassifierV6: {'Δcount': 1921, 'Δroots': 0, 'Δorphans': 1921, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1921}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 53:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1415, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 87, 'Δroots': 37, 'Δorphans': 50, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 45, 'ArticleElement': 37, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 325, 'Δroots': 0, 'Δorphans': 325, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 325}}
+  MainTitleClassifierV6: {'Δcount': 32, 'Δroots': 32, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 32}}
+  LegalContentClassifierV6: {'Δcount': 168, 'Δroots': 32, 'Δorphans': 136, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 60, 'PartyElement': 35, 'DefinitionElement': 41, 'ExhibitElement': 32}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4394, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 197, 'Δroots': 130, 'Δorphans': 67, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 197}}
+  ContentClassifierV6: {'Δcount': 1933, 'Δroots': 0, 'Δorphans': 1933, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1933}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 54:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1421, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 87, 'Δroots': 37, 'Δorphans': 50, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 45, 'ArticleElement': 37, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 328, 'Δroots': 0, 'Δorphans': 328, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 328}}
+  MainTitleClassifierV6: {'Δcount': 33, 'Δroots': 33, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 33}}
+  LegalContentClassifierV6: {'Δcount': 170, 'Δroots': 32, 'Δorphans': 138, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 61, 'PartyElement': 36, 'DefinitionElement': 41, 'ExhibitElement': 32}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4548, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 200, 'Δroots': 133, 'Δorphans': 67, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 200}}
+  ContentClassifierV6: {'Δcount': 1957, 'Δroots': 0, 'Δorphans': 1957, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 1957}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 55:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1439, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 99, 'Δroots': 48, 'Δorphans': 51, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 46, 'ArticleElement': 48, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 330, 'Δroots': 0, 'Δorphans': 330, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 330}}
+  MainTitleClassifierV6: {'Δcount': 34, 'Δroots': 34, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 34}}
+  LegalContentClassifierV6: {'Δcount': 178, 'Δroots': 36, 'Δorphans': 142, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 64, 'PartyElement': 37, 'DefinitionElement': 41, 'ExhibitElement': 36}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4734, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 240, 'Δroots': 142, 'Δorphans': 98, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 240}}
+  ContentClassifierV6: {'Δcount': 2010, 'Δroots': 0, 'Δorphans': 2010, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2010}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 56:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1464, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 99, 'Δroots': 48, 'Δorphans': 51, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 46, 'ArticleElement': 48, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 332, 'Δroots': 0, 'Δorphans': 332, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 332}}
+  MainTitleClassifierV6: {'Δcount': 35, 'Δroots': 35, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 35}}
+  LegalContentClassifierV6: {'Δcount': 179, 'Δroots': 36, 'Δorphans': 143, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 65, 'PartyElement': 37, 'DefinitionElement': 41, 'ExhibitElement': 36}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4863, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 256, 'Δroots': 143, 'Δorphans': 113, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 256}}
+  ContentClassifierV6: {'Δcount': 2041, 'Δroots': 0, 'Δorphans': 2041, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2041}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 57:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1477, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 99, 'Δroots': 48, 'Δorphans': 51, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 46, 'ArticleElement': 48, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 333, 'Δroots': 0, 'Δorphans': 333, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 333}}
+  MainTitleClassifierV6: {'Δcount': 36, 'Δroots': 36, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 36}}
+  LegalContentClassifierV6: {'Δcount': 180, 'Δroots': 37, 'Δorphans': 143, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 65, 'PartyElement': 37, 'DefinitionElement': 41, 'ExhibitElement': 37}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4943, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 258, 'Δroots': 144, 'Δorphans': 114, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 258}}
+  ContentClassifierV6: {'Δcount': 2080, 'Δroots': 0, 'Δorphans': 2080, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2080}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 58:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1477, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 99, 'Δroots': 48, 'Δorphans': 51, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 46, 'ArticleElement': 48, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 333, 'Δroots': 0, 'Δorphans': 333, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 333}}
+  MainTitleClassifierV6: {'Δcount': 36, 'Δroots': 36, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 36}}
+  LegalContentClassifierV6: {'Δcount': 181, 'Δroots': 37, 'Δorphans': 144, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 65, 'PartyElement': 37, 'DefinitionElement': 42, 'ExhibitElement': 37}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4957, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 258, 'Δroots': 144, 'Δorphans': 114, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 258}}
+  ContentClassifierV6: {'Δcount': 2095, 'Δroots': 0, 'Δorphans': 2095, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2095}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 59:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1576, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 99, 'Δroots': 48, 'Δorphans': 51, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 46, 'ArticleElement': 48, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 333, 'Δroots': 0, 'Δorphans': 333, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 333}}
+  MainTitleClassifierV6: {'Δcount': 36, 'Δroots': 36, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 36}}
+  LegalContentClassifierV6: {'Δcount': 182, 'Δroots': 37, 'Δorphans': 145, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 65, 'PartyElement': 38, 'DefinitionElement': 42, 'ExhibitElement': 37}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5076, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 258, 'Δroots': 144, 'Δorphans': 114, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 258}}
+  ContentClassifierV6: {'Δcount': 2095, 'Δroots': 0, 'Δorphans': 2095, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2095}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 1, 'Δroots': 1, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 1}}
+
+Agreement 60:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1675, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 113, 'Δroots': 48, 'Δorphans': 65, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 60, 'ArticleElement': 48, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 351, 'Δroots': 0, 'Δorphans': 351, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 351}}
+  MainTitleClassifierV6: {'Δcount': 37, 'Δroots': 37, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 37}}
+  LegalContentClassifierV6: {'Δcount': 197, 'Δroots': 47, 'Δorphans': 150, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 66, 'PartyElement': 39, 'DefinitionElement': 45, 'ExhibitElement': 47}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5226, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 263, 'Δroots': 146, 'Δorphans': 117, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 263}}
+  ContentClassifierV6: {'Δcount': 2210, 'Δroots': 0, 'Δorphans': 2210, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2210}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 61:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1713, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 113, 'Δroots': 48, 'Δorphans': 65, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 60, 'ArticleElement': 48, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 351, 'Δroots': 0, 'Δorphans': 351, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 351}}
+  MainTitleClassifierV6: {'Δcount': 37, 'Δroots': 37, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 37}}
+  LegalContentClassifierV6: {'Δcount': 197, 'Δroots': 47, 'Δorphans': 150, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 66, 'PartyElement': 39, 'DefinitionElement': 45, 'ExhibitElement': 47}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5389, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 263, 'Δroots': 146, 'Δorphans': 117, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 263}}
+  ContentClassifierV6: {'Δcount': 2227, 'Δroots': 0, 'Δorphans': 2227, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2227}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 62:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1761, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 113, 'Δroots': 48, 'Δorphans': 65, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 60, 'ArticleElement': 48, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 353, 'Δroots': 0, 'Δorphans': 353, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 353}}
+  MainTitleClassifierV6: {'Δcount': 38, 'Δroots': 38, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 38}}
+  LegalContentClassifierV6: {'Δcount': 199, 'Δroots': 47, 'Δorphans': 152, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 66, 'PartyElement': 39, 'DefinitionElement': 47, 'ExhibitElement': 47}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5606, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 292, 'Δroots': 172, 'Δorphans': 120, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 292}}
+  ContentClassifierV6: {'Δcount': 2362, 'Δroots': 0, 'Δorphans': 2362, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2362}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 63:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1771, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 119, 'Δroots': 53, 'Δorphans': 66, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 61, 'ArticleElement': 53, 'SignatureBlockElement': 5}}
+  EnhancedClauseClassifierV6: {'Δcount': 358, 'Δroots': 0, 'Δorphans': 358, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 358}}
+  MainTitleClassifierV6: {'Δcount': 39, 'Δroots': 39, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 39}}
+  LegalContentClassifierV6: {'Δcount': 203, 'Δroots': 47, 'Δorphans': 156, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 69, 'PartyElement': 40, 'DefinitionElement': 47, 'ExhibitElement': 47}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5694, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 294, 'Δroots': 173, 'Δorphans': 121, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 294}}
+  ContentClassifierV6: {'Δcount': 2392, 'Δroots': 0, 'Δorphans': 2392, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2392}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 64:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1771, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 120, 'Δroots': 53, 'Δorphans': 67, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 61, 'ArticleElement': 53, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 367, 'Δroots': 0, 'Δorphans': 367, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 367}}
+  MainTitleClassifierV6: {'Δcount': 40, 'Δroots': 40, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 40}}
+  LegalContentClassifierV6: {'Δcount': 206, 'Δroots': 47, 'Δorphans': 159, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 69, 'PartyElement': 40, 'DefinitionElement': 50, 'ExhibitElement': 47}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5742, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 307, 'Δroots': 186, 'Δorphans': 121, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 307}}
+  ContentClassifierV6: {'Δcount': 2420, 'Δroots': 0, 'Δorphans': 2420, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2420}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 65:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1783, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 120, 'Δroots': 53, 'Δorphans': 67, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 61, 'ArticleElement': 53, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 367, 'Δroots': 0, 'Δorphans': 367, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 367}}
+  MainTitleClassifierV6: {'Δcount': 40, 'Δroots': 40, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 40}}
+  LegalContentClassifierV6: {'Δcount': 207, 'Δroots': 47, 'Δorphans': 160, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 69, 'PartyElement': 41, 'DefinitionElement': 50, 'ExhibitElement': 47}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5992, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 307, 'Δroots': 186, 'Δorphans': 121, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 307}}
+  ContentClassifierV6: {'Δcount': 2420, 'Δroots': 0, 'Δorphans': 2420, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2420}}
+  LateMetadataRemoverStep: {'Δcount': -5, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -5}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 66:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1808, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 120, 'Δroots': 53, 'Δorphans': 67, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 61, 'ArticleElement': 53, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 368, 'Δroots': 0, 'Δorphans': 368, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 368}}
+  MainTitleClassifierV6: {'Δcount': 40, 'Δroots': 40, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 40}}
+  LegalContentClassifierV6: {'Δcount': 211, 'Δroots': 51, 'Δorphans': 160, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 69, 'PartyElement': 41, 'DefinitionElement': 50, 'ExhibitElement': 51}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6332, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 307, 'Δroots': 186, 'Δorphans': 121, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 307}}
+  ContentClassifierV6: {'Δcount': 2672, 'Δroots': 0, 'Δorphans': 2672, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2672}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 67:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1828, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 124, 'Δroots': 57, 'Δorphans': 67, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 61, 'ArticleElement': 57, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 375, 'Δroots': 0, 'Δorphans': 375, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 375}}
+  MainTitleClassifierV6: {'Δcount': 41, 'Δroots': 41, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 41}}
+  LegalContentClassifierV6: {'Δcount': 215, 'Δroots': 51, 'Δorphans': 164, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 71, 'PartyElement': 43, 'DefinitionElement': 50, 'ExhibitElement': 51}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6453, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 318, 'Δroots': 197, 'Δorphans': 121, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 318}}
+  ContentClassifierV6: {'Δcount': 2722, 'Δroots': 0, 'Δorphans': 2722, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2722}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 68:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1845, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 124, 'Δroots': 57, 'Δorphans': 67, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 61, 'ArticleElement': 57, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 387, 'Δroots': 0, 'Δorphans': 387, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 387}}
+  MainTitleClassifierV6: {'Δcount': 42, 'Δroots': 42, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 42}}
+  LegalContentClassifierV6: {'Δcount': 219, 'Δroots': 51, 'Δorphans': 168, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 73, 'PartyElement': 44, 'DefinitionElement': 51, 'ExhibitElement': 51}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6548, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 321, 'Δroots': 198, 'Δorphans': 123, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 321}}
+  ContentClassifierV6: {'Δcount': 2756, 'Δroots': 0, 'Δorphans': 2756, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2756}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 69:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1874, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 137, 'Δroots': 68, 'Δorphans': 69, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 63, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 389, 'Δroots': 0, 'Δorphans': 389, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 389}}
+  MainTitleClassifierV6: {'Δcount': 43, 'Δroots': 43, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 43}}
+  LegalContentClassifierV6: {'Δcount': 219, 'Δroots': 51, 'Δorphans': 168, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 73, 'PartyElement': 44, 'DefinitionElement': 51, 'ExhibitElement': 51}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6907, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 332, 'Δroots': 198, 'Δorphans': 134, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 332}}
+  ContentClassifierV6: {'Δcount': 2783, 'Δroots': 0, 'Δorphans': 2783, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 2783}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 70:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1900, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 143, 'Δroots': 68, 'Δorphans': 75, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 69, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 409, 'Δroots': 0, 'Δorphans': 409, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 409}}
+  MainTitleClassifierV6: {'Δcount': 44, 'Δroots': 44, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 44}}
+  LegalContentClassifierV6: {'Δcount': 222, 'Δroots': 51, 'Δorphans': 171, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 73, 'PartyElement': 45, 'DefinitionElement': 53, 'ExhibitElement': 51}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7251, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 357, 'Δroots': 222, 'Δorphans': 135, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 357}}
+  ContentClassifierV6: {'Δcount': 3015, 'Δroots': 0, 'Δorphans': 3015, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3015}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 71:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1924, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 143, 'Δroots': 68, 'Δorphans': 75, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 69, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 409, 'Δroots': 0, 'Δorphans': 409, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 409}}
+  MainTitleClassifierV6: {'Δcount': 45, 'Δroots': 45, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 45}}
+  LegalContentClassifierV6: {'Δcount': 231, 'Δroots': 52, 'Δorphans': 179, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 80, 'PartyElement': 46, 'DefinitionElement': 53, 'ExhibitElement': 52}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7329, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 358, 'Δroots': 222, 'Δorphans': 136, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 358}}
+  ContentClassifierV6: {'Δcount': 3025, 'Δroots': 0, 'Δorphans': 3025, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3025}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 72:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1941, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 151, 'Δroots': 68, 'Δorphans': 83, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 77, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 423, 'Δroots': 0, 'Δorphans': 423, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 423}}
+  MainTitleClassifierV6: {'Δcount': 46, 'Δroots': 46, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 46}}
+  LegalContentClassifierV6: {'Δcount': 235, 'Δroots': 52, 'Δorphans': 183, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 80, 'PartyElement': 48, 'DefinitionElement': 55, 'ExhibitElement': 52}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7418, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 362, 'Δroots': 223, 'Δorphans': 139, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 362}}
+  ContentClassifierV6: {'Δcount': 3094, 'Δroots': 0, 'Δorphans': 3094, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3094}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 73:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1943, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 151, 'Δroots': 68, 'Δorphans': 83, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 77, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 431, 'Δroots': 0, 'Δorphans': 431, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 431}}
+  MainTitleClassifierV6: {'Δcount': 46, 'Δroots': 46, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 46}}
+  LegalContentClassifierV6: {'Δcount': 235, 'Δroots': 52, 'Δorphans': 183, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 80, 'PartyElement': 48, 'DefinitionElement': 55, 'ExhibitElement': 52}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7509, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 364, 'Δroots': 225, 'Δorphans': 139, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 364}}
+  ContentClassifierV6: {'Δcount': 3104, 'Δroots': 0, 'Δorphans': 3104, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3104}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 74:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1985, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 152, 'Δroots': 68, 'Δorphans': 84, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 78, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 437, 'Δroots': 0, 'Δorphans': 437, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 437}}
+  MainTitleClassifierV6: {'Δcount': 47, 'Δroots': 47, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 47}}
+  LegalContentClassifierV6: {'Δcount': 235, 'Δroots': 52, 'Δorphans': 183, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 80, 'PartyElement': 48, 'DefinitionElement': 55, 'ExhibitElement': 52}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7630, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 375, 'Δroots': 236, 'Δorphans': 139, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 375}}
+  ContentClassifierV6: {'Δcount': 3136, 'Δroots': 0, 'Δorphans': 3136, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3136}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 75:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2025, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 166, 'Δroots': 68, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 92, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 437, 'Δroots': 0, 'Δorphans': 437, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 437}}
+  MainTitleClassifierV6: {'Δcount': 48, 'Δroots': 48, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 48}}
+  LegalContentClassifierV6: {'Δcount': 237, 'Δroots': 52, 'Δorphans': 185, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 80, 'PartyElement': 50, 'DefinitionElement': 55, 'ExhibitElement': 52}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7682, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 387, 'Δroots': 244, 'Δorphans': 143, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 387}}
+  ContentClassifierV6: {'Δcount': 3152, 'Δroots': 0, 'Δorphans': 3152, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3152}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 76:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2081, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 166, 'Δroots': 68, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 92, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 437, 'Δroots': 0, 'Δorphans': 437, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 437}}
+  MainTitleClassifierV6: {'Δcount': 48, 'Δroots': 48, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 48}}
+  LegalContentClassifierV6: {'Δcount': 237, 'Δroots': 52, 'Δorphans': 185, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 80, 'PartyElement': 50, 'DefinitionElement': 55, 'ExhibitElement': 52}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7743, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 387, 'Δroots': 244, 'Δorphans': 143, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 387}}
+  ContentClassifierV6: {'Δcount': 3155, 'Δroots': 0, 'Δorphans': 3155, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3155}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 2, 'Δroots': 2, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 2}}
+
+Agreement 77:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2142, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 166, 'Δroots': 68, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 92, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 445, 'Δroots': 0, 'Δorphans': 445, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 445}}
+  MainTitleClassifierV6: {'Δcount': 49, 'Δroots': 49, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 49}}
+  LegalContentClassifierV6: {'Δcount': 241, 'Δroots': 52, 'Δorphans': 189, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 80, 'PartyElement': 53, 'DefinitionElement': 56, 'ExhibitElement': 52}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7832, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 389, 'Δroots': 245, 'Δorphans': 144, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 389}}
+  ContentClassifierV6: {'Δcount': 3208, 'Δroots': 0, 'Δorphans': 3208, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3208}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 3, 'Δroots': 3, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 3}}
+
+Agreement 78:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2148, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 166, 'Δroots': 68, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 92, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 454, 'Δroots': 0, 'Δorphans': 454, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 454}}
+  MainTitleClassifierV6: {'Δcount': 50, 'Δroots': 50, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 50}}
+  LegalContentClassifierV6: {'Δcount': 244, 'Δroots': 52, 'Δorphans': 192, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 82, 'PartyElement': 54, 'DefinitionElement': 56, 'ExhibitElement': 52}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7872, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 393, 'Δroots': 248, 'Δorphans': 145, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 393}}
+  ContentClassifierV6: {'Δcount': 3227, 'Δroots': 0, 'Δorphans': 3227, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3227}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 3, 'Δroots': 3, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 3}}
+
+Agreement 79:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2163, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 166, 'Δroots': 68, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 92, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 454, 'Δroots': 0, 'Δorphans': 454, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 454}}
+  MainTitleClassifierV6: {'Δcount': 51, 'Δroots': 51, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 51}}
+  LegalContentClassifierV6: {'Δcount': 246, 'Δroots': 52, 'Δorphans': 194, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 82, 'PartyElement': 54, 'DefinitionElement': 58, 'ExhibitElement': 52}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7926, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 400, 'Δroots': 254, 'Δorphans': 146, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 400}}
+  ContentClassifierV6: {'Δcount': 3234, 'Δroots': 0, 'Δorphans': 3234, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3234}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 3, 'Δroots': 3, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 3}}
+
+Agreement 80:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2180, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 166, 'Δroots': 68, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 92, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 468, 'Δroots': 0, 'Δorphans': 468, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 468}}
+  MainTitleClassifierV6: {'Δcount': 52, 'Δroots': 52, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 52}}
+  LegalContentClassifierV6: {'Δcount': 252, 'Δroots': 55, 'Δorphans': 197, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 82, 'PartyElement': 55, 'DefinitionElement': 60, 'ExhibitElement': 55}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8010, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 402, 'Δroots': 254, 'Δorphans': 148, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 402}}
+  ContentClassifierV6: {'Δcount': 3286, 'Δroots': 0, 'Δorphans': 3286, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3286}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 3, 'Δroots': 3, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 3}}
+
+Agreement 81:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2199, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 166, 'Δroots': 68, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 92, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 469, 'Δroots': 0, 'Δorphans': 469, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 469}}
+  MainTitleClassifierV6: {'Δcount': 53, 'Δroots': 53, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 53}}
+  LegalContentClassifierV6: {'Δcount': 252, 'Δroots': 55, 'Δorphans': 197, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 82, 'PartyElement': 55, 'DefinitionElement': 60, 'ExhibitElement': 55}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8148, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 412, 'Δroots': 263, 'Δorphans': 149, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 412}}
+  ContentClassifierV6: {'Δcount': 3308, 'Δroots': 0, 'Δorphans': 3308, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3308}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 3, 'Δroots': 3, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 3}}
+
+Agreement 82:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2218, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 166, 'Δroots': 68, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 92, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 486, 'Δroots': 0, 'Δorphans': 486, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 486}}
+  MainTitleClassifierV6: {'Δcount': 54, 'Δroots': 54, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 54}}
+  LegalContentClassifierV6: {'Δcount': 253, 'Δroots': 55, 'Δorphans': 198, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 82, 'PartyElement': 55, 'DefinitionElement': 61, 'ExhibitElement': 55}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8333, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 433, 'Δroots': 273, 'Δorphans': 160, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 433}}
+  ContentClassifierV6: {'Δcount': 3391, 'Δroots': 0, 'Δorphans': 3391, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3391}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 3, 'Δroots': 3, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 3}}
+
+Agreement 83:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2356, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 166, 'Δroots': 68, 'Δorphans': 98, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 92, 'ArticleElement': 68, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 492, 'Δroots': 0, 'Δorphans': 492, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 492}}
+  MainTitleClassifierV6: {'Δcount': 55, 'Δroots': 55, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 55}}
+  LegalContentClassifierV6: {'Δcount': 257, 'Δroots': 57, 'Δorphans': 200, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 83, 'PartyElement': 56, 'DefinitionElement': 61, 'ExhibitElement': 57}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 9130, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 462, 'Δroots': 291, 'Δorphans': 171, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 462}}
+  ContentClassifierV6: {'Δcount': 3432, 'Δroots': 0, 'Δorphans': 3432, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 3432}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 3, 'Δroots': 3, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 3}}
+
+Agreement 84:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2583, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 181, 'Δroots': 78, 'Δorphans': 103, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 97, 'ArticleElement': 78, 'SignatureBlockElement': 6}}
+  EnhancedClauseClassifierV6: {'Δcount': 523, 'Δroots': 0, 'Δorphans': 523, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 523}}
+  MainTitleClassifierV6: {'Δcount': 56, 'Δroots': 56, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 56}}
+  LegalContentClassifierV6: {'Δcount': 278, 'Δroots': 65, 'Δorphans': 213, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 83, 'PartyElement': 63, 'DefinitionElement': 67, 'ExhibitElement': 65}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 10138, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 499, 'Δroots': 314, 'Δorphans': 185, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 499}}
+  ContentClassifierV6: {'Δcount': 4149, 'Δroots': 0, 'Δorphans': 4149, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 4149}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 4, 'Δroots': 4, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 4}}
+
+Agreement 85:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2675, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 193, 'Δroots': 83, 'Δorphans': 110, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 103, 'ArticleElement': 83, 'SignatureBlockElement': 7}}
+  EnhancedClauseClassifierV6: {'Δcount': 552, 'Δroots': 0, 'Δorphans': 552, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 552}}
+  MainTitleClassifierV6: {'Δcount': 57, 'Δroots': 57, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 57}}
+  LegalContentClassifierV6: {'Δcount': 294, 'Δroots': 75, 'Δorphans': 219, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 85, 'PartyElement': 64, 'DefinitionElement': 70, 'ExhibitElement': 75}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 10404, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 521, 'Δroots': 327, 'Δorphans': 194, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 521}}
+  ContentClassifierV6: {'Δcount': 4346, 'Δroots': 0, 'Δorphans': 4346, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 4346}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 4, 'Δroots': 4, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 4}}
+
+Agreement 86:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2703, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 193, 'Δroots': 83, 'Δorphans': 110, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 103, 'ArticleElement': 83, 'SignatureBlockElement': 7}}
+  EnhancedClauseClassifierV6: {'Δcount': 552, 'Δroots': 0, 'Δorphans': 552, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 552}}
+  MainTitleClassifierV6: {'Δcount': 57, 'Δroots': 57, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 57}}
+  LegalContentClassifierV6: {'Δcount': 295, 'Δroots': 76, 'Δorphans': 219, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 85, 'PartyElement': 64, 'DefinitionElement': 70, 'ExhibitElement': 76}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 10615, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 521, 'Δroots': 327, 'Δorphans': 194, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 521}}
+  ContentClassifierV6: {'Δcount': 4353, 'Δroots': 0, 'Δorphans': 4353, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 4353}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 4, 'Δroots': 4, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 4}}
+
+Agreement 87:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2730, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 194, 'Δroots': 83, 'Δorphans': 111, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 104, 'ArticleElement': 83, 'SignatureBlockElement': 7}}
+  EnhancedClauseClassifierV6: {'Δcount': 573, 'Δroots': 0, 'Δorphans': 573, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 573}}
+  MainTitleClassifierV6: {'Δcount': 58, 'Δroots': 58, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 58}}
+  LegalContentClassifierV6: {'Δcount': 298, 'Δroots': 76, 'Δorphans': 222, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 85, 'PartyElement': 65, 'DefinitionElement': 72, 'ExhibitElement': 76}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 10838, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 525, 'Δroots': 331, 'Δorphans': 194, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 525}}
+  ContentClassifierV6: {'Δcount': 4552, 'Δroots': 0, 'Δorphans': 4552, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 4552}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 4, 'Δroots': 4, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 4}}
+
+Agreement 88:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2813, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 195, 'Δroots': 83, 'Δorphans': 112, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 105, 'ArticleElement': 83, 'SignatureBlockElement': 7}}
+  EnhancedClauseClassifierV6: {'Δcount': 573, 'Δroots': 0, 'Δorphans': 573, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 573}}
+  MainTitleClassifierV6: {'Δcount': 59, 'Δroots': 59, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 59}}
+  LegalContentClassifierV6: {'Δcount': 304, 'Δroots': 76, 'Δorphans': 228, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 91, 'PartyElement': 65, 'DefinitionElement': 72, 'ExhibitElement': 76}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 11331, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 526, 'Δroots': 332, 'Δorphans': 194, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 526}}
+  ContentClassifierV6: {'Δcount': 4559, 'Δroots': 0, 'Δorphans': 4559, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 4559}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 4, 'Δroots': 4, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 4}}
+
+Agreement 89:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2896, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 291, 'Δroots': 92, 'Δorphans': 199, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 192, 'ArticleElement': 92, 'SignatureBlockElement': 7}}
+  EnhancedClauseClassifierV6: {'Δcount': 595, 'Δroots': 0, 'Δorphans': 595, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 595}}
+  MainTitleClassifierV6: {'Δcount': 60, 'Δroots': 60, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 60}}
+  LegalContentClassifierV6: {'Δcount': 352, 'Δroots': 83, 'Δorphans': 269, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 94, 'PartyElement': 94, 'DefinitionElement': 81, 'ExhibitElement': 83}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 11877, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 595, 'Δroots': 361, 'Δorphans': 234, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 595}}
+  ContentClassifierV6: {'Δcount': 5074, 'Δroots': 0, 'Δorphans': 5074, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5074}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 90:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2897, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 293, 'Δroots': 92, 'Δorphans': 201, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 194, 'ArticleElement': 92, 'SignatureBlockElement': 7}}
+  EnhancedClauseClassifierV6: {'Δcount': 596, 'Δroots': 0, 'Δorphans': 596, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 596}}
+  MainTitleClassifierV6: {'Δcount': 61, 'Δroots': 61, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 61}}
+  LegalContentClassifierV6: {'Δcount': 352, 'Δroots': 83, 'Δorphans': 269, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 94, 'PartyElement': 94, 'DefinitionElement': 81, 'ExhibitElement': 83}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 11923, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 598, 'Δroots': 364, 'Δorphans': 234, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 598}}
+  ContentClassifierV6: {'Δcount': 5100, 'Δroots': 0, 'Δorphans': 5100, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5100}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 91:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2940, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 294, 'Δroots': 93, 'Δorphans': 201, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 194, 'ArticleElement': 93, 'SignatureBlockElement': 7}}
+  EnhancedClauseClassifierV6: {'Δcount': 596, 'Δroots': 0, 'Δorphans': 596, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 596}}
+  MainTitleClassifierV6: {'Δcount': 61, 'Δroots': 61, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 61}}
+  LegalContentClassifierV6: {'Δcount': 353, 'Δroots': 83, 'Δorphans': 270, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 94, 'PartyElement': 95, 'DefinitionElement': 81, 'ExhibitElement': 83}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12012, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 598, 'Δroots': 364, 'Δorphans': 234, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 598}}
+  ContentClassifierV6: {'Δcount': 5117, 'Δroots': 0, 'Δorphans': 5117, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5117}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 92:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2982, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 298, 'Δroots': 93, 'Δorphans': 205, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 197, 'ArticleElement': 93, 'SignatureBlockElement': 8}}
+  EnhancedClauseClassifierV6: {'Δcount': 607, 'Δroots': 0, 'Δorphans': 607, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 607}}
+  MainTitleClassifierV6: {'Δcount': 62, 'Δroots': 62, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 62}}
+  LegalContentClassifierV6: {'Δcount': 357, 'Δroots': 83, 'Δorphans': 274, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 94, 'PartyElement': 96, 'DefinitionElement': 84, 'ExhibitElement': 83}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12094, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 606, 'Δroots': 365, 'Δorphans': 241, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 606}}
+  ContentClassifierV6: {'Δcount': 5186, 'Δroots': 0, 'Δorphans': 5186, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5186}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 93:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3010, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 298, 'Δroots': 93, 'Δorphans': 205, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 197, 'ArticleElement': 93, 'SignatureBlockElement': 8}}
+  EnhancedClauseClassifierV6: {'Δcount': 607, 'Δroots': 0, 'Δorphans': 607, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 607}}
+  MainTitleClassifierV6: {'Δcount': 62, 'Δroots': 62, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 62}}
+  LegalContentClassifierV6: {'Δcount': 357, 'Δroots': 83, 'Δorphans': 274, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 94, 'PartyElement': 96, 'DefinitionElement': 84, 'ExhibitElement': 83}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12094, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 606, 'Δroots': 365, 'Δorphans': 241, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 606}}
+  ContentClassifierV6: {'Δcount': 5187, 'Δroots': 0, 'Δorphans': 5187, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5187}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 94:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3234, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 298, 'Δroots': 93, 'Δorphans': 205, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 197, 'ArticleElement': 93, 'SignatureBlockElement': 8}}
+  EnhancedClauseClassifierV6: {'Δcount': 607, 'Δroots': 0, 'Δorphans': 607, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 607}}
+  MainTitleClassifierV6: {'Δcount': 62, 'Δroots': 62, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 62}}
+  LegalContentClassifierV6: {'Δcount': 357, 'Δroots': 83, 'Δorphans': 274, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 94, 'PartyElement': 96, 'DefinitionElement': 84, 'ExhibitElement': 83}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12181, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 606, 'Δroots': 365, 'Δorphans': 241, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 606}}
+  ContentClassifierV6: {'Δcount': 5187, 'Δroots': 0, 'Δorphans': 5187, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5187}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 95:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3437, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 298, 'Δroots': 93, 'Δorphans': 205, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 197, 'ArticleElement': 93, 'SignatureBlockElement': 8}}
+  EnhancedClauseClassifierV6: {'Δcount': 633, 'Δroots': 0, 'Δorphans': 633, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 633}}
+  MainTitleClassifierV6: {'Δcount': 63, 'Δroots': 63, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 63}}
+  LegalContentClassifierV6: {'Δcount': 369, 'Δroots': 90, 'Δorphans': 279, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 95, 'PartyElement': 97, 'DefinitionElement': 87, 'ExhibitElement': 90}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12644, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 629, 'Δroots': 376, 'Δorphans': 253, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 629}}
+  ContentClassifierV6: {'Δcount': 5524, 'Δroots': 0, 'Δorphans': 5524, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5524}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 96:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3442, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 298, 'Δroots': 93, 'Δorphans': 205, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 197, 'ArticleElement': 93, 'SignatureBlockElement': 8}}
+  EnhancedClauseClassifierV6: {'Δcount': 636, 'Δroots': 0, 'Δorphans': 636, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 636}}
+  MainTitleClassifierV6: {'Δcount': 64, 'Δroots': 64, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 64}}
+  LegalContentClassifierV6: {'Δcount': 371, 'Δroots': 91, 'Δorphans': 280, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 95, 'PartyElement': 97, 'DefinitionElement': 88, 'ExhibitElement': 91}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12718, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 635, 'Δroots': 381, 'Δorphans': 254, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 635}}
+  ContentClassifierV6: {'Δcount': 5582, 'Δroots': 0, 'Δorphans': 5582, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5582}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 97:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3593, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 298, 'Δroots': 93, 'Δorphans': 205, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 197, 'ArticleElement': 93, 'SignatureBlockElement': 8}}
+  EnhancedClauseClassifierV6: {'Δcount': 636, 'Δroots': 0, 'Δorphans': 636, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 636}}
+  MainTitleClassifierV6: {'Δcount': 65, 'Δroots': 65, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 65}}
+  LegalContentClassifierV6: {'Δcount': 377, 'Δroots': 93, 'Δorphans': 284, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 98, 'PartyElement': 98, 'DefinitionElement': 88, 'ExhibitElement': 93}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12726, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 635, 'Δroots': 381, 'Δorphans': 254, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 635}}
+  ContentClassifierV6: {'Δcount': 5588, 'Δroots': 0, 'Δorphans': 5588, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5588}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 98:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3741, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 298, 'Δroots': 93, 'Δorphans': 205, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 197, 'ArticleElement': 93, 'SignatureBlockElement': 8}}
+  EnhancedClauseClassifierV6: {'Δcount': 636, 'Δroots': 0, 'Δorphans': 636, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 636}}
+  MainTitleClassifierV6: {'Δcount': 65, 'Δroots': 65, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 65}}
+  LegalContentClassifierV6: {'Δcount': 377, 'Δroots': 93, 'Δorphans': 284, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 98, 'PartyElement': 98, 'DefinitionElement': 88, 'ExhibitElement': 93}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12771, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 635, 'Δroots': 381, 'Δorphans': 254, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 635}}
+  ContentClassifierV6: {'Δcount': 5588, 'Δroots': 0, 'Δorphans': 5588, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5588}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 99:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3743, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 300, 'Δroots': 93, 'Δorphans': 207, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 199, 'ArticleElement': 93, 'SignatureBlockElement': 8}}
+  EnhancedClauseClassifierV6: {'Δcount': 655, 'Δroots': 0, 'Δorphans': 655, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 655}}
+  MainTitleClassifierV6: {'Δcount': 66, 'Δroots': 66, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 66}}
+  LegalContentClassifierV6: {'Δcount': 383, 'Δroots': 93, 'Δorphans': 290, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 102, 'PartyElement': 100, 'DefinitionElement': 88, 'ExhibitElement': 93}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12830, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 642, 'Δroots': 385, 'Δorphans': 257, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 642}}
+  ContentClassifierV6: {'Δcount': 5634, 'Δroots': 0, 'Δorphans': 5634, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5634}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+Agreement 100:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 22, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3743, 'type_changes': {}}
+  SmartSectionClassifierV6: {'Δcount': 300, 'Δroots': 93, 'Δorphans': 207, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'SectionElement': 199, 'ArticleElement': 93, 'SignatureBlockElement': 8}}
+  EnhancedClauseClassifierV6: {'Δcount': 655, 'Δroots': 0, 'Δorphans': 655, 'Δdepth': 5, 'Δretyped': 0, 'type_changes': {'ClauseElement': 655}}
+  MainTitleClassifierV6: {'Δcount': 66, 'Δroots': 66, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'AgreementTitleElement': 66}}
+  LegalContentClassifierV6: {'Δcount': 383, 'Δroots': 93, 'Δorphans': 290, 'Δdepth': 3, 'Δretyped': 0, 'type_changes': {'RecitalElement': 102, 'PartyElement': 100, 'DefinitionElement': 88, 'ExhibitElement': 93}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12830, 'type_changes': {}}
+  HeadingClassifierV6: {'Δcount': 642, 'Δroots': 385, 'Δorphans': 257, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'HeadingElement': 642}}
+  ContentClassifierV6: {'Δcount': 5634, 'Δroots': 0, 'Δorphans': 5634, 'Δdepth': 4, 'Δretyped': 0, 'type_changes': {'ContentTextElement': 5634}}
+  LateMetadataRemoverStep: {'Δcount': -142, 'Δroots': 0, 'Δorphans': -28, 'Δdepth': 0, 'Δretyped': 0, 'type_changes': {'ContentTextElement': -142}}
+  EnhancedTOCDetector: {'Δcount': 5, 'Δroots': 5, 'Δorphans': 0, 'Δdepth': 1, 'Δretyped': 0, 'type_changes': {'TableOfContentsElement': 5}}
+
+
+SUMMARY BY PROCESSING STEP
+--------------------------------------------------------------------------------
+
+LateMetadataRemoverStep:
+  Agreements affected: 90
+  Total orphans reduced: 980
+  Total roots added: 0
+  Total elements added: -5245
+  Total elements retyped: 0
+
+EmptyElementClassifier:
+  Agreements affected: 100
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 1807
+
+ImprovedMetadataRemoverV7:
+  Agreements affected: 100
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 147353
+
+TextClassifier:
+  Agreements affected: 100
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 520184
+
+MainTitleClassifierV6:
+  Agreements affected: 99
+  Total orphans reduced: 0
+  Total roots added: 3193
+  Total elements added: 3193
+  Total elements retyped: 0
+
+EnhancedTOCDetector:
+  Agreements affected: 95
+  Total orphans reduced: 0
+  Total roots added: 189
+  Total elements added: 189
+  Total elements retyped: 0
+
+SmartSectionClassifierV6:
+  Agreements affected: 97
+  Total orphans reduced: -6771
+  Total roots added: 4595
+  Total elements added: 11366
+  Total elements retyped: 0
+
+HeadingClassifierV6:
+  Agreements affected: 97
+  Total orphans reduced: -9534
+  Total roots added: 15595
+  Total elements added: 25129
+  Total elements retyped: 0
+
+LegalContentClassifierV6:
+  Agreements affected: 99
+  Total orphans reduced: -13309
+  Total roots added: 3596
+  Total elements added: 16905
+  Total elements retyped: 0
+
+EnhancedClauseClassifierV6:
+  Agreements affected: 97
+  Total orphans reduced: -30445
+  Total roots added: 0
+  Total elements added: 30445
+  Total elements retyped: 0
+
+ContentClassifierV6:
+  Agreements affected: 99
+  Total orphans reduced: -217155
+  Total roots added: 0
+  Total elements added: 217155
+  Total elements retyped: 0

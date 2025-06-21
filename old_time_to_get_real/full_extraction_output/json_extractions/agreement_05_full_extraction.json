@@ -1,0 +1,1426 @@
+{
+  "agreement_info": {
+    "number": 5,
+    "filename": "agreement_05.html",
+    "total_elements": 139,
+    "element_types": {
+      "TextElement": 18,
+      "TableElement": 5,
+      "AgreementTitleElement": 1,
+      "ArticleElement": 11,
+      "ClauseElement": 2,
+      "ContentTextElement": 53,
+      "ExhibitElement": 4,
+      "HeadingElement": 35,
+      "PartyElement": 1,
+      "RecitalElement": 3,
+      "SectionElement": 6
+    }
+  },
+  "elements": [
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "2 | 11"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "(a)\nby mutual consent of the Parties;"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "3 | 11"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "INVOICES"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "PERSONNEL"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "4 | 11"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "5 | 11"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "6 | 11"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "CONFIDENTIALITY"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "7 | 11"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "SCR-Sibelco N.V. Plantin en Moretuslei 1a, 2018 Antwerp Belgium Attention: Laurence\nBoens, Group Legal Counsel Email: laurence.boens@sibelco.com Facsimile: +32 3 223 67 00"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Freshfields Bruckhaus Deringer US LLP 601 Lexington Avenue, 31st Floor New York, NY 10022 Attention:\nPeter D. Lyons, Esq. Email: peter.lyons@freshfields.com"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Covia Holdings Corporation\n258 Elm Street New Canaan,\nCT 06840 United States of America Attention: Chief Legal Counsel Email: rsolazzo@unimin.com"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Freshfields Bruckhaus Deringer US LLP 601 Lexington Avenue, 31st Floor New York, NY 10022 Attention:\nPeter D. Lyons, Esq. Email: peter.lyons@freshfields.com 8 | 11"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "9 | 11"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "10 | 11"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "[Signature Page Follows] 11 | 11"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "SCR-SIBELCO N.V.\n\n\n\n\nBy:\n \n /s/ Kurt Decat\n\n\n \nName: Kurt Decat\n\n\n \nTitle: Member of Executive Committee\n\n\n\n\nBy:\n \n /s/ Laurence Boens\n\n\n \nName: Laurence Boens\n\n\n \nTitle: Member of Executive Committee\n\n\n\nCOVIA HOLDINGS CORPORATION\n\n\n\n\nBy:\n \n /s/ Campbell Jones\n\n\n \nName: Campbell Jones\n\n\n \n Title: Executive Vice President and\n          Chief Operating Officer"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "[See attached]"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "Service\nNo.\n  \n Functional\nArea\n  \n Service Coordinator\n(for each Party)\n  \n Service\n  \n Description / Scope of Service\n  \n ServicePeriod\n  \n Service Charge\n  \n Extension of Services\n\n\n\n\n\n\n\n\n\n\nIS.01\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nCRM vendor management\n  \n Sibelco shall provide Covia with vendor management support for Salesforce.com in a manner consistent with current Sibelco practices. Services\ninclude:     Payment of vendor\ninvoices for costs associated with licenses used by Covia employees.  \n  License management services.\n    Management of vendor\nescalations as required.\n  \n9 months\n  \nThe cost is on a monthly pass through cost basis in accordance with the invoice Sibelco receives from Salesforce.com and shall only include cost associated with software licenses used by Covia employees.\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 4 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period.\n\n\n\n\n\n\n\n\n\n\nIS.02\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nEmail license Management\n  \n Sibelco shall provide Covia with vendor management support for Office 365 in a manner consistent with current Sibelco practices. Services\ninclude:     Payment of vendor\ninvoices for costs associated with licenses used by Covia employees.  \n  License management services.\n    Management of vendor\nescalations as required.\n  \n18 months\n  \nThe cost is on a monthly pass through cost basis in accordance with the invoice Sibelco receives from Microsoft and shall only include cost associated with software licenses used by Covia employees .\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 6 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period.\n\n\n\n\n\n\n\n\n\n\nIS.03\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nCloud subscription services\n  \n Sibelco shall provide Covia with support for Azure subscription services under Sibelcos tenant in a manner consistent with current\nSibelco practices. Services include:  \n  Payment of vendor invoices for costs associated with licenses used by Covia employees.\n    License management\nservices.     Management of\nvendor escalations as required.\n  \n12 months\n  \nThe cost is on a monthly pass through cost basis in accordance with the invoice Sibelco receives from Microsoft and shall only include cost associated with software licenses used by Covia employees.\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 6 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period.\n\n\n\n\n\n\n\n\n\n\nIS.04\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nBusiness analytics software support\n  \n Sibelco shall provide Covia with support for business analytics solution (Power BI) under Sibelcos Azure tenant in a manner consistent\nwith current Sibelco practices. Services include:  \n  Access provisioning for Covia employees requiring access to Power BI.\n  \n4 months\n  \n$9,100 per month\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 2 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "IS.06\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nMobile Device Management\n  \n Sibelco shall provide Covia with Mobile Device Management (MDM) services of mobile devices issued to for Covia employees in a manner\nconsistent with current Sibelco practices.   This service includes routine maintenance;\nincident diagnosis and resolution; routine configuration and monitoring support; On-going maintenance (including minor break / fix work).\n  \n2 months\n  \n$2,730 per month\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 1 additional month by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period (the Extended Service Term). The Service Charge for these Transition Services shall not change or be adjusted during the Service Term Extension.\n\n\n\n\n\n\n\n\n\n\nIS.07\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nSharePoint Access\n  \nSibelco shall provide management and administration of the Sibelco SharePoint environment and access to Covia employees to sites that they are members of (Infosites and team sites) in a manner consistent with current Sibelco\npractices.\n  \n1 month\n  \n$3,640 per month\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 1 additional month by giving no less than five (5) days prior written notice to the\nProviders Service Coordinator of such extended period (the Extended Service Term). The Service Charge for these Transition Services shall not change or be adjusted during the Service Term Extension.\n\n\n\n\n\n\n\n\n\n\nIS.08\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nWireless controller support\n  \n Sibelco shall provide operation, monitoring and management services for wireless LAN access points for Covia though the centralized management\nsystem.   Service includes Level 3 support including: Incident diagnosis and\nresolution; Maintenance of any related documentation; Required firmware upgrades; One off issue resolution (including major break / fix work and / or enhancements).  \nService does not include on-site support, troubleshooting and replacement of any hardware component of the wireless\nAccess Points.\n  \n3 months\n  \n$3,640 per month\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 3 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period (the Extended Service Term). The Service Charge for these Transition Services shall not change or be adjusted during the Service Term Extension.\n\n\n\n\n\n\n\n\n\n\nIS.09\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nService Management Tool\n  \n Sibelco shall provide Covia with vendor management support for iTRP in a manner consistent with current Sibelco practices. Services\ninclude:     Payment of vendor\ninvoices for costs associated with licenses used by Covia.\n  \n7 months\n  \nThe cost is on a monthly pass through cost basis in accordance with the invoice Sibelco receives from the vendor and shall only include cost associated with software\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 3 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period.\n\n\n\n\n\n\n\n\n\n\n\n  \n\n  \n\n  \n\n  \n   License management services.\n    Management of vendor\nescalations as required.\n  \n\n  \nlicenses used by Covia."
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "IS.10\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nDatacenter management\n  \n Sibelco shall provide Covia with core Data Center and communication services under the Interoute contract, in a manner consistent with current\nSibelco practices. Services include:  \n  Payment of vendor invoices for costs associated with services provided to Covia.\n    Management of vendor\nescalations as required .  \n  Network Management: Load Balancer, traffic monitoring and routing, network optimization and\nautomatic failover in case of network circuit failure.  \n  Hybrid VPN: Sibelco shall provide IP Connectivity for remote user access via the Internet utilizing\ntheir VPN standard. Sibelco shall provide access and connectivity for each employee who is considered a remote user (as needed).  \n  Firewall: Provides security firewall to filter inbound network traffic in accordance with security\npolicies. Sibelco IT provides support for firewall operations in locations where such service is provided as of the Effective Date which are included in the Interoute contract. In all cases, security rules to be defined, implemented, and managed by\nsite, in accordance with Covia security policy and practice.  \n  Internet Access: Sibelco to provide Internet services including\nend-user Internet connectivity and MPLS (Multi-Protocol Label Switched) backbone services.  \n  \n24 months\n  \nThe cost is on a monthly pass through cost basis in accordance with the invoice Sibelco receives from Interoute and shall only include cost associated with services provided by Covia.\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 12 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period.\n\n\n\n\n\n\n\n\n\n\nIS.11\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nEnvironmental Health and Safety Software\n  \n Sibelco shall provide Covia with support for EHS 360 (Cintellate) in a manner consistent with current Sibelco practices. Services include:\n    Access provisioning for Covia\nemployees requiring access to EHS 360 (Cintellate).  \n  Preventative and Routine maintenance: Incident diagnosis and resolution; Routine configuration and\nmonitoring support; On-going system maintenance (including minor break / fix work).\n  \n3 months\n  \n$2,275 per month\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 2 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period (the Extended Service Term). The Service Charge for these Transition Services shall not change or be adjusted during the Service Term Extension."
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "  Level 2 and level 3 support including: Incident diagnosis and resolution;\nMaintenance of knowledge management; Patching and system upgrades; One off issue resolution (including major break / fix work and / or enhancements).  \n  Provide necessary support for TSA exit activities.\n  This service shall not exceed 5 FTE hours per week.\n  \n\n  \n\n  \n\n\n\n\n\n\n\n\n\n\n\nIS.12\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nEmail Forwarding\n  \n Sibelco shall provide Covia with email forwarding services for Covia employees consistent with current practices of Covia. Services\ninclude:     Forward all email\n(external and internal) addressed to Covia employees sibelco.com email address to the appropriate recipient mailboxes in the Covia.com domain.  \n  Preventative and Routine maintenance (Levels 2 and 3) including: Incident diagnosis and resolution;\nRoutine configuration and monitoring support; On- going system maintenance (including minor break / fix work).\n  \n6 months or upon the migration of the Covia.com domain from Sibelcos email tenant to Covias tenant\n  \nThe cost is on a monthly pass through cost basis in accordance with the invoice Sibelco receives from Microsoft and shall only include cost associated with email licenses used by Covia.\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 3 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period.\n\n\n\n\n\n\n\n\n\n\nIS.13\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nConsultative Services\n  \nSibelco shall provide Covia with subject matter expertise and consultative services to support TSA exit activities for services described in this document.\n  \n24 months\n  \n This service shall be charged at a per-hour basis at a rate of $113.75 per employee.\n  (Calculated at a standard rate of $700 per employee per day plus a 30% HR fringe\nrate)\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 12 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period."
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "module": "agreement_parser_v6",
+      "text": "TRANSITION SERVICES AGREEMENT",
+      "id": "AgreementTitleElement_103",
+      "parent_id": null,
+      "children": [
+        "PartyElement_144",
+        "HeadingElement_153",
+        "ArticleElement_104",
+        "ArticleElement_105",
+        "HeadingElement_155",
+        "ExhibitElement_148",
+        "ArticleElement_110",
+        "HeadingElement_159",
+        "ExhibitElement_149",
+        "ExhibitElement_150",
+        "ArticleElement_116",
+        "ArticleElement_117",
+        "ArticleElement_118",
+        "ExhibitElement_151",
+        "ArticleElement_122",
+        "HeadingElement_167",
+        "ArticleElement_123",
+        "HeadingElement_168",
+        "ArticleElement_127",
+        "HeadingElement_172",
+        "ArticleElement_128",
+        "ArticleElement_129",
+        "HeadingElement_173",
+        "HeadingElement_186"
+      ],
+      "level": 0,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 1",
+      "id": "ArticleElement_104",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "HeadingElement_154"
+      ],
+      "level": 1,
+      "article_number": "ARTICLE 1",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 2",
+      "id": "ArticleElement_105",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [],
+      "level": 1,
+      "article_number": "ARTICLE 2",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 3",
+      "id": "ArticleElement_110",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [],
+      "level": 1,
+      "article_number": "ARTICLE 3",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "Article 3, Article 7,\nArticle 9 and Article 10 shall survive the termination of this Agreement.",
+      "id": "ArticleElement_116",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [],
+      "level": 1,
+      "article_number": "Article 3",
+      "normalized_id": "article_3"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 4",
+      "id": "ArticleElement_117",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "ContentTextElement_212"
+      ],
+      "level": 1,
+      "article_number": "ARTICLE 4",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 5",
+      "id": "ArticleElement_118",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "SectionElement_119",
+        "HeadingElement_165"
+      ],
+      "level": 1,
+      "article_number": "ARTICLE 5",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 6",
+      "id": "ArticleElement_122",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [],
+      "level": 1,
+      "article_number": "ARTICLE 6",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 7",
+      "id": "ArticleElement_123",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [],
+      "level": 1,
+      "article_number": "ARTICLE 7",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 8",
+      "id": "ArticleElement_127",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [],
+      "level": 1,
+      "article_number": "ARTICLE 8",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 9",
+      "id": "ArticleElement_128",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "ContentTextElement_223"
+      ],
+      "level": 1,
+      "article_number": "ARTICLE 9",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "module": "agreement_parser_v6",
+      "text": "ARTICLE 10",
+      "id": "ArticleElement_129",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [],
+      "level": 1,
+      "article_number": "ARTICLE 10",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(b)\nautomatically, without notice by or to either Party, upon the insolvency of the other Party;",
+      "id": "ClauseElement_142",
+      "parent_id": "HeadingElement_162",
+      "children": [
+        "ContentTextElement_208",
+        "ContentTextElement_209",
+        "ContentTextElement_210"
+      ],
+      "level": 3,
+      "clause_id": "(b)",
+      "clause_text": "automatically, without notice by or to either Party, upon the insolvency of the other Party;",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(c)\nNOTWITHSTANDING ANYTHING TO THE CONTRARY, IN NO EVENT SHALL ANY PARTY BE LIABLE TO THE OTHER PARTY UNDER THIS AGREEMENT FOR ANY PUNITIVE, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS, LOSS OF\nREVENUE OR LOST SALES) IN ANY WAY ARISING OUT OF OR RELATING TO THIS AGREEMENT.",
+      "id": "ClauseElement_143",
+      "parent_id": "HeadingElement_171",
+      "children": [],
+      "level": 3,
+      "clause_id": "(c)",
+      "clause_text": "NOTWITHSTANDING ANYTHING TO THE CONTRARY, IN NO EVENT SHALL ANY PARTY BE LIABLE TO THE OTHER PARTY UNDER THIS AGREEMENT FOR ANY PUNITIVE, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS, LOSS OF",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Business Information has the meaning set forth in Article 9.",
+      "id": "ContentTextElement_187",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Claim Period has the meaning set forth in Section 7.2(c).",
+      "id": "ContentTextElement_188",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Disclosing Party has the meaning set forth in Article 9.",
+      "id": "ContentTextElement_189",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Force Majeure Event has the meaning set forth in Article 8.",
+      "id": "ContentTextElement_190",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Indemnification Claim has the meaning set forth in Section 7.2(c).",
+      "id": "ContentTextElement_191",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Indemnifying Party has the meaning set forth in Section 7.2(c).",
+      "id": "ContentTextElement_192",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Invoice Coordinator has the meaning set forth in\nSection 5.3.",
+      "id": "ContentTextElement_193",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Non-Disclosing Party has the\nmeaning set forth in Article 9.",
+      "id": "ContentTextElement_194",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Providers means Provider and any Affiliates of Provider providing\nTransition Services pursuant to this Agreement.",
+      "id": "ContentTextElement_195",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Provider Indemnitees has the meaning set forth\nin Section 7.2(a)",
+      "id": "ContentTextElement_196",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Recipients means Recipient and any Affiliate of Recipient receiving Transition\nServices pursuant to this Agreement.",
+      "id": "ContentTextElement_197",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Recipient Indemnitees has the meaning set forth in\nSection 7.2(b).",
+      "id": "ContentTextElement_198",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Service Coordinators has the meaning set forth in\nSection 5.2.",
+      "id": "ContentTextElement_199",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Termination Date has the meaning set forth in Section 3.1.",
+      "id": "ContentTextElement_200",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Third Party Provider has the meaning set forth in Section 2.2.",
+      "id": "ContentTextElement_201",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Transition Services Schedule has the meaning set forth in Section 2.1(a)",
+      "id": "ContentTextElement_202",
+      "parent_id": "HeadingElement_154",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Provider may satisfy its obligation to provide the Transition Services hereunder by (i) causing one or more of its Affiliates to provide such Transition\nServices or by subcontracting any such Transition Services or any portion thereof to such Affiliates; or (ii) procuring any such Transition Services or a portion thereof from contractors, subcontractors, vendors or other third party providers\n(each, a Third Party Provider).",
+      "id": "ContentTextElement_203",
+      "parent_id": "HeadingElement_156",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "In providing the Transition Services, the Provider and its Affiliates, and their employees, officers, directors and agents, shall (i) comply with all\napplicable laws, rules and regulations, (ii) provide the Transition Services in the same manner and at the same standard pursuant to which such services were being provided with respect to the Business in the year period prior to the Closing,\nand (iii) provide the Transition Services in a professional and workmanlike manner, using personnel with sufficient training and",
+      "id": "ContentTextElement_204",
+      "parent_id": "HeadingElement_157",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "expertise in providing the Transition Services. The Provider and the Recipient shall cooperate with each other in good faith to determine the additional details concerning the exact means of\nproviding the Transition Services or any additional transition services that Recipient deems is reasonably necessary to conduct the Business.",
+      "id": "ContentTextElement_205",
+      "parent_id": "HeadingElement_157",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The Provider shall be responsible for any third party consents required in order to provide the Transition Services (the\nThird Party Consents), and the Recipient shall reasonably assist the Provider in the Providers efforts to obtain such Third Party Consents as the",
+      "id": "ContentTextElement_206",
+      "parent_id": "HeadingElement_158",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Provider may reasonably request. Any fees or other out-of-pocket costs to\nobtain Third Party Consents shall be borne by the Recipient.",
+      "id": "ContentTextElement_207",
+      "parent_id": "HeadingElement_158",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(c)\nby the Recipient, as to any particular Transition Service upon fifteen (15) days prior written notice of its desire to terminate such Transition Service, in accordance with Section 3.4; or",
+      "id": "ContentTextElement_208",
+      "parent_id": "ClauseElement_142",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(d)\n by either Party, in the event that the other Party breaches any representation, warranty, covenant or other\nmaterial obligation (other than payment) of such Party set forth in this Agreement or the Merger Agreement, and fails to cure such breach as promptly as commercially practicable but in any event within fifteen (15) days after written notice\nfrom the non-breaching Party of such breach (which",
+      "id": "ContentTextElement_209",
+      "parent_id": "ClauseElement_142",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "notice must specify, in commercially reasonable detail, the nature of such breach), then the non-breaching Party is entitled to immediately, at the\nexpiration of such 15-day period, by written notice to the breaching Party, terminate this Agreement, without penalty, liability or further obligation therefore.",
+      "id": "ContentTextElement_210",
+      "parent_id": "ClauseElement_142",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The Provider shall reduce or\nterminate any portion of the Transition Services upon fifteen (15) days prior written notice from the Recipient. Any requested termination or reduction of Transition Services pursuant to this Section 3.4 shall become effective at\nthe end of such 15-day notice period. The Provider shall thereafter no longer be obligated to provide Transition Services with respect to such Transition Service and the Recipient shall only be obligated to\n(a) pay for fees, if any, incurred with respect to such Transition Service up to such date, and (b) reimburse the Provider for any reasonable out-of-pocket\nexpenses attributable to such Transition Service as of such date. Schedule 1 shall thereafter be amended to reflect the termination or reduction of such Transition Service.",
+      "id": "ContentTextElement_211",
+      "parent_id": "HeadingElement_163",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Within thirty (30) days\nafter the end of each calendar month for which fees are payable hereunder, Provider shall submit one invoice to Recipient for all Transition Services provided during such calendar month pursuant to this Agreement. The invoices shall include a\nreasonably detailed description of, and specify the amount for, each type of Transition Service. Recipient shall pay such invoices within forty-five (45) days after receipt of the invoice. The Recipient shall promptly notify the Provider, and\nin no event later than ten (10) Business Days following receipt of such invoice, of any objection of the Recipient with regard to such invoice, and the Parties shall promptly commence good faith negotiations to resolve such dispute.",
+      "id": "ContentTextElement_212",
+      "parent_id": "ArticleElement_117",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The Recipient shall grant the\npersonnel of the Provider or its Affiliates access to the locations, systems and information of the Recipient as reasonably necessary for the Transition Services to be provided pursuant to this Agreement, in each case, subject to the Providers\ncompliance with the Recipients terms of use and access and network policies.",
+      "id": "ContentTextElement_213",
+      "parent_id": "SectionElement_119",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The Provider and the Recipient shall each nominate from time to time one coordinator to act as the primary person with respect to the preparation (in\ncase of the Provider) and payment (in case of the Recipient) of the monthly invoice (each coordinator, an Invoice Coordinator). Each Party shall have an Invoice Coordinator in place at all times.",
+      "id": "ContentTextElement_214",
+      "parent_id": "HeadingElement_166",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Except as otherwise provided in this Agreement, the Merger Agreement or the Ancillary Agreements, the Provider, the Recipient and any Third\nParty Provider shall retain all right, title and interest in and to their respective Intellectual Property. No license or other right, express, implied or otherwise, is granted under this Agreement, except that solely to the extent use of any\nIntellectual Property of the Provider and the Recipient is required for the provision or receipt of the Transition Services (as the case may be) in accordance with this Agreement, each of the Provider and the Recipient hereby grants to the other a non-exclusive, non-transferable, non-sublicensable (except to third parties to the extent required for the provision or receipt of Transition Services, but not for such third\npartys own independent use or for any other purpose), royalty-free license, during the term of this Agreement, to internally use such Intellectual Property solely to the extent and for the duration necessary to provide or receive the\napplicable Transition Service in accordance with this Agreement (it being understood that such a license shall automatically terminate immediately upon the applicable Termination Date, and is subject to any licenses granted by other Persons with\nrespect to Intellectual Property not owned by the Provider or the Recipient).",
+      "id": "ContentTextElement_215",
+      "parent_id": "HeadingElement_167",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The representations and warranties set forth in this Agreement are the Providers only representations and\nwarranties concerning the Transition Services and are made for the benefit of the Recipient in lieu of all other representations or warranties of any kind, express or implied, including warranties of merchantability or fitness for any particular use\nor purpose with respect to any Transition Services.",
+      "id": "ContentTextElement_216",
+      "parent_id": "SectionElement_124",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(a)\nThe Recipient shall indemnify and hold harmless the Provider and its directors, officers, employees, agents and representatives (collectively, the Provider Indemnitees) from and against any and all losses\nwhich the Provider Indemnitees may incur arising or resulting from (i) the Recipients material breach of the terms of this Agreement, or (ii) the Recipients gross negligence or intentional misconduct or the material violation\nof any Law by the Recipient, in each case in connection with the receipt of the Transition Services.",
+      "id": "ContentTextElement_217",
+      "parent_id": "HeadingElement_169",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(b)\nThe Provider shall indemnify and hold harmless the Recipient and its directors, officers, employees, agents and representatives (collectively, the Recipient Indemnitees) from and against any and all losses\nwhich the Recipient Indemnitees may incur arising or resulting from (i) the Providers material breach of the terms of this Agreement, or (ii) the Providers gross negligence or intentional misconduct or the material violation of\nany Law by the Provider, in each case in connection with the provision of, or failure to provide, the Transition Services.",
+      "id": "ContentTextElement_218",
+      "parent_id": "HeadingElement_169",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(c)\nThe party or parties against whom a claim for indemnification (an Indemnification Claim) is made under this Section 7.2 shall be referred to as the Indemnifying Party.\nIndemnification Claims must be submitted to the Indemnifying Party within 60 days of the Termination Date with respect to the relevant Transition Service (the Claim Period).",
+      "id": "ContentTextElement_219",
+      "parent_id": "HeadingElement_169",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(a)\nAn Indemnifying Partys maximum aggregate liability with respect to losses for each Transition Service under any Indemnification Claim shall not exceed the total amount of fees paid by the Recipient\nwith respect to such Transition Service as of the date the Indemnification Claim for such losses is submitted to the Indemnifying Party;",
+      "id": "ContentTextElement_220",
+      "parent_id": "HeadingElement_171",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(b)\nAn Indemnifying Party shall not be liable for losses under any Indemnification Claim submitted after the Claim Period; and",
+      "id": "ContentTextElement_221",
+      "parent_id": "HeadingElement_171",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "In the event that the\nProvider or any of its Affiliates are delayed in or prevented from performing their obligations under this Agreement, in whole or in part, due to a cause beyond their reasonable control, including an act of God, fire, flood, explosion, civil\ndisorder, strike, lockout or other labor trouble, material shortages of utilities, any law, judgment, demand or requirement of any Governmental Authority, riot, war, or other cause beyond the reasonable control of the Provider (each a Force\nMajeure Event), then, upon written notice to the Recipient, (a) the affected obligations under this Agreement shall be suspended to the extent reasonably necessary during the period of the Force Majeure Event, (b) the Provider\nshall have the right to apportion its and its Affiliates services in an equitable manner to all users, (c) the Provider and its Affiliates shall not have any liability to the Recipient or any other Person in connection with such suspended\nobligation and (d) the Provider shall use their commercially reasonable efforts to cure the cause of the delay or failure to perform and to resume performance as soon as practicable after the Force Majeure Event has ended. All fees otherwise\npayable in connection with the Transition Services affected by the Force Majeure Event shall be waived for the entire period of suspension.",
+      "id": "ContentTextElement_222",
+      "parent_id": "HeadingElement_172",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Both Parties shall hold,\nand shall cause their respective Affiliates, directors, officers, employees, agents, representatives, successors, assigns, accountants and advisors to hold, in confidence, unless compelled to disclose by judicial or administrative process or by\nother requirements of law, all documents and information relating to the business of the other Party disclosed to it by reason of this Agreement (the Business Information), except to the extent that such Business Information\n(a) must be disclosed in connection with such Partys obligations under this Agreement, (b) can be shown to have been in the public domain through no fault of the Disclosing Party (as defined below), or (c) was later lawfully\nacquired by the Disclosing Party from sources other than a Party to this Agreement or its Affiliates that were not bound by any confidentiality agreement with respect to such Business Information. In the event that either Party or any of their\nrespective Affiliates, directors, officers, employees or agents is requested pursuant to, or required by, law to disclose any Business Information (the Disclosing Party), such Disclosing Party shall notify the other Party (the Non-Disclosing Party) promptly in writing of such requirement so that the Non-Disclosing Party may seek a protective order or other appropriate remedy or waive\ncompliance with this Article 9, and if no such protective order or other remedy is obtained, or the Non-Disclosing Party waives compliance with this Article 9, the Disclosing Party shall disclose\nonly that portion of such Business Information which it is advised by its outside legal counsel is legally required to be disclosed and shall use its best efforts to obtain assurances that confidential treatment shall be accorded such Business\nInformation.",
+      "id": "ContentTextElement_223",
+      "parent_id": "ArticleElement_128",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "All notices, requests, claims, demands and other communications under this Agreement shall be in writing and shall be deemed given if delivered\npersonally, or, if confirmed, emailed or sent by overnight courier (providing proof of delivery) to the Parties at the following addresses (or at such other address for a Party as shall be specified by like notice):",
+      "id": "ContentTextElement_224",
+      "parent_id": "SectionElement_130",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "with\na copy (which shall not constitute notice) to:",
+      "id": "ContentTextElement_225",
+      "parent_id": "HeadingElement_174",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "with a copy (which\nshall not constitute notice) to:",
+      "id": "ContentTextElement_226",
+      "parent_id": "HeadingElement_175",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This Agreement may not be amended or modified except by an instrument in writing signed on behalf of each of the Parties.",
+      "id": "ContentTextElement_227",
+      "parent_id": "HeadingElement_176",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This\nAgreement (including the Schedules hereto), taken together with the Merger Agreement and any applicable Ancillary Agreement, (i) constitutes the entire agreement, and supersedes all prior agreements and understandings, both written and oral,\namong the Parties with respect to the subject matter hereof; and (ii) is not intended to and shall not confer upon any person other than the Parties any rights or remedies hereunder. In the event and to the extent that there is a conflict\nbetween the provisions of this Agreement and the Merger Agreement or any applicable Ancillary Agreement as it relates to the Transition Services, the provisions of this Agreement shall control. The Schedules to this Agreement are incorporated herein\nby reference and made a part of this Agreement.",
+      "id": "ContentTextElement_228",
+      "parent_id": "HeadingElement_177",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Neither this Agreement nor any of the rights, interests or obligations under this Agreement shall be assigned, in whole or in part, without the prior written\nconsent of the other Parties. Any purported assignment in violation of the preceding sentence shall be void. Subject to the foregoing, this Agreement shall be binding upon, inure to the benefit of, and be enforceable by, the Parties and their\nrespective successors and assigns.",
+      "id": "ContentTextElement_229",
+      "parent_id": "HeadingElement_178",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "When a reference is made in this Agreement to an Article or Section, such reference shall be to an Article or Section of this Agreement, unless otherwise\nindicated. Whenever the words include, includes or including are used in this Agreement, they shall be deemed to be followed by the words without limitation. The words hereof,\nhereto, hereby, herein, hereunder and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement. The term\nor is not exclusive. The word extent in the phrase to the extent shall mean the degree to which a subject or other thing extends, and such phrase shall not mean simply if. All terms defined in this\nAgreement shall have the defined meanings when used in any certificate or other document made or delivered pursuant hereto unless otherwise defined therein. The definitions contained in this Agreement are applicable to the singular as well as the\nplural forms of such terms and to the masculine as well as to the feminine and neuter genders of such term. Any agreement, instrument or statute defined or referred to herein or in any agreement or instrument that is referred to herein means such\nagreement, instrument or statute as from time to time amended, modified or supplemented, unless otherwise specifically indicated. References to a person are also to its permitted successors and assigns. Unless otherwise specifically indicated, all\nreferences to dollars and $ shall be deemed references to the lawful money of the United States of America.",
+      "id": "ContentTextElement_230",
+      "parent_id": "HeadingElement_179",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "If any term or other provision of this Agreement is held by a court of competent jurisdiction or other authority to be invalid, illegal or incapable of being\nenforced by any rule of law or public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect and shall in no way be affected, impaired or invalidated. Upon a determination that any term or\nother provision is invalid, illegal or incapable of being enforced, the Parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible to the fullest extent permitted by\nApplicable Law in a mutually acceptable manner to the end that the Transaction Services are fulfilled to the fullest extent possible.",
+      "id": "ContentTextElement_231",
+      "parent_id": "HeadingElement_180",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Except as set forth in this Agreement, whether or not the transactions contemplated by this Agreement are consummated, all fees and expenses incurred\nin connection with this Agreement and the Transition Services shall be paid by the Party incurring such fees or expenses.",
+      "id": "ContentTextElement_232",
+      "parent_id": "HeadingElement_181",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, regardless of the laws that might otherwise govern\nunder any applicable principles of conflicts of laws thereof.",
+      "id": "ContentTextElement_233",
+      "parent_id": "HeadingElement_182",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Each of the Parties (i) irrevocably and unconditionally consents and submits to the exclusive jurisdiction and venue of the Court of Chancery of the State\nof Delaware in and for New Castle County, Delaware or any federal court sitting in the State of Delaware; (ii) agrees that it shall not attempt to deny or defeat such jurisdiction by motion or other request for leave from such court; and\n(iii) agrees that it shall not bring any such action in any court other than the Court of Chancery for the State of Delaware in and for New Castle County, Delaware, or any federal court sitting in the State of Delaware and appellate courts\nthereof. Each Party irrevocably consents to the service of process outside the territorial jurisdiction of the courts referred to in this Section 10.9 in any such Action by mailing copies thereof by registered or certified United States mail,\npostage prepaid, return receipt requested, to its address as specified in or pursuant to Section 10.1. However, the foregoing shall not limit the right of a Party to effect service of process on the other Party by any other legally available\nmethod.",
+      "id": "ContentTextElement_234",
+      "parent_id": "HeadingElement_183",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "EACH OF SIBELCO\nAND COVIA WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT.",
+      "id": "ContentTextElement_235",
+      "parent_id": "HeadingElement_184",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This Agreement may be executed in two or more counterparts, all of which shall be considered one and the same agreement and shall become effective when one or\nmore counterparts have been signed by each of the Parties and delivered (including by electronic transmission) to the other Parties.",
+      "id": "ContentTextElement_236",
+      "parent_id": "HeadingElement_185",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "IN WITNESS WHEREOF, the Parties have executed and delivered this Agreement as of the date indicated in the\nfirst sentence of this Agreement.",
+      "id": "ContentTextElement_237",
+      "parent_id": "HeadingElement_185",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "[Signature page to Covia Holdings Corporation Transition Services Agreement]",
+      "id": "ContentTextElement_238",
+      "parent_id": "HeadingElement_185",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "  Level 3 support including: Incident diagnosis and resolution; updates to\nthe documentation associated with this application; Patching and system upgrades; One off issue resolution (including major break / fix work).\n  \n\n  \n\n  \nCoordinator of such extended period (the Extended Service Term). The Service Charge for these Transition Services shall not change or be adjusted during the Service Term Extension.\n\n\n\n\n\n\n\n\n\n\nIS.05\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipient (Covia): Rob Hauzie\n  \nEnd user services support\n  \n Sibelco shall provide Covia with end user services for Covia employees consistent with current practices. Services include:\n    Active Directory management:\nmanage the creation, maintenance and disablement of identities required to access Sibelcos network including supporting moves, adds, changes deletions and password reset requests for Covia users.\n    Identity Access management:\nprovide and maintain an identity access management system that processes the granting of authorized users the right to use a service while preventing access to non- authorized users.\n    Remote Desktop Configuration\nManagement: remote desktop configuration of Covia desktops using Microsofts System Center Configuration Manager (SSCM) or any other tool used for that purpose.  \n  Multi-factor authentication: user authentication for VPN access.\n    Anti-virus: Sibelco shall\nmaintain all security software (including antivirus, spyware, malware) to protect against malicious threats that could be distributed across the network.  \n  Inventory Management: Sibelco shall maintain inventory taking and asset management reporting\nrelated to Covia end user desktops.\n  \n6 months\n  \n$18,200 per month\n  \nRecipient shall have the right at any time to extend the Termination Date for these Transition Services for a period of up to 3 additional months by giving no less than thirty (30) days prior written notice to the\nProviders Service Coordinator of such extended period (the Extended Service Term). The Service Charge for these Transition Services shall not change or be adjusted during the Service Term Extension.\n\n\n\n\n\n\n\n\n\n\n\n  \n\n  \n\n  \n\n  \n     DHCP:\nSibelco shall provide dynamic IP address and subnet management to be used by Covia Receivers devices and applications using Dynamic Host Configuration Protocol (DHCP).  \n  DNS: Sibelco shall provide Domain Name Services (DNS) for Covia users and systems.\n    SNOW: Sibelco shall maintain\nsecurity and compliance software (SNOW) for Covia Receiver employees for audit and reporting.",
+      "id": "ContentTextElement_239",
+      "parent_id": "SectionElement_141",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ExhibitElement",
+      "module": "agreement_parser_v6",
+      "text": "Subject to the terms and conditions of this Agreement, Provider shall provide, or cause one or more of its Affiliates or Third Party Providers (as defined\nbelow) to provide, to Recipient each of the services set forth in Schedule 1 (as amended from time to time in accordance with the terms of this Agreement, the Transition Services Schedule) for the respective periods and upon the\nterms and conditions set forth in this Agreement (such services, the Transition Services).",
+      "id": "ExhibitElement_148",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "HeadingElement_156",
+        "HeadingElement_157",
+        "HeadingElement_158"
+      ],
+      "level": 1,
+      "exhibit_id": "Schedule 1",
+      "normalized_id": "exhibit_1"
+    },
+    {
+      "class_name": "ExhibitElement",
+      "module": "agreement_parser_v6",
+      "text": "The term of this Agreement shall commence on the Closing Date and, unless earlier terminated in accordance with the provisions of this Agreement, shall\ncontinue in effect with respect to each of the Transition Services for the term thereof as set forth in Schedule 1 (the last date in each such term being referred to in this Agreement as the Termination Date for each of such\nTransition Services). This Agreement shall automatically terminate on the last Termination Date.",
+      "id": "ExhibitElement_149",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "HeadingElement_160"
+      ],
+      "level": 1,
+      "exhibit_id": "Schedule 1",
+      "normalized_id": "exhibit_1"
+    },
+    {
+      "class_name": "ExhibitElement",
+      "module": "agreement_parser_v6",
+      "text": "The term of any portion of the Transition Services as set forth in Schedule 1 may be extended by the Recipient upon fifteen (15) days\nwritten notice to Provider prior to the Termination Date of such Transition Services or such other period of notice as specifically provided in Schedule 1 with respect to the subject Transition Services.",
+      "id": "ExhibitElement_150",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "HeadingElement_161",
+        "HeadingElement_162",
+        "HeadingElement_163",
+        "HeadingElement_164"
+      ],
+      "level": 1,
+      "exhibit_id": "Schedule 1",
+      "normalized_id": "exhibit_1"
+    },
+    {
+      "class_name": "ExhibitElement",
+      "module": "agreement_parser_v6",
+      "text": "The Provider and the Recipient shall each nominate one coordinator for each functional area of the Transition Services, as set forth on Schedule 1 or as\nsubsequently nominated from time to time by each Party (each coordinator, a Service Coordinator), to act as the primary contact person with respect to the performance of the relevant Transition Services. Each Party shall have a Service\nCoordinator for each functional area of the Transition Services in place at all times. Unless Provider and Recipient agree otherwise, all communications relating to this Agreement and the schedule of Transition Services shall be directed by the\nrelevant Service Coordinator. Each Party may treat an act of a Service Coordinator of the other Party as the authorized act of such Party without any further inquiry. Each Party shall have the right at any time, and from time to time, without the\nprior approval of the other Party, to replace such Partys Service Coordinator by giving written notice to the other Party setting forth (i) the name of the replacement Service Coordinator, and (ii) a certification that the\nreplacement Service Coordinator is authorized to act for the Party giving notice in all matters relating to this Agreement.",
+      "id": "ExhibitElement_151",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "HeadingElement_166"
+      ],
+      "level": 1,
+      "exhibit_id": "Schedule 1",
+      "normalized_id": "exhibit_1"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "EXECUTION VERSION",
+      "id": "HeadingElement_152",
+      "parent_id": null,
+      "children": [],
+      "level": 1,
+      "heading_text": "EXECUTION VERSION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "RECITALS",
+      "id": "HeadingElement_153",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "RecitalElement_145",
+        "RecitalElement_146",
+        "RecitalElement_147"
+      ],
+      "level": 1,
+      "heading_text": "RECITALS"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "As used in this Agreement and in the schedules attached hereto:",
+      "id": "HeadingElement_154",
+      "parent_id": "ArticleElement_104",
+      "children": [
+        "ContentTextElement_187",
+        "ContentTextElement_188",
+        "ContentTextElement_189",
+        "ContentTextElement_190",
+        "ContentTextElement_191",
+        "ContentTextElement_192",
+        "ContentTextElement_193",
+        "ContentTextElement_194",
+        "ContentTextElement_195",
+        "ContentTextElement_196",
+        "ContentTextElement_197",
+        "ContentTextElement_198",
+        "ContentTextElement_199",
+        "ContentTextElement_200",
+        "ContentTextElement_201",
+        "ContentTextElement_202"
+      ],
+      "level": 2,
+      "heading_text": "As used in this Agreement and in the schedules attached hereto:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "PROVISION OF\nTRANSITION SERVICES",
+      "id": "HeadingElement_155",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "SectionElement_106"
+      ],
+      "level": 1,
+      "heading_text": "PROVISION OF\nTRANSITION SERVICES"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "2.2 Third Party Provider",
+      "id": "HeadingElement_156",
+      "parent_id": "ExhibitElement_148",
+      "children": [
+        "ContentTextElement_203"
+      ],
+      "level": 2,
+      "heading_text": "2.2 Third Party Provider"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "2.3 Standard of Transition Services",
+      "id": "HeadingElement_157",
+      "parent_id": "ExhibitElement_148",
+      "children": [
+        "ContentTextElement_204",
+        "ContentTextElement_205"
+      ],
+      "level": 2,
+      "heading_text": "2.3 Standard of Transition Services"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "2.4\nThird Party Consent",
+      "id": "HeadingElement_158",
+      "parent_id": "ExhibitElement_148",
+      "children": [
+        "ContentTextElement_206",
+        "ContentTextElement_207"
+      ],
+      "level": 2,
+      "heading_text": "2.4\nThird Party Consent"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "TERM AND TERMINATION",
+      "id": "HeadingElement_159",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "SectionElement_111"
+      ],
+      "level": 1,
+      "heading_text": "TERM AND TERMINATION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "3.2 Extension of Term",
+      "id": "HeadingElement_160",
+      "parent_id": "ExhibitElement_149",
+      "children": [],
+      "level": 2,
+      "heading_text": "3.2 Extension of Term"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "3.3 Termination",
+      "id": "HeadingElement_161",
+      "parent_id": "ExhibitElement_150",
+      "children": [],
+      "level": 2,
+      "heading_text": "3.3 Termination"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "This Agreement may be terminated prior\nto any Termination Date as follows:",
+      "id": "HeadingElement_162",
+      "parent_id": "ExhibitElement_150",
+      "children": [
+        "ClauseElement_142"
+      ],
+      "level": 2,
+      "heading_text": "This Agreement may be terminated prior\nto any Termination Date as follows:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "3.4 Partial Termination",
+      "id": "HeadingElement_163",
+      "parent_id": "ExhibitElement_150",
+      "children": [
+        "ContentTextElement_211"
+      ],
+      "level": 2,
+      "heading_text": "3.4 Partial Termination"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "3.5 Survival",
+      "id": "HeadingElement_164",
+      "parent_id": "ExhibitElement_150",
+      "children": [],
+      "level": 2,
+      "heading_text": "3.5 Survival"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "5.2 Service Coordinators",
+      "id": "HeadingElement_165",
+      "parent_id": "ArticleElement_118",
+      "children": [],
+      "level": 2,
+      "heading_text": "5.2 Service Coordinators"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "5.3 Invoice Coordinators",
+      "id": "HeadingElement_166",
+      "parent_id": "ExhibitElement_151",
+      "children": [
+        "ContentTextElement_214"
+      ],
+      "level": 2,
+      "heading_text": "5.3 Invoice Coordinators"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "INTELLECTUAL\nPROPERTY",
+      "id": "HeadingElement_167",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "ContentTextElement_215"
+      ],
+      "level": 1,
+      "heading_text": "INTELLECTUAL\nPROPERTY"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "INDEMNIFICATION",
+      "id": "HeadingElement_168",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "SectionElement_124",
+        "HeadingElement_169",
+        "HeadingElement_170",
+        "HeadingElement_171"
+      ],
+      "level": 1,
+      "heading_text": "INDEMNIFICATION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "7.2 Indemnification",
+      "id": "HeadingElement_169",
+      "parent_id": "HeadingElement_168",
+      "children": [
+        "ContentTextElement_217",
+        "ContentTextElement_218",
+        "ContentTextElement_219"
+      ],
+      "level": 2,
+      "heading_text": "7.2 Indemnification"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "7.3 Limitations on Liability",
+      "id": "HeadingElement_170",
+      "parent_id": "HeadingElement_168",
+      "children": [],
+      "level": 2,
+      "heading_text": "7.3 Limitations on Liability"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "Notwithstanding any\nprovision herein to the contrary:",
+      "id": "HeadingElement_171",
+      "parent_id": "HeadingElement_168",
+      "children": [
+        "ContentTextElement_220",
+        "ContentTextElement_221",
+        "ClauseElement_143"
+      ],
+      "level": 2,
+      "heading_text": "Notwithstanding any\nprovision herein to the contrary:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "FORCE MAJEURE",
+      "id": "HeadingElement_172",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "ContentTextElement_222"
+      ],
+      "level": 1,
+      "heading_text": "FORCE MAJEURE"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "GENERAL PROVISIONS",
+      "id": "HeadingElement_173",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "SectionElement_130",
+        "HeadingElement_174",
+        "HeadingElement_175",
+        "HeadingElement_176",
+        "HeadingElement_177",
+        "HeadingElement_178",
+        "HeadingElement_179",
+        "HeadingElement_180",
+        "HeadingElement_181",
+        "HeadingElement_182",
+        "HeadingElement_183",
+        "HeadingElement_184",
+        "HeadingElement_185"
+      ],
+      "level": 1,
+      "heading_text": "GENERAL PROVISIONS"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "If to the Provider:",
+      "id": "HeadingElement_174",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_225"
+      ],
+      "level": 2,
+      "heading_text": "If to the Provider:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "If to the Recipient:",
+      "id": "HeadingElement_175",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_226"
+      ],
+      "level": 2,
+      "heading_text": "If to the Recipient:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.2 Amendment and Waivers",
+      "id": "HeadingElement_176",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_227"
+      ],
+      "level": 2,
+      "heading_text": "10.2 Amendment and Waivers"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.3 Entire Agreement; No Third Party Rights",
+      "id": "HeadingElement_177",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_228"
+      ],
+      "level": 2,
+      "heading_text": "10.3 Entire Agreement; No Third Party Rights"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.4 Assignment and Successors",
+      "id": "HeadingElement_178",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_229"
+      ],
+      "level": 2,
+      "heading_text": "10.4 Assignment and Successors"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.5 Interpretation",
+      "id": "HeadingElement_179",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_230"
+      ],
+      "level": 2,
+      "heading_text": "10.5 Interpretation"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.6 Severability",
+      "id": "HeadingElement_180",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_231"
+      ],
+      "level": 2,
+      "heading_text": "10.6 Severability"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.7 Expenses",
+      "id": "HeadingElement_181",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_232"
+      ],
+      "level": 2,
+      "heading_text": "10.7 Expenses"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.8 Governing Law",
+      "id": "HeadingElement_182",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_233"
+      ],
+      "level": 2,
+      "heading_text": "10.8 Governing Law"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.9 Consent to Jurisdiction",
+      "id": "HeadingElement_183",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_234"
+      ],
+      "level": 2,
+      "heading_text": "10.9 Consent to Jurisdiction"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.10 Waiver of Jury Trial",
+      "id": "HeadingElement_184",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_235"
+      ],
+      "level": 2,
+      "heading_text": "10.10 Waiver of Jury Trial"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "10.11 Counterparts",
+      "id": "HeadingElement_185",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_236",
+        "ContentTextElement_237",
+        "ContentTextElement_238"
+      ],
+      "level": 2,
+      "heading_text": "10.11 Counterparts"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "TRANSITION SERVICES SCHEDULES1",
+      "id": "HeadingElement_186",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [
+        "SectionElement_141"
+      ],
+      "level": 1,
+      "heading_text": "TRANSITION SERVICES SCHEDULES1"
+    },
+    {
+      "class_name": "PartyElement",
+      "module": "agreement_parser_v6",
+      "text": "THIS TRANSITION SERVICES AGREEMENT (this Agreement), dated as of June 1, 2018, is by and among SCR-Sibelco N.V., a Belgian public company (Sibelco, as Provider), and Covia Holdings Corporation (f/k/a Unimin Corporation), a Delaware corporation (Covia,\nas Recipient). Sibelco and Covia are each referred to herein individually as a Party and collectively as the Parties. Capitalized terms used but not otherwise defined herein shall have the\nmeanings given to them in the Merger Agreement (as defined below).",
+      "id": "PartyElement_144",
+      "parent_id": "AgreementTitleElement_103",
+      "children": [],
+      "level": 2,
+      "party_name": "SCR-Sibelco N.V.",
+      "party_type": "Belgian public company (Sibelco, as Provider)",
+      "normalized_id": "party_scr_sibelco_n_v_"
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, on December 11, 2017, Covia, Sibelco, Fairmount Santrol Holdings Inc., a Delaware corporation (Fairmount),\nBison Merger Sub, Inc., a Delaware corporation and a direct wholly owned subsidiary of Covia (Merger Sub), and Bison Merger Sub I, LLC, a Delaware limited liability company and a direct wholly owned subsidiary of Covia\n(Merger Sub LLC), entered into that certain Agreement and Plan of Merger (the Merger Agreement), pursuant to which Sibelco, Covia, Merger Sub, Merger Sub LLC and Fairmount shall effect: (i) a business\ncombination through the merger of Merger Sub with and into Fairmount (the Merger), with Fairmount being the surviving corporation and a wholly-owned subsidiary of Covia; and (ii) a further business combination through the merger\nof Fairmount with and into Merger Sub LLC (the Second Merger) immediately following the consummation of the Merger, with Merger Sub LLC surviving the Second Merger as a wholly-owned subsidiary of\nCovia;",
+      "id": "RecitalElement_145",
+      "parent_id": "HeadingElement_153",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, the Parties desire that Provider provides to Recipient certain transition services with respect to the operation\nof the business of Covia (the Business) following the Closing, on the terms and conditions set forth in this Agreement.",
+      "id": "RecitalElement_146",
+      "parent_id": "HeadingElement_153",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "NOW, THEREFORE, intending to be legally bound and in consideration of the mutual provisions set forth in this Agreement and for other\ngood and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:",
+      "id": "RecitalElement_147",
+      "parent_id": "HeadingElement_153",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "2.1 Transition Services",
+      "id": "SectionElement_106",
+      "parent_id": "HeadingElement_155",
+      "children": [],
+      "level": 2,
+      "section_number": "2",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "3.1 Term",
+      "id": "SectionElement_111",
+      "parent_id": "HeadingElement_159",
+      "children": [],
+      "level": 2,
+      "section_number": "3",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "5.1 Access",
+      "id": "SectionElement_119",
+      "parent_id": "ArticleElement_118",
+      "children": [
+        "ContentTextElement_213"
+      ],
+      "level": 2,
+      "section_number": "5",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "7.1 No Other\nRepresentations or Warranties",
+      "id": "SectionElement_124",
+      "parent_id": "HeadingElement_168",
+      "children": [
+        "ContentTextElement_216"
+      ],
+      "level": 2,
+      "section_number": "7",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "10.1 Notices",
+      "id": "SectionElement_130",
+      "parent_id": "HeadingElement_173",
+      "children": [
+        "ContentTextElement_224"
+      ],
+      "level": 2,
+      "section_number": "10",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "1\nAll Transition Services provided shall be provided in the same manner and at the same standard pursuant to which such services were being provided with respect to the Business in the year period prior to the Closing.",
+      "id": "SectionElement_141",
+      "parent_id": "HeadingElement_186",
+      "children": [
+        "ContentTextElement_239"
+      ],
+      "level": 2,
+      "section_number": "1",
+      "section_title": "All Transition Services provided shall be provided in the same manner and at the same standard pursuant to which such services were being provided with respect to the Business in the year period prior to the Closing.",
+      "normalized_id": "1"
+    }
+  ]
+}

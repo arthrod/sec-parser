@@ -1,0 +1,20 @@
+TextElement: Forte Biosciences, Inc.
+
+TextElement: (March 14, 2024)
+
+TextElement: Annual Cash Compensation
+
+TextElement: Equity Compensation
+
+TextElement: 1.
+
+TextElement: 2.
+
+ORPHAN ELEMENTS:
+==================================================
+ORPHAN L4 ContentTextElement: Amended and Restated Non-Employee Director Compensation Policy
+ORPHAN L4 ContentTextElement: Each member of the Board of Directors (the “Board”) who is not also serving as an employee of or consultant to Forte Biosciences, Inc. (“Forte Biosciences”) or any of its subsidiaries (each such membe...
+ORPHAN L4 ContentTextElement: The annual cash compensation amount set forth below is payable in equal quarterly installments, payable in arrears on the last day of each fiscal quarter in which the service occurred. If an Eligible ...
+ORPHAN L2 SectionElement: 1. Annual Board Service Retainer:
+ORPHAN L2 SectionElement: 2. Annual Committee Member Service Retainer:
+ORPHAN L2 SectionElement: 3. Annual Committee Chair Service Retainer (in addition to Committee Member Service Retainer):

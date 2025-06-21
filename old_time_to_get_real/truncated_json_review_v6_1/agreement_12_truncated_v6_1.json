@@ -1,0 +1,573 @@
+[
+  {
+    "text": "Freddie Mac Loan Number: 503996270 Property Name: Oak Crossing Apartments",
+    "cls": "TextElement"
+  },
+  {
+    "text": "(Revised 7-12-2016)",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees",
+    "cls": "TableElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 2",
+    "cls": "TableElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 3",
+    "cls": "TableElement"
+  },
+  {
+    "text": "If to Lender:PNC Bank, National Association 26901 Agoura Road, Suite 200 Calabasas Hills, California 91301 Attention:  Loan Servicing ManagerIf to Borrower:STAR Delano, LLC c/o Steadfast Companies 18100 Von Karman Avenue, Suite 500 Irvine, California 92612 Attention – General Counsel:  Ana Marie del RioIf to PropertyManager:Steadfast Management Company, Inc. c/o Steadfast Companies 18100 Von Karman Avenue, Suite 500 Irvine, California 92612 Attention – General Counsel:  Ana Marie del Rio",
+    "cls": "TableElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 4",
+    "cls": "TableElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 5",
+    "cls": "TableElement"
+  },
+  {
+    "text": "X Exhibit AModifications to Assignment    X Exhibit BCopy of Management Agreement",
+    "cls": "TableElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 6",
+    "cls": "TableElement"
+  },
+  {
+    "text": "SIR OAK CROSSING, LLC, a Delaware limitedliability companyBy:Steadfast Income Advisor, LLC, a Delawarelimited liability company, its managerBy:    _/s/ Kevin J. Keating______________Kevin J. KeatingChief Accounting Officer",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 7",
+    "cls": "TableElement"
+  },
+  {
+    "text": "PNC BANK, NATIONAL ASSOCIATION, a national banking association By: _/s/ Kelli A. Tyler______________Kell A. Tyler Vice President",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 8",
+    "cls": "TableElement"
+  },
+  {
+    "text": "By: _/s/ Ana Marie del Rio______________Name: Ana Marie del Rio Title: Secretary",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page 9",
+    "cls": "TableElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page A-1",
+    "cls": "TableElement"
+  },
+  {
+    "text": "See Attached",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Assignment of Management Agreement and  Subordination of Management Fees Page B-1",
+    "cls": "TableElement"
+  },
+  {
+    "level": 0,
+    "children": [
+      "PartyElement_846",
+      "HeadingElement_848",
+      "HeadingElement_851",
+      "HeadingElement_852",
+      "HeadingElement_853",
+      "HeadingElement_854",
+      "HeadingElement_855",
+      "HeadingElement_856"
+    ],
+    "text": "ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES",
+    "id": "AgreementTitleElement_845",
+    "parent_id": null,
+    "cls": "AgreementTitleElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "B.Pursuant to a Management Agreement between Borrower and Property Manager (“Management Agreement”) (a true and correct copy of which is attached as Exhibit B), Borrower employed Property Manager exclusively to lease, operate and manage the Mortgaged Property, and Property Manager is entitled to certain management fees (“Management Fees”) pursuant to the Management Agreement.",
+    "id": "ClauseElement_839",
+    "parent_id": "HeadingElement_848",
+    "cls": "ClauseElement",
+    "clause_id": "(B)",
+    "clause_text": ""
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "C.Lender requires as a condition to the making of the Loan that Borrower assign the Management Agreement and that Property Manager subordinate its interest in the Management Fees in lien and payment to the Loan as set forth below.",
+    "id": "ClauseElement_840",
+    "parent_id": "HeadingElement_848",
+    "cls": "ClauseElement",
+    "clause_id": "(C)",
+    "clause_text": ""
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(a)The Management Agreement is in full force and effect and has not been modified, amended or assigned other than pursuant to this Assignment.",
+    "id": "ClauseElement_841",
+    "parent_id": "HeadingElement_849",
+    "cls": "ClauseElement",
+    "clause_id": "(a)",
+    "clause_text": ""
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(b)Neither Property Manager nor Borrower is in default under any of the terms, covenants or provisions of the Management Agreement and Property Manager knows of no event which, but for the passage of time or the giving of notice or both, would constitute an event of default under the Management Agreement.",
+    "id": "ClauseElement_842",
+    "parent_id": "HeadingElement_849",
+    "cls": "ClauseElement",
+    "clause_id": "(b)",
+    "clause_text": ""
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(c)Neither Property Manager nor Borrower has commenced any action or given or received any notice for the purpose of terminating the Management Agreement.",
+    "id": "ClauseElement_843",
+    "parent_id": "HeadingElement_849",
+    "cls": "ClauseElement",
+    "clause_id": "(c)",
+    "clause_text": ""
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_861",
+      "ContentTextElement_862",
+      "ContentTextElement_863",
+      "ContentTextElement_864",
+      "ContentTextElement_865"
+    ],
+    "text": "(d) The Management Fees and all other sums due and payable to the Property Manager under the Management Agreement have been paid in full.",
+    "id": "ClauseElement_844",
+    "parent_id": "HeadingElement_849",
+    "cls": "ClauseElement",
+    "clause_id": "(d)",
+    "clause_text": "The Management Fees and all other sums due and payable to the Property Manager under the Management Agreement have been paid in full."
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "A.Borrower has requested that Lender make a loan to Borrower (“Loan”). The Loan will be evidenced by a Multifamily Note from Borrower to Lender effective as of the date of this Assignment (“Note”). The Note is secured by, among other things, a Multifamily Loan and Security Agreement (“Loan Agreement”) and a Multifamily Mortgage, Deed of Trust, or Deed to Secure Debt (“Security Instrument”), dated as of the date of this Assignment, which grants Lender a lien on the property encumbered by the Security Instrument (“Mortgaged Property”). The Note, the Loan Agreement, the Security Instrument, this Assignment and any of the other documents evidencing the Loan are collectively referred to as the “Loan Documents”. Other capitalized terms used but not defined in this Assignment will have the meanings given to those terms in the Loan Agreement.",
+    "id": "ContentTextElement_857",
+    "parent_id": "HeadingElement_848",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "1.Assignment of Management Agreement. As additional collateral security for the Loan, Borrower conditionally transfers, sets over, and assigns to Lender all of Borrower’s right, title and interest in and to the Management Agreement and all extensions and renewals. This transfer and assignment will automatically become a present, unconditional assignment, at Lender’s option, upon a default by Borrower under the Note, the Loan Agreement, the Security Instrument or any of the other Loan Documents (each, an “Event of Default”),  and the failure of Borrower to cure such Event of Default within any applicable grace period.",
+    "id": "ContentTextElement_858",
+    "parent_id": "HeadingElement_849",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "2.Subordination of Management Fees. The Management Fees and all rights and privileges of Property Manager to the Management Fees are and will at all times continue to be subject and unconditionally subordinate in all respects in lien and payment to the lien and payment of the Loan Agreement, the Security Instrument, the Note, and the other Loan Documents, and to any renewals, extensions, modifications, assignments, replacements, or consolidations of the Loan Documents and the rights, privileges, and powers of Lender under the Note, the Loan Agreement, the Security Instrument, or any of the other Loan Documents.",
+    "id": "ContentTextElement_859",
+    "parent_id": "HeadingElement_849",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "3.Estoppel. Property Manager and Borrower represent and warrant that all of the following are true as of the date of this Assignment:",
+    "id": "ContentTextElement_860",
+    "parent_id": "HeadingElement_849",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "4.Agreement by Borrower and Property Manager. Borrower and Property Manager agree that if there is an Event of  Default by Borrower (continuing beyond any applicable grace period) under the Note, the Loan Agreement, the Security Instrument or any of the other Loan Documents during the term of this Assignment or upon the occurrence of any event which would entitle Lender to terminate the Management Agreement in accordance with the terms of the Loan Documents, Lender may terminate the Management Agreement without payment of any cancellation fee or penalty and require Property Manager to transfer its responsibility for the management of the Mortgaged Property to a management company selected by Lender in Lender’s sole discretion, effective as of the date set forth in Lender’s notice to Property Manager. Following any such termination, Property Manager agrees to apply all rents, security deposits, issues, proceeds and profits of the Mortgaged Property in accordance with Lender’s written directions to Property Manager.",
+    "id": "ContentTextElement_861",
+    "parent_id": "ClauseElement_844",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "5.Lender’s Right to Replace Property Manager. If Lender, in Lender’s reasonable discretion, at any time during the term of this Assignment, determines that the Mortgaged Property is not being managed in accordance with generally accepted management practices for properties similar to the Mortgaged Property, Lender will deliver written notice to Borrower and Property Manager, which notice will specify with particularity the grounds for Lender’s determination. If Lender reasonably determines that the conditions specified in Lender’s notice are not remedied to Lender’s reasonable satisfaction by Borrower or Property Manager within 30 days from receipt of such notice or that Borrower or Property Manager have failed to diligently undertake correcting such conditions within such 30‑day period, Lender may direct Borrower to terminate Property Manager as manager of the Mortgaged Property and terminate the Management Agreement without payment of any cancellation fee or penalty and to replace Property Manager with a management company acceptable to Lender in Lender’s sole discretion pursuant to a management agreement acceptable to Lender in Lender’s sole discretion.",
+    "id": "ContentTextElement_862",
+    "parent_id": "ClauseElement_844",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "6.Receipt of Management Fees. Property Manager will not be obligated to return or refund to Lender any Management Fees or other fee, commission or other amount received by Property Manager prior to the occurrence of the Event of Default, and to which Property Manager was entitled under the Management Agreement. If the Property Manager receives any Management Fees after it has received notice of an Event of Default, Property Manager agrees that such Management Fees will be received and held in trust for Lender, to be applied by Lender to amounts due under the Loan Documents.",
+    "id": "ContentTextElement_863",
+    "parent_id": "ClauseElement_844",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "7.Consent and Agreement by Property Manager. Property Manager acknowledges and consents to this Assignment and agrees that Property Manager will act in conformity with the provisions of this Assignment and Lender’s rights under this Assignment or otherwise related to the Management Agreement. If the responsibility for the management of the Mortgaged Property is transferred from Property Manager in accordance with the provisions of this Assignment, then Property Manager will fully cooperate in transferring its responsibility to a new management company and complete such transfer no later than 30 days from the date the Management Agreement is terminated. Further, Property Manager agrees as follows:",
+    "id": "ContentTextElement_864",
+    "parent_id": "ClauseElement_844",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "8.Termination. When the Loan is paid in full and the Security Instrument is released or assigned of record, this Assignment and all of Lender’s right, title and interest hereunder with respect to the Management Agreement will terminate.",
+    "id": "ContentTextElement_865",
+    "parent_id": "ClauseElement_844",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(a)All notices under or concerning this Assignment (“Notice”) will be in writing. Each Notice will be deemed given on the earliest to occur of:  (i) the date when the Notice is received by the addressee, (ii) the first Business Day after the Notice is delivered to a recognized overnight courier service, with arrangements made for payment of charges for next Business Day delivery, or (iii) the third Business Day after the Notice is deposited in the United States mail with postage prepaid, certified mail, return receipt requested. Addresses for Notice are as follows:",
+    "id": "ContentTextElement_866",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b)Any party to this Assignment may change the address to which Notices intended for it are to be directed by means of Notice given to the other parties in accordance with this Section 9. Each party agrees that it will not refuse or reject delivery of any Notice given in accordance with this Section 9, that it will acknowledge, in writing, the receipt of any Notice upon request by the other party and that any Notice rejected or refused by it will be deemed for purposes of this Section 9 to have been received by the rejecting party on the date so refused or rejected, as conclusively established by the records of the U.S. Postal Service or the courier service.",
+    "id": "ContentTextElement_867",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "10.Governing Law; Consent to Jurisdiction and Venue.",
+    "id": "ContentTextElement_868",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b)Borrower and Property Manager agree that any controversy arising under or in relation to this Assignment may be litigated in the Property Jurisdiction. The state and federal courts and authorities with jurisdiction in the Property Jurisdiction will have jurisdiction over all controversies that may arise under or in relation to this Assignment. Borrower and Property Manager irrevocably consent to service, jurisdiction and venue of such courts for any such litigation and waive any other venue to which it might be entitled by virtue of domicile, habitual residence or otherwise. However, nothing in this Section 10 is intended to limit Lender’s right to bring any suit, action or proceeding relating to matters under this Assignment in any court of any other jurisdiction.",
+    "id": "ContentTextElement_869",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "11.Captions, Cross References and Exhibits. The captions assigned to provisions of this Assignment are for convenience only and will be disregarded in construing this Assignment. Any reference in this Assignment to an “Exhibit” or a “Section,” unless otherwise explicitly provided, will be construed as referring, respectively, to an Exhibit attached to this Assignment or to a section of this Assignment. All Exhibits attached to or referred to in this Assignment are incorporated by reference into this Assignment.",
+    "id": "ContentTextElement_870",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "12.Number and Gender. Use of the singular in this Assignment includes the plural, use of the plural includes the singular, and use of one gender includes all other genders, as the context may require.",
+    "id": "ContentTextElement_871",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "13.No Partnership. This Assignment is not intended to, and will not, create a partnership or joint venture among the parties, and no party to this Assignment will have the power or authority to bind any other party except as explicitly provided in this Assignment.",
+    "id": "ContentTextElement_872",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "14.Severability. The invalidity or unenforceability of any provision of this Assignment will not affect the validity of any other provision, and all other provisions will remain in full force and effect.",
+    "id": "ContentTextElement_873",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "15.Entire Assignment. This Assignment contains the entire agreement among the parties as to the rights granted and the obligations assumed in this Assignment.",
+    "id": "ContentTextElement_874",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "16.No Waiver; No Remedy Exclusive. Any forbearance by a party to this Assignment in exercising any right or remedy given under this Assignment or existing at law or in equity will not constitute a waiver of or preclude the exercise of that or any other right or remedy. Unless otherwise explicitly provided, no remedy under this Assignment is intended to be exclusive of any other available remedy, but each remedy will be cumulative and will be in addition to other remedies given under this Assignment or existing at law or in equity.",
+    "id": "ContentTextElement_875",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "17.Third Party Beneficiaries. Neither any creditor of any party to this Assignment, nor any other person, is intended to be a third party beneficiary of this Assignment.",
+    "id": "ContentTextElement_876",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "18.Further Assurances and Corrective Instruments. To the extent permitted by law, the parties will, from time to time, execute, acknowledge and deliver, or cause to be executed, acknowledged and delivered, such supplements to this Assignment and such further instruments as may reasonably be required for carrying out the intention of or facilitating the performance of this Assignment.",
+    "id": "ContentTextElement_877",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "19.Counterparts. This Assignment may be executed in multiple counterparts, each of which will constitute an original document and all of which together will constitute one agreement.",
+    "id": "ContentTextElement_878",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "20.Indemnity. By executing this Assignment Borrower agrees to indemnify and hold harmless Lender and its successors and assigns from and against any and all losses, claims, damages, liabilities and expenses including Attorneys’ Fees and Costs, which may be imposed or incurred in connection with this Assignment.",
+    "id": "ContentTextElement_879",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "21.Costs and Expenses. Wherever pursuant to this Assignment it is provided that Borrower will pay any costs and expenses, such costs and expenses will include Lender’s Attorneys’ Fees and Costs.",
+    "id": "ContentTextElement_880",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "22.Determinations by Lender. In any instance where the consent or approval of Lender may be given or is required, or where any determination, judgment or decision is to be rendered by Lender under this Assignment, the granting, withholding or denial of such consent or approval and the rendering of such determination, judgment or decision will be made or exercised by Lender (or its designated representative) at its sole and exclusive option and in its sole and absolute discretion and will be final and conclusive, except as may be otherwise expressly and specifically provided in this Assignment.",
+    "id": "ContentTextElement_881",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "23.Successors and Assigns. This Assignment will be binding upon and inure to the benefit of Borrower, Lender and Property Manager and their respective successors and assigns forever.",
+    "id": "ContentTextElement_882",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "24.Secondary Market.  Lender may sell, transfer and deliver the Note and assign the Loan Agreement, the Security Instrument, this Assignment and the other Loan Documents to one or more investors in the secondary mortgage market (“Investors”). In connection with such sale, Lender may retain or assign responsibility for servicing the Loan, including the Note, the Loan Agreement, the Security Instrument, this Assignment and the other Loan Documents, or may delegate some or all of such responsibility and/or obligations to a servicer including any subservicer or master servicer, on behalf of the Investors. All references to Lender in this Assignment will refer to and include any such servicer to the extent applicable.",
+    "id": "ContentTextElement_883",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "25.Attached Exhibits.  The following Exhibits, if marked with an “X” in the space provided, are attached to this Assignment:",
+    "id": "ContentTextElement_884",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "IN WITNESS WHEREOF the undersigned have executed this Assignment as of the date and year first written above.",
+    "id": "ContentTextElement_885",
+    "parent_id": "HeadingElement_850",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "The following modifications are made to the text of the Assignment that precedes this Exhibit.",
+    "id": "ContentTextElement_886",
+    "parent_id": "HeadingElement_855",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "6.Receipt of Management Fees.  Property Manager will not be obligated to return or refund to Lender any Management Fees or other fee, commission or other amount received by Property Manager prior to the occurrence of the Event of Default, and to which Property Manager was entitled under the Management Agreement. If the Property Manager receives any Management Fees after it has received notice of an Event of Default, Property Manager agrees that such Management Fees will be received and held in trust for Lender, to be applied by Lender to amounts due under the Loan Documents; provided, however, that nothing herein will prevent Property Manager from terminating the Management Agreement in the event Property Manager is not paid all fees due to it under the Management Agreement.",
+    "id": "ContentTextElement_887",
+    "parent_id": "SectionElement_838",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 1,
+    "children": [
+      "ContentTextElement_857",
+      "ClauseElement_839",
+      "ClauseElement_840",
+      "HeadingElement_849",
+      "HeadingElement_850"
+    ],
+    "text": "RECITALS:",
+    "id": "HeadingElement_848",
+    "parent_id": "AgreementTitleElement_845",
+    "cls": "HeadingElement",
+    "heading_text": "RECITALS:"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_858",
+      "ContentTextElement_859",
+      "ContentTextElement_860",
+      "ClauseElement_841",
+      "ClauseElement_842",
+      "ClauseElement_843",
+      "ClauseElement_844"
+    ],
+    "text": "For good and valuable consideration the parties agree as follows:",
+    "id": "HeadingElement_849",
+    "parent_id": "HeadingElement_848",
+    "cls": "HeadingElement",
+    "heading_text": "For good and valuable consideration the parties agree as follows:"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_866",
+      "ContentTextElement_867",
+      "ContentTextElement_868",
+      "ContentTextElement_869",
+      "ContentTextElement_870",
+      "ContentTextElement_871",
+      "ContentTextElement_872",
+      "ContentTextElement_873",
+      "ContentTextElement_874",
+      "ContentTextElement_875",
+      "ContentTextElement_876",
+      "ContentTextElement_877",
+      "ContentTextElement_878",
+      "ContentTextElement_879",
+      "ContentTextElement_880",
+      "ContentTextElement_881",
+      "ContentTextElement_882",
+      "ContentTextElement_883",
+      "ContentTextElement_884",
+      "ContentTextElement_885"
+    ],
+    "text": "9.Notices.",
+    "id": "HeadingElement_850",
+    "parent_id": "HeadingElement_848",
+    "cls": "HeadingElement",
+    "heading_text": "9.Notices."
+  },
+  {
+    "level": 1,
+    "children": [],
+    "text": "[END OF PAGE – SIGNATURES TO FOLLOW]",
+    "id": "HeadingElement_851",
+    "parent_id": "AgreementTitleElement_845",
+    "cls": "HeadingElement",
+    "heading_text": "[END OF PAGE – SIGNATURES TO FOLLOW]"
+  },
+  {
+    "level": 1,
+    "children": [],
+    "text": "BORROWER:",
+    "id": "HeadingElement_852",
+    "parent_id": "AgreementTitleElement_845",
+    "cls": "HeadingElement",
+    "heading_text": "BORROWER:"
+  },
+  {
+    "level": 1,
+    "children": [],
+    "text": "LENDER:",
+    "id": "HeadingElement_853",
+    "parent_id": "AgreementTitleElement_845",
+    "cls": "HeadingElement",
+    "heading_text": "LENDER:"
+  },
+  {
+    "level": 1,
+    "children": [
+      "PartyElement_847"
+    ],
+    "text": "PROPERTY MANAGER:",
+    "id": "HeadingElement_854",
+    "parent_id": "AgreementTitleElement_845",
+    "cls": "HeadingElement",
+    "heading_text": "PROPERTY MANAGER:"
+  },
+  {
+    "level": 1,
+    "children": [
+      "ContentTextElement_886",
+      "SectionElement_837",
+      "SectionElement_838"
+    ],
+    "text": "MODIFICATIONS TO ASSIGNMENT",
+    "id": "HeadingElement_855",
+    "parent_id": "AgreementTitleElement_845",
+    "cls": "HeadingElement",
+    "heading_text": "MODIFICATIONS TO ASSIGNMENT"
+  },
+  {
+    "level": 1,
+    "children": [],
+    "text": "[INTENTIONALLY OMITTED]",
+    "id": "HeadingElement_856",
+    "parent_id": "AgreementTitleElement_845",
+    "cls": "HeadingElement",
+    "heading_text": "[INTENTIONALLY OMITTED]"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "THIS ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES (“Assignment”) is made effective as of the 31st day of May, 2018, by and among SIR OAK CROSSING, LLC, a Delaware limited liability company (“Borrower”), PNC BANK, NATIONAL ASSOCIATION, a national banking association (“Lender”), and STEADFAST MANAGEMENT COMPANY, INC., a California corporation (“Property Manager”).",
+    "id": "PartyElement_846",
+    "parent_id": "AgreementTitleElement_845",
+    "cls": "PartyElement",
+    "party_name": "LLC",
+    "party_type": "Delaware limited liability company (“Borrower”)"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "STEADFAST MANAGEMENT COMPANY, INC., a California corporation",
+    "id": "PartyElement_847",
+    "parent_id": "HeadingElement_854",
+    "cls": "PartyElement",
+    "party_name": "INC.",
+    "party_type": "California corporation"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "1.    Section 3(a) is deleted in its entirety and replaced with the following:",
+    "id": "SectionElement_837",
+    "parent_id": "HeadingElement_855",
+    "cls": "SectionElement",
+    "section_number": "1",
+    "section_title": "Section 3(a) is deleted in its entirety and replaced with the following:"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_887"
+    ],
+    "text": "2.    Section 6 is deleted in its entirety and replaced with the following:",
+    "id": "SectionElement_838",
+    "parent_id": "HeadingElement_855",
+    "cls": "SectionElement",
+    "section_number": "2",
+    "section_title": "Section 6 is deleted in its entirety and replaced with the following:"
+  }
+]

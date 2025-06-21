@@ -1,0 +1,33 @@
+{
+  "graph": {
+    "SectionElement_1153": [
+      {
+        "target_id": "SectionElement_1152",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a01"
+      },
+      {
+        "target_id": "SectionElement_1152",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a01"
+      }
+    ]
+  },
+  "index": {
+    "title": "AgreementTitleElement_1151",
+    "1": "SectionElement_1152",
+    "2": "SectionElement_1153",
+    "3": "SectionElement_1154"
+  },
+  "statistics": {
+    "total_references": 2,
+    "explicit_references": 0,
+    "implicit_references": 0,
+    "validated_references": 2,
+    "average_confidence": 0.95,
+    "elements_with_references": 1,
+    "total_indexed_elements": 4
+  }
+}

@@ -1,0 +1,1297 @@
+{
+  "graph": {
+    "SectionElement_1861": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_1976": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      },
+      {
+        "target_id": "SectionElement_1895",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(3)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      },
+      {
+        "target_id": "ClauseElement_1929",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(e)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      },
+      {
+        "target_id": "SectionElement_1895",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(3)"
+      },
+      {
+        "target_id": "ClauseElement_1930",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(f)"
+      }
+    ],
+    "ContentTextElement_1977": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      }
+    ],
+    "ContentTextElement_1978": [
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      }
+    ],
+    "ContentTextElement_1979": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_1980": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_1981": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_1983": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      },
+      {
+        "target_id": "ClauseElement_1929",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(e)"
+      },
+      {
+        "target_id": "ClauseElement_1930",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(f)"
+      },
+      {
+        "target_id": "ClauseElement_1931",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(g)"
+      },
+      {
+        "target_id": "ClauseElement_1933",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(h)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_1985": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "DefinitionElement_1937": [
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_1993": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(C)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(D)"
+      }
+    ],
+    "ClauseElement_1927": [
+      {
+        "target_id": "ClauseElement_1929",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(e)"
+      },
+      {
+        "target_id": "ClauseElement_1929",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "Clause (e)"
+      }
+    ],
+    "ClauseElement_1932": [
+      {
+        "target_id": "ClauseElement_1933",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(h)"
+      }
+    ],
+    "ContentTextElement_1996": [
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_1998": [
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "Clause (b)"
+      }
+    ],
+    "ContentTextElement_1999": [
+      {
+        "target_id": "SectionElement_1868",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a07.27"
+      },
+      {
+        "target_id": "SectionElement_1868",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a07.27"
+      },
+      {
+        "target_id": "SectionElement_1868",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a07.27"
+      },
+      {
+        "target_id": "SectionElement_1868",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a07.27"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2000": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_2001": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      }
+    ],
+    "ContentTextElement_2002": [
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2003": [
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2004": [
+      {
+        "target_id": "ClauseElement_1933",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(h)"
+      },
+      {
+        "target_id": "ClauseElement_1933",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(h)"
+      }
+    ],
+    "ContentTextElement_2008": [
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2009": [
+      {
+        "target_id": "SectionElement_1876",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a08.21"
+      },
+      {
+        "target_id": "SectionElement_1876",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a08.21"
+      },
+      {
+        "target_id": "SectionElement_1876",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a08.21"
+      },
+      {
+        "target_id": "SectionElement_1876",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a08.21"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2011": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      }
+    ],
+    "ContentTextElement_2012": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(C)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      }
+    ],
+    "ContentTextElement_2013": [
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(C)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(C)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "clause (A)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "clause (B)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "clause (C)"
+      }
+    ],
+    "ContentTextElement_2014": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1931",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(g)"
+      }
+    ],
+    "ContentTextElement_2015": [
+      {
+        "target_id": "ClauseElement_1931",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(g)"
+      }
+    ],
+    "ContentTextElement_2016": [
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1934",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(m)"
+      }
+    ],
+    "ContentTextElement_2018": [
+      {
+        "target_id": "SectionElement_1883",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.14"
+      },
+      {
+        "target_id": "SectionElement_1883",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.14"
+      },
+      {
+        "target_id": "SectionElement_1883",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.14"
+      },
+      {
+        "target_id": "SectionElement_1883",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.14"
+      }
+    ],
+    "SectionElement_1883": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2019": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "SectionElement_1860",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(1)"
+      },
+      {
+        "target_id": "SectionElement_1861",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(2)"
+      }
+    ],
+    "ContentTextElement_2020": [
+      {
+        "target_id": "SectionElement_1886",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.24"
+      },
+      {
+        "target_id": "SectionElement_1887",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.25"
+      },
+      {
+        "target_id": "SectionElement_1888",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.26"
+      },
+      {
+        "target_id": "SectionElement_1889",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.27"
+      },
+      {
+        "target_id": "SectionElement_1886",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.24"
+      },
+      {
+        "target_id": "SectionElement_1887",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.25"
+      },
+      {
+        "target_id": "SectionElement_1888",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.26"
+      },
+      {
+        "target_id": "SectionElement_1889",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.27"
+      },
+      {
+        "target_id": "SectionElement_1886",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.24"
+      },
+      {
+        "target_id": "SectionElement_1887",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.25"
+      },
+      {
+        "target_id": "SectionElement_1888",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.26"
+      },
+      {
+        "target_id": "SectionElement_1889",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.27"
+      },
+      {
+        "target_id": "SectionElement_1886",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.24"
+      },
+      {
+        "target_id": "SectionElement_1887",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.25"
+      },
+      {
+        "target_id": "SectionElement_1888",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.26"
+      },
+      {
+        "target_id": "SectionElement_1889",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.27"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "SectionElement_1886": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      },
+      {
+        "target_id": "ClauseElement_1929",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(e)"
+      },
+      {
+        "target_id": "ClauseElement_1930",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(f)"
+      },
+      {
+        "target_id": "ClauseElement_1931",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(g)"
+      },
+      {
+        "target_id": "ClauseElement_1933",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(h)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      }
+    ],
+    "ContentTextElement_2021": [
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(C)"
+      },
+      {
+        "target_id": "ClauseElement_1933",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(h)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1930",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(f)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(C)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      }
+    ],
+    "SectionElement_1887": [
+      {
+        "target_id": "SectionElement_1883",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.14"
+      },
+      {
+        "target_id": "SectionElement_1883",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.14"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2024": [
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2026": [
+      {
+        "target_id": "SectionElement_1894",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a012.19"
+      },
+      {
+        "target_id": "SectionElement_1894",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a012.19"
+      },
+      {
+        "target_id": "SectionElement_1894",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a012.19"
+      },
+      {
+        "target_id": "SectionElement_1894",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a012.19"
+      }
+    ],
+    "ContentTextElement_2027": [
+      {
+        "target_id": "SectionElement_1883",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.14"
+      },
+      {
+        "target_id": "SectionElement_1883",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.14"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2029": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_2033": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(A)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(B)"
+      }
+    ],
+    "ContentTextElement_2037": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2038": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_2040": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      },
+      {
+        "target_id": "ClauseElement_1929",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(e)"
+      },
+      {
+        "target_id": "ClauseElement_1930",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(f)"
+      }
+    ],
+    "ContentTextElement_2043": [
+      {
+        "target_id": "SectionElement_1898",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a04"
+      },
+      {
+        "target_id": "SectionElement_1898",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a04"
+      }
+    ],
+    "ContentTextElement_2045": [
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_1927",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      },
+      {
+        "target_id": "ClauseElement_1928",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(d)"
+      }
+    ],
+    "ContentTextElement_2053": [
+      {
+        "target_id": "SectionElement_1888",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.26"
+      },
+      {
+        "target_id": "SectionElement_1888",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\u00a09.26"
+      },
+      {
+        "target_id": "ClauseElement_1925",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      },
+      {
+        "target_id": "ClauseElement_1926",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ]
+  },
+  "index": {
+    "title": "AgreementTitleElement_1859",
+    "u": "ClauseElement_1923",
+    "party_legacy_reserves_lp": "PartyElement_1935",
+    "c": "ClauseElement_1927",
+    "1": "SectionElement_1860",
+    "2": "SectionElement_1861",
+    "a": "ClauseElement_1925",
+    "def_shall": "DefinitionElement_1937",
+    "b": "ClauseElement_1926",
+    "party_llc": "PartyElement_1938",
+    "party_parent_and_legacy_reserves_merger_sub_llc": "PartyElement_1939",
+    "party_parent__means_legacy_reserves_inc_": "PartyElement_1940",
+    "d": "ClauseElement_1928",
+    "e": "ClauseElement_1929",
+    "f": "ClauseElement_1930",
+    "g": "ClauseElement_1931",
+    "h": "ClauseElement_1933",
+    "7.27": "SectionElement_1868",
+    "8.21": "SectionElement_1876",
+    "m": "ClauseElement_1934",
+    "9.14": "SectionElement_1883",
+    "9.24": "SectionElement_1886",
+    "9.25": "SectionElement_1887",
+    "9.26": "SectionElement_1888",
+    "9.27": "SectionElement_1889",
+    "12.19": "SectionElement_1894",
+    "3": "SectionElement_1895",
+    "4": "SectionElement_1898",
+    "5": "SectionElement_1911",
+    "def_email_or_other_electronic": "DefinitionElement_1941"
+  },
+  "statistics": {
+    "total_references": 193,
+    "explicit_references": 153,
+    "implicit_references": 0,
+    "validated_references": 40,
+    "average_confidence": 0.91036269430052,
+    "elements_with_references": 47,
+    "total_indexed_elements": 30
+  }
+}

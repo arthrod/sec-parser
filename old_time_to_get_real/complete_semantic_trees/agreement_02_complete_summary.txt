@@ -1,0 +1,40 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_02.html
+====================================================================================================
+📊 Quality Score: 0.79
+📄 Format: html
+🔢 Total Elements: 28
+🔗 Cross-References: 8
+📋 Title: FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 1
+  paragraph           : 8
+  section             : 3
+  signature           : 7
+  table               : 8
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 2
+  Exhibit Ref         : 6
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.9
+[TITLE] FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT
+[PARAGRAPH] WHEREAS, WGC USA Asset Management Company, LLC, a Delaware limited liability com...
+[PARAGRAPH] WHEREAS, the parties hereto desire to amend the Agreement (“Amendment”) to list ...
+[PARAGRAPH] NOW, THEREFORE, in consideration of the agreements and obligations set forth her...
+[SECTION] Schedule A . Schedule A is hereby amended by listing a new series thereon, with ...
+[PARAGRAPH] “Schedule A
+[PARAGRAPH] The Trust will pay to the Sponsor as compensation for the Sponsor’s services ren...
+[TABLE] Fund
+[PARAGRAPH] Fund
+... and 18 more elements
+
+====================================================================================================

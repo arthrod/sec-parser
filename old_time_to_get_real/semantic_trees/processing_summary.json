@@ -1,0 +1,310 @@
+{
+  "run_timestamp": "2025-06-14T01:21:05.506300",
+  "total_files": 15,
+  "successful": 15,
+  "failed": 0,
+  "results": [
+    {
+      "file": "html_files/agreement_01.html",
+      "timestamp": "2025-06-14T01:21:04.535527",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 32,
+        "element_types": {
+          "title": 1,
+          "paragraph": 31
+        },
+        "total_cross_references": 3,
+        "reference_types": {
+          "exhibit_ref": 1,
+          "section_ref": 2
+        },
+        "content_length": 31995
+      },
+      "output_file": "semantic_trees/agreement_01_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_02.html",
+      "timestamp": "2025-06-14T01:21:04.544433",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 14,
+        "element_types": {
+          "title": 1,
+          "paragraph": 13
+        },
+        "total_cross_references": 6,
+        "reference_types": {
+          "exhibit_ref": 6
+        },
+        "content_length": 6216
+      },
+      "output_file": "semantic_trees/agreement_02_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_03.html",
+      "timestamp": "2025-06-14T01:21:04.547880",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 52,
+        "element_types": {
+          "title": 1,
+          "paragraph": 51
+        },
+        "total_cross_references": 2,
+        "reference_types": {
+          "exhibit_ref": 2
+        },
+        "content_length": 27989
+      },
+      "output_file": "semantic_trees/agreement_03_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_04.html",
+      "timestamp": "2025-06-14T01:21:04.554503",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 30,
+        "element_types": {
+          "title": 1,
+          "paragraph": 29
+        },
+        "total_cross_references": 2,
+        "reference_types": {
+          "exhibit_ref": 2
+        },
+        "content_length": 42092
+      },
+      "output_file": "semantic_trees/agreement_04_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_05.html",
+      "timestamp": "2025-06-14T01:21:04.563149",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 263,
+        "element_types": {
+          "title": 1,
+          "paragraph": 262
+        },
+        "total_cross_references": 152,
+        "reference_types": {
+          "exhibit_ref": 23,
+          "section_ref": 129
+        },
+        "content_length": 102798
+      },
+      "output_file": "semantic_trees/agreement_05_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_06.html",
+      "timestamp": "2025-06-14T01:21:04.639467",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 1980,
+        "element_types": {
+          "paragraph": 1980
+        },
+        "total_cross_references": 327,
+        "reference_types": {
+          "section_ref": 268,
+          "exhibit_ref": 59
+        },
+        "content_length": 1109047
+      },
+      "output_file": "semantic_trees/agreement_06_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_07.html",
+      "timestamp": "2025-06-14T01:21:05.013729",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 97,
+        "element_types": {
+          "title": 1,
+          "paragraph": 96
+        },
+        "total_cross_references": 50,
+        "reference_types": {
+          "exhibit_ref": 2,
+          "section_ref": 44,
+          "legal_ref": 4
+        },
+        "content_length": 127755
+      },
+      "output_file": "semantic_trees/agreement_07_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_08.html",
+      "timestamp": "2025-06-14T01:21:05.040971",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 26,
+        "element_types": {
+          "title": 1,
+          "paragraph": 25
+        },
+        "total_cross_references": 15,
+        "reference_types": {
+          "exhibit_ref": 1,
+          "section_ref": 11,
+          "legal_ref": 3
+        },
+        "content_length": 12808
+      },
+      "output_file": "semantic_trees/agreement_08_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_09.html",
+      "timestamp": "2025-06-14T01:21:05.046281",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 108,
+        "element_types": {
+          "title": 1,
+          "paragraph": 107
+        },
+        "total_cross_references": 10,
+        "reference_types": {
+          "exhibit_ref": 1,
+          "section_ref": 6,
+          "legal_ref": 3
+        },
+        "content_length": 41044
+      },
+      "output_file": "semantic_trees/agreement_09_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_10.html",
+      "timestamp": "2025-06-14T01:21:05.056554",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 150,
+        "element_types": {
+          "title": 1,
+          "paragraph": 149
+        },
+        "total_cross_references": 27,
+        "reference_types": {
+          "exhibit_ref": 2,
+          "section_ref": 16,
+          "legal_ref": 9
+        },
+        "content_length": 107555
+      },
+      "output_file": "semantic_trees/agreement_10_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_11.html",
+      "timestamp": "2025-06-14T01:21:05.082509",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 165,
+        "element_types": {
+          "title": 1,
+          "paragraph": 164
+        },
+        "total_cross_references": 306,
+        "reference_types": {
+          "exhibit_ref": 115,
+          "section_ref": 186,
+          "legal_ref": 5
+        },
+        "content_length": 101187
+      },
+      "output_file": "semantic_trees/agreement_11_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_12.html",
+      "timestamp": "2025-06-14T01:21:05.171340",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 203,
+        "element_types": {
+          "title": 1,
+          "paragraph": 202
+        },
+        "total_cross_references": 13,
+        "reference_types": {
+          "exhibit_ref": 7,
+          "section_ref": 6
+        },
+        "content_length": 102738
+      },
+      "output_file": "semantic_trees/agreement_12_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_13.html",
+      "timestamp": "2025-06-14T01:21:05.198136",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 549,
+        "element_types": {
+          "title": 1,
+          "paragraph": 548
+        },
+        "total_cross_references": 2549,
+        "reference_types": {
+          "exhibit_ref": 28,
+          "section_ref": 2342,
+          "legal_ref": 179
+        },
+        "content_length": 234110
+      },
+      "output_file": "semantic_trees/agreement_13_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_14.html",
+      "timestamp": "2025-06-14T01:21:05.413966",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 125,
+        "element_types": {
+          "title": 1,
+          "paragraph": 124
+        },
+        "total_cross_references": 11,
+        "reference_types": {
+          "exhibit_ref": 2,
+          "section_ref": 9
+        },
+        "content_length": 53657
+      },
+      "output_file": "semantic_trees/agreement_14_semantic_tree.json"
+    },
+    {
+      "file": "html_files/agreement_15.html",
+      "timestamp": "2025-06-14T01:21:05.448722",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "total_elements": 385,
+        "element_types": {
+          "title": 1,
+          "paragraph": 384
+        },
+        "total_cross_references": 16,
+        "reference_types": {
+          "exhibit_ref": 9,
+          "section_ref": 7
+        },
+        "content_length": 295679
+      },
+      "output_file": "semantic_trees/agreement_15_semantic_tree.json"
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "agreement_summary": {
+    "number": 10,
+    "filename": "agreement_10.html",
+    "title": "SCREENPLAY OPTION/PURCHASE AGREEMENT",
+    "total_elements": 61,
+    "hierarchical_elements": 57,
+    "total_text_chars": 29590,
+    "element_type_counts": {
+      "TextElement": 1,
+      "TableElement": 3,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 7,
+      "ContentTextElement": 21,
+      "HeadingElement": 7,
+      "SectionElement": 21
+    },
+    "max_hierarchy_level": 5
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "As of\nAugust 1, 2016",
+      "text_length": 20
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Pete\nRosen\n\n\n \n\n\n\n\n4735\nSepulveda Blvd., No. 313\n\n\n \n\n\n\n\nSherman\nOaks, CA 914...",
+      "text_length": 94
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Gary\nBowen\n\n\n\ncc:\n\n\n\nLeif\nReinstein, Esq.\n\n\n\n\n4735\nSepulveda Blvd., No. 333\n\n...",
+      "text_length": 207
+    },
+    {
+      "class_name": "TableElement",
+      "text": "PURCHASER: \n\n\n\n\n\n \n\n\n\n\nARTIST:  \n\n\n\n \n\n\n\n\nMJW\nMEDIA, LLC\n\n\n\n \n\n\n\n\nPETE ROSEN ...",
+      "text_length": 484
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "SCREENPLAY OPTION/PURCHASE AGREEMENT",
+      "text_length": 36,
+      "id": "AgreementTitleElement_676",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 6,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a)          In\nconsideration of Purchaser’s commercially reasonable best\neff...",
+      "text_length": 467,
+      "id": "ClauseElement_698",
+      "parent_id": "SectionElement_677",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "In",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b)          Purchaser\nmay extend the Initial Option Period by an additional ...",
+      "text_length": 384,
+      "id": "ClauseElement_699",
+      "parent_id": "SectionElement_677",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "Purchaser",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c)          The\nOption price for the Initial Option Period shall be Two Thou...",
+      "text_length": 411,
+      "id": "ClauseElement_700",
+      "parent_id": "SectionElement_677",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(c)",
+      "clause_text": "The",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "i.            Theatrical\nSequels/Prequels: For each applicable theatrical seq...",
+      "text_length": 491,
+      "id": "ClauseElement_701",
+      "parent_id": "SectionElement_687",
+      "level": 3,
+      "children_count": 3,
+      "clause_id": "(i)",
+      "clause_text": "Theatrical",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "ii.         Theatrical\nRemakes: For each applicable theatrical remake of the\n...",
+      "text_length": 479,
+      "id": "ClauseElement_702",
+      "parent_id": "ClauseElement_701",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(ii)",
+      "clause_text": "Theatrical",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "iii.         Television\nProductions:",
+      "text_length": 36,
+      "id": "ClauseElement_703",
+      "parent_id": "ClauseElement_701",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(iii)",
+      "clause_text": "Television",
+      "normalized_id": "iii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "b.\n\n\n\n\nMovies-For-Television and Television Mini-Series. If a\ntelevision moti...",
+      "text_length": 346,
+      "id": "ClauseElement_704",
+      "parent_id": "SectionElement_687",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(b)",
+      "clause_text": "Movies-For-Television and Television Mini-Series. If a",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This\nwill confirm the agreement between MJW Media, LLC\n(“Purchaser”), and you...",
+      "text_length": 886,
+      "id": "ContentTextElement_712",
+      "parent_id": "HeadingElement_706",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In\nconsideration of the parties’ mutual promises, it is hereby\nagreed as foll...",
+      "text_length": 81,
+      "id": "ContentTextElement_713",
+      "parent_id": "HeadingElement_706",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(d)          During\nthe Option Period (and any extensions thereof), Purchaser...",
+      "text_length": 556,
+      "id": "ContentTextElement_714",
+      "parent_id": "ClauseElement_700",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Without\nlimiting the foregoing, if the Option granted pursuant to Section 1\nh...",
+      "text_length": 1495,
+      "id": "ContentTextElement_715",
+      "parent_id": "SectionElement_681",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The\nRights herein granted include the right to distribute, transmit,\nexhibit,...",
+      "text_length": 991,
+      "id": "ContentTextElement_716",
+      "parent_id": "SectionElement_681",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Artist\nagrees that Purchaser shall have the unlimited right to vary,\nchange, ...",
+      "text_length": 686,
+      "id": "ContentTextElement_717",
+      "parent_id": "SectionElement_681",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a)          First\nNegotiation. If, within (7) years after the initial genera...",
+      "text_length": 1677,
+      "id": "ContentTextElement_718",
+      "parent_id": "SectionElement_687",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b)          Passive\nPayments. Provided that: (i) Artist is not in uncured\nma...",
+      "text_length": 774,
+      "id": "ContentTextElement_719",
+      "parent_id": "SectionElement_687",
+      "level": 4,
+      "children_count": 0
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "As of\nAugust 1, 2016",
+      "text_length": 20
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Pete\nRosen\n\n\n \n\n\n\n\n4735\nSepulveda Blvd., No. 313\n\n\n \n\n\n\n\nSherman\nOaks, CA 914...",
+      "text_length": 94
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Gary\nBowen\n\n\n\ncc:\n\n\n\nLeif\nReinstein, Esq.\n\n\n\n\n4735\nSepulveda Blvd., No. 333\n\n...",
+      "text_length": 207
+    },
+    {
+      "class_name": "TableElement",
+      "text": "PURCHASER: \n\n\n\n\n\n \n\n\n\n\nARTIST:  \n\n\n\n \n\n\n\n\nMJW\nMEDIA, LLC\n\n\n\n \n\n\n\n\nPETE ROSEN ...",
+      "text_length": 484
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "SCREENPLAY OPTION/PURCHASE AGREEMENT",
+      "text_length": 36,
+      "id": "AgreementTitleElement_676",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 6,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a)          In\nconsideration of Purchaser’s commercially reasonable best\neff...",
+      "text_length": 467,
+      "id": "ClauseElement_698",
+      "parent_id": "SectionElement_677",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "In",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b)          Purchaser\nmay extend the Initial Option Period by an additional ...",
+      "text_length": 384,
+      "id": "ClauseElement_699",
+      "parent_id": "SectionElement_677",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "Purchaser",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c)          The\nOption price for the Initial Option Period shall be Two Thou...",
+      "text_length": 411,
+      "id": "ClauseElement_700",
+      "parent_id": "SectionElement_677",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(c)",
+      "clause_text": "The",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "i.            Theatrical\nSequels/Prequels: For each applicable theatrical seq...",
+      "text_length": 491,
+      "id": "ClauseElement_701",
+      "parent_id": "SectionElement_687",
+      "level": 3,
+      "children_count": 3,
+      "clause_id": "(i)",
+      "clause_text": "Theatrical",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "ii.         Theatrical\nRemakes: For each applicable theatrical remake of the\n...",
+      "text_length": 479,
+      "id": "ClauseElement_702",
+      "parent_id": "ClauseElement_701",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(ii)",
+      "clause_text": "Theatrical",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "iii.         Television\nProductions:",
+      "text_length": 36,
+      "id": "ClauseElement_703",
+      "parent_id": "ClauseElement_701",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(iii)",
+      "clause_text": "Television",
+      "normalized_id": "iii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "b.\n\n\n\n\nMovies-For-Television and Television Mini-Series. If a\ntelevision moti...",
+      "text_length": 346,
+      "id": "ClauseElement_704",
+      "parent_id": "SectionElement_687",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(b)",
+      "clause_text": "Movies-For-Television and Television Mini-Series. If a",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This\nwill confirm the agreement between MJW Media, LLC\n(“Purchaser”), and you...",
+      "text_length": 886,
+      "id": "ContentTextElement_712",
+      "parent_id": "HeadingElement_706",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In\nconsideration of the parties’ mutual promises, it is hereby\nagreed as foll...",
+      "text_length": 81,
+      "id": "ContentTextElement_713",
+      "parent_id": "HeadingElement_706",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(d)          During\nthe Option Period (and any extensions thereof), Purchaser...",
+      "text_length": 556,
+      "id": "ContentTextElement_714",
+      "parent_id": "ClauseElement_700",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Without\nlimiting the foregoing, if the Option granted pursuant to Section 1\nh...",
+      "text_length": 1495,
+      "id": "ContentTextElement_715",
+      "parent_id": "SectionElement_681",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The\nRights herein granted include the right to distribute, transmit,\nexhibit,...",
+      "text_length": 991,
+      "id": "ContentTextElement_716",
+      "parent_id": "SectionElement_681",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Artist\nagrees that Purchaser shall have the unlimited right to vary,\nchange, ...",
+      "text_length": 686,
+      "id": "ContentTextElement_717",
+      "parent_id": "SectionElement_681",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a)          First\nNegotiation. If, within (7) years after the initial genera...",
+      "text_length": 1677,
+      "id": "ContentTextElement_718",
+      "parent_id": "SectionElement_687",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b)          Passive\nPayments. Provided that: (i) Artist is not in uncured\nma...",
+      "text_length": 774,
+      "id": "ContentTextElement_719",
+      "parent_id": "SectionElement_687",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "a.\n\n\n\n\nPilot and Series. If a television pilot and/or series is\nproduced, Art...",
+      "text_length": 676,
+      "id": "ContentTextElement_720",
+      "parent_id": "ClauseElement_701",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "iv.         New\nMedia Productions: If a feature-length production or\nepisodic...",
+      "text_length": 702,
+      "id": "ContentTextElement_721",
+      "parent_id": "ClauseElement_704",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "v.           100/50/50:\nWith respect to any television series, movie-for-tele...",
+      "text_length": 1161,
+      "id": "ContentTextElement_722",
+      "parent_id": "ClauseElement_704",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "MJW\nMedia, LLC\n\nAttn:\nMike Witherill\n\n1166 E.\nWarner Road, Suite 205\n\nGilbert...",
+      "text_length": 117,
+      "id": "ContentTextElement_723",
+      "parent_id": "SectionElement_695",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "cc:\n\n\n\nPaul\nMiloknay, Esq.\n\n\nMiloknay Weiner\nLLP\n\n7162\nBeverly Blvd., Suite 3...",
+      "text_length": 134,
+      "id": "ContentTextElement_724",
+      "parent_id": "SectionElement_695",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Notices\nshall be sufficiently given when the same shall be deposited so\naddre...",
+      "text_length": 358,
+      "id": "ContentTextElement_725",
+      "parent_id": "SectionElement_695",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "All\npayments which Purchaser may be required to make to Artist\nhereunder shal...",
+      "text_length": 300,
+      "id": "ContentTextElement_726",
+      "parent_id": "SectionElement_695",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "For\ngood and valuable consideration, receipt of which is hereby\nacknowledged,...",
+      "text_length": 648,
+      "id": "ContentTextElement_727",
+      "parent_id": "HeadingElement_709",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This\ninstrument is executed in accordance with and is subject to the\nOption/P...",
+      "text_length": 334,
+      "id": "ContentTextElement_728",
+      "parent_id": "HeadingElement_709",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "DATED\nas of August 1, 2016\n\n\n\n \n\n\n \n\n\n\n \n\n\n\n/s/\nPete Rosen\n\n\n\n \n\n\n\nPete\nRosen...",
+      "text_length": 128,
+      "id": "ContentTextElement_729",
+      "parent_id": "HeadingElement_709",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "For\ngood and valuable consideration, the receipt of which is hereby\nacknowled...",
+      "text_length": 973,
+      "id": "ContentTextElement_730",
+      "parent_id": "HeadingElement_711",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN\nWITNESS WHEREOF, the undersigned has executed this Assignment on\nthe date ...",
+      "text_length": 93,
+      "id": "ContentTextElement_731",
+      "parent_id": "HeadingElement_711",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "DATED:  August\n1, 2016\n\n\n\n \n\n\n \n\n\n\n \n\n\n\n/s/\nPete Rosen\n\n\n\n \n\n\n\nPete\nRosen\n\n\n\n...",
+      "text_length": 124,
+      "id": "ContentTextElement_732",
+      "parent_id": "HeadingElement_711",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "“CHILD SUPPORT”",
+      "text_length": 15,
+      "id": "HeadingElement_705",
+      "parent_id": "AgreementTitleElement_676",
+      "level": 1,
+      "children_count": 22,
+      "heading_text": "“CHILD SUPPORT”"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Dear\nPete and Gary:",
+      "text_length": 19,
+      "id": "HeadingElement_706",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 2,
+      "heading_text": "Dear\nPete and Gary:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "ACCEPTED\nAND AGREED AS OF AUGUST 1, 2016:",
+      "text_length": 41,
+      "id": "HeadingElement_707",
+      "parent_id": "AgreementTitleElement_676",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "ACCEPTED\nAND AGREED AS OF AUGUST 1, 2016:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "EXHIBIT “A”",
+      "text_length": 11,
+      "id": "HeadingElement_708",
+      "parent_id": "AgreementTitleElement_676",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "EXHIBIT “A”"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SHORT FORM OPTION",
+      "text_length": 17,
+      "id": "HeadingElement_709",
+      "parent_id": "AgreementTitleElement_676",
+      "level": 1,
+      "children_count": 3,
+      "heading_text": "SHORT FORM OPTION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "EXHIBIT “B”",
+      "text_length": 11,
+      "id": "HeadingElement_710",
+      "parent_id": "AgreementTitleElement_676",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "EXHIBIT “B”"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SHORT FORM ASSIGNMENT",
+      "text_length": 21,
+      "id": "HeadingElement_711",
+      "parent_id": "AgreementTitleElement_676",
+      "level": 1,
+      "children_count": 3,
+      "heading_text": "SHORT FORM ASSIGNMENT"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.          Option.",
+      "text_length": 19,
+      "id": "SectionElement_677",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "1",
+      "section_title": "Option.",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.          Purchase\nPrice. If Purchaser exercises its Option granted pursuan...",
+      "text_length": 1085,
+      "id": "SectionElement_678",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "2",
+      "section_title": "Purchase",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.          Contingent\nCompensation. If Artist has fulfilled all of the terms...",
+      "text_length": 593,
+      "id": "SectionElement_679",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "3",
+      "section_title": "Contingent",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.          Writing\nServices. Purchaser shall engage Artist to perform a\nguar...",
+      "text_length": 570,
+      "id": "SectionElement_680",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "4",
+      "section_title": "Writing",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "5.          Rights.\nIf the Option granted pursuant to Section 1 hereunder is ...",
+      "text_length": 1323,
+      "id": "SectionElement_681",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "5",
+      "section_title": "Rights.",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "6.          Writer\nRepresentations and Warranties/Indemnities. Subject to\nArt...",
+      "text_length": 1684,
+      "id": "SectionElement_682",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "6",
+      "section_title": "Writer",
+      "normalized_id": "6"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "7.          Purchaser\nIndemnities. Purchaser hereby indemnifies, defends and ...",
+      "text_length": 548,
+      "id": "SectionElement_683",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "7",
+      "section_title": "Purchaser",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "8.          Insurance\nCoverage. Artist shall be named as an additional insure...",
+      "text_length": 169,
+      "id": "SectionElement_684",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "8",
+      "section_title": "Insurance",
+      "normalized_id": "8"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "9.          Additional\nDocuments. At Purchaser’s request, following a\nreasona...",
+      "text_length": 923,
+      "id": "SectionElement_685",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "9",
+      "section_title": "Additional",
+      "normalized_id": "9"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "10.         Credit.\nPurchaser shall accord Artist writing credit on screen as...",
+      "text_length": 664,
+      "id": "SectionElement_686",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "10",
+      "section_title": "Credit.",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "11.         Subsequent\nProductions.",
+      "text_length": 35,
+      "id": "SectionElement_687",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 4,
+      "section_number": "11",
+      "section_title": "Subsequent",
+      "normalized_id": "11"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "12.         Premieres.\nIf the Picture is produced and Artist is not in uncure...",
+      "text_length": 544,
+      "id": "SectionElement_688",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "12",
+      "section_title": "Premieres.",
+      "normalized_id": "12"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "13.         DVD.\nIf the Picture is produced and Artist is not in uncured mate...",
+      "text_length": 259,
+      "id": "SectionElement_689",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "13",
+      "section_title": "DVD.",
+      "normalized_id": "13"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "14.         Reversion.\nIf Purchaser exercises the Option, but does not produc...",
+      "text_length": 839,
+      "id": "SectionElement_690",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "14",
+      "section_title": "Reversion.",
+      "normalized_id": "14"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "15.         Remedies.\nIt is acknowledged and agreed that neither the failure ...",
+      "text_length": 404,
+      "id": "SectionElement_691",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "15",
+      "section_title": "Remedies.",
+      "normalized_id": "15"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "16.         Assignment.\nPurchaser shall have the right to assign any or all o...",
+      "text_length": 917,
+      "id": "SectionElement_692",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "16",
+      "section_title": "Assignment.",
+      "normalized_id": "16"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "17.         Default/Force\nMajeure. Each and every option period hereunder sha...",
+      "text_length": 883,
+      "id": "SectionElement_693",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "17",
+      "section_title": "Default/Force",
+      "normalized_id": "17"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "18.         Jurisdiction.\nThis Agreement will be interpreted in accordance wi...",
+      "text_length": 480,
+      "id": "SectionElement_694",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "18",
+      "section_title": "Jurisdiction.",
+      "normalized_id": "18"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "19.         Notices/Payments.\nAll notices from Artist to Purchaser shall be s...",
+      "text_length": 106,
+      "id": "SectionElement_695",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 4,
+      "section_number": "19",
+      "section_title": "Notices/Payments.",
+      "normalized_id": "19"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "20.         No\nObligation. Nothing contained in this Agreement shall be\nconst...",
+      "text_length": 370,
+      "id": "SectionElement_696",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "20",
+      "section_title": "No",
+      "normalized_id": "20"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "21.         Miscellaneous.\nIt is contemplated that a more formal agreement ma...",
+      "text_length": 691,
+      "id": "SectionElement_697",
+      "parent_id": "HeadingElement_705",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "21",
+      "section_title": "Miscellaneous.",
+      "normalized_id": "21"
+    }
+  ]
+}

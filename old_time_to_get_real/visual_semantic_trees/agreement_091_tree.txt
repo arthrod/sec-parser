@@ -1,0 +1,23 @@
+Content: Amended and Restated Non-Employee Director Compensation Policy (March 14, 2024)
+
+--- (Additional Root Structure) ---
+Content: Each member of the Board of Directors (the “Board”) who is not also serving as an employee of or con...
+
+--- (Additional Root Structure) ---
+Content: The annual cash compensation amount set forth below is payable in equal quarterly installments, paya...
+
+--- (Additional Root Structure) ---
+Section 1: Annual Board Service Retainer
+|-- Clause (a): All Eligible Directors: $42,500
+|-- Clause (b): Chairman of the Board Service Retainer (in addition to Eligible Director Service Retainer): $30,000
+`-- Clause (c): Lead Independent Director Service Retainer (in addition to Eligible Director Service Retainer): $20,...
+
+--- (Additional Root Structure) ---
+Section 2: Annual Committee Member Service Retainer
+
+--- (Additional Root Structure) ---
+Section 3: Annual Committee Chair Service Retainer (in addition to Committee Member Service
+|-- Content: The equity compensation set forth below will be granted under the Forte Biosciences, Inc. 2021 Equit...
+|-- Content: of ten years from the date of grant (subject to earlier termination in connection with a termination...
+|-- Content: 1.	Initial Grant: On the date of the Eligible Director’s initial election to the Board, for each Eli...
+`-- Content: 2.	Annual Grant: On the date of each Forte Biosciences annual stockholder meeting held after the Eff...

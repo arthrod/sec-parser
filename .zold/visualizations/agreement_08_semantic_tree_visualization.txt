@@ -1,0 +1,113 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_08.html
+====================================================================================================
+📊 Quality Score: 0.89
+📄 Format: html
+🔢 Total Elements: 58
+🔗 Cross-References: 36
+📋 Title: Management Agreement
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 1
+  paragraph           : 15
+  section             : 11
+  signature           : 3
+  table               : 27
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 13
+  Document Self Ref   : 3
+  Exhibit Ref         : 1
+  Legal Ref           : 3
+  Positional Ref      : 3
+  Section Ref         : 13
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.1
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Execution Version
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] FIRST AMENDMENT
+   ⚠️  Confidence: 0.80
+
+[TITLE] Management Agreement
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] May 16, 2018
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] This First Amendment (this “ Amendment ”) to the Management Agreement (as define...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the Parties entered into that certain Management Agreement, dated Janua...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the Initial Term of the Management Agreement will expire on December 31...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, prior to the expiration of the Initial Term, a Party may request change...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, notwithstanding the automatic renewal provisions of Section 16(a) of th...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, pursuant to Section 22 of the Management Agreement, the Parties desire ...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] NOW THEREFORE, in consideration of the premises and for other good and valuable ...
+   ⚠️  Confidence: 0.80
+
+[SECTION] 1. Amendment of Management Agreement .
+   ⚠️  Confidence: 0.80
+
+[SECTION] Section 16(a) of the Management Agreement is hereby amended by replacing the cla...
+   ⚠️  Confidence: 0.80
+
+[SECTION] Section 16(b) of the Management Agreement is hereby amended by replacing the cla...
+   ⚠️  Confidence: 0.80
+
+... and 8 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (13 references):
+   • "herein" → herein (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   ... and 8 more document ref references
+
+📌 Document Self Ref (3 references):
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+
+📌 Exhibit Ref (1 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+
+📌 Legal Ref (3 references):
+   • "pursuant to Section 22" → 22 (confidence: 0.80)
+   • "pursuant to Section 1" → 1 (confidence: 0.80)
+   • "pursuant to Section 1" → 1 (confidence: 0.80)
+
+📌 Positional Ref (3 references):
+   • "below" → below (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+
+📌 Section Ref (13 references):
+   • "Section 16" → 16 (confidence: 0.80)
+   • "Section 16" → 16 (confidence: 0.80)
+   • "Section 16" → 16 (confidence: 0.80)
+   • "Section 22" → 22 (confidence: 0.80)
+   • "Section 16" → 16 (confidence: 0.80)
+   ... and 8 more section ref references
+
+====================================================================================================

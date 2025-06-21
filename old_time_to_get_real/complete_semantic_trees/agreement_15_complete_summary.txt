@@ -1,0 +1,46 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_15.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 552
+🔗 Cross-References: 159
+📋 Title: MASTER SERVICE AGREEMENT AND...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 40
+  paragraph           : 177
+  party               : 2
+  section             : 61
+  signature           : 5
+  subsection          : 156
+  table               : 110
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 23
+  Document Self Ref   : 91
+  Exhibit Ref         : 17
+  Legal Ref           : 3
+  Positional Ref      : 8
+  Section Ref         : 17
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.1
+[TITLE] MASTER SERVICE AGREEMENT AND
+[PARAGRAPH] LICENSE AGREEMENT
+[PARTY] THIS AGREEMENT is made and entered into as of January 15, 2016, by and between L...
+[PARAGRAPH] WHEREAS, beginning on or about January 16 , 2016 LVRE i nte nds to have XREE be ...
+[PARAGRAPH] WHEREAS , LVRE has established various services and has engaged other companies ...
+[PARTY] WHEREAS, LVRE has negotiated or entered into certain contingent agreements to pr...
+[PARAGRAPH] WHEREAS , L VRE has entered into discussions and/or agreements with National Rai...
+[PARAGRAPH] WHEREAS , LVRE represents that it has obtained all necessary insurance to suppor...
+[PARAGRAPH] WHEREAS, LVRE requests certain services to be provided by XREE to support LVRE '...
+... and 542 more elements
+
+====================================================================================================

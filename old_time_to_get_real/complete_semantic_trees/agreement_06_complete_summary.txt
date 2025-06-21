@@ -1,0 +1,46 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_06.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 1828
+🔗 Cross-References: 1085
+📋 Title: LEASE AGREEMENT...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 368
+  paragraph           : 806
+  party               : 9
+  section             : 314
+  signature           : 12
+  subsection          : 146
+  table               : 172
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 418
+  Document Self Ref   : 10
+  Exhibit Ref         : 117
+  Legal Ref           : 100
+  Positional Ref      : 172
+  Section Ref         : 268
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.11 ***Text Omitted and Filed Separately with the Securities and Excha...
+[METADATA] Exhibit 10.11
+[METADATA] ***Text Omitted and Filed Separately with the Securities and Exchange Commission
+[METADATA] Confidential Treatment Requested Under 17 C.F.R. Sections 200.80(b)(4) and 240.2...
+[TITLE] LEASE AGREEMENT
+[PARTY] THIS LEASE AGREEMENT (this “Lease”) is made as of this 18th day of January, 2018...
+[PARAGRAPH] BASIC LEASE PROVISIONS
+[PARAGRAPH] Building : That certain to-be-constructed building to be known as 399 Binney Str...
+[PARAGRAPH] Premises : That portion of the Building containing approximately 48,192 rentable...
+[PARAGRAPH] Building : The to-be-constructed Building to be located in the Project which sha...
+... and 1818 more elements
+
+====================================================================================================

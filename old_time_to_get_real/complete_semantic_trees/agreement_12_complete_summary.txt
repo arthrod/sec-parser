@@ -1,0 +1,44 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_12.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 300
+🔗 Cross-References: 29
+📋 Title: ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 42
+  paragraph           : 111
+  party               : 2
+  section             : 40
+  signature           : 9
+  subsection          : 24
+  table               : 71
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 5
+  Exhibit Ref         : 11
+  Positional Ref      : 3
+  Section Ref         : 10
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] EXHIBIT 10.3
+[METADATA] EXHIBIT 10.3
+[PARAGRAPH] Freddie Mac Loan Number: 503996270
+[PARAGRAPH] Property Name: Oak Crossing Apartments
+[TITLE] ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES
+[PARAGRAPH] (Revised 7-12-2016)
+[PARAGRAPH] THIS ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES (“ ...
+[PARAGRAPH] RECITALS:
+[TABLE] Borrower has requested that Lender make a loan to Borrower (“ Loan ”). The Loan ...
+[PARAGRAPH] Borrower has requested that Lender make a loan to Borrower (“ Loan ”). The Loan ...
+... and 290 more elements
+
+====================================================================================================

@@ -1,0 +1,1031 @@
+[
+  {
+    "text": "Agreement",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Section 9(a).",
+    "cls": "TextElement"
+  },
+  {
+    "text": "[Signature page follows]",
+    "cls": "TextElement"
+  },
+  {
+    "text": "PURCHASER:\n\n\n\nCLOUDBREAK AGGREGATOR LP\n\n\n\n\nBy:\n \nTHIRD POINT LLC, its investment manager\n\n\n\n\nBy:\n \n /s/ Josh Targoff\n\n\n \nName: Josh Targoff\n\n\n \n Title:  Chief Operating Officer and\n           General Counsel",
+    "cls": "TableElement"
+  },
+  {
+    "text": "[Signature Page to Forward Purchase Agreement]",
+    "cls": "TextElement"
+  },
+  {
+    "text": "[                   \n                                         \n                     ].\n  \n\n\n\n\n\n By:\n[                                         \n                                 ]",
+    "cls": "TableElement"
+  },
+  {
+    "text": "By:\n \n /s/\n\n\n \nName:\n\n\n \nTitle:\n\n\n\nFAR POINT ACQUISITION CORPORATION\n\n\n\n\nBy:\n \n /s/\n\n\n \nName:\n\n\n \nTitle:",
+    "cls": "TableElement"
+  },
+  {
+    "text": "TO BE EXECUTED UPON ANY ASSIGNMENT OR FINAL DETERMINATION OF FORWARD PURCHASE SHARES:",
+    "cls": "TextElement"
+  },
+  {
+    "text": "[                                    \n                                         \n       ]\n  \n      FAR POINT ACQUISITION CORPORATION\n \n\n\n\n\n\n\nBy:\n[                                         \n                                       ]",
+    "cls": "TableElement"
+  },
+  {
+    "level": 0,
+    "children": [
+      "PartyElement_770",
+      "HeadingElement_780",
+      "RecitalElement_771",
+      "RecitalElement_772",
+      "RecitalElement_773",
+      "RecitalElement_774",
+      "RecitalElement_775",
+      "RecitalElement_776",
+      "RecitalElement_777",
+      "RecitalElement_778",
+      "SectionElement_727",
+      "SectionElement_728",
+      "SectionElement_729",
+      "SectionElement_730",
+      "SectionElement_731",
+      "SectionElement_732",
+      "SectionElement_733",
+      "SectionElement_734",
+      "SectionElement_735",
+      "HeadingElement_781",
+      "HeadingElement_782",
+      "HeadingElement_783"
+    ],
+    "text": "FORWARD PURCHASE AGREEMENT",
+    "id": "AgreementTitleElement_769",
+    "parent_id": null,
+    "cls": "AgreementTitleElement"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(a) Forward Purchase Shares.",
+    "id": "ClauseElement_751",
+    "parent_id": "SectionElement_727",
+    "cls": "ClauseElement",
+    "clause_id": "(a)",
+    "clause_text": "Forward Purchase Shares."
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_784",
+      "ContentTextElement_785"
+    ],
+    "text": "(i) The Company shall issue and sell to the Purchaser, and the Purchaser shall purchase from the Company, that number of Class A Shares\n(the Forward Purchase Shares), determined as set forth in clause 1(a)(ii), for a purchase price of $9.50 per Forward Purchase Share (the Forward Purchase Price).",
+    "id": "ClauseElement_752",
+    "parent_id": "SectionElement_727",
+    "cls": "ClauseElement",
+    "clause_id": "(i)",
+    "clause_text": "The Company shall issue and sell to the Purchaser, and the Purchaser shall purchase from the Company, that number of Class A Shares"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_786",
+      "ContentTextElement_787"
+    ],
+    "text": "(b) Legends. Each book entry for the Forward Purchase Shares shall contain a notation, and each certificate (if any) evidencing\nthe Forward Purchase Shares shall be stamped or otherwise imprinted with a legend, in substantially the following form:",
+    "id": "ClauseElement_753",
+    "parent_id": "SectionElement_727",
+    "cls": "ClauseElement",
+    "clause_id": "(b)",
+    "clause_text": "Legends. Each book entry for the Forward Purchase Shares shall contain a notation, and each certificate (if any) evidencing"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_789",
+      "ContentTextElement_790"
+    ],
+    "text": "(c) Governmental Consents and Filings. No consent, approval, order or authorization of, or registration, qualification,\ndesignation, declaration or filing with, any federal, state or local governmental authority is required on the part of the Purchaser in connection with the consummation of the transactions contemplated by this Agreement.",
+    "id": "ClauseElement_754",
+    "parent_id": "SectionElement_728",
+    "cls": "ClauseElement",
+    "clause_id": "(c)",
+    "clause_text": "Governmental Consents and Filings. No consent, approval, order or authorization of, or registration, qualification,"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_791"
+    ],
+    "text": "(f) Disclosure of Information. The Purchaser has had an opportunity to discuss the Companys business, management, financial\naffairs and the terms and conditions of the offering of the Forward Purchase Shares, as well as the terms of the Companys proposed IPO, with the Companys management.",
+    "id": "ClauseElement_755",
+    "parent_id": "SectionElement_728",
+    "cls": "ClauseElement",
+    "clause_id": "(f)",
+    "clause_text": "Disclosure of Information. The Purchaser has had an opportunity to discuss the Companys business, management, financial"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(h) No Public Market. The Purchaser understands that no public market now exists for the Forward Purchase Shares, and that the\nCompany has made no assurances that a public market will ever exist for the Forward Purchase Shares.",
+    "id": "ClauseElement_756",
+    "parent_id": "SectionElement_728",
+    "cls": "ClauseElement",
+    "clause_id": "(h)",
+    "clause_text": "No Public Market. The Purchaser understands that no public market now exists for the Forward Purchase Shares, and that the"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(j) Accredited Investor. The Purchaser is an accredited investor as defined in Rule 501(a) of Regulation D promulgated\nunder the Securities Act.",
+    "id": "ClauseElement_757",
+    "parent_id": "SectionElement_728",
+    "cls": "ClauseElement",
+    "clause_id": "(j)",
+    "clause_text": "Accredited Investor. The Purchaser is an accredited investor as defined in Rule 501(a) of Regulation D promulgated"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(k) No General Solicitation. Neither the Purchaser, nor, to its knowledge, any of its officers,\ndirectors, employees, agents, stockholders or partners has either directly or indirectly, including, through a broker or finder (i) engaged in any general solicitation, or (ii) published any advertisement in connection with the offer and\nsale of the Forward Purchase Shares.",
+    "id": "ClauseElement_758",
+    "parent_id": "SectionElement_728",
+    "cls": "ClauseElement",
+    "clause_id": "(k)",
+    "clause_text": "No General Solicitation. Neither the Purchaser, nor, to its knowledge, any of its officers,"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(l) Residence. The Purchasers principal place of business is the office or offices\nlocated at the address of the Purchaser set forth on the signature page hereof.",
+    "id": "ClauseElement_759",
+    "parent_id": "SectionElement_728",
+    "cls": "ClauseElement",
+    "clause_id": "(l)",
+    "clause_text": "Residence. The Purchasers principal place of business is the office or offices"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(m) Adequacy of Financing. The Purchaser\nhas available to it sufficient funds to satisfy its obligations under this Agreement.",
+    "id": "ClauseElement_760",
+    "parent_id": "SectionElement_728",
+    "cls": "ClauseElement",
+    "clause_id": "(m)",
+    "clause_text": "Adequacy of Financing. The Purchaser"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_792"
+    ],
+    "text": "(n) Affiliation of Certain FINRA\nMembers. The Purchaser is neither a person associated nor affiliated with Credit Suisse Securities (USA) LLC or Merrill Lynch, Pierce, Fenner & Smith Incorporated or, to its actual knowledge, any other member of the Financial\nIndustry Regulatory Authority (FINRA) that is participating in the IPO.",
+    "id": "ClauseElement_761",
+    "parent_id": "SectionElement_728",
+    "cls": "ClauseElement",
+    "clause_id": "(n)",
+    "clause_text": "Affiliation of Certain FINRA"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "(ii) 20,000,000 Class B Shares, 11,500,000 of which are issued and outstanding as of the date hereof, and 1,500,000 of which are subject\nto forfeiture pursuant to Section 5(b) hereof. All of the outstanding Class B Shares have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws.",
+    "id": "ClauseElement_762",
+    "parent_id": "SectionElement_729",
+    "cls": "ClauseElement",
+    "clause_id": "(ii)",
+    "clause_text": "20,000,000 Class B Shares, 11,500,000 of which are issued and outstanding as of the date hereof, and 1,500,000 of which are subject"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "(iii) 1,000,000 preferred shares, none of which are issued and outstanding.",
+    "id": "ClauseElement_763",
+    "parent_id": "SectionElement_729",
+    "cls": "ClauseElement",
+    "clause_id": "(iii)",
+    "clause_text": "1,000,000 preferred shares, none of which are issued and outstanding."
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_798"
+    ],
+    "text": "(g) Operations. As of the date hereof, the Company has not conducted, and prior to the IPO\nClosing the Company will not conduct, any operations other than organizational activities and activities in connection with offerings of its securities.",
+    "id": "ClauseElement_764",
+    "parent_id": "SectionElement_729",
+    "cls": "ClauseElement",
+    "clause_id": "(g)",
+    "clause_text": "Operations. As of the date hereof, the Company has not conducted, and prior to the IPO"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "(iv) The Company shall have performed, satisfied and complied in all material respects with\nthe covenants, agreements and conditions required by this Agreement to be performed, satisfied or complied with by the Company at or prior to the Forward Closing; and",
+    "id": "ClauseElement_765",
+    "parent_id": "ContentTextElement_806",
+    "cls": "ClauseElement",
+    "clause_id": "(iv)",
+    "clause_text": "The Company shall have performed, satisfied and complied in all material respects with"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_807"
+    ],
+    "text": "(v) No order, writ, judgment, injunction, decree, determination, or award shall have been entered by or with any governmental, regulatory, or\nadministrative authority or any court, tribunal, or judicial, or arbitral body, and no other legal restraint or prohibition shall be in effect, preventing the purchase by the Purchaser of the Forward Purchase Shares.",
+    "id": "ClauseElement_766",
+    "parent_id": "SectionElement_733",
+    "cls": "ClauseElement",
+    "clause_id": "(v)",
+    "clause_text": "No order, writ, judgment, injunction, decree, determination, or award shall have been entered by or with any governmental, regulatory, or"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_812",
+      "ContentTextElement_813",
+      "ContentTextElement_814",
+      "ContentTextElement_815",
+      "ContentTextElement_816",
+      "ContentTextElement_817",
+      "ContentTextElement_818",
+      "ContentTextElement_819",
+      "ContentTextElement_820"
+    ],
+    "text": "(d) Entire Agreement. This Agreement, together with any documents, instruments and writings that are\ndelivered pursuant hereto or referenced herein, constitute the entire agreement and understanding of the parties hereto in respect of its subject matter and supersedes all prior understandings, agreements, or representations by or among the parties\nhereto, written or oral, to the extent they relate in any way to the subject matter hereof or the transactions contemplated hereby.",
+    "id": "ClauseElement_767",
+    "parent_id": "SectionElement_735",
+    "cls": "ClauseElement",
+    "clause_id": "(d)",
+    "clause_text": "Entire Agreement. This Agreement, together with any documents, instruments and writings that are"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_821",
+      "ContentTextElement_822"
+    ],
+    "text": "(q) Specific Performance. The Purchaser agrees that irreparable damage may occur in the\nevent any provision of this Agreement was not performed by the Purchaser in accordance with the terms hereof and that the Company shall be entitled to seek specific performance of the terms hereof, in addition to any other remedy at law or equity.",
+    "id": "ClauseElement_768",
+    "parent_id": "SectionElement_735",
+    "cls": "ClauseElement",
+    "clause_id": "(q)",
+    "clause_text": "Specific Performance. The Purchaser agrees that irreparable damage may occur in the"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(ii) Notwithstanding the foregoing, the Purchaser shall have no obligation hereunder unless the number of Class A Shares whose holders\nelect to have their Class A Shares redeemed in connection with the initial Business Combination and who do not revoke their elections prior to the Business Combination Closing exceeds 20,000,000 (such number of Class A Shares to be\nredeemed, the Redeemed Shares). The actual number of Forward Purchase Shares to be purchased shall be a number of shares (rounded up to the nearest whole share) equal to (A) the excess of the number of Redeemed Shares over\n20,000,000, multiplied by (B) a fraction, the numerator of which is $10.00 and the denominator of which is $9.50. For example, if there are 25,000,000 Redeemed Shares, the Purchaser would be obligated to purchase 5,263,158 Forward Purchase\nShares, which represents 5,000,000 shares (i.e., the excess of 25,000,000 Redeemed Shares over 20,000,000) multiplied by $10.00/$9.50 and rounded up to the nearest whole share.",
+    "id": "ContentTextElement_784",
+    "parent_id": "ClauseElement_752",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(iii) The Company shall require the Purchaser to purchase the Forward Purchase Shares by delivering notice to the Purchaser, at least five\n(5) Business Days before the Business Combination Closing (or such lesser number of days as the Purchaser may consent to in writing), specifying the number of Forward Purchase Shares the Purchaser is required to purchase, the date of the\nBusiness Combination Closing, the aggregate Forward Purchase Price and instructions for wiring the Forward Purchase Price. The closing of the sale of Forward Purchase Shares (the Forward Closing) shall be held on the same\ndate and immediately prior to the Business Combination Closing (such date being referred to as the Forward Closing Date). At least one (1) Business Day prior to the Forward Closing Date, the Purchaser shall deliver to\nthe Company, to be held in escrow until the Forward Closing, the Forward Purchase Price for the Forward Purchase Shares by wire transfer of U.S. dollars in immediately available funds to the account specified by the Company in such\nnotice. Immediately prior to the Forward Closing on the Forward Closing Date, (a) the Forward Purchase Price shall be released from escrow automatically and without further action by the Company or the Purchaser, and (b) upon such\nrelease, the Company shall issue the Forward Purchase Shares to the Purchaser in book-entry form, free and clear of any liens or other restrictions whatsoever (other than those arising under state or federal securities laws), registered in the name\nof the Purchaser (or its nominee in accordance with its delivery instructions), or to a custodian designated by the Purchaser, as applicable. In the event the Business Combination Closing does not occur on the date scheduled for closing, the\nForward Closing shall not occur and the Company shall promptly (but not later than one (1) Business Day thereafter) return the Forward Purchase Price to the Purchaser. For purposes of this Agreement, Business Day means\nany day, other than a Saturday or a Sunday, that is neither a legal holiday nor a day on which banking institutions are generally authorized or required by law or regulation to close in the City of New York, New York.",
+    "id": "ContentTextElement_785",
+    "parent_id": "ClauseElement_752",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "THE\nSECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR THE SECURITIES LAWS OF ANY STATE OR OTHER JURISDICTION, AND MAY NOT BE TRANSFERRED IN VIOLATION OF SUCH ACT AND LAWS. THE SALE, PLEDGE,\nHYPOTHECATION, OR TRANSFER OF THE SECURITIES REPRESENTED HEREBY ARE SUBJECT TO THE TERMS AND CONDITIONS OF A CERTAIN FORWARD PURCHASE AGREEMENT BY AND AMONG THE HOLDER AND THE COMPANY. COPIES OF SUCH AGREEMENT MAY BE OBTAINED UPON WRITTEN\nREQUEST TO THE SECRETARY OF THE COMPANY.",
+    "id": "ContentTextElement_786",
+    "parent_id": "ClauseElement_753",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c) Legend Removal. If the Forward Purchase Shares are eligible to be sold without\nrestriction under, and without the Company being in compliance with the current public information requirements of, Rule 144 under the Securities Act of 1933, as amended (the Securities Act), then at the Purchasers request,\nthe Company will cause the Companys transfer agent to remove the legend set forth in Section 1(b). In connection therewith, if required by the Companys transfer agent, the Company will promptly cause an opinion of counsel to be\ndelivered to and maintained with its transfer agent, together with any other authorizations, certificates and directions required by the transfer agent that authorize and direct the transfer agent to issue such Forward Purchase Shares without any\nsuch legend.",
+    "id": "ContentTextElement_787",
+    "parent_id": "ClauseElement_753",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b) Authorization. The Purchaser has full power and authority to enter into this Agreement. This Agreement, when executed and\ndelivered by the Purchaser, will constitute the valid and legally binding obligation of the Purchaser, enforceable against the Purchaser in accordance with its terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization,\nmoratorium, fraudulent conveyance and any other laws of general application affecting enforcement of creditors rights generally, (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other\nequitable remedies, or (iii) to the extent the indemnification provisions contained in the Registration Rights (as defined below) may be limited by applicable federal or state securities laws.",
+    "id": "ContentTextElement_788",
+    "parent_id": "SectionElement_728",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(d) Compliance with Other Instruments. The execution, delivery and performance by the Purchaser of this Agreement and the\nconsummation by the Purchaser of the transactions contemplated by this Agreement will not result in any violation or default (i) of any provisions of its organizational documents, (ii) of any instrument, judgment, order, writ or decree to\nwhich it is a party or by which it is bound, (iii) under any note, indenture or mortgage to which it is a party or by which it is bound, (iv) under any lease, agreement, contract or purchase order to which it is a party or by which it is\nbound or (v) of any provision of federal or state statute, rule or regulation applicable to the Purchaser, in each case (other than clause (i)), which would have a material adverse effect on the Purchaser or its ability to consummate the\ntransactions contemplated by this Agreement.",
+    "id": "ContentTextElement_789",
+    "parent_id": "ClauseElement_754",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(e) Purchase Entirely for Own Account. This Agreement is made with the Purchaser\nin reliance upon the Purchasers representation to the Company, which by the Purchasers execution of this Agreement, the Purchaser hereby confirms, that the Forward Purchase Shares to be acquired by the Purchaser will be acquired for\ninvestment for the Purchasers own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof in violation of any state or federal securities laws, and that the Purchaser has no present intention\nof selling, granting any participation in, or otherwise distributing the same in violation of law. By executing this Agreement, the Purchaser further represents that the Purchaser does not presently have any contract, undertaking, agreement or\narrangement with any Person to sell, transfer or grant participations to such Person or to any third Person, with respect to any of the Forward Purchase Shares. For purposes of this Agreement, Person means an individual, a\nlimited liability company, a partnership, a joint venture, a corporation, a trust, an unincorporated organization, any other entity or any government or any department or agency thereof.",
+    "id": "ContentTextElement_790",
+    "parent_id": "ClauseElement_754",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(g) Restricted Securities. The Purchaser understands that the offer and sale of the\nForward Purchase Shares to the Purchaser has not been, and will not be, registered under the Securities Act by reason of a specific exemption from the registration provisions of the Securities Act which depends upon, among other things, the bona\nfide nature of the investment intent and the accuracy of the Purchasers representations as expressed herein. The Purchaser understands that the Forward Purchase Shares are restricted securities under applicable U.S.\nfederal and state securities laws and that, pursuant to these laws, the Purchaser must hold the Forward Purchase Shares indefinitely unless they are registered with the SEC and qualified by state authorities, or an exemption from such registration\nand qualification requirements is available. The Purchaser acknowledges that the Company has no obligation to register or qualify the Forward Purchase Shares for resale, except as provided herein (the Registration\nRights). The Purchaser further acknowledges that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding\nperiod for the Forward Purchase Shares, and on requirements relating to the Company which are outside of the Purchasers control, and which the Company is under no obligation and may not be able to satisfy. The Purchaser understands that\nthe offering of the Forward Purchase Shares is not and is not intended to be part of the IPO, and that the Purchaser will not be able to rely on the protection of Section 11 of the Securities Act.",
+    "id": "ContentTextElement_791",
+    "parent_id": "ClauseElement_755",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(o) No Other Representations and\nWarranties; Non-Reliance. Except for the specific representations and warranties contained in this Section 2 and in any certificate or agreement delivered pursuant hereto, none of the Purchaser\nnor any person acting on behalf of the Purchaser nor any of the Purchasers affiliates (the Purchaser Parties) has made, makes or shall be deemed to make any other express or implied representation or warranty with respect to\nthe Purchaser and this offering, and the Purchaser Parties disclaim any such representation or warranty. Except for the specific representations and warranties expressly made by the Company in Section 3 of this Agreement and in any\ncertificate or agreement delivered pursuant hereto, the Purchaser Parties specifically disclaim that they are relying upon any other representations or warranties that may have been made by the Company, any person on behalf of the Company or any of\nthe Companys affiliates (collectively, the Company Parties).",
+    "id": "ContentTextElement_792",
+    "parent_id": "ClauseElement_761",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Prior to the closing of the IPO, the Company expects to amend and restate its certificate of incorporation to increase its authorized share\ncapital to the following:",
+    "id": "ContentTextElement_793",
+    "parent_id": "SectionElement_729",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c) Authorization. All corporate action required to\nbe taken by the Companys Board of Directors and stockholders in order to authorize the Company to enter into this Agreement, and to issue the Forward Purchase Shares at the Forward Closing has been taken or will be taken prior to the Forward\nClosing. All action on the part of the stockholders, directors and officers of the Company necessary for the execution and delivery of this Agreement, the performance of all obligations of the Company under this Agreement to be performed as of\nthe Forward Closing, and the issuance and delivery of the Forward Purchase Shares has been taken or will be taken prior to the Forward Closing. This Agreement, when executed and delivered by the Company, shall constitute the valid and legally\nbinding obligation of the Company, enforceable against the Company in accordance with its terms except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, or other laws of general application\nrelating to or affecting the enforcement of creditors rights generally, (ii) as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies, or (iii) to the extent the\nindemnification provisions contained in the Registration Rights may be limited by applicable federal or state securities laws.",
+    "id": "ContentTextElement_794",
+    "parent_id": "SectionElement_729",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(d)\nValid Issuance of Securities. The Forward Purchase Shares, when issued, sold and delivered in accordance with the terms and for the consideration set forth in this Agreement will be validly issued, fully paid and nonassessable, as\napplicable, and free of all preemptive or similar rights, taxes, liens, encumbrances and charges with respect to the issue thereof and restrictions on transfer other than restrictions on transfer specified under this Agreement, applicable state and\nfederal securities laws and liens or encumbrances created by or imposed by the Purchaser. Assuming the accuracy of the representations of the Purchaser in this Agreement and subject to the filings described in Section 3(e) below, the\nForward Purchase Shares will be issued in compliance with all applicable federal and state securities laws.",
+    "id": "ContentTextElement_795",
+    "parent_id": "SectionElement_729",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(e) Governmental Consents\nand Filings. Assuming the accuracy of the representations made by the Purchaser in this Agreement, no consent, approval, order or authorization of, or registration, qualification, designation, declaration or filing with, any federal, state\nor local governmental authority is required on the part of the Company in connection with the consummation of the transactions contemplated by this Agreement, except for filings pursuant to applicable state securities laws, if any, and pursuant to\nthe Registration Rights.",
+    "id": "ContentTextElement_796",
+    "parent_id": "SectionElement_729",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(i) of any provisions of the Charter, bylaws or other governing documents of the Company, (ii) of any instrument, judgment, order, writ or decree to which the Company is a party or by\nwhich it is bound, (iii) under any note, indenture or mortgage to which the Company is a party or by which it is bound, (iv) under any lease, agreement, contract or purchase order to which the Company is a party or by which it is bound or\n(v) of any provision of federal or state statute, rule or regulation applicable to the Company, in each case (other than clause (i)) which would have a material adverse effect on the Company or its ability to consummate the transactions\ncontemplated by this Agreement.",
+    "id": "ContentTextElement_797",
+    "parent_id": "SectionElement_729",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(i) No Other Representations and Warranties; Non-Reliance. Except for the specific\nrepresentations and warranties contained in this Section 3 and in any certificate or agreement delivered pursuant hereto, none of the Company Parties has made, makes or shall be deemed to make any other express or implied representation or\nwarranty with respect to the Company, this offering, the proposed IPO or a potential Business Combination, and the Company Parties disclaim any such representation or warranty. Except for the specific representations and warranties expressly\nmade by the Purchaser in Section 2 of this Agreement and in any certificate or agreement delivered pursuant hereto, the Company Parties specifically disclaim that they are relying upon any other representations or warranties that may have been\nmade by the Purchaser Parties.",
+    "id": "ContentTextElement_798",
+    "parent_id": "ClauseElement_764",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(i) The Company shall, notwithstanding any termination of this Agreement, indemnify, defend and hold harmless the Purchaser (to the extent a\nseller under the Forward Registration Statement), the officers, directors, agents, partners, members, managers, stockholders, affiliates, employees and investment advisers of the Purchaser, each person who controls the Purchaser (within the meaning\nof Section 15 of the Securities Act or Section 20 of the Securities Exchange Act of 1934, as amended (the Exchange Act)), and the officers, directors, partners, members, managers, stockholders, agents, affiliates,\nemployees and investment advisers of each such controlling person, to the fullest extent permitted by applicable law, from and against any and all losses, claims, damages, liabilities, costs (including, without limitation, reasonable costs of\npreparation and investigation and reasonable attorneys fees) and expenses (collectively, Losses), as incurred, that arise out of or are based upon (i) any untrue or alleged untrue statement of a material fact contained\nin the Forward Registration Statement, any prospectus included in the Forward Registration Statement or any form of prospectus or in any amendment or supplement thereto or in any preliminary prospectus, or arising out of or relating to any omission\nor alleged omission to state a material fact required to be stated therein or necessary to make the statements therein (in the case of any prospectus or form of prospectus or supplement thereto, in light of the circumstances under which they were\nmade) not misleading, or (ii) any violation or alleged violation by the Company of the Securities Act, the Exchange Act or any state securities law or any rule or regulation thereunder, in connection with the performance of its obligations\nunder this Section 4, except to the extent, but only to the extent, that such untrue statements, alleged untrue statements, omissions or alleged omissions are based solely upon information regarding the Purchaser furnished in writing to the\nCompany by the Purchaser expressly for use therein. The Company shall notify the Purchaser promptly of the institution, threat or assertion of any proceeding arising from or in connection with the transactions contemplated by this\nSection 4 of which the Company is aware. Such indemnity shall remain in full force and effect regardless of any investigation made by or on behalf of an indemnified party and shall survive the transfer of the Registrable Securities by the\nCompany.",
+    "id": "ContentTextElement_799",
+    "parent_id": "SectionElement_730",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(ii) The Purchaser shall, severally and not jointly with any other selling stockholder named in\nthe Forward Registration Statement, indemnify and hold harmless the Company, its directors, officers, agents and employees, each person who controls the Company (within the meaning of Section 15 of the Securities Act and Section 20 of the\nExchange Act), and the directors, officers, agents or employees of such controlling persons, to the fullest extent permitted by applicable law, from and against all Losses, as incurred, arising out of or that are based upon any untrue or alleged\nuntrue statement of a material fact contained in the Forward Registration Statement, any prospectus included in the Forward Registration Statement, or any form of prospectus, or in any amendment or supplement thereto or in any preliminary\nprospectus, or arising out of or relating to any omission or alleged omission of a material fact required to be stated therein or necessary to make the statements therein (in the case of any prospectus, or any form of prospectus or supplement\nthereto, in light of the circumstances under which they were made) not misleading to the extent, but only to the extent, that such untrue statements or omissions are based solely upon information regarding the Purchaser furnished in writing to the\nCompany by the Purchaser expressly for use therein. In no event shall the liability of the Purchaser be greater in amount than the dollar amount of the net proceeds received by the Purchaser upon the sale of the Registrable Securities giving\nrise to such indemnification obligation.",
+    "id": "ContentTextElement_800",
+    "parent_id": "SectionElement_730",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(i) the applicable Transferee shall execute a signature page to this\nAgreement, substantially in the form of the Purchasers signature page hereto (the Joinder Agreement), which shall reflect the number of Forward Purchase Shares to be purchased by such Transferee (the Transferee\nSecurities), and, upon such execution, such Transferee shall have all the same rights and obligations of the Purchaser hereunder with respect to the Transferee Securities, and references herein to the Purchaser shall be\ndeemed to refer to and include any such Transferee with respect to such Transferee and to its Transferee Securities; provided, that any representations, warranties, covenants and agreements of the Purchaser and any such Transferee shall\nbe several and not joint and shall be made as to the Purchaser or any such Transferee, as applicable, as to itself only; and",
+    "id": "ContentTextElement_801",
+    "parent_id": "SectionElement_730",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(ii) upon a\nTransferees execution and delivery of a Joinder Agreement, the number of Forward Purchase Shares to be purchased by the Purchaser hereunder shall be reduced by the total number of Forward Purchase Shares to be purchased by the applicable\nTransferee pursuant to the applicable Joinder Agreement, which reduction shall be evidenced by the Purchaser and the Company amending Schedule A to this Agreement to reflect each transfer and updating the Number of Forward Purchase\nShares, and Aggregate Purchase Price for Forward Purchase Shares on the Purchasers signature page hereto to reflect such reduced number of Forward Purchase Shares, and the Purchaser shall be fully and unconditionally\nreleased from its obligation to purchase such Transferee Securities hereunder. For the avoidance of doubt, this Agreement need not be amended and restated in its entirety, but only Schedule A and the Purchasers signature page hereto\nneed be so amended and updated and executed by each of the Purchaser and the Company upon the occurrence of any such transfer of Transferee Securities.",
+    "id": "ContentTextElement_802",
+    "parent_id": "SectionElement_730",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(i)\nThe Purchaser hereby acknowledges that it is aware that the Company will establish the Trust Account for the benefit of its public stockholders upon the IPO Closing. The Purchaser, for itself and its affiliates, hereby agrees that it has no\nright, title, interest or claim of any kind in or to any monies held in the Trust Account, or any other asset of the Company as a result of any liquidation of the Company, except for redemption and liquidation rights, if any, the Purchaser may have\nin respect of any Public Shares held by it.",
+    "id": "ContentTextElement_803",
+    "parent_id": "SectionElement_731",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "and liquidation rights, if any, the Purchaser may have in respect of any Public Shares held by it. In the event the Purchaser has any Claim against the Company under this Agreement, the\nPurchaser shall pursue such Claim solely against the Company and its assets outside the Trust Account and not against the property or any monies in the Trust Account, except for redemption and liquidation rights, if any, the Purchaser may have in\nrespect of any Public Shares held by it.",
+    "id": "ContentTextElement_804",
+    "parent_id": "SectionElement_731",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c) No Short Sales. The Purchaser hereby agrees that neither it, nor any person or entity acting on its behalf or pursuant to any\nunderstanding with it, will engage in any Short Sales with respect to securities of the Company prior to the Business Combination Closing. For purposes of this Section, Short Sales shall include, without limitation, all\nshort sales as defined in Rule 200 promulgated under Regulation SHO under the Exchange Act, and all types of direct and indirect stock pledges (other than pledges in the ordinary course of business as part of prime brokerage\narrangements), forward sale contracts, options, puts, calls, swaps and similar arrangements (including on a total return basis), and sales and other transactions through non-U.S. broker dealers or foreign\nregulated brokers.",
+    "id": "ContentTextElement_805",
+    "parent_id": "SectionElement_731",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_765"
+    ],
+    "text": "(iii) The representations and warranties of the Company set forth in Section 3 of this Agreement shall have been true and correct as\nof the date hereof and shall be true and correct as of the Forward Closing Date, as applicable, with the same effect as though such representations and warranties had been made on and as of such date (other than any such representation or warranty\nthat is made by its terms as of a specified date, which shall be true and correct as of such specified date), except where the failure to be so true and correct would not have a material adverse effect on the Company or its ability to consummate the\ntransactions contemplated by this Agreement;",
+    "id": "ContentTextElement_806",
+    "parent_id": "SectionElement_733",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(ii) The representations and warranties of the Purchaser set forth in Section 2 of this\nAgreement shall have been true and correct as of the date hereof and shall be true and correct as of the Forward Closing Date, as applicable, with the same effect as though such representations and warranties had been made on and as of such date\n(other than any such representation or warranty that is made by its terms as of a specified date, which shall be true and correct as of such specified date), except where the failure to be so true and correct would not have a material adverse effect\non the Purchaser or its ability to consummate the transactions contemplated by this Agreement;",
+    "id": "ContentTextElement_807",
+    "parent_id": "ClauseElement_766",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "In the event of any termination of this Agreement\npursuant to this Section 8, the Forward Purchase Price (and interest thereon, if any), if previously paid, and all Purchasers funds paid in connection herewith shall be promptly returned to the Purchaser, and thereafter this Agreement\nshall forthwith become null and void and have no effect, without any liability on the part of the Purchaser or the Company and their respective directors, officers, employees, partners, managers, members, or stockholders and all rights and\nobligations of each party shall cease; provided, however, that nothing contained in this Section 8 shall relieve either party from liabilities or damages arising out of any fraud or willful breach by such party of any of its\nrepresentations, warranties, covenants or agreements contained in this Agreement.",
+    "id": "ContentTextElement_808",
+    "parent_id": "SectionElement_734",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(a) Notices. All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed\neffectively given upon the earlier of actual receipt, or (a) personal delivery to the party to be notified, (b) when sent, if sent by electronic mail or facsimile (if any) during normal business hours of the recipient, and if not sent\nduring normal business hours, then on the recipients next Business Day, (c) five (5) Business Days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) Business\nDay after deposit with a nationally recognized overnight courier, freight prepaid, specifying next Business Day delivery, with written verification of receipt. All communications sent to the Company shall be sent to: Far Point Acquisition\nCorporation, 390 Park Avenue, New York, NY 10022. Attention: David W. Bonanno, with a copy to the Companys counsel at Ellenoff Grossman & Schole LLP, 1345 Avenue of the Americas, New York, New York, 10105, Attention: Douglas Ellenoff\nand Stuart Neuhauser.",
+    "id": "ContentTextElement_809",
+    "parent_id": "SectionElement_735",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "All communications to the Purchaser shall be sent to the Purchasers address as set forth on\nthe signature page hereof, or to such e-mail address, facsimile number (if any) or address as subsequently modified by written notice given in accordance with this",
+    "id": "ContentTextElement_810",
+    "parent_id": "SectionElement_735",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b) No Finders\nFees. Each party represents that it neither is nor will be obligated for any finders fee or commission in connection with this transaction. The Purchaser agrees to indemnify and to hold harmless the Company from any liability for\nany commission or compensation in the nature of a finders or brokers fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which the Purchaser or any of its\nofficers, employees or representatives is responsible. The Company agrees to indemnify and hold harmless the Purchaser from any liability for any commission or compensation in the nature of a finders or brokers fee arising out of\nthis transaction (and the costs and expenses of defending against such liability or asserted liability) for which the Company or any of its officers, employees or representatives is responsible.",
+    "id": "ContentTextElement_811",
+    "parent_id": "SectionElement_735",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(e)\nSuccessors. All of the terms, agreements, covenants, representations, warranties, and conditions of this Agreement are binding upon, and inure to the benefit of and are enforceable by, the parties hereto and their respective\nsuccessors. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations or liabilities under or by reason of this\nAgreement, except as expressly provided in this Agreement.",
+    "id": "ContentTextElement_812",
+    "parent_id": "ClauseElement_767",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(g) Counterparts. This Agreement may be executed in two or more counterparts, each of which will be deemed an original but all of\nwhich together will constitute one and the same instrument.",
+    "id": "ContentTextElement_813",
+    "parent_id": "ClauseElement_767",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(h) Headings. The section headings contained in this Agreement\nare inserted for convenience only and will not affect in any way the meaning or interpretation of this Agreement.",
+    "id": "ContentTextElement_814",
+    "parent_id": "ClauseElement_767",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(j) Jurisdiction. The\nparties (i) hereby irrevocably and unconditionally submit to the jurisdiction of the state courts of New York and to the jurisdiction of the United States District Court for the Southern District of New York for the purpose of any suit, action\nor other proceeding arising out of or based upon this Agreement, (b) agree not to commence any suit, action or other proceeding arising out of or based upon this Agreement except in state courts of New York or the United States District Court\nfor the Southern District of New York, and (c) hereby waive, and agree not to assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject personally to the jurisdiction of the\nabove-named courts, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that this Agreement or\nthe subject matter hereof may not be enforced in or by such court.",
+    "id": "ContentTextElement_815",
+    "parent_id": "ClauseElement_767",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(k) Waiver of Jury Trial. The parties hereto hereby waive\nany right to a jury trial in connection with any litigation pursuant to this Agreement and the transactions contemplated hereby.",
+    "id": "ContentTextElement_816",
+    "parent_id": "ClauseElement_767",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(m) Severability. The\nprovisions of this Agreement will be deemed severable and the invalidity or unenforceability of any provision will not affect the validity or enforceability of the other provisions hereof; provided that if any provision of this\nAgreement, as applied to any party hereto or to any circumstance, is adjudged by a governmental authority, arbitrator, or mediator not to be enforceable in accordance with its terms, the parties hereto agree that the governmental authority,\narbitrator, or mediator making such determination will have the power to modify the provision in a manner consistent with its objectives such that it is enforceable, and/or to delete specific words or phrases, and in its reduced form, such provision\nwill then be enforceable and will be enforced.",
+    "id": "ContentTextElement_817",
+    "parent_id": "ClauseElement_767",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(n) Expenses. Each of the Company and the Purchaser will bear its own costs\nand expenses incurred in connection with the preparation, execution and performance of this Agreement and the consummation of the transactions contemplated hereby, including all fees and expenses of agents, representatives, financial advisors, legal\ncounsel and accountants. The Company shall be responsible for the fees of its transfer agent, stamp taxes and all The Depository Trust Company fees associated with the issuance of the Forward Purchase Shares.",
+    "id": "ContentTextElement_818",
+    "parent_id": "ClauseElement_767",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(o) Construction. The parties hereto have participated jointly in the negotiation and drafting of this Agreement. If an\nambiguity or question of intent or interpretation arises, this Agreement will be construed as if drafted jointly by the parties hereto and no presumption or burden of proof will arise favoring or disfavoring any party hereto because of the\nauthorship of any provision of this Agreement. Any reference to any federal, state, local, or foreign law will be deemed also to refer to law as amended and all rules and regulations promulgated thereunder, unless the context requires\notherwise. The words include, includes, and including will be deemed to be followed by without limitation. Pronouns in masculine, feminine, and neuter genders will\nbe construed to include any other gender, and words in the singular form will be construed to include the plural and vice versa, unless the context otherwise requires. The words this Agreement, herein,\nhereof, hereby, hereunder, and words of similar import refer to this Agreement as a whole and not to any particular subdivision unless expressly so limited. The parties hereto intend that\neach representation, warranty, and covenant contained herein will have independent significance. If any party hereto has breached any representation, warranty, or covenant contained herein in any respect, the fact that there exists another\nrepresentation, warranty or covenant relating to the same subject matter (regardless of the relative levels of specificity) which such party hereto has not breached will not detract from or mitigate the fact that such party hereto is in breach of\nthe first representation, warranty, or covenant.",
+    "id": "ContentTextElement_819",
+    "parent_id": "ClauseElement_767",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(p) Waiver. No waiver by any party hereto of any default, misrepresentation,\nor breach of warranty or covenant hereunder, whether intentional or not, may be deemed to extend to any prior or subsequent default, misrepresentation, or breach of warranty or covenant hereunder or affect in any way any rights arising because of\nany prior or subsequent occurrence.",
+    "id": "ContentTextElement_820",
+    "parent_id": "ClauseElement_767",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "IN WITNESS WHEREOF, the undersigned have executed this Agreement to be effective as of the\ndate first set forth above.",
+    "id": "ContentTextElement_821",
+    "parent_id": "ClauseElement_768",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Address for      Notices:\n \n 390 Park Avenue\nNew York, NY 10022",
+    "id": "ContentTextElement_822",
+    "parent_id": "ClauseElement_768",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "By:\n \n /s/ David Bonanno\n\n\n \nName: David Bonanno\n\n\n \nTitle: Chief Financial Officer",
+    "id": "ContentTextElement_823",
+    "parent_id": "HeadingElement_782",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "TO BE EXECUTED UPON ANY ASSIGNMENT AND/OR REVISION IN ACCORDANCE WITH THIS AGREEMENT TO NUMBER OF\nFORWARD PURCHASE SHARES AND PURCHASE PRICE FOR FORWARD PURCHASE SHARES SET FORTH ABOVE:",
+    "id": "ContentTextElement_824",
+    "parent_id": "HeadingElement_782",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Number of Forward Purchase Shares and\nPurchase Price for Forward Purchase Shares as of         , 201[    ], accepted and agreed to as of this      day of         ,\n201[    ].",
+    "id": "ContentTextElement_825",
+    "parent_id": "HeadingElement_782",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "The following transfers of a portion of the original number of Forward Purchase Shares have been made:",
+    "id": "ContentTextElement_826",
+    "parent_id": "HeadingElement_782",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Date ofTransfer\n  \n Transferee\n  \n\nNumber ofForwardPurchaseSharesTransferred\n  \n\nPurchaserRevisedForwardPurchaseShareAmount",
+    "id": "ContentTextElement_827",
+    "parent_id": "HeadingElement_782",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "By:\n \n  \n  \nBy:\n \n  \n\n\n \nName:\n  \n\n \nName:\n\n\n \nTitle:\n  \n\n \nTitle:",
+    "id": "ContentTextElement_828",
+    "parent_id": "HeadingElement_782",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "1.\nWithin thirty (30) days after the Business Combination Closing, the Company shall use commercially reasonable efforts (i) to file a registration statement on Form S-3 for a secondary offering\n(including any successor registration statement covering the resale of the Registrable Securities a Forward Registration Statement) of (x) the Forward Purchase Shares and (y) any other equity security of the Company\nissued or issuable with respect to the securities referred to in clause (x) by way of a stock dividend or stock split or in connection with a combination of shares, recapitalization, merger, consolidation or reorganization (collectively, the\nRegistrable Securities) pursuant to Rule 415 under the Securities Act; provided that if Form S-3 is unavailable for such a registration, the Company shall register the resale of the\nRegistrable Securities on another appropriate form and undertake to register the Registrable Securities on Form S-3 as soon as such form is available, (ii) to cause the Forward Registration Statement to\nbe declared effective under the Securities Act promptly thereafter, but in no event later than sixty (60) days thereafter, and (iii) to maintain the effectiveness of such Forward Registration Statement with respect to the Purchasers\nRegistrable Securities until the earlier of (A) the date on which the Purchaser ceases to hold Registrable Securities covered by such Forward Registration Statement and (B) the date all of the Purchasers Registrable Securities\ncovered by the Forward Registration Statement can be sold publicly without restriction or limitation under Rule 144 under the Securities Act and without the requirement to be in compliance with Rule 144(c)(1) under the Securities Act.",
+    "id": "ContentTextElement_829",
+    "parent_id": "HeadingElement_783",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "2. In the event the Company is prohibited by applicable rule, regulation or interpretation by the staff (Staff) of the\nSecurities and Exchange Commission (SEC) from registering all of the Registrable Securities on a Forward Registration Statement or the Staff requires that the Purchaser be specifically identified as an underwriter in\norder to permit such registration statement to become effective, and such Purchaser does not consent in writing to being so named as an underwriter in such registration statement, the number of Registrable Securities to be registered on such Forward\nRegistration Statement will be reduced on a pro rata basis among all the holders of Registrable Securities to be so included, unless otherwise required by the Staff, so that the number of Registrable Securities to be registered is permitted by the\nStaff and such Purchaser is not required to be named as an underwriter; provided, that any Registrable Securities not registered due to this paragraph 2 of this Exhibit A shall thereafter as soon as allowed by the SEC\nguidance be registered to the extent the prohibition no longer is applicable.",
+    "id": "ContentTextElement_830",
+    "parent_id": "HeadingElement_783",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "3. If at any time the Company proposes to file a\nregistration statement (a Registration Statement) on its own behalf, or on behalf of any other Persons who have registration rights (Other Holders), relating to an underwritten offering of ordinary shares, or\nengage in an Underwritten Takedown off an existing registration statement (a Company Offering), then the Company will provide the Purchaser and any Transferee who has purchased at least 2,000,000 Forward Purchase Shares\n(collectively, the Piggyback Holders) with notice in writing (an Offer Notice) at least five (5) Business Days prior to such filing, which Offer Notice will offer to include in the Registration Statement a\nminimum of 1,000,000 Registrable Securities of the Purchaser (collectively Piggyback Securities). Within five (5) Business Days (or, in the case of an Offer Notice delivered to the Piggyback Holders in connection with an\nUnderwritten Takedown, within three (3) Business Days) after receiving the Offer Notice, the Piggyback Holders may make a written request (a Piggyback Request) to the Company to include some or all of the Piggyback\nHolders Registrable Securities in the Registration Statement. If the underwriter(s) for any Company Offering advise the Company that marketing factors require a limitation on the number of securities that may be included in the Company\nOffering: (A) if the Registration Statement relating to the Company Offering is to be filed on behalf of the Company then the number of securities to be so included shall be allocated as follows (i) first, to the Company; and\n(ii) second, to the Piggyback Holders and holders of Class A Shares or other equity securities of the Company or other persons or entities that the Company is obligated to register in a Registration pursuant to separate written contractual\narrangements with such persons (pro rata based on the respective number of Registrable Securities held by such person prior to the applicable Company Offering); and (B) if the Registration Statement relating to the Company Offering is to be\nfiled on behalf of Other Holders then the number of securities to be so included shall be allocated as follows: (i) first to such Other Holders; (ii) second, to the Piggyback Holders and holders of Class A Shares or other equity\nsecurities of the Company other persons or entities that the Company is obligated to register in a Registration pursuant to separate written contractual arrangements with such persons (pro rata based on the respective number of Registrable\nSecurities held by such person prior to the applicable Company Offering); and (iii) third, to the Company. Notwithstanding anything to the contrary in this paragraph 3, the Company hereby agrees that it will not provide an Offer Notice to any\nPiggyback Holder unless such Piggyback Holder agrees in writing to treat the contents of such Offer Notice as material non-public information.",
+    "id": "ContentTextElement_831",
+    "parent_id": "HeadingElement_783",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "4. Within three (3) Business Days after receiving notice from the Sponsor of its request to\neffect an underwritten public offering pursuant to the Sponsors registration rights (an Underwritten Takedown), the Company shall provide written notice thereof to the Purchaser. Within five (5) Business Days after\nreceiving notice of the Underwritten Takedown, the Purchaser may make a written request to the Company to include some or all of Purchasers Registrable Securities in the prospectus supplement relating to the Underwritten Takedown (the\nUnderwritten Takedown Prospectus), and subject to the following sentence, the Company shall include such Registrable Securities and the securities requested by the Purchaser and any Transferee, other than the Sponsor, who\npurchased at least 2,000,000 Forward Purchase Shares and proposes to sell at least 1,000,000 Registrable Securities in the Underwritten Takedown (each, a Requesting Holder) to be included in the Underwritten Takedown\n(Requesting Holder Securities) in the Underwritten Takedown Prospectus. If the underwriter(s) for any Underwritten Takedown advise the Company that marketing factors require a limitation on the number of securities that may be\nincluded in the Underwritten Takedown Prospectus, the number of securities to be so included shall be allocated as follows: (i) first, to the Sponsor; (ii) second, to the Requesting Holders (pro rata based on the respective number of\nRegistrable Securities held by the Requesting Holders prior to such Underwritten Takedown); and (iii) third, to the Company. If Purchaser is eligible and includes Registrable Securities in an Underwritten Takedown, it shall not have the ability\nto withdraw such Registrable Securities from such offering without the consent of the Sponsor, it being understood that the terms of the offering may not be known at the time of notice of such Underwritten Takedown and that the Sponsor shall have\nthe sole discretion to approve such terms (and Purchaser shall not have the right to make any determinations other than whether they wish to include their Registrable Securities in the prospectus supplement). In this regard, by electing to include\nsecurities on such offering, Purchaser agrees to cooperate with the Company and the Sponsor in furtherance of such offering, including entering into such customary agreements and take all such actions (including supplying all reasonably requested\ninformation) within 48 hours of a reasonable request by the Company, underwriters or the Sponsor.",
+    "id": "ContentTextElement_832",
+    "parent_id": "HeadingElement_783",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "5. The determination of whether any\noffering of Registrable Securities pursuant to a Forward Registration Statement or an Underwritten Takedown Prospectus will be an underwritten offering shall be made in the sole discretion of the Sponsor, after consultation with the Company, and the\nSponsor shall have the right, after consultation with the Company, to determine the plan of distribution, including the price at which the Registrable Securities are to be sold and the underwriting commissions, discounts and fees (and the Piggyback\nHolders or Requesting Holders (as applicable) shall not have the right to make any determinations other than whether it wishes to include its Requesting Holder Securities in the prospectus supplement). The Sponsor shall select the investment banker\nor bankers and managers to administer the offering, including the lead managing underwriter (provided that such investment banker or bankers and managers shall be reasonably satisfactory to the Company).",
+    "id": "ContentTextElement_833",
+    "parent_id": "HeadingElement_783",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "6. In connection with any underwritten offering, the Company shall enter into such customary agreements and take all such other actions in\nconnection therewith (including those requested by the Purchaser) in order to facilitate the disposition of such Registrable Securities as are reasonably necessary or required, and in such connection enter into a customary underwriting agreement\nthat provides for customary opinions, comfort letters and officers certificates and other customary deliverables.",
+    "id": "ContentTextElement_834",
+    "parent_id": "HeadingElement_783",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "8. The Company may suspend the use of a prospectus included in a Forward Registration Statement\nby furnishing to the Purchaser a written notice (Suspension Notice) stating that in the good faith judgment of the Company, it would be either (i) prohibited by the Companys insider trading policy (as if the Purchaser\nwere covered by such policy) or (ii) materially detrimental to the Company and its stockholders for such prospectus to be used at such time. The Companys right to suspend the use of such prospectus under clause (ii) of the preceding\nsentence may be exercised for a period of not more than sixty (60) days after the date of such notice to the Purchaser; provided such period may be extended for an additional thirty (30) days with the consent of a majority-in-interest of the holders of Registrable Securities covered by such Forward Registration Statement, which consent shall not be unreasonably withheld; provided\nfurther, that such right to suspend the use of a prospectus shall be exercised by the Company not more than once in any twelve (12) month period. A holder of Registrable Securities shall not effect any sales of Registrable Securities pursuant\nto a Forward Registration Statement at any time after it has received a Suspension Notice from the Company and prior to receipt of an End of Suspension Notice (as defined below). The holders may recommence effecting sales of the Registrable\nSecurities pursuant to such Forward Registration Statement following further written notice to such effect (an End of Suspension Notice) from the Company to the holders. The Company shall act in good faith to permit any suspension\nperiod contemplated by this paragraph to be concluded as promptly as reasonably practicable.",
+    "id": "ContentTextElement_835",
+    "parent_id": "DefinitionElement_779",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "9. The Purchaser agrees that, except as\nrequired by applicable law, the Purchaser shall treat as confidential the receipt of any Suspension Notice (provided that in no event shall such notice contain any material nonpublic information of the Company) hereunder and shall not disclose or\nuse the information contained in such Suspension Notice without the prior written consent of the Company until such time as the information contained therein is or becomes public, other than as a result of disclosure by a holder of Registrable\nSecurities in breach of the terms of this Agreement.",
+    "id": "ContentTextElement_836",
+    "parent_id": "DefinitionElement_779",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_835",
+      "ContentTextElement_836"
+    ],
+    "text": "7. The Company\nshall pay all fees and expenses incident to the performance of or compliance with its obligation to prepare, file and maintain each Forward Registration Statement (including the fees of its counsel and accountants). The Company shall also pay all\nRegistration Expenses. For purposes of this paragraph 7, Registration Expenses shall mean the out-of-pocket expenses of a Company Offering or\nUnderwritten Shelf Takedown, including, without limitation, the following: (i) all registration and filing fees (including fees with respect to filings required to be made with FINRA) and any securities exchange on which the Registrable\nSecurities are then listed; (ii) fees and expenses of compliance with securities or blue sky laws (including reasonable fees and disbursements of counsel for the underwriters in connection with blue sky qualifications of the Registrable\nSecurities); (iii) printing, messenger, telephone and delivery expenses; (iv) reasonable fees and disbursements of counsel for the Company; (v) reasonable fees and disbursements of all independent registered public accountants of the\nCompany incurred specifically in connection with such Underwritten Shelf Takedown; and (vi) reasonable fees and expenses of one legal counsel selected by the Sponsors who will represent all the selling shareholders, and who may also serve as\ncounsel to the Sponsors or the Company or both.",
+    "id": "DefinitionElement_779",
+    "parent_id": "HeadingElement_783",
+    "cls": "DefinitionElement",
+    "term": "shall",
+    "definition": "the out-of-pocket expenses of a Company Offering or"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Recitals",
+    "id": "HeadingElement_780",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "HeadingElement",
+    "heading_text": "Recitals"
+  },
+  {
+    "level": 1,
+    "children": [],
+    "text": "COMPANY:",
+    "id": "HeadingElement_781",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "HeadingElement",
+    "heading_text": "COMPANY:"
+  },
+  {
+    "level": 1,
+    "children": [
+      "ContentTextElement_823",
+      "ContentTextElement_824",
+      "ContentTextElement_825",
+      "ContentTextElement_826",
+      "ContentTextElement_827",
+      "ContentTextElement_828"
+    ],
+    "text": "FAR POINT ACQUISITION CORPORATION",
+    "id": "HeadingElement_782",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "HeadingElement",
+    "heading_text": "FAR POINT ACQUISITION CORPORATION"
+  },
+  {
+    "level": 1,
+    "children": [
+      "ContentTextElement_829",
+      "ContentTextElement_830",
+      "ContentTextElement_831",
+      "ContentTextElement_832",
+      "ContentTextElement_833",
+      "ContentTextElement_834",
+      "DefinitionElement_779",
+      "SectionElement_746",
+      "SectionElement_747",
+      "SectionElement_748",
+      "SectionElement_749",
+      "SectionElement_750"
+    ],
+    "text": "REGISTRATION RIGHTS",
+    "id": "HeadingElement_783",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "HeadingElement",
+    "heading_text": "REGISTRATION RIGHTS"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "This Forward Purchase Agreement (this Agreement) is entered into as of May 18, 2018, between Far Point Acquisition\nCorporation, a Delaware corporation (the Company), and Cloudbreak Aggregator LP, a Cayman Islands exempted limited partnership (the Purchaser).",
+    "id": "PartyElement_770",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "PartyElement",
+    "party_name": "Far Point Acquisition\nCorporation",
+    "party_type": "Delaware corporation (the Company)"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS,\nthe Company was formed for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization or similar business combination with one or more businesses (a Business Combination);",
+    "id": "RecitalElement_771",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, the Company intends to file with the U.S. Securities and Exchange Commission (the SEC) a registration statement on\nForm S-1 (the Registration Statement) for its initial public offering (IPO) of 40,000,000 units (or 46,000,000 units if the IPO over-allotment option (the\nIPO Option) is exercised in full) (the Public Units), at a price of $10.00 per Public Unit, each Public Unit comprised of one share of the Companys Class A common stock, par value $0.0001 per share\n(the Class A Shares, and the Class A Shares included in the Public Units, the Public Shares), and one-third of one redeemable warrant, where each\nwhole redeemable warrant is exercisable to purchase one Class A Share at an exercise price of $11.50 per share (the Warrants, and the Warrants included in the Public Units, the Public Warrants);",
+    "id": "RecitalElement_772",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, following the closing of the IPO (the IPO Closing), the Company will seek to identify and consummate a Business\nCombination;",
+    "id": "RecitalElement_773",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, the parties wish to enter into this Agreement, pursuant to which immediately prior to the closing of the\nCompanys initial Business Combination (the Business Combination Closing), the Company shall issue and sell to the Purchaser, and the Purchaser shall purchase from the Company, on a private placement basis, the number of\nForward Purchase Shares (as defined below) determined pursuant to Section 1(a)(ii) on the terms and conditions set forth herein;",
+    "id": "RecitalElement_774",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, the Companys Class B common stock, par value $0.0001 per share (the Class B Shares),\nare convertible into Class A Shares on the terms and conditions set forth in the Companys certificate of incorporation, as it may be amended from time to time (the Charter);",
+    "id": "RecitalElement_775",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, in connection with the IPO, the Sponsor will purchase an aggregate of 6,700,000 warrants (or 7,500,000 warrants if the IPO Option is\nexercised in full) at a price of $1.50 per warrant, in a private placement that will close simultaneously with the IPO Closing (the Private Placement Warrants), each Private Placement Warrant exercisable for one Class A Share\nat $11.50 per share; and",
+    "id": "RecitalElement_776",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, proceeds from the IPO and the sale of the Private Placement Warrants in an aggregate amount equal to the\ngross proceeds from the IPO will be deposited into a trust account for the benefit of the holders of the Public Shares (the Trust Account), as described in the Registration Statement.",
+    "id": "RecitalElement_777",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "NOW, THEREFORE, in consideration of the premises, representations, warranties and the mutual\ncovenants contained in this Agreement, and for other good and valuable consideration, the receipt, sufficiency and adequacy of which are hereby acknowledged, the parties hereto agree as follows:",
+    "id": "RecitalElement_778",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ClauseElement_751",
+      "ClauseElement_752",
+      "ClauseElement_753"
+    ],
+    "text": "1.\nSale and Purchase.",
+    "id": "SectionElement_727",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "SectionElement",
+    "section_number": "1",
+    "section_title": "Sale and Purchase."
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_788",
+      "ClauseElement_754",
+      "ClauseElement_755",
+      "ClauseElement_756",
+      "ClauseElement_757",
+      "ClauseElement_758",
+      "ClauseElement_759",
+      "ClauseElement_760",
+      "ClauseElement_761"
+    ],
+    "text": "2. Representations and Warranties of the Purchaser. The Purchaser represents and warrants to the Company as follows, as\nof the date hereof:",
+    "id": "SectionElement_728",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "SectionElement",
+    "section_number": "2",
+    "section_title": "Representations and Warranties of the Purchaser. The Purchaser represents and warrants to the Company as follows, as"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ClauseElement_762",
+      "ClauseElement_763",
+      "ContentTextElement_793",
+      "ContentTextElement_794",
+      "ContentTextElement_795",
+      "ContentTextElement_796",
+      "ContentTextElement_797",
+      "ClauseElement_764"
+    ],
+    "text": "3. Representations and Warranties of the Company. The Company represents and warrants to the\nPurchaser as follows:",
+    "id": "SectionElement_729",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "SectionElement",
+    "section_number": "3",
+    "section_title": "Representations and Warranties of the Company. The Company represents and warrants to the"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_799",
+      "ContentTextElement_800",
+      "ContentTextElement_801",
+      "ContentTextElement_802"
+    ],
+    "text": "4. Registration Rights; Transfer",
+    "id": "SectionElement_730",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "SectionElement",
+    "section_number": "4",
+    "section_title": "Registration Rights; Transfer"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_803",
+      "ContentTextElement_804",
+      "ContentTextElement_805"
+    ],
+    "text": "5. Additional Agreements and Acknowledgements of the Purchaser.",
+    "id": "SectionElement_731",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "SectionElement",
+    "section_number": "5",
+    "section_title": "Additional Agreements and Acknowledgements of the Purchaser."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "6. Listing. The Company will use commercially reasonable efforts to effect and maintain the listing of the\nClass A Shares and Public Warrants on the New York Stock Exchange (or another national securities exchange).",
+    "id": "SectionElement_732",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "SectionElement",
+    "section_number": "6",
+    "section_title": "Listing. The Company will use commercially reasonable efforts to effect and maintain the listing of the"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_806",
+      "ClauseElement_766"
+    ],
+    "text": "7. Forward Closing\nConditions.",
+    "id": "SectionElement_733",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "SectionElement",
+    "section_number": "7",
+    "section_title": "Forward Closing"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_808"
+    ],
+    "text": "8. Termination. This Agreement may be terminated at any time prior to the Forward Closing:",
+    "id": "SectionElement_734",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "SectionElement",
+    "section_number": "8",
+    "section_title": "Termination. This Agreement may be terminated at any time prior to the Forward Closing:"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_809",
+      "ContentTextElement_810",
+      "ContentTextElement_811",
+      "ClauseElement_767",
+      "ClauseElement_768"
+    ],
+    "text": "9. General Provisions.",
+    "id": "SectionElement_735",
+    "parent_id": "AgreementTitleElement_769",
+    "cls": "SectionElement",
+    "section_number": "9",
+    "section_title": "General Provisions."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "10. The Companys obligation under paragraph 1 of this Exhibit A is subject to\nthe Purchasers furnishing to the Company in writing such information as the Company reasonably requests for use in connection with a Forward Registration Statement, the related prospectus, or any amendment or supplement thereto.",
+    "id": "SectionElement_746",
+    "parent_id": "HeadingElement_783",
+    "cls": "SectionElement",
+    "section_number": "10",
+    "section_title": "The Companys obligation under paragraph 1 of this Exhibit A is subject to"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "12. The Company shall cooperate with the Purchaser, to the extent the Registrable Securities become freely tradable, to facilitate the timely\npreparation and delivery of certificates (not bearing any restrictive legend) representing the Registrable Securities to be offered pursuant to a Forward Registration Statement and enable such certificates to be in such denominations or amounts, as\nthe case may be, as the Purchaser may reasonably request and registered in such names as the Purchaser may request.",
+    "id": "SectionElement_747",
+    "parent_id": "HeadingElement_783",
+    "cls": "SectionElement",
+    "section_number": "12",
+    "section_title": "The Company shall cooperate with the Purchaser, to the extent the Registrable Securities become freely tradable, to facilitate the timely"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "13. If requested by\nthe Purchaser, the Company shall as soon as practicable, subject to any Suspension Notice, (i) incorporate in a prospectus supplement or post-effective amendment such information as the Purchaser reasonably requests to be included therein\nrelating to the sale and distribution of Registrable Securities, including, without limitation, information with respect to the number of Registrable Securities being offered or sold, the purchase price being paid therefor and any other terms of the\noffering of the Registrable Securities to be sold in such offering; (ii) make all required filings of such prospectus supplement or post-effective amendment after being notified of the matters to be incorporated in such prospectus supplement or\npost-effective amendment; and (iii) supplement or make amendments to any Registration Statement if reasonably requested by the Purchaser holding any Registrable Securities.",
+    "id": "SectionElement_748",
+    "parent_id": "HeadingElement_783",
+    "cls": "SectionElement",
+    "section_number": "13",
+    "section_title": "If requested by"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "14. As long as the Purchaser shall own Registrable Securities, the Company, at all times while it shall be reporting under the Securities\nExchange Act of 1934, as amended, covenants to file all reports required to be filed by the Company after the date hereof pursuant to Sections 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and to promptly furnish the Purchaser\nwith true and complete copies of all such filings, unless filed through the SECs EDGAR system. The Company further covenants that it shall take such further action as the Purchaser may reasonably request, all to the extent required from time\nto time, to enable the Purchaser to sell the Class A Shares and Warrants held by the Purchaser without registration under the Securities Act within the limitation of the exemptions provided by Rule 144 promulgated under the Securities Act,\nincluding providing any legal opinions. Upon the request of the Purchaser, the Company shall deliver to the Purchaser a written certification of a duly authorized officer as to whether it has complied with such requirements.",
+    "id": "SectionElement_749",
+    "parent_id": "HeadingElement_783",
+    "cls": "SectionElement",
+    "section_number": "14",
+    "section_title": "As long as the Purchaser shall own Registrable Securities, the Company, at all times while it shall be reporting under the Securities"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "15. The rights, duties and obligations of the Purchaser under this Exhibit A may be assigned or\ndelegated by the Purchaser in conjunction with and to the extent of any permitted transfer or assignment of Registrable Securities by the Purchaser to any permitted transferee or assignee.",
+    "id": "SectionElement_750",
+    "parent_id": "HeadingElement_783",
+    "cls": "SectionElement",
+    "section_number": "15",
+    "section_title": "The rights, duties and obligations of the Purchaser under this Exhibit A may be assigned or"
+  }
+]

@@ -1,0 +1,711 @@
+{
+  "agreement_info": {
+    "number": 10,
+    "filename": "agreement_10.html",
+    "total_elements": 61,
+    "element_types": {
+      "TextElement": 1,
+      "TableElement": 3,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 7,
+      "ContentTextElement": 21,
+      "HeadingElement": 7,
+      "SectionElement": 21
+    }
+  },
+  "elements": [
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "As of\nAugust 1, 2016"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "Pete\nRosen\n\n\n \n\n\n\n\n4735\nSepulveda Blvd., No. 313\n\n\n \n\n\n\n\nSherman\nOaks, CA 91403\n\n\n \n\n\n\n\nEmail:"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "Gary\nBowen\n\n\n\ncc:\n\n\n\nLeif\nReinstein, Esq.\n\n\n\n\n4735\nSepulveda Blvd., No. 333\n\n\n \n\n\n\nReed\nSmith LLP\n\n\n\n\nSherman\nOaks, CA 91403\n\n\n \n\n\n\n1901\nAvenue of the Stars, Suite 700\n\n\n\n\nEmail:\n\n\n \n\n\n\nLos\nAngeles, CA 90067"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "PURCHASER: \n\n\n\n\n\n \n\n\n\n\nARTIST:  \n\n\n\n \n\n\n\n\nMJW\nMEDIA, LLC\n\n\n\n \n\n\n\n\nPETE ROSEN  \n\n\n\n \n\n\n\n \n\n\n\n\n\n \n\n\n\n\n \n\n\n\n \n\n\n \n\n\n\n \n\n\n\n\n\n\nBy:\n\n\n\n/s/\nMichael\nJ. Witherill\n\n\n\n \n\nBy:\n\n/s/\nPete\nRosen\n\n\n\n \n\n\n\n \n\n\nMichael\nJ. Witherill\n\n\n\n \n\n\n\n \n\n\nPete\nRosen\n\n\n\n \n\n\n\n\n\n\nIts:\n\n\n\nManaging\nMember\n\n\n\n \n\n\n\n \n\n\n \n\n\n\n \n\n\n\n\n\n\n \n\n\n\n \n\n\n\n \n\n\n\n \n\n\n \n\n\n\n \n\n\n\n\n\n\n \n\n\n\n \n\n\n\n \n\n\n\n\nGARY BOWEN \n\n\n\n \n\n\n\n\n\n\n \n\n\n\n \n\n\n\n \n\n\n\n \n\n\n \n\n\n\n \n\n\n\n\n\n\n \n\n\n\n \n\n\n\n \n\n\n\n\nBy:\n\n\n\n\n\n/s/\nGary Bowen\n\n\n\n\n \n\n\n\n\n\n\n \n\n\n\n \n\n\n\n \n\n\n\n \n\n\n\n\n  Gary\nBowen"
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "module": "agreement_parser_v6",
+      "text": "SCREENPLAY OPTION/PURCHASE AGREEMENT",
+      "id": "AgreementTitleElement_676",
+      "parent_id": null,
+      "children": [
+        "HeadingElement_705",
+        "HeadingElement_707",
+        "HeadingElement_708",
+        "HeadingElement_709",
+        "HeadingElement_710",
+        "HeadingElement_711"
+      ],
+      "level": 0,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(a)          In\nconsideration of Purchaser’s commercially reasonable best\nefforts to set-up the Property for development and/or production\nand other good and valuable consideration, Artist hereby\nexclusively and irrevocably grants to Purchaser an exclusive option\n(the “Option”) lasting for twelve (12) months from the\nabove date (the “Initial Option Period”) to purchase\nall rights in the Property as more explicitly set forth in Section\n2 hereof (“Purchase Price”).",
+      "id": "ClauseElement_698",
+      "parent_id": "SectionElement_677",
+      "children": [],
+      "level": 3,
+      "clause_id": "(a)",
+      "clause_text": "In",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(b)          Purchaser\nmay extend the Initial Option Period by an additional twelve (12)\nmonths (the “Extended Option Period”) by providing\nwritten notice to Artist accompanied by the applicable payment at\nany time prior to expiration of the Initial Option Period. The\nInitial Option Period and the Extended Option Period may be\nreferred to collectively herein as the “Option\nPeriod.”",
+      "id": "ClauseElement_699",
+      "parent_id": "SectionElement_677",
+      "children": [],
+      "level": 3,
+      "clause_id": "(b)",
+      "clause_text": "Purchaser",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(c)          The\nOption price for the Initial Option Period shall be Two Thousand\nDollars ($2,000), payable within five (5) business days following\nArtist’s execution of this Agreement, which amount shall not\nbe applicable against the Purchase Price. The Option price for the\nExtended Option Period shall be Twenty Thousand Hundred Dollars\n($20,000), which amount shall be applicable against the Purchase\nPrice.",
+      "id": "ClauseElement_700",
+      "parent_id": "SectionElement_677",
+      "children": [
+        "ContentTextElement_714"
+      ],
+      "level": 3,
+      "clause_id": "(c)",
+      "clause_text": "The",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "i.            Theatrical\nSequels/Prequels: For each applicable theatrical sequel or\nprequel motion picture based on the Picture, Artist shall be paid\nan amount equal to: (i) Fifty Percent (50%) of all amounts paid to\nArtist pursuant to Section 2 above, payable upon commencement of\nprincipal photography of such theatrical sequel and/or prequel; and\n(ii) a percentage of the Net Proceeds equal to fifty percent (50%)\nof the percentage to which Artist is entitled pursuant to Section 3\nabove.",
+      "id": "ClauseElement_701",
+      "parent_id": "SectionElement_687",
+      "children": [
+        "ClauseElement_702",
+        "ClauseElement_703",
+        "ContentTextElement_720"
+      ],
+      "level": 3,
+      "clause_id": "(i)",
+      "clause_text": "Theatrical",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "ii.         Theatrical\nRemakes: For each applicable theatrical remake of the\nPicture, Artist shall be paid an amount equal to: (i) Thirty-Three\nand One-Third Percent (33-1/3%) of all amounts paid to Artist\npursuant to Section 2 above, payable upon commencement of principal\nphotography of such theatrical remake; and (ii) a percentage of Net\nProceeds equal to Thirty-Three and One-Third Percent (33-1/3%) of\nthe percentage to which Artist is entitled pursuant to Section 3\nabove.",
+      "id": "ClauseElement_702",
+      "parent_id": "ClauseElement_701",
+      "children": [],
+      "level": 5,
+      "clause_id": "(ii)",
+      "clause_text": "Theatrical",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "iii.         Television\nProductions:",
+      "id": "ClauseElement_703",
+      "parent_id": "ClauseElement_701",
+      "children": [],
+      "level": 5,
+      "clause_id": "(iii)",
+      "clause_text": "Television",
+      "normalized_id": "iii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "b.\n\n\n\n\nMovies-For-Television and Television Mini-Series. If a\ntelevision motion picture or “mini-series” is produced.\nArtist shall be entitled to receive an amount equal to $10.000 for\neach hour of programming produced, up to a maximum of $80,000,\npayable promptly following the commencement of principal\nphotography of the applicable production.",
+      "id": "ClauseElement_704",
+      "parent_id": "SectionElement_687",
+      "children": [
+        "ContentTextElement_721",
+        "ContentTextElement_722"
+      ],
+      "level": 3,
+      "clause_id": "(b)",
+      "clause_text": "Movies-For-Television and Television Mini-Series. If a",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This\nwill confirm the agreement between MJW Media, LLC\n(“Purchaser”), and you, Pete Rosen and Gary Bowen\n(collectively, “Artist”), with respect to the original\nscreenplay entitled “Child Support” written by Artist\n(which, together with the title, themes, contents, story and\ncharacters, and all translations, adaptations, and other versions,\nas well as all research performed by Artist in connection\ntherewith, whether now existing or hereafter created, is\nhereinafter called the “Property”) (the first motion\npicture based on the Property hereunder shall be referred to as the\n“Picture”). In this regard, prior to the earlier of\nexercise of the Option (as defined below) or commencement of\nproduction of the Picture, Purchaser shall become, or assign this\nAgreement to, a WGA signatory entity. Further, for purposes hereof,\nArtist shall be deemed a “professional writer” under\nthe WGA.",
+      "id": "ContentTextElement_712",
+      "parent_id": "HeadingElement_706",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "In\nconsideration of the parties’ mutual promises, it is hereby\nagreed as follows:",
+      "id": "ContentTextElement_713",
+      "parent_id": "HeadingElement_706",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(d)          During\nthe Option Period (and any extensions thereof), Purchaser shall\nhave the right to engage in or arrange for development and\npre-production with respect to motion pictures and/or other\nproductions intended to be based on the Property. If in connection\nwith such development and pre-production Artist or another party is\nengaged to write screenplays, revisions or other materials based on\nthe Property, all such writings shall be and remain\nPurchaser’s sole and exclusive property (whether or not\nPurchaser exercises the Option hereunder).",
+      "id": "ContentTextElement_714",
+      "parent_id": "ClauseElement_700",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Without\nlimiting the foregoing, if the Option granted pursuant to Section 1\nhereunder is exercised, Artist hereby acknowledges that a portion\nof the Purchase Price payable under this Agreement is allocated to\nand adequate compensation for the purchase/assignment of the Rental\nand Lending Rights, as defined below, and Artist hereby irrevocably\nassigns, licenses and grants to Purchaser, throughout the universe,\nin perpetuity, any and all rights of Artist to authorize, prohibit\nand/or control the renting, lending, fixation, reproduction and/or\nother exploitation of the Picture by any media and means now known\nor hereafter devised as may be conferred upon you under applicable\nlaws, regulations or directives, in any jurisdiction throughout the\nworld, including, without limitation, any so-called rental and\nlending rights pursuant to any European Economic Community\n(“EEC”) directives and/or enabling or implementing\nlegislation, laws or regulations enacted by member nations of the\nEEC (all of the foregoing rights are herein collectively the\n“Rental and Lending Rights”). Artist agrees that the\nremuneration provided in the first sentence of this paragraph, as\nwell as any residuals or additional compensation payable pursuant\nto an applicable collective bargaining agreement (if any) include,\nwithout limitation, adequate and equitable remuneration for\nArtist’s assignment of the Rental and Lending Rights and\nconstitute a complete buy-out of all Rental and Lending Rights in\nperpetuity.",
+      "id": "ContentTextElement_715",
+      "parent_id": "SectionElement_681",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The\nRights herein granted include the right to distribute, transmit,\nexhibit, broadcast and otherwise exploit all works produced\npursuant to the rights granted hereunder by means of any and all\nmedia and devices whether now known or hereafter devised, and in\nany and all markets whatsoever, as well as the right of Purchaser\nin its discretion to make any and all changes in, additions to and\ndeletions from the Property, as well as the right to use, in a\nreasonable and customary manner, Artist’s name, likeness and\napproved biography in and in connection with the exploitation of\nthe rights granted hereunder; provided, that in no event shall\nArtist’s name, likeness and/or biography be used hereunder to\nendorse any product, service, individual or entity, or other than\nin connection with the exploitation of the rights granted\nhereunder. Nothing contained in this Agreement shall be construed\nas requiring Purchaser to exercise or exploit any of the Rights\ngranted to Purchaser hereunder.",
+      "id": "ContentTextElement_716",
+      "parent_id": "SectionElement_681",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Artist\nagrees that Purchaser shall have the unlimited right to vary,\nchange, alter, modify, add to and/or delete from all or any part of\nthe Property (including without limitation the title or titles\nthereto), and to rearrange and/or transpose all or any part of the\nProperty and change the sequence thereof and the characters and\ndescriptions of the characters contained in the Property and to use\na portion or portions of the Property in conjunction with any other\nliterary, dramatic or other material of any kind. Artist hereby\nwaives the benefits of any provision of law known as the\n“droit moral” or any similar law in any and all\ncountries and other jurisdictions of the universe.",
+      "id": "ContentTextElement_717",
+      "parent_id": "SectionElement_681",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(a)          First\nNegotiation. If, within (7) years after the initial general\ntheatrical release of the Picture, Purchaser, its assignee,\ndesignee, licensee or successor intends to produce a theatrical or\ndirect-to-video sequel, prequel, remake, television or new media\nproduction based upon the Picture, (each a “Subsequent\nProduction”) and provided: (i) Artist is not in uncured\nmaterial breach hereunder; (ii) Artist is ready, willing and able\nto render such services as, when and where reasonably required by\nPurchaser; and (iii) Artist receives sole “written by”\nor sole “screenplay by” credit on the Picture upon\nfinal determination of writing credits pursuant to the MBA (as if\napplicable hereto), then, with respect to the first such Subsequent\nProduction (subject to any applicable studio or network approvals),\nArtist shall be accorded the first opportunity to negotiate with\nPurchaser with regard to Artist writing (and, with respect to TV\nProductions only, writing and executive producing) the first such\nSubsequent Production (on financial terms no less favorable than\nthose hereunder for theatrical sequels, prequels or remakes). If\none or more of items (i) through (iii) are not satisfied, or if\nsuch negotiations do not result in an agreement within thirty (30)\ndays from the commencement thereof, Purchaser may proceed with the\nwriting of such materials by a third party, subject to the terms of\nSection 11.b. below. The provisions of this section shall apply to\nsubsequent theatrical and television sequels, prequels and remakes\nof the Picture only if all of the conditions hereof were met with\nrespect to the immediately preceding sequel, prequel or\nremake.",
+      "id": "ContentTextElement_718",
+      "parent_id": "SectionElement_687",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(b)          Passive\nPayments. Provided that: (i) Artist is not in uncured\nmaterial breach hereof; (ii) Artist receives sole “written\nby” or “screenplay by” credit on the Picture upon\nfinal determination of writing credits pursuant to the MBA (as if\napplicable hereto); (iii) Purchaser or its assignee, licensee,\ndesignee or successor elects to produce any of the Subsequent\nProductions described below based upon the Picture; and (iv) Owner\nhas not been engaged to render writing services in connection with\nsuch Subsequent Production pursuant to Section 11.a. above, Artist\nshall be entitled to receive the following applicable royalties\n(the following amounts being inclusive of any amounts required to\nbe paid pursuant to the MBA in connection with the Picture, if\nany):",
+      "id": "ContentTextElement_719",
+      "parent_id": "SectionElement_687",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "a.\n\n\n\n\nPilot and Series. If a television pilot and/or series is\nproduced, Artist shall be entitled to receive episode a royalty of\n$2,000 for each episode of 30 minutes or less; $3,000 for each\nepisode of 31-60 minutes; and $4,000 for each episode in excess of\n60 minutes, payable within ten (10) days aftercompletion of\nprincipal photography of the applicable episode. For each of the\nsecond through the sixth U.S. free Network television runs of the\napplicable episode, Artist shall receive an additional sum equal to\ntwenty percent (20%) of the applicable royalty, which shall be paid\nto Artist not later than thirty (30) days following broadcast of\nthe applicable episode.",
+      "id": "ContentTextElement_720",
+      "parent_id": "ClauseElement_701",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "iv.         New\nMedia Productions: If a feature-length production or\nepisodic series production is produced for initial exhibition on a\nso-called “New Media” or digital platform, Artist shall\nbe entitled to receive a passive royalty to be negotiated in good\nfaith within customary parameters for agreements of this type,\ntaking into account the budget of the production and other relevant\nfactors. Notwithstanding the foregoing, if a new media Subsequent\nProduction is produced for initial exhibition on Netflix, Hulu,\nAmazon or YouTube Red and the budget of such project is\ncommensurate with budgets for comparable television programming,\nthen the passive payments under Section 11.b.iii. shall\napply.",
+      "id": "ContentTextElement_721",
+      "parent_id": "ClauseElement_704",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "v.           100/50/50:\nWith respect to any television series, movie-for-television,\nmini-series, or new media production, if the applicable Subsequent\nProduction is placed in general theatrical release in the U.S.\nand/or abroad after its initial television broadcast, then Artist\nshall be entitled to an additional one-time royalty equal to fifty\npercent (50%) of the royalty originally paid for such Subsequent\nProduction if such production is so released in the U.S., and an\nadditional one-time royalty equal to 50% of the royalty originally\npaid for such Subsequent Production if such production is so\nreleased outside of the U.S. If the applicable Subsequent\nProduction is theatrically released in the U.S. prior to telecast,\nthen Artist shall be entitled to a one-time payment equal to 100%\nof the applicable royalty otherwise payable for such Subsequent\nProduction. However, in no event shall Artist be entitled to an\naggregate sum of more than 100% of the applicable royalty for the\ntheatrical release, if any, of the applicable Production. Payments\nunder this Section shall be made within thirty (30) calendar days\nof the applicable theatrical release.",
+      "id": "ContentTextElement_722",
+      "parent_id": "ClauseElement_704",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "MJW\nMedia, LLC\n\nAttn:\nMike Witherill\n\n1166 E.\nWarner Road, Suite 205\n\nGilbert, AZ\n85296\n\nEmail:\nmjwitherill@gmail.com",
+      "id": "ContentTextElement_723",
+      "parent_id": "SectionElement_695",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "cc:\n\n\n\nPaul\nMiloknay, Esq.\n\n\nMiloknay Weiner\nLLP\n\n7162\nBeverly Blvd., Suite 345\n\nLos\nAngeles, CA 90036\n\nEmail:\npaul@miloknayweiner.com",
+      "id": "ContentTextElement_724",
+      "parent_id": "SectionElement_695",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Notices\nshall be sufficiently given when the same shall be deposited so\naddressed, postage prepaid, in the United States mail and/or when\nthe same shall have been delivered so addressed by facsimile or\nemail transmission, and 3 days after the date of said mailing or\nthe date of facsimile or email transmission shall be the date of\nthe giving of such notice.",
+      "id": "ContentTextElement_725",
+      "parent_id": "SectionElement_695",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "All\npayments which Purchaser may be required to make to Artist\nhereunder shall be delivered or sent to Artist by mail at the\naddress for payments set forth on page one hereof, and Artist\nacknowledges that payment in such fashion shall be a good and valid\ndischarge of all such indebtedness to Artist.",
+      "id": "ContentTextElement_726",
+      "parent_id": "SectionElement_695",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "For\ngood and valuable consideration, receipt of which is hereby\nacknowledged, the undersigned hereby grants to MJW Media, LLC\n(“Purchaser”), its successors and assigns, the sole and\nexclusive option to purchase all right, title and interest (except\nfor certain rights expressly reserved by the undersigned as set\nforth in the agreement referenced below) in the screenplay entitled\n“Child Support,” written by the undersigned (the\n“Property”). The Property includes, but is not limited\nto: (i) all contents; (ii) all past, present and future adaptations\nand versions; (iii) the title, characters and theme; and (iv) all\nancillary and related rights.",
+      "id": "ContentTextElement_727",
+      "parent_id": "HeadingElement_709",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This\ninstrument is executed in accordance with and is subject to the\nOption/Purchase agreement (the “Agreement”) between the\nundersigned and Purchaser dated as of August 1, 2016, relating to\nthe option granted to Purchaser to purchase the above-mentioned\nrights in the Property, which rights are more fully described in\nthe agreement.",
+      "id": "ContentTextElement_728",
+      "parent_id": "HeadingElement_709",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "DATED\nas of August 1, 2016\n\n\n\n \n\n\n \n\n\n\n \n\n\n\n/s/\nPete Rosen\n\n\n\n \n\n\n\nPete\nRosen\n\n\n\n \n\n\n \n\n\n\n \n\n\n\n/s/\nGary Bowen\n\n\n\n \n\n\n\nGary\nBowen",
+      "id": "ContentTextElement_729",
+      "parent_id": "HeadingElement_709",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "For\ngood and valuable consideration, the receipt of which is hereby\nacknowledged, the undersigned, ________________\n(“Assignor”), sells and assigns to MJW Media, LLC, its\nsuccessors and assigns, forever and throughout the world, all\nright, title and interest (except for certain rights expressly\nreserved by the undersigned as set forth in the agreement\nreferenced below) in the original book entitled “Child\nSupport” written by Assignor (the “Property”).\nThe Property includes, but is not limited to: (i) all contents;\n(ii) all past, present and future adaptations and versions; (iii)\nthe title, characters and theme; and (iv) all ancillary and related\nrights. This Assignment is executed in accordance with and is\nsubject to the agreement (the “Agreement”) between the\nAssignor and Purchaser dated as of August 1, 2016, relating to the\nsale and assignment to Purchaser of the above-mentioned rights in\nthe Property, which rights are more fully described in the\nAgreement.",
+      "id": "ContentTextElement_730",
+      "parent_id": "HeadingElement_711",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "IN\nWITNESS WHEREOF, the undersigned has executed this Assignment on\nthe date indicated below.",
+      "id": "ContentTextElement_731",
+      "parent_id": "HeadingElement_711",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "DATED:  August\n1, 2016\n\n\n\n \n\n\n \n\n\n\n \n\n\n\n/s/\nPete Rosen\n\n\n\n \n\n\n\nPete\nRosen\n\n\n\n \n\n\n \n\n\n\n \n\n\n\n/s/\nGary Bowen\n\n\n\n \n\n\n\nGary\nBowen",
+      "id": "ContentTextElement_732",
+      "parent_id": "HeadingElement_711",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "“CHILD SUPPORT”",
+      "id": "HeadingElement_705",
+      "parent_id": "AgreementTitleElement_676",
+      "children": [
+        "HeadingElement_706",
+        "SectionElement_677",
+        "SectionElement_678",
+        "SectionElement_679",
+        "SectionElement_680",
+        "SectionElement_681",
+        "SectionElement_682",
+        "SectionElement_683",
+        "SectionElement_684",
+        "SectionElement_685",
+        "SectionElement_686",
+        "SectionElement_687",
+        "SectionElement_688",
+        "SectionElement_689",
+        "SectionElement_690",
+        "SectionElement_691",
+        "SectionElement_692",
+        "SectionElement_693",
+        "SectionElement_694",
+        "SectionElement_695",
+        "SectionElement_696",
+        "SectionElement_697"
+      ],
+      "level": 1,
+      "heading_text": "“CHILD SUPPORT”"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "Dear\nPete and Gary:",
+      "id": "HeadingElement_706",
+      "parent_id": "HeadingElement_705",
+      "children": [
+        "ContentTextElement_712",
+        "ContentTextElement_713"
+      ],
+      "level": 2,
+      "heading_text": "Dear\nPete and Gary:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "ACCEPTED\nAND AGREED AS OF AUGUST 1, 2016:",
+      "id": "HeadingElement_707",
+      "parent_id": "AgreementTitleElement_676",
+      "children": [],
+      "level": 1,
+      "heading_text": "ACCEPTED\nAND AGREED AS OF AUGUST 1, 2016:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "EXHIBIT “A”",
+      "id": "HeadingElement_708",
+      "parent_id": "AgreementTitleElement_676",
+      "children": [],
+      "level": 1,
+      "heading_text": "EXHIBIT “A”"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SHORT FORM OPTION",
+      "id": "HeadingElement_709",
+      "parent_id": "AgreementTitleElement_676",
+      "children": [
+        "ContentTextElement_727",
+        "ContentTextElement_728",
+        "ContentTextElement_729"
+      ],
+      "level": 1,
+      "heading_text": "SHORT FORM OPTION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "EXHIBIT “B”",
+      "id": "HeadingElement_710",
+      "parent_id": "AgreementTitleElement_676",
+      "children": [],
+      "level": 1,
+      "heading_text": "EXHIBIT “B”"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SHORT FORM ASSIGNMENT",
+      "id": "HeadingElement_711",
+      "parent_id": "AgreementTitleElement_676",
+      "children": [
+        "ContentTextElement_730",
+        "ContentTextElement_731",
+        "ContentTextElement_732"
+      ],
+      "level": 1,
+      "heading_text": "SHORT FORM ASSIGNMENT"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "1.          Option.",
+      "id": "SectionElement_677",
+      "parent_id": "HeadingElement_705",
+      "children": [
+        "ClauseElement_698",
+        "ClauseElement_699",
+        "ClauseElement_700"
+      ],
+      "level": 2,
+      "section_number": "1",
+      "section_title": "Option.",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "2.          Purchase\nPrice. If Purchaser exercises its Option granted pursuant to\nSection 1 hereunder, the purchase price for the Rights (as defined\nin Section 4 below) shall be a sum equal to Two and One-Quarter\nPercent (2.25%) of the final approved “direct cost”\nbudget (exclusive of interest, financing costs, completion bond\nfees, insurance costs and any contingency) (the\n“Budget”) of the Picture, with a floor of Two Hundred\nFifty Thousand Dollars ($250,000) and a ceiling of Seven Hundred\nFifty Thousand Dollars ($750,000) (the “Purchase\nPrice”). The Option, if exercised, shall be exercised by\nwritten notice to Artist accompanied by the applicable Purchase\nPrice during the Option Period, but not later than commencement of\nprincipal photography of the Picture. Notwithstanding any of the\nforegoing, if at the time any payment comes due under this Section\n2 the Budget is not known, Purchaser shall pay Artist the\napplicable amount due based on the $250,000 floor amount and shall\npay the balance, if any, in accordance with this Section 2 after\nthe Budget has been finalized.",
+      "id": "SectionElement_678",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "2",
+      "section_title": "Purchase",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "3.          Contingent\nCompensation. If Artist has fulfilled all of the terms and\nconditions hereunder and is not in uncured material breach hereof,\nand the Picture is produced, Artist shall be entitled to receive a\nsum equal to Two and One-Half Percent (2.5%) of One Hundred Percent\n(100%) of the net proceeds (or other best contingent compensation\ndenomination or definition received by Purchaser) derived from the\nPicture. Artist’s contingent compensation participation\n(however denominated) shall be defined, computed, accounted for and\npaid on the same basis as Purchaser or its assignee.",
+      "id": "SectionElement_679",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "3",
+      "section_title": "Contingent",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "4.          Writing\nServices. Purchaser shall engage Artist to perform a\nguaranteed first rewrite of the Property (the\n“Rewrite”) for a fee of Eighty Thousand Dollars\n($80,000), payable $25,000 upon commencement of such writing\nservices and $55,000 upon the earlier of commencement of principal\nphotography of the Picture or Purchaser’s conclusion and\nactual receipt of the unrestricted full funding for the Picture.\nNotwithstanding any other provision of this Agreement and subject\nonly to Section 14 below, the Rewrite shall be Purchaser’s\nsole and exclusive property.",
+      "id": "SectionElement_680",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "4",
+      "section_title": "Writing",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "5.          Rights.\nIf the Option granted pursuant to Section 1 hereunder is exercised,\nPurchaser shall own, and Artist hereby assigns to Purchaser,\nexclusively, in perpetuity and throughout the universe, all right,\ntitle and interest in and to the Property, whether now known or\nhereinafter devised, including, without limitation, all motion\npicture rights, all television rights (pay, free, film, tape,\ncassette, cable, live and otherwise), all computer-assisted media\nrights (including, but not limited to any interactive device,\nmechanism, or storage medium for digital information such as DVD,\nCD-ROM, CD-I, 3D0 and similar disc systems, or any other computer\nbased system whether PC, network, mainframe or otherwise, or which\nis made available through any delivery system now known or\nhereafter devised, including, but not limited to retail sales,\npoint-of-purchase, on-demand, cable, pay-per-view, broadcast\ntransmission, telephone, Internet or cellular and any other devise\nor methods now known or hereafter devised) and all allied and\nincidental rights in the Property, including, by way of further\nillustration, sequel and remake rights, music rights, soundtrack\nalbum rights, merchandising rights, publishing rights, radio\nrights, stage rights and promotional and advertising rights\n(collectively, the “Rights”).",
+      "id": "SectionElement_681",
+      "parent_id": "HeadingElement_705",
+      "children": [
+        "ContentTextElement_715",
+        "ContentTextElement_716",
+        "ContentTextElement_717"
+      ],
+      "level": 2,
+      "section_number": "5",
+      "section_title": "Rights.",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "6.          Writer\nRepresentations and Warranties/Indemnities. Subject to\nArticle 28 of the WGA Minimum Basic Agreement, Artist hereby\nrepresents and warrants that: (a) the Property was written by and\nis wholly original with Artist (except incidental materials in the\npublic domain and materials provided or altered by Purchaser), (b)\nneither the Property nor any element thereof infringes the\ncopyright in any other work; (c) neither the Property nor any\nelement thereof, to the best of Artist’s knowledge, will\nviolate the rights to privacy or publicity of any person or\nconstitute a defamation against any person, or in any other way\nviolate the rights of any person whomsoever; (d) Artist owns all\nrights assigned to Purchaser free and clear of any liens,\nencumbrances, and other third party interests, and any claims or\nlitigation, whether pending or threatened, (e) Artist has the full\nright and power to make and perform this Agreement without the\nconsent of any third party; (f) the Property has not previously\nbeen exploited as a motion picture or television production; and\n(g) the Property does and will continue to enjoy either statutory\nor common law copyright protection in the United States and all\ncountries adhering to either or both the Berne and Universal\nCopyright Conventions. Artist shall indemnify Purchaser and each of\nits principals, officers, managers, agents, attorneys, employees,\nsuccessors and assigns against any liability, loss, damage, cost or\nexpense (including reasonable outside attorneys’ fees)\nincurred by reason of any claim arising in connection with\nArtist’s uncured material breach of any of the foregoing or\nany other term of this Agreement.",
+      "id": "SectionElement_682",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "6",
+      "section_title": "Writer",
+      "normalized_id": "6"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "7.          Purchaser\nIndemnities. Purchaser hereby indemnifies, defends and holds\nArtist harmless against any liability, loss, damage, cost or\nexpense (including reasonable outside attorneys’ fees)\nincurred by reason of any claim arising from Purchaser’s\nbreach or alleged breach of any of its obligations hereunder,\nmaterials Purchaser provides or alters, and the development,\nproduction, distribution and other exploitation of the Picture (or\nany element thereof or rights therein) to the extent that\nArtist’s indemnity obligations do not apply.",
+      "id": "SectionElement_683",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "7",
+      "section_title": "Purchaser",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "8.          Insurance\nCoverage. Artist shall be named as an additional insured on\nany errors and omissions and general liability insurance policies\ncovering the Picture.",
+      "id": "SectionElement_684",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "8",
+      "section_title": "Insurance",
+      "normalized_id": "8"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "9.          Additional\nDocuments. At Purchaser’s request, following a\nreasonable opportunity to review and comment, Artist shall execute\nany and all additional documents and instruments consistent\nherewith as are reasonably necessary or desirable to effectuate\npurposes of this agreement (including, without limitation, short\nform options and assignments). Upon Artist’s failure to\npromptly execute any such documents within five (5) business days\nafter delivery, Artist hereby appoints Purchaser as Artist’s\nirrevocable attorney-in-fact to execute any such document on\nArtist’s behalf. The rights of Purchaser under this\nsubparagraph constitute a power coupled with an interest and are\nirrevocable. Purchaser shall provide Artist with copies of any\ndocuments it executes on Artist’s behalf pursuant to this\nSection, but Producer’s inadvertent failure to provide such\ncopies shall not constitute a breach of this\nAgreement.",
+      "id": "SectionElement_685",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "9",
+      "section_title": "Additional",
+      "normalized_id": "9"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "10.         Credit.\nPurchaser shall accord Artist writing credit on screen as and to\nthe extent required by the WGA Basic Agreement. Such credit shall\nalso be accorded in paid ads (subject to customary exclusions) and\nanywhere the billing block appears. It is acknowledged and agreed\nthat no casual or inadvertent failure by Purchaser to accord such\ncredit, nor the failure for any reason by third parties to comply\nwith the provisions of this paragraph, shall be deemed a breach\nhereof by Purchaser, it being agreed, however, that upon receipt of\nwritten notice from Artist, Purchaser shall make reasonable efforts\nto cure any such failure on a prospective basis.",
+      "id": "SectionElement_686",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "10",
+      "section_title": "Credit.",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "11.         Subsequent\nProductions.",
+      "id": "SectionElement_687",
+      "parent_id": "HeadingElement_705",
+      "children": [
+        "ContentTextElement_718",
+        "ContentTextElement_719",
+        "ClauseElement_701",
+        "ClauseElement_704"
+      ],
+      "level": 2,
+      "section_number": "11",
+      "section_title": "Subsequent",
+      "normalized_id": "11"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "12.         Premieres.\nIf the Picture is produced and Artist is not in uncured material\nbreach hereof, each Artist and a non-business companion shall be\nentitled to receive invitations to the first celebrity premiere, if\nany, of the Picture. Purchaser shall make reasonable good faith\nefforts to cause the distributor of the Picture to provide travel\nand expenses for Artist and Artist’s companion on a favored\nnations basis with all non-cast; provided, Purchaser’s\nfailure or inability to do so shall not constitute a breach of this\nAgreement.",
+      "id": "SectionElement_688",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "12",
+      "section_title": "Premieres.",
+      "normalized_id": "12"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "13.         DVD.\nIf the Picture is produced and Artist is not in uncured material\nbreach hereof, each Artist will be entitled to receive a DVD copy\nof the Picture at such time as they become commercially available\n(subject to the policies of the distributor).",
+      "id": "SectionElement_689",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "13",
+      "section_title": "DVD.",
+      "normalized_id": "13"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "14.         Reversion.\nIf Purchaser exercises the Option, but does not produce the Picture\nwithin 2 years from the date of such exercise, then all rights in\nand to the Property shall revert to Artist, subject to\nPurchaser’s first-priority lien against first dollars\nreceived by Artist from any third-party purchaser of the Property\nfor all of Purchaser’s script and development costs, plus\ninterest thereon at the rate of banker’s prime plus 1%, and\n5% of 100% of the profits derived from any production based on the\nProperty, defined, computed, accounted for and paid on a favored\nnations basis with all producers on the applicable production. In\naddition, Artist shall have the right to acquire all development\nmaterials created or paid for by Purchaser (including without\nlimitation the Rewrite) on terms to be negotiated in good\nfaith.",
+      "id": "SectionElement_690",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "14",
+      "section_title": "Reversion.",
+      "normalized_id": "14"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "15.         Remedies.\nIt is acknowledged and agreed that neither the failure to accord\nArtist credit nor any other breach of this Agreement shall entitle\nArtist to equitable relief, whether injunctive or otherwise,\nagainst or with respect to the Picture or any other works produced\npursuant to the rights granted hereunder or their exploitation,\nsince Artist’s remedy of money damages at law is\nadequate.",
+      "id": "SectionElement_691",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "15",
+      "section_title": "Remedies.",
+      "normalized_id": "15"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "16.         Assignment.\nPurchaser shall have the right to assign any or all of its rights\nand/or obligations under this Agreement to any person or entity,\nbut no such assignment shall relieve Purchaser of its obligations\nto Artist under this agreement unless such assignment is to a\nso-called “major” or “mini-major” motion\npicture distributor, or a network television broadcaster, or a\nmajor pay television company, as such terms are commonly understood\nin the motion picture industry, or a party that is at least as\nfinancially capable as Purchaser, and such entity assumes all of\nPurchaser’s obligations hereunder in writing. Artist shall\nnot have the right to assign this Agreement in whole or in part,\nand any such purported assignment shall be void ab initio. Notwithstanding the receding\nsentence, Artist shall have the one-time right to assign the right\nto receive compensation hereunder to a loan-out\nentity.",
+      "id": "SectionElement_692",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "16",
+      "section_title": "Assignment.",
+      "normalized_id": "16"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "17.         Default/Force\nMajeure. Each and every option period hereunder shall be\nsubject to extension for any period of your material breach and/or\nforce majeure (including without limitation any strike by any\nguild, union or other labor organization against motion picture\nproducers during the option periods), and any period during which\nany claim remains outstanding or unresolved which involves the\nmaterial breach of any of your warranties, representations or\nagreements herein that materially affects the development of the\nProperty. Any option extension for force majeure hereunder shall\nnot exceed 6 consecutive months. Neither party hereto shall be\ndeemed to be in breach or default hereunder unless and until the\nallegedly breaching party fails to cure the alleged breach within\nfive (5) days following receipt of reasonably detailed written\nnotice of the alleged breach.",
+      "id": "SectionElement_693",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "17",
+      "section_title": "Default/Force",
+      "normalized_id": "17"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "18.         Jurisdiction.\nThis Agreement will be interpreted in accordance with the laws of\nthe State of California applicable to agreements entered into and\nto be wholly performed therein. Any and all disputes hereunder\nshall be exclusively submitted to a final and binding arbitration\nunder the rules of AFMA in Los Angeles, California. The prevailing\nparty (as determined by the arbitrator) shall be entitled to costs\nand attorney’s fees in connection with any such\nproceeding.",
+      "id": "SectionElement_694",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "18",
+      "section_title": "Jurisdiction.",
+      "normalized_id": "18"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "19.         Notices/Payments.\nAll notices from Artist to Purchaser shall be sent to the following\naddress:",
+      "id": "SectionElement_695",
+      "parent_id": "HeadingElement_705",
+      "children": [
+        "ContentTextElement_723",
+        "ContentTextElement_724",
+        "ContentTextElement_725",
+        "ContentTextElement_726"
+      ],
+      "level": 2,
+      "section_number": "19",
+      "section_title": "Notices/Payments.",
+      "normalized_id": "19"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "20.         No\nObligation. Nothing contained in this Agreement shall be\nconstrued to obligate Purchaser to produce, distribute, release or\nexhibit any motion picture, television program or other production\nbased upon the Property or to exploit or make any use of the\nrights, license, privileges or property granted to Purchaser,\nincluding without limitation, the Rights.",
+      "id": "SectionElement_696",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "20",
+      "section_title": "No",
+      "normalized_id": "20"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "21.         Miscellaneous.\nIt is contemplated that a more formal agreement may be prepared\ncontaining the terms set forth herein and such standard terms as\nare customary in the motion picture industry in agreements of this\nnature. Until such more formal agreement is executed, this\nAgreement shall constitute the entire understanding and agreement\nof the parties hereto and replaces any and all prior agreements or\nunderstandings, whether written or oral, relating to the subject\nmatter of this Agreement. This Agreement may be executed in\ncounterparts and/or by facsimile or email transmission, and such\ncounterparts and electronic signatures shall be binding as\noriginals for all purposes.",
+      "id": "SectionElement_697",
+      "parent_id": "HeadingElement_705",
+      "children": [],
+      "level": 2,
+      "section_number": "21",
+      "section_title": "Miscellaneous.",
+      "normalized_id": "21"
+    }
+  ]
+}

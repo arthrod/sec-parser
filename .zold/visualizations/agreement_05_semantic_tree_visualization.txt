@@ -1,0 +1,148 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_05.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 410
+🔗 Cross-References: 77
+📋 Title: TRANSITION SERVICES AGREEMENT
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 19
+  paragraph           : 184
+  party               : 1
+  section             : 43
+  signature           : 18
+  subsection          : 10
+  table               : 134
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 16
+  Document Self Ref   : 43
+  Exhibit Ref         : 8
+  Positional Ref      : 3
+  Section Ref         : 7
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.9
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] EXECUTION VERSION
+   ⚠️  Confidence: 0.80
+
+[TITLE] TRANSITION SERVICES AGREEMENT
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] THIS TRANSITION SERVICES AGREEMENT (this Agreement), dated as of June 1, 2018, i...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] RECITALS
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, on December 11, 2017, Covia, Sibelco, Fairmount Santrol Holdings Inc., ...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the Parties desire that Provider provides to Recipient certain transiti...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] NOW, THEREFORE, intending to be legally bound and in consideration of the mutual...
+   ⚠️  Confidence: 0.80
+
+[SECTION] ARTICLE 1
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] As used in this Agreement and in the schedules attached hereto:
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] “ Business Information” has the meaning set forth in Article 9 .
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] “Claim Period” has the meaning set forth in Section 7.2(c) .
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] “Disclosing Party” has the meaning set forth in Article 9 .
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] “Force Majeure Event” has the meaning set forth in Article 8 .
+│     ⚠️  Confidence: 0.80
+├─ ... and 12 more content elements
+
+[SECTION] ARTICLE 2
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] PROVISION OF TRANSITION SERVICES
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 2.1 Transition Services
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] Subject to the terms and conditions of this Agreement, Provider shall provide, o...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 2.2 Third Party Provider
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] Provider may satisfy its obligation to provide the Transition Services hereunder...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 2.3 Standard of Transition Services
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] In providing the Transition Services, the Provider and its Affiliates, and their...
+│     ⚠️  Confidence: 0.80
+├─ [METADATA] 2 | 11
+│     ⚠️  Confidence: 0.80
+├─ [METADATA] expertise in providing the Transition Services. The Provider and the Recipient s...
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] expertise in providing the Transition Services. The Provider and the Recipient s...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 2.4 Third Party Consent
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] The Provider shall be responsible for any third party consents required in order...
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] Provider may reasonably request. Any fees or other out-of-pocket costs to obtain...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] ARTICLE 3
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] TERM AND TERMINATION
+│     ⚠️  Confidence: 0.80
+
+... and 36 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (16 references):
+   • "herein" → herein (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "hereunder" → hereunder (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   ... and 11 more document ref references
+
+📌 Document Self Ref (43 references):
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   ... and 38 more document self ref references
+
+📌 Exhibit Ref (8 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "Schedule 1" → 1 (confidence: 0.80)
+   • "Schedule 1" → 1 (confidence: 0.80)
+   • "Schedule 1" → 1 (confidence: 0.80)
+   • "Schedule 1" → 1 (confidence: 0.80)
+   ... and 3 more exhibit ref references
+
+📌 Positional Ref (3 references):
+   • "below" → below (confidence: 0.80)
+   • "preceding" → preceding (confidence: 0.80)
+   • "foregoing" → foregoing (confidence: 0.80)
+
+📌 Section Ref (7 references):
+   • "Section 3.4" → 3.4 (confidence: 0.80)
+   • "Article 3" → 3 (confidence: 0.80)
+   • "Article 7" → 7 (confidence: 0.80)
+   • "Article 9" → 9 (confidence: 0.80)
+   • "Article 10" → 10 (confidence: 0.80)
+   ... and 2 more section ref references
+
+====================================================================================================

@@ -1,0 +1,102 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_12.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 300
+🔗 Cross-References: 17
+📋 Title: ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 42
+  paragraph           : 111
+  party               : 2
+  section             : 40
+  signature           : 9
+  subsection          : 24
+  table               : 71
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 2
+  Exhibit Ref         : 5
+  Positional Ref      : 2
+  Section Ref         : 8
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] EXHIBIT 10.3
+   ⚠️  Confidence: 0.80
+
+[METADATA] EXHIBIT 10.3
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Freddie Mac Loan Number: 503996270
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Property Name: Oak Crossing Apartments
+   ⚠️  Confidence: 0.80
+
+[TITLE] ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] (Revised 7-12-2016)
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] THIS ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES (“ ...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] RECITALS:
+   ⚠️  Confidence: 0.80
+
+[TABLE] Borrower has requested that Lender make a loan to Borrower (“ Loan ”). The Loan ...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Borrower has requested that Lender make a loan to Borrower (“ Loan ”). The Loan ...
+   ⚠️  Confidence: 0.80
+
+[PARTY] Pursuant to a Management Agreement between Borrower and Property Manager (“ Mana...
+   ⚠️  Confidence: 0.80
+
+[PARTY] Pursuant to a Management Agreement between Borrower and Property Manager (“ Mana...
+   ⚠️  Confidence: 0.80
+
+[TABLE] Lender requires as a condition to the making of the Loan that Borrower assign th...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Lender requires as a condition to the making of the Loan that Borrower assign th...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] For good and valuable consideration the parties agree as follows:
+   ⚠️  Confidence: 0.80
+
+... and 143 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (2 references):
+   • "hereunder" → hereunder (confidence: 0.80)
+   • "hereunder" → hereunder (confidence: 0.80)
+
+📌 Exhibit Ref (5 references):
+   • "EXHIBIT 10" → 10 (confidence: 0.80)
+   • "EXHIBIT 10" → 10 (confidence: 0.80)
+   • "Exhibit B" → B (confidence: 0.80)
+   • "Exhibit B" → B (confidence: 0.80)
+   • "EXHIBIT B" → B (confidence: 0.80)
+
+📌 Positional Ref (2 references):
+   • "below" → below (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+
+📌 Section Ref (8 references):
+   • "Section 9" → 9 (confidence: 0.80)
+   • "Section 9" → 9 (confidence: 0.80)
+   • "Section 9" → 9 (confidence: 0.80)
+   • "Section 9" → 9 (confidence: 0.80)
+   • "Section 9" → 9 (confidence: 0.80)
+   ... and 3 more section ref references
+
+====================================================================================================

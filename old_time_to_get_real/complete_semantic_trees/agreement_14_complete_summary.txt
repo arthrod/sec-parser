@@ -1,0 +1,43 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_14.html
+====================================================================================================
+📊 Quality Score: 0.89
+📄 Format: html
+🔢 Total Elements: 88
+🔗 Cross-References: 29
+📋 Title: AMENDMENT NO. 2 TO CREDIT AGREEMENT...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 2
+  paragraph           : 65
+  party               : 1
+  section             : 7
+  signature           : 12
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 15
+  Document Self Ref   : 1
+  Exhibit Ref         : 2
+  Positional Ref      : 2
+  Section Ref         : 9
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] EXHIBIT 10.10
+[TITLE] AMENDMENT NO. 2 TO CREDIT AGREEMENT
+[PARAGRAPH] This Amendment No. 2 to Credit Agreement, dated as of October 3, 2016 (this “ Am...
+[PARAGRAPH] WHEREAS, the Company, the Lenders party hereto and the Administrative Agent have...
+[PARAGRAPH] NOW, THEREFORE, in consideration of the premises and for other good and valuable...
+[SECTION] 1. Amendments .  Effective as of the date hereof and subject to the satisfaction...
+[PARAGRAPH] a. Section 1.01 of the Credit Agreement is hereby amended by adding the followin...
+[PARAGRAPH] ““ Deckers Guangzhou ” means Deckers Outdoor (Guangzhou) Consulting Co. Ltd., a ...
+[PARAGRAPH] b. Section 5.01(c) of the Credit Agreement is hereby amended and restated in its...
+[PARAGRAPH] “(c)     within 90 days after the end of each fiscal year of the Company, and wi...
+... and 78 more elements
+
+====================================================================================================

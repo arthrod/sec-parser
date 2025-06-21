@@ -1,0 +1,3703 @@
+{
+  "filename": "agreement_07.html",
+  "success": true,
+  "quality_score": 0.8999999999999999,
+  "format": "html",
+  "metadata": {
+    "source_file": "html_files/agreement_07.html",
+    "parsed_at": "2025-06-14T01:48:05.207103",
+    "parser_version": "universal_edgar_parser_v1",
+    "file_size": 127755,
+    "total_elements": 152,
+    "has_title": true,
+    "detected_title": "Guaranty\nAgreement"
+  },
+  "tree": {
+    "type": "document",
+    "title": "Guaranty\nAgreement",
+    "elements": [
+      {
+        "type": "metadata",
+        "content": "Exhibit 10.5",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 0,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "margin: 0; text-align: right"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "E xecution Version",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 1,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "margin: 0; text-align: right"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "title",
+        "content": "Guaranty\nAgreement",
+        "level": 0,
+        "tag_name": "p",
+        "line_number": 2,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: small-caps 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Nxt-ID,\nInc.,",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 3,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: small-caps 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Fit\nPay, Inc., and",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 4,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: small-caps 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "3D-ID,\nLLC",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 5,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: small-caps 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "as\nGuarantors",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 6,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: small-caps 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "and",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 7,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: small-caps 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Sagard\nHoldings Manager LP , as Administrative Agent",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 8,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: small-caps 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Dated\nas of May 24, 2018",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 9,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: small-caps 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Table\nof Contents",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 10,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Section",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 11,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "2",
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Page",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 12,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: center; border-bottom: Black 1.5pt solid"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 1.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 13,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "width: 10%; text-align: left; text-indent: 0; padding: 0; font: 10pt Times New Roman, Times, Serif"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Guaranty;\n    Limitation of Liability",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 14,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "width: 84%; text-align: left; text-indent: 0; padding: 0; font: 10pt Times New Roman, Times, Serif"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 2.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 15,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Guaranty\n    Absolute",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 16,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 3.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 17,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Waivers\n    and Acknowledgments",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 18,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 4.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 19,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Subrogation",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 20,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 5.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 21,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Payments\n    Free and Clear of Taxes, Etc.",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 22,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 6.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 23,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Representations\n    and Warranties",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 24,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 7.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 25,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Covenants",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 26,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 8.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 27,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Amendments,\n    Guaranty Supplements, Etc.",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 28,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 9.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 29,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Notices,\n    Etc.",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 30,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 10.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 31,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "No\n    Waiver; Remedies",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 32,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 11.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 33,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Right\n    of Setoff",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 34,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 12.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 35,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Indemnification",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 36,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 13.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 37,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Subordination",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 38,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 14.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 39,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Continuing\n    Guaranty; Assignments under the Credit Agreement",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 40,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 15.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 41,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Execution\n    in Counterparts",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 42,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 16.",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 43,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Governing\n    Law; Jurisdiction; Waiver of Jury Trial, Etc.",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 44,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Exhibit A - Guaranty Supplement",
+        "level": 1,
+        "tag_name": "td",
+        "line_number": 45,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "2",
+          "style": "font: 10pt Times New Roman, Times, Serif; padding: 0; text-align: left; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "title",
+        "content": "Guaranty\nAgreement",
+        "level": 0,
+        "tag_name": "p",
+        "line_number": 46,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: small-caps bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Guaranty\nAgreement (this “Agreement” )\ndated as of May 24, 2018, among Nxt-ID, Inc. , a Delaware corporation ( “Parent” ), Fit Pay, Inc ., a Delaware corporation, 3D-ID,\nLLC , a Florida limited liability company, and each of the subsidiaries of Parent that is a party hereto or may become party\nhereto pursuant to Section 8(b) below (collectively, the “Guarantors” ) and Sagard\nHoldings Manager LP ( “Sagard” ), as administrative agent (in such capacity, and together with any successors\nin such capacity, the “Administrative Agent” ) for the Secured Parties (as defined in the Credit Agreement referred\nto below).",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 47,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Reference\nis made to the Senior Secured Credit Agreement, dated as of the date hereof (as amended, restated, amended and restated, supplemented\nor otherwise modified from time to time, the “Credit Agreement” ), among LogicMark,\nLLC , a Delaware limited liability company, (the “Borrower” ), the Lenders party thereto from time to\ntime and Sagard, as Administrative Agent and Collateral Agent. Terms used herein without definition shall have the meanings assigned\nto such terms in the Credit Agreement.",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 48,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "The\nLenders have agreed to make a Term Loan to the Borrower, pursuant to, and upon the terms and subject to the conditions specified\nin, the Credit Agreement. Each of the Guarantors acknowledges that it will derive substantial direct and indirect economic benefit\nfrom the Term Loan made by the Lenders. The obligation of the Lenders to make the Term Loan is conditioned on, among other things,\nthe execution and delivery by the Guarantors of a Guaranty Agreement in the form hereof. As consideration therefor and in order\nto induce the Lenders to make the Term Loan, the Guarantors are willing to execute this Agreement.",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 49,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Now,\nTherefore , in consideration of the premises and\nin order to induce the Lenders to make the Term Loan under the Credit Agreement, each Guarantor, jointly and severally with each\nother Guarantor, hereby agrees as follows:",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 50,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 1. Guaranty; Limitation of Liability . (a) Each Guarantor hereby absolutely, unconditionally and irrevocably guarantees,\njointly and severally, the punctual payment when due, whether at scheduled maturity or on any date of a required prepayment or\nby acceleration, demand or otherwise, of all Obligations of each other Loan Party now or hereafter existing under or in respect\nof the Loan Documents (including, without limitation, any extensions, modifications, amendments or renewals of any or all of the\nforegoing Obligations), whether direct or indirect, absolute or contingent, and whether for principal, interest, premiums (including,\nwithout limitation, any Yield Maintenance Premium and Prepayment Premium), fees, indemnities, contract causes of action, costs,\nexpenses or otherwise (such Obligations being the “Guaranteed Obligations” ), and agrees, subject to and without\nlimitation on the Credit Agreement, to pay any and all costs and expenses (including, without limitation, reasonable and documented\nfees and expenses of counsel, provided that if no Event of Default has occurred and is continuing, such costs and expenses\nof counsel shall be limited to a single form of primary outside counsel and, if necessary, one local counsel in each applicable\njurisdiction, for the Secured Parties) incurred by the Administrative Agent or any other Secured Party in enforcing any rights\nunder this Agreement or any other Loan Document, in each case as and to the extent payable under Section 10.04 the Credit Agreement\n(as if the obligations of the Borrower under such Section were obligations of such Guarantor). Without limiting the generality\nof the foregoing, each Guarantor’s liability shall extend to all amounts that constitute part of the Guaranteed Obligations\nand would be owed by any other Loan Party to any Secured Party under or in respect of the Loan Documents but for the fact that\nthey are unenforceable or not allowable due to the existence of a bankruptcy, reorganization or similar proceeding involving such\nother Loan Party.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 51,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(b) Each\nGuarantor, and by its acceptance of this Agreement, the Administrative Agent and each other Secured Party, hereby confirms that\nit is the intention of all such Persons that this Agreement and the Obligations of each Guarantor hereunder not constitute a fraudulent\ntransfer or conveyance for purposes of Bankruptcy Law (as hereinafter defined), the Uniform Fraudulent Conveyance Act, the Uniform\nFraudulent Transfer Act or any similar foreign, federal or state law to the extent applicable to this Agreement and the Obligations\nof each Guarantor hereunder. To effectuate the foregoing intention, the Administrative Agent, the other Secured Parties and the\nGuarantors hereby irrevocably agree that the Obligations of each Guarantor under this Agreement at any time shall be limited to\nthe maximum amount as will result in the Obligations of such Guarantor under this Agreement not constituting a fraudulent transfer\nor conveyance under applicable foreign, federal or state law. For purposes hereof, “Bankruptcy Law” means any\nproceeding under Debtor Relief Laws.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 52,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(c) Each\nGuarantor hereby unconditionally and irrevocably agrees that in the event any payment shall be required to be made to any Secured\nParty under this Agreement or any other guaranty, such Guarantor will contribute, to the extent necessary and to the maximum extent\npermitted by law, such amounts to each other Guarantor and each other guarantor so as to maximize (up to but not exceeding the\npayment amount required) the aggregate amount paid to the Secured Parties under or in respect of the Loan Documents.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 53,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 2. Guaranty Absolute . Each Guarantor guarantees that the Guaranteed Obligations will be paid strictly in accordance with the\nterms of the Loan Documents, regardless of any applicable law, regulation or order now or hereafter in effect in any jurisdiction\naffecting any of such terms or the rights of any Secured Party with respect thereto. The obligations of each Guarantor under or\nin respect of this Agreement are independent of the Guaranteed Obligations or any other obligations of any other Loan Party under\nor in respect of the Loan Documents, and a separate action or actions may be brought and prosecuted against each Guarantor to\nenforce this Agreement, irrespective of whether any action is brought against the Borrower or any other Loan Party or whether\nthe Borrower or any other Loan Party is joined in any such action or actions. This Agreement is a guaranty of payment when due,\nand not of collection. The liability of each Guarantor under this Agreement shall be irrevocable, absolute and unconditional irrespective\nof, and each Guarantor hereby irrevocably waives (to the extent permitted by applicable Laws) any defenses it may now have or\nhereafter acquire in any way relating to, any or all of the following:",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 54,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(a)\tany\nlack of validity or enforceability of any Loan Document or any agreement or instrument relating thereto;",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 55,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(b)\tany\nchange in the time, manner or place of payment of, or in any other term of, all or any of the Guaranteed Obligations or any other\nObligations of any other Loan Party under or in respect of the Loan Documents, or any other amendment or waiver of or any consent\nto departure from any Loan Document, including, without limitation, any increase in the Guaranteed Obligations resulting from\nthe extension of additional credit to any Loan Party or any of its Subsidiaries or otherwise;",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 56,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(c)\tany\ntaking, exchange, release or non-perfection of any Collateral or any other collateral, or any taking, release or amendment or\nwaiver of, or consent to departure from, any other guaranty, for all or any of the Guaranteed Obligations;",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 57,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(d)\tany\nmanner of application of Collateral or any other collateral, or proceeds thereof, to all or any of the Guaranteed Obligations,\nor any manner of sale or other disposition of any Collateral or any other collateral for all or any of the Guaranteed Obligations\nor any other Obligations of any Loan Party under the Loan Documents or any other assets of any Loan Party or any of its Subsidiaries;",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 58,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(e)\tany\nchange, restructuring or termination of the corporate structure or existence of any Loan Party or any of its Subsidiaries;",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 59,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(f)\tany\nfailure of any Secured Party to disclose to any Loan Party any information relating to the business, condition (financial or otherwise),\noperations, performance, properties or prospects of any other Loan Party now or hereafter known to such Secured Party (each Guarantor\nwaiving any duty on the part of the Secured Parties to disclose such information);",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 60,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(g)\tthe\nfailure of any other Person to execute or deliver this Agreement, any Guaranty Supplement (as hereinafter defined) or any other\nguaranty or agreement or the release or reduction of liability of any Guarantor or other guarantor or surety with respect to the\nGuaranteed Obligations; or",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 61,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(h)\tany\nother circumstance or any existence of or reliance on any representation by any Secured Party that might otherwise constitute\na defense available to, or a discharge of, any Loan Party or any other guarantor or surety, other than irrevocable payment in\nfull in cash of the Obligations (other than (A) contingent indemnification and reimbursement obligations not yet accrued\nand payable and (B) any other obligation (including a guarantee) that is contingent in nature and that has not yet accrued).",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 62,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "This\nAgreement shall continue to be effective or be reinstated, as the case may be, if at any time any payment of any of the Guaranteed\nObligations is rescinded or must otherwise be returned by any Secured Party or any other Person upon the insolvency, bankruptcy\nor reorganization of the Borrower or any other Loan Party or otherwise, all as though such payment had not been made.",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 63,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 3. Waivers and Acknowledgments . (a) Each Guarantor hereby unconditionally and irrevocably waives, to the extent permitted\nby applicable Laws, promptness, diligence, notice of acceptance, presentment, demand for performance, notice of nonperformance,\ndefault, acceleration, protest or dishonor and any other notice with respect to any of the Guaranteed Obligations and this Agreement\nand any requirement that any Secured Party protect, secure, perfect or insure any Lien or any property subject thereto or exhaust\nany right or take any action against any Loan Party or any other Person or any Collateral.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 64,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(b) Each\nGuarantor hereby unconditionally and irrevocably waives any right to revoke this Agreement and acknowledges that this Agreement\nis continuing in nature and applies to all Guaranteed Obligations, whether existing now or in the future.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 65,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(c) Each\nGuarantor hereby unconditionally and irrevocably waives, to the extent permitted by applicable Laws, (i) any defense arising\nby reason of any claim or defense based upon an election of remedies by any Secured Party that in any manner impairs, reduces,\nreleases or otherwise adversely affects the subrogation, reimbursement, exoneration, contribution or indemnification rights of\nsuch Guarantor or other rights of such Guarantor to proceed against any of the other Loan Parties, any other guarantor or any\nother Person or any Collateral and (ii) any defense based on any right of setoff or counterclaim against or in respect of\nthe Obligations of such Guarantor hereunder.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 66,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(d) Each\nGuarantor acknowledges that the Administrative Agent may, without notice to or demand upon such Guarantor and without affecting\nthe liability of such Guarantor under this Agreement, foreclose under any mortgage by nonjudicial sale (to the extent such sale\nis permitted by applicable Laws), and each Guarantor hereby waives, to the extent permitted by applicable Laws, any defense to\nthe recovery by the Administrative Agent and the other Secured Parties against such Guarantor of any deficiency after such nonjudicial\nsale and any defense or benefits that may be afforded by applicable Laws.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 67,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(e) Each\nGuarantor hereby unconditionally and irrevocably waives any duty on the part of any Secured Party to disclose to such Guarantor\nany matter, fact or thing relating to the business, condition (financial or otherwise), operations, performance, properties or\nprospects of any other Loan Party or any of its Subsidiaries now or hereafter known by such Secured Party.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 68,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(f) Each\nGuarantor acknowledges that it will receive substantial direct and indirect benefits from the financing arrangements contemplated\nby the Loan Documents and that the waivers set forth in Section 2 and this Section 3 are knowingly made\nin contemplation of such benefits.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 69,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 4. Subrogation . Until the Obligations are indefeasibly satisfied in full, each Guarantor hereby unconditionally and irrevocably\nagrees not to exercise any rights that it may now have or hereafter acquire against the Borrower, any other Loan Party or any\nother insider guarantor that arise from the existence, payment, performance or enforcement of such Guarantor’s Obligations\nunder or in respect of this Agreement or any other Loan Document, including, without limitation, any right of subrogation, reimbursement,\nexoneration, contribution or indemnification and any right to participate in any claim or remedy of any Secured Party against\nthe Borrower, any other Loan Party or any other insider guarantor or any Collateral, whether or not such claim, remedy or right\narises in equity or under contract, statute or common law, including, without limitation, the right to take or receive from the\nBorrower, any other Loan Party or any other insider guarantor, directly or indirectly, in cash or other property or by setoff\nor in any other manner, payment or security on account of such claim, remedy or right, unless and until the occurrence of the\nTermination Date. If any amount shall be paid to any Guarantor in violation of the immediately preceding sentence at any time\nprior to the payment in full in cash of the Guaranteed Obligations and all other amounts payable under this Agreement, such amount\nshall be received and held in trust by such Guarantor for the benefit of the Secured Parties, shall be segregated from other property\nand funds of such Guarantor and shall forthwith be paid or delivered to the Administrative Agent in the same form as so received\n(with any necessary endorsement or assignment) to be credited and applied to the Guaranteed Obligations and all other amounts\npayable under this Agreement, whether matured or unmatured, in accordance with the terms of the Loan Documents, or to be held\nas Collateral for any Guaranteed Obligations or other amounts payable under this Agreement thereafter arising. If any Guarantor\nshall make payment to any Secured Party of all or any part of the Guaranteed Obligations and the Termination Date has occurred,\nthe Secured Parties will, at such Guarantor’s request and expense, execute and deliver to such Guarantor appropriate documents,\nwithout recourse and without representation or warranty, necessary or reasonably requested by such Guarantor to evidence the transfer\nby subrogation to such Guarantor of an interest in the Guaranteed Obligations resulting from such payment made by such Guarantor\npursuant to this Agreement.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 70,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 5. Payments Free and Clear of Taxes, Etc . Any and all payments by or on account of any obligation of any Guarantor hereunder\nor under any other Loan Document shall be made free and clear of and without deduction or withholding for any Taxes or Other Taxes\non the same terms and to the same extent that payments by the Borrower are required to be made free and clear of Taxes and Other\nTaxes pursuant to Section 3.01 of the Credit Agreement.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 71,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 6. Representations and Warranties . Each Guarantor hereby makes each representation and warranty made in the Loan Documents\nby the Borrower with respect to such Guarantor and each Guarantor hereby further represents and warrants that such Guarantor has,\nindependently and without reliance upon any Secured Party and based on such documents and information as it has deemed appropriate,\nmade its own credit analysis and decision to enter into this Agreement and each other Loan Document to which it is or is to be\na party, and such Guarantor has established adequate means of obtaining from each other Loan Party on a continuing basis information\npertaining to, and is now and on a continuing basis will be familiar with, the business, condition (financial or otherwise), operations,\nperformance, properties and prospects of such other Loan Party.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 72,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 7. Covenants . Each Guarantor covenants and agrees that, until the Termination Date has occurred, such Guarantor will perform\nand observe all of the terms, covenants and agreements set forth in the Loan Documents on its part to be performed or observed\nor that the Borrower has agreed in the Loan Documents to cause such Guarantor to perform or observe.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 73,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 8. Amendments, Guaranty Supplements, Etc . (a) No amendment or waiver of any provision of this Agreement and no consent to\nany departure by any Guarantor therefrom shall in any event be effective unless the same shall be in writing and signed by the\nAdministrative Agent, and shall otherwise be in accordance with Section 10.01 of the Credit Agreement.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 74,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(b) Pursuant\nto Section 6.11 of the Credit Agreement, certain Subsidiaries of Parent may be required, after the date hereof, to enter\ninto this Agreement as a Guarantor. Upon the execution and delivery by any such Person of a guaranty supplement in substantially\nthe form of Exhibit A hereto (each, a “Guaranty Supplement” ), (i) such Person shall be referred\nto as an “Additional Guarantor” and shall become and be a Guarantor hereunder, and each reference in this Agreement\nto a “Guarantor” shall also mean and be a reference to such Additional Guarantor, and each reference in any\nother Loan Document to a “Guarantor” or a “Loan Party” shall also mean and be a reference\nto such Additional Guarantor, and (ii) each reference herein to “this Agreement” , “hereunder” , “hereof” or words of like import referring to this Agreement, and each reference in any other Loan Document\nto the “Guaranty” , “thereunder” , “thereof” or words of like import referring\nto this Agreement, shall mean and be a reference to this Agreement as supplemented by such Guaranty Supplement. Each such Additional\nGuarantor shall also execute and deliver a Security Agreement Supplement to the extent required by the Loan Documents.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 75,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 9. Notices, Etc . All notices and other communications provided for hereunder shall be in writing (including facsimile transmission,\nand, to the extent permitted under Section 10.02(e) of the Credit Agreement, in an electronic medium as specified\ntherein) and mailed, faxed or otherwise delivered to it in accordance with Section 10.02 of the Credit Agreement,\nif to any Guarantor, addressed to it in care of the Borrower at the Borrower’s address specified in Schedule 10.02 of the Credit Agreement, if to any Agent or any Lender, at its address specified in Schedule 10.02 of the Credit\nAgreement or, as to any party, at such other address as shall be designated by such party in a written notice to each other party.\nAll such notices and other communications shall, when mailed, faxed or delivered by electronic mail, be effective when deposited\nin the mails, transmitted by facsimile or delivered by electronic mail, respectively. Delivery by facsimile or by electronic transmission\nof a .pdf copy of an executed counterpart of a signature page to any amendment or waiver of any provision of this Agreement or\nof any Guaranty Supplement to be executed and delivered hereunder shall be effective as delivery of an original executed counterpart\nthereof.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 76,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 10. No Waiver; Remedies . No failure on the part of any Secured Party to exercise, and no delay in exercising, any right hereunder\nshall operate as a waiver thereof; nor shall any single or partial exercise of any right hereunder preclude any other or further\nexercise thereof or the exercise of any other right. The remedies herein provided are cumulative and not exclusive of any remedies\nprovided by law.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 77,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 11. Right of Setoff . Upon the occurrence and during the continuance of any Event of Default, each Agent, each Lender and each\nof their respective Affiliates is hereby authorized upon prior written notice to each applicable Guarantor at any time and from\ntime to time, to the fullest extent permitted by applicable law, to set off and apply any and all deposits (general or special,\ntime or demand, provisional or final) (other than in accounts used exclusively for payroll or employee benefits and in other trust\nor fiduciary accounts) at any time held and other indebtedness at any time owing by such Agent, such Lender or such Affiliate\nto or for the credit or the account of any Guarantor against any and all of the Obligations of such Guarantor now or hereafter\nexisting under the Loan Documents, irrespective of whether such Agent or such Lender shall have made any demand under this Agreement\nor any other Loan Document and although such Obligations may be unmatured; provided , however , that the failure to\ngive such notice shall not affect the validity of such setoff and application. The rights of each Agent and each Lender and their\nrespective Affiliates under this Section 11 are in addition to other rights and remedies (including, without limitation,\nother rights of setoff) that such Agent, such Lender and their respective Affiliates may have.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 78,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 12. Indemnification . (a) Without limitation on any other Obligations of any Guarantor or remedies of the Secured Parties\nunder this Agreement, each Guarantor shall, to the fullest extent permitted by law, indemnify and hold harmless each Agent-Related\nPerson, each Secured Party and each of their respective Affiliates, directors, officers, employees, counsel, agents, trustees,\nand attorneys-in-fact (collectively the “Indemnitees” ) from and against any and all liabilities, obligations,\nlosses, taxes, damages, penalties, claims, demands, actions, judgments, suits, costs, expenses and disbursements of any kind or\nnature whatsoever which may at any time be imposed on, incurred by or asserted against any such Indemnitee in any way relating\nto or arising out of or in connection with or resulting from this Agreement (including, without limitation, enforcement of this\nAgreement), in all cases, whether or not caused by or arising, in whole or in part, out of the negligence of the Indemnitee and\nwhether brought by an Indemnitee, a third party or by the Borrower or any other Loan Party or any of the Borrower’s or such\nLoan Party’s directors, shareholders or creditors, and regardless of whether any Indemnitee is a party thereto and whether\nor not any of the transactions contemplated hereby are consummated, provided , that, such indemnity shall not, as to any\nIndemnitee, be available to the extent such liabilities, obligations, losses, damages, penalties, claims, demands, actions, judgments,\nsuits, costs, expenses or disbursements resulted from the gross negligence or willful misconduct of such Indemnitee or of any\naffiliate, director, officer, employee, counsel, agent or attorney-in-fact of such Indemnitee as determined by a final non-appealable\njudgment of a court of competent jurisdiction.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 79,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(b) Each\nGuarantor hereby also agrees that none of the Indemnitees shall have any liability (whether direct or indirect, in contract, tort\nor otherwise) to any of the Guarantors or any of their respective Affiliates or any of their respective officers, directors, employees,\nagents and advisors, and each Guarantor hereby agrees not to assert any claim against any Indemnitee on any theory of liability,\nfor special, indirect, consequential or punitive damages 1 arising out of or otherwise relating to the Facility, the\nactual or proposed use of the proceeds of the Term Loan, the Loan Documents or any of the transactions contemplated by the Loan\nDocuments, in all cases, whether or not caused by or arising, in whole or in part, out of the negligence of the Indemnitee and\nwhether brought by an Indemnitee, a third party or by the Borrower or any other Loan Party or any of the Borrower’s or such\nLoan Party’s directors, shareholders or creditors, and regardless of whether any Indemnitee is a party thereto and whether\nor not any of the transactions contemplated hereby are consummated, provided , that, such indemnity shall not, as to any\nIndemnitee, be available (and the foregoing agreements of each Guarantor not to assert any such claims) to the extent such liabilities,\nobligations, losses, damages, penalties, claims, demands, actions, judgments, suits, costs, expenses or disbursements resulted\nfrom or arose out of the gross negligence or willful misconduct of such Indemnitee or of any affiliate, director, officer, employee,\ncounsel, agent or attorney-in-fact of such Indemnitee as determined by a final non-appealable judgment of a court of competent\njurisdiction.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 80,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(c) Without\nprejudice to the survival of any of the other agreements of any Guarantor under this Agreement or any of the other Loan Documents,\nthe agreements and obligations of each Guarantor contained in Section 1(a) (with respect to enforcement expenses), Section 2 (with respect to the last sentence thereof), Section 5 and this Section 12 shall\nsurvive the payment in full of the Guaranteed Obligations and all of the other amounts payable under this Agreement and the resignation\nor removal of any Agent.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 81,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 13. Subordination . Each Guarantor hereby subordinates any and all debts, liabilities and other Obligations owed to such Guarantor\nby each other Loan Party (the “Subordinated Obligations” ) to the Guaranteed Obligations to the extent and in\nthe manner hereinafter set forth in this Section 13 :",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 82,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(a) Prohibited\nPayments, Etc . Except during the continuance of an Event of Default (including, without limitation, the commencement and continuation\nof any proceeding under any Bankruptcy Law relating to any other Loan Party), and subject to the terms of the Credit Agreement,\neach Guarantor may receive payments from any other Loan Party on account of the Subordinated Obligations. After the occurrence\nand during the continuance of any Event of Default (including, without limitation, the commencement and continuation of any proceeding\nunder any Bankruptcy Law relating to any other Loan Party), however, unless the Administrative Agent shall otherwise agree, no\nGuarantor shall demand, accept or take any action to collect any payment on account of the Subordinated Obligations, other than\nthe filing of proofs of claim or other similar requirements to preserve its rights as a creditor.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 83,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(b) Prior\nPayment of Guaranteed Obligations . In any proceeding under any Bankruptcy Law relating to any other Loan Party, each Guarantor\nagrees that the Secured Parties shall be entitled to receive payment in full in cash of all Guaranteed Obligations (including\nall interest and expenses accruing after the commencement of a proceeding under any Bankruptcy Law, whether or not constituting\nan allowed claim in such proceeding ( “Post Petition Interest” )) before such Guarantor receives payment of any\nSubordinated Obligations.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 84,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "1 Note for Robinson: Loan Parties are already covered\nby the Credit Agreement in Section 10.05",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 85,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(c) Turn-Over .\nAfter the occurrence and during the continuance of any Event of Default (including, without limitation, the commencement and continuation\nof any proceeding under any Bankruptcy Law relating to any other Loan Party), each Guarantor shall, if the Administrative Agent\nso requests, collect, enforce and receive payments on account of the Subordinated Obligations as trustee for the Secured Parties\nand deliver such payments to the Administrative Agent on account of the Guaranteed Obligations (including all Post Petition Interest),\ntogether with any necessary endorsements or other instruments of transfer, but without reducing or affecting in any manner the\nliability of such Guarantor under the other provisions of this Agreement.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 86,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(d) Administrative\nAgent Authorization . After the occurrence and during the continuance of any Event of Default (including, without limitation,\nthe commencement and continuation of any proceeding under any Bankruptcy Law relating to any other Loan Party), the Administrative\nAgent is authorized and empowered (but without any obligation to so do), (i) in the name of each Guarantor, to collect and\nenforce, and to submit claims in respect of, Subordinated Obligations and to apply any amounts received thereon to the Guaranteed\nObligations (including any and all Post Petition Interest), and (ii) to require each Guarantor (A) to collect and enforce,\nand to submit claims in respect of, Subordinated Obligations and (B) to pay any amounts received on such obligations to the\nAdministrative Agent for application to the Guaranteed Obligations (including any and all Post Petition Interest).",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 87,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: 0.5in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 14. Continuing Guaranty; Assignments under the Credit Agreement . This Agreement is a continuing guaranty and shall (a) remain\nin full force and effect until the Termination Date, (b) be binding upon each Guarantor, its successors and assigns and (c) inure\nto the benefit of and be enforceable by the Secured Parties and their successors, transferees and permitted assigns. Without limiting\nthe generality of clause (c) of the immediately preceding sentence, any Secured Party may assign or otherwise transfer all\nor any portion of its rights and obligations under the Credit Agreement (including, without limitation, all or any portion of\nits Term Loan Commitments, the Term Loan owing to it and the Note or Notes held by it) to any other Person, and such other Person\nshall thereupon become vested with all the benefits in respect thereof granted to such Secured Party herein or otherwise, in each\ncase as and to the extent provided in and in accordance with the requirements of Section 10.07 of the Credit Agreement. No\nGuarantor shall have the right to assign its rights hereunder or any interest herein without the prior written consent of each\nLender.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 88,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 15. Execution in Counterparts . This Agreement or any Guaranty Supplement and each amendment, waiver and consent with respect\nhereto may be executed in any number of counterparts and by different parties thereto in separate counterparts, each of which\nwhen so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.\nDelivery of an executed counterpart of a signature page to this Agreement or any Guaranty Supplement by facsimile or an electronic\ntransmission of a .pdf copy thereof shall be effective as delivery of an original executed counterpart of this Agreement or any\nGuaranty Supplement.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 89,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 16. Governing Law; Jurisdiction; Waiver of Jury Trial, Etc . (a) This Agreement shall be governed by, and construed in\naccordance with, the laws of the State of New York.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 90,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(b) ANY\nLEGAL ACTION OR PROCEEDING ARISING UNDER THIS AGREEMENT OR IN ANY WAY CONNECTED WITH OR RELATED OR INCIDENTAL TO THE DEALINGS\nOF THE UNDERSIGNED, THE SECURED PARTIES OR THE AGENTS OR ANY OF THEM WITH RESPECT TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT,\nOR THE TRANSACTIONS RELATED HERETO OR THERETO, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING, MAY BE BROUGHT IN THE COURTS\nOF THE STATE OF NEW YORK SITTING IN NEW YORK COUNTY OR OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF SUCH STATE, AND BY EXECUTION\nAND DELIVERY OF THIS AGREEMENT, EACH OF THE UNDERSIGNED CONSENTS, FOR ITSELF AND IN RESPECT OF ITS PROPERTY, TO THE EXCLUSIVE\nJURISDICTION OF THOSE COURTS. EACH OF THE UNDERSIGNED IRREVOCABLY WAIVES ANY OBJECTION TO THE LAYING OF VENUE OR BASED ON THE\nGROUNDS OF FORUM NON CONVENIENS, WHICH IT MAY NOW OR HEREAFTER HAVE TO THE BRINGING OF ANY ACTION OR PROCEEDING IN SUCH JURISDICTION\nIN RESPECT OF ANY LOAN DOCUMENT OR OTHER DOCUMENT RELATED HERETO OR THERETO.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 91,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(c) WAIVER\nOF RIGHT TO TRIAL BY JURY. EACH PARTY TO THIS AGREEMENT HEREBY EXPRESSLY WAIVES ANY RIGHT TO TRIAL BY JURY OF ANY CLAIM, DEMAND,\nACTION OR CAUSE OF ACTION ARISING UNDER THIS AGREEMENT OR ANY LOAN DOCUMENT OR IN ANY WAY CONNECTED WITH OR RELATED OR INCIDENTAL\nTO THE DEALINGS OF THE UNDERSIGNED, THE SECURED PARTIES, THE AGENTS OR ANY OF THEM WITH RESPECT TO THIS AGREEMENT OR ANY OTHER\nLOAN DOCUMENT, OR THE TRANSACTIONS RELATED HERETO OR THERETO, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING, AND WHETHER\nFOUNDED IN CONTRACT OR TORT OR OTHERWISE; AND EACH OF THE UNDERSIGNED HEREBY AGREES AND CONSENTS THAT ANY SUCH CLAIM, DEMAND,\nACTION OR CAUSE OF ACTION SHALL BE DECIDED BY COURT TRIAL WITHOUT A JURY, AND THAT ANY OF THE UNDERSIGNED, THE SECURED PARTIES\nOR THE AGENTS MAY FILE AN ORIGINAL COUNTERPART OR A COPY OF THIS SECTION 16(c) WITH ANY COURT AS WRITTEN EVIDENCE OF THE\nCONSENT OF THE UNDERSIGNED TO THE WAIVER OF THEIR RIGHT TO TRIAL BY JURY.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 92,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "[ Signature\npages follow. ]",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 93,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "In\nWitness Whereof , each Guarantor has caused this\nAgreement to be duly executed and delivered by its officer thereunto duly authorized as of the date first above written.",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 94,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Nxt-ID, Inc . , as a Guarantor",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 95,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "2",
+          "style": "padding: 0; text-align: left; font-variant: small-caps; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "By:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 96,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Name:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 97,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Title:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 98,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Fit Pay, Inc., as a Guarantor",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 99,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "2",
+          "style": "padding: 0; text-align: left; font-variant: small-caps; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "By:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 100,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Name:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 101,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Title:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 102,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "3D-ID, LLC, as a Guarantor",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 103,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "2",
+          "style": "padding: 0; text-align: left; font-variant: small-caps; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "By:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 104,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Name:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 105,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Title:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 106,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "signature\npage guaranty agreement",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 107,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Acknowledged\n    and accepted:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 108,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "3",
+          "style": "padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Sagard\n    Holdings Manager LP , as Administrative Agent",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 109,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "3",
+          "style": "padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "By:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 110,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Its\n    general partner, Sagard Holdings Manager GP Inc.",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 111,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "2",
+          "style": "padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "By:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 112,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; font: 10pt Times New Roman, Times, Serif; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Name:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 113,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; font: 10pt Times New Roman, Times, Serif; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Title:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 114,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; font: 10pt Times New Roman, Times, Serif; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Signed\n    at Toronto, Canada",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 115,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "3",
+          "style": "padding: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "signature\npage guaranty agreement",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 116,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0; text-align: center; margin-bottom: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Exhibit A",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 117,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "To\nThe",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 118,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "title",
+        "content": "Guaranty\nAgreement",
+        "level": 0,
+        "tag_name": "p",
+        "line_number": 119,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Supplement\nNo . _____ (this “Supplement” )\ndated as of __________, 20___, to the Guaranty Agreement dated as of May 24, 2018 (as the same may be amended, supplemented or\notherwise modified from time to time, the “Guaranty” ), among Nxt-ID,\nInc. , a Delaware corporation ( “Parent” ), Fit Pay, Inc. ,\na Delaware corporation, 3D-ID, LLC , a Florida limited liability company, and each\nof the subsidiaries of Parent that is a party thereto or may become party thereto pursuant to Section 8(b) of the\nGuaranty (collectively, the “Guarantors” ) and Sagard Holdings Manager\nLP ( “Sagard” ), as administrative agent (in such capacity, and together with any successors in such capacity,\nthe “Administrative Agent” ) for the Secured Parties (as defined in the Credit Agreement referred to below).\nTerms used herein without definition shall have the meanings assigned to such terms in the Guaranty.",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 120,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "A. Reference\nis made to that certain Senior Secured Credit Agreement dated as of May 24, 2018 (as amended, restated, amended and restated,\nsupplemented or otherwise modified from time to time, the “Credit Agreement” ), among LogicMark,\nLLC , a Delaware limited liability company, (the “Borrower” ), the Lenders party thereto from time to\ntime and Sagard, as Administrative Agent and Collateral Agent.",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 121,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "B. The\nGuarantors have entered into the Guaranty in order to induce the Lenders to make the Term Loan. Pursuant to Section 6.11\nof the Credit Agreement and the requirements of the “Collateral and Guarantee Requirement” set forth in the Credit\nAgreement (and subject to certain limitations provided therein) (i) Parent and each Subsidiary of Parent (excluding the Borrower)\nexisting on the Closing Date and (ii) any Person that becomes a Subsidiary of Parent after the Closing Date is required to\nenter into the Guaranty as a Guarantor. Each undersigned Subsidiary of Parent is executing this Supplement in accordance with\nthe requirements of the Credit Agreement and the Guaranty to become a Guarantor under the Guaranty as consideration for the Term\nLoan previously made.",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 122,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "Accordingly,\nthe Administrative Agent and the undersigned agree as follows:",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 123,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 1. Guaranty; Limitation of Liability . (a) The undersigned hereby absolutely, unconditionally and irrevocably guarantees\nthe punctual payment when due, whether at scheduled maturity or on the date of any required prepayment or by acceleration, demand\nor otherwise, of all Obligations of each other Loan Party now or hereafter existing under or in respect of the Loan Documents\n(including, without limitation, any extensions, modifications, substitutions, amendments or renewals of any or all of the foregoing\nObligations), whether direct or indirect, absolute or contingent, and whether for principal, interest, premiums (including, without\nlimitation, any Yield Maintenance Premium and Prepayment Premium), fees, indemnities, contract causes of action, costs, expenses\nor otherwise (such Obligations being the “Guaranteed Obligations” ), and agrees to pay any, subject to the Credit\nAgreement, and all costs and expenses (including, without limitation, reasonable and document incurred by the Administrative Agent\nor any other Secured Party in enforcing any rights under this Guaranty Supplement, the Guaranty or any other Loan Document, in\neach case as and to the extent payable under Section 10.04 the Credit Agreement (as if the obligations of the Borrower under such\nSection were obligations of the undersigned). Without limiting the generality of the foregoing, the undersigned’s liability\nshall extend to all amounts that constitute part of the Guaranteed Obligations and would be owed by any other Loan Party to any\nSecured Party under or in respect of the Loan Documents but for the fact that they are unenforceable or not allowable due to the\nexistence of a bankruptcy, reorganization or similar proceeding involving such other Loan Party.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 124,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "A- 1",
+        "level": 4,
+        "tag_name": "div",
+        "line_number": 125,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "A- 1",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 126,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "width: 34%; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(b) The\nundersigned, and by its acceptance of this Guaranty Supplement, the Administrative Agent and each other Secured Party, hereby\nconfirms that it is the intention of all such Persons that this Guaranty Supplement, the Guaranty and the Obligations of the undersigned\nhereunder and thereunder not constitute a fraudulent transfer or conveyance for purposes of Bankruptcy Law, the Uniform Fraudulent\nConveyance Act, the Uniform Fraudulent Transfer Act or any similar foreign, federal or state law to the extent applicable to this\nGuaranty Supplement, the Guaranty and the Obligations of the undersigned hereunder and thereunder. To effectuate the foregoing\nintention, the Administrative Agent, the other Secured Parties and the undersigned hereby irrevocably agree that the Obligations\nof the undersigned under this Guaranty Supplement and the Guaranty at any time shall be limited to the maximum amount as will\nresult in the Obligations of the undersigned under this Guaranty Supplement and the Guaranty not constituting a fraudulent transfer\nor conveyance under applicable foreign, federal or state law.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 127,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(c) The\nundersigned hereby unconditionally and irrevocably agrees that in the event any payment shall be required to be made to any Secured\nParty under this Guaranty Supplement, the Guaranty or any other guaranty, the undersigned will contribute, to the extent necessary\nand to the maximum extent permitted by applicable law, such amounts to each other Guarantor and each other guarantor so as to\nmaximize (up to but not exceeding the payment amount required) the aggregate amount paid to the Secured Parties under or in respect\nof the Loan Documents.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 128,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 2. Obligations Under the Guaranty . The undersigned hereby agrees, as of the date first above written, to be bound as a Guarantor\nby all of the terms and conditions of the Guaranty to the same extent as each of the other Guarantors thereunder. The undersigned\nfurther agrees, as of the date first above written, that each reference in the Guaranty to an “Additional Guarantor” or a “Guarantor” shall also mean and be a reference to the undersigned, and each reference in any other\nLoan Document to a “Guarantor” or a “Loan Party” shall also mean and be a reference to the\nundersigned.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 129,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 3. Representations and Warranties . The undersigned hereby makes each representation and warranty set forth in Section 6\nof the Guaranty to the same extent as each other Guarantor.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 130,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 4. Delivery by Facsimile; Electronic Transmission . Delivery of an executed counterpart of a signature page to this Guaranty\nSupplement by facsimile or electronic transmission of a .pdf copy shall be effective as delivery of an original executed counterpart\nof this Guaranty Supplement.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 131,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "A- 2",
+        "level": 4,
+        "tag_name": "div",
+        "line_number": 132,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "A- 2",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 133,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "width: 34%; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "section",
+        "content": "Section 5. Governing Law; Jurisdiction; Waiver of Jury Trial, Etc . (a) This Guaranty Supplement shall be governed by, and construed\nin accordance with, the laws of the State of New York.",
+        "level": 1,
+        "tag_name": "p",
+        "line_number": 134,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(b) ANY\nLEGAL ACTION OR PROCEEDING ARISING UNDER THIS GUARANTY SUPPLEMENT OR IN ANY WAY CONNECTED WITH OR RELATED OR INCIDENTAL TO THE\nDEALINGS OF THE UNDERSIGNED, THE SECURED PARTIES OR THE AGENT OR ANY OF THEM WITH RESPECT TO THIS GUARANTY SUPPLEMENT OR ANY LOAN\nDOCUMENT, OR THE TRANSACTIONS RELATED HERETO OR THERETO, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING, MAY BE BROUGHT\nIN THE COURTS OF THE STATE OF NEW YORK SITTING IN NEW YORK COUNTY OR OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF SUCH\nSTATE, AND BY EXECUTION AND DELIVERY OF THIS GUARANTY SUPPLEMENT, EACH OF THE UNDERSIGNED CONSENTS, FOR ITSELF AND IN RESPECT\nOF ITS PROPERTY, TO THE EXCLUSIVE JURISDICTION OF THOSE COURTS. EACH OF THE UNDERSIGNED IRREVOCABLY WAIVES ANY OBJECTION TO THE\nLAYING OF VENUE OR BASED ON THE GROUNDS OF FORUM NON CONVENIENS, WHICH IT MAY NOW OR HEREAFTER HAVE TO THE BRINGING OF ANY ACTION\nOR PROCEEDING IN SUCH JURISDICTION IN RESPECT OF ANY LOAN DOCUMENT OR OTHER DOCUMENT RELATED THERETO.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 135,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "subsection",
+        "content": "(c) WAIVER\nOF RIGHT TO TRIAL BY JURY. EACH PARTY TO THIS GUARANTY SUPPLEMENT HEREBY EXPRESSLY WAIVES ANY RIGHT TO TRIAL BY JURY OF ANY CLAIM,\nDEMAND, ACTION OR CAUSE OF ACTION ARISING UNDER THIS GUARANTY SUPPLEMENT OR ANY LOAN DOCUMENT OR IN ANY WAY CONNECTED WITH OR\nRELATED OR INCIDENTAL TO THE DEALINGS OF THE UNDERSIGNED, THE SECURED PARTIES, THE AGENTS OR ANY OF THEM WITH RESPECT TO THIS\nGUARANTY SUPPLEMENT OR ANY LOAN DOCUMENT, OR THE TRANSACTIONS RELATED HERETO OR THERETO, IN EACH CASE WHETHER NOW EXISTING OR\nHEREAFTER ARISING, AND WHETHER FOUNDED IN CONTRACT OR TORT OR OTHERWISE; AND THE UNDERSIGNED HEREBY AGREES AND CONSENTS THAT ANY\nSUCH CLAIM, DEMAND, ACTION OR CAUSE OF ACTION SHALL BE DECIDED BY COURT TRIAL WITHOUT A JURY, AND THAT ANY OF THE UNDERSIGNED,\nTHE SECURED PARTIES OR THE AGENTS MAY FILE AN ORIGINAL COUNTERPART OR A COPY OF THIS SECTION 5(c) WITH ANY COURT AS\nWRITTEN EVIDENCE OF THE CONSENT OF THE UNDERSIGNED TO THE WAIVER OF THEIR RIGHT TO TRIAL BY JURY.",
+        "level": 2,
+        "tag_name": "p",
+        "line_number": 136,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "[ Signature\npages follow. ]",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 137,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "content": "A- 3",
+        "level": 4,
+        "tag_name": "div",
+        "line_number": 138,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "A- 3",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 139,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "width: 34%; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "Very truly yours,",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 140,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "2",
+          "style": "padding: 0; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "[ Name of Additional Guarantor ]",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 141,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "2",
+          "style": "padding: 0; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "By:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 142,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "Name:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 143,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "Title:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 144,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "signature\npage supplement no. [  ] to guaranty agreement",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 145,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Acknowledged and accepted:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 146,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "3",
+          "style": "padding: 0; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "table",
+        "content": "Sagard Holdings Manager LP , as Administrative Agent",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 147,
+        "confidence": 0.8,
+        "attributes": {
+          "colspan": "3",
+          "style": "padding: 0 0 0 10pt; text-indent: -10pt"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "By:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 148,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "Name:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 149,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "Title:",
+        "level": 4,
+        "tag_name": "td",
+        "line_number": 150,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "padding: 0 0 1.5pt; text-indent: 0"
+        },
+        "metadata": {},
+        "children": []
+      },
+      {
+        "type": "signature",
+        "content": "signature\npage supplement no. [  ] to guaranty agreement",
+        "level": 4,
+        "tag_name": "p",
+        "line_number": 151,
+        "confidence": 0.8,
+        "attributes": {
+          "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"
+        },
+        "metadata": {},
+        "children": []
+      }
+    ],
+    "statistics": {
+      "total_elements": 152,
+      "element_types": {
+        "metadata": 1,
+        "paragraph": 23,
+        "title": 3,
+        "table": 44,
+        "section": 39,
+        "subsection": 28,
+        "signature": 14
+      },
+      "structure_depth": 4
+    }
+  },
+  "cross_references": [
+    {
+      "source_id": "metadata_0",
+      "target_ref": "10",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit 10",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_13",
+      "target_ref": "1",
+      "type": "section_ref",
+      "text_span": "Section 1",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_15",
+      "target_ref": "2",
+      "type": "section_ref",
+      "text_span": "Section 2",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_17",
+      "target_ref": "3",
+      "type": "section_ref",
+      "text_span": "Section 3",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_19",
+      "target_ref": "4",
+      "type": "section_ref",
+      "text_span": "Section 4",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_21",
+      "target_ref": "5",
+      "type": "section_ref",
+      "text_span": "Section 5",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_23",
+      "target_ref": "6",
+      "type": "section_ref",
+      "text_span": "Section 6",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_25",
+      "target_ref": "7",
+      "type": "section_ref",
+      "text_span": "Section 7",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_27",
+      "target_ref": "8",
+      "type": "section_ref",
+      "text_span": "Section 8",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_29",
+      "target_ref": "9",
+      "type": "section_ref",
+      "text_span": "Section 9",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_31",
+      "target_ref": "10",
+      "type": "section_ref",
+      "text_span": "Section 10",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_33",
+      "target_ref": "11",
+      "type": "section_ref",
+      "text_span": "Section 11",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_35",
+      "target_ref": "12",
+      "type": "section_ref",
+      "text_span": "Section 12",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_37",
+      "target_ref": "13",
+      "type": "section_ref",
+      "text_span": "Section 13",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_39",
+      "target_ref": "14",
+      "type": "section_ref",
+      "text_span": "Section 14",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_41",
+      "target_ref": "15",
+      "type": "section_ref",
+      "text_span": "Section 15",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_43",
+      "target_ref": "16",
+      "type": "section_ref",
+      "text_span": "Section 16",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_45",
+      "target_ref": "A",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit A",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_47",
+      "target_ref": "8",
+      "type": "section_ref",
+      "text_span": "Section 8",
+      "position": 314,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_47",
+      "target_ref": "8",
+      "type": "legal_ref",
+      "text_span": "pursuant to Section 8",
+      "position": 302,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_47",
+      "target_ref": "below",
+      "type": "positional_ref",
+      "text_span": "below",
+      "position": 327,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_47",
+      "target_ref": "below",
+      "type": "positional_ref",
+      "text_span": "below",
+      "position": 607,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_48",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 79,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_48",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 404,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_49",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 476,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_49",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 606,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_51",
+      "target_ref": "1",
+      "type": "section_ref",
+      "text_span": "Section 1",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_51",
+      "target_ref": "10.04",
+      "type": "section_ref",
+      "text_span": "Section 10.04",
+      "position": 1495,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_51",
+      "target_ref": "10.04",
+      "type": "legal_ref",
+      "text_span": "under Section 10.04",
+      "position": 1489,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_51",
+      "target_ref": "foregoing",
+      "type": "positional_ref",
+      "text_span": "foregoing",
+      "position": 513,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_51",
+      "target_ref": "foregoing",
+      "type": "positional_ref",
+      "text_span": "foregoing",
+      "position": 1664,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_51",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 1404,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 235,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 331,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 554,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 998,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "foregoing",
+      "type": "positional_ref",
+      "text_span": "foregoing",
+      "position": 583,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 45,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 182,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 501,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 745,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_52",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 869,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_53",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 151,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_54",
+      "target_ref": "2",
+      "type": "section_ref",
+      "text_span": "Section 2",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_54",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 406,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_54",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 656,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_54",
+      "target_ref": "This Agreement",
+      "type": "document_self_ref",
+      "text_span": "This Agreement",
+      "position": 852,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_54",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 963,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_58",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 82,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_61",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 102,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_61",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 58,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_63",
+      "target_ref": "This\nAgreement",
+      "type": "document_self_ref",
+      "text_span": "This\nAgreement",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_64",
+      "target_ref": "3",
+      "type": "section_ref",
+      "text_span": "Section 3",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_64",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 377,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_65",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 85,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_65",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 122,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_66",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 670,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_67",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 175,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_69",
+      "target_ref": "2",
+      "type": "section_ref",
+      "text_span": "Section 2",
+      "position": 195,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_69",
+      "target_ref": "3",
+      "type": "section_ref",
+      "text_span": "Section 3",
+      "position": 214,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_70",
+      "target_ref": "4",
+      "type": "section_ref",
+      "text_span": "Section 4",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_70",
+      "target_ref": "preceding",
+      "type": "positional_ref",
+      "text_span": "preceding",
+      "position": 1253,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_70",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 409,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_70",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 1387,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_70",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 1818,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_70",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 2006,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_70",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 2589,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_71",
+      "target_ref": "5",
+      "type": "section_ref",
+      "text_span": "Section 5",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_71",
+      "target_ref": "3.01",
+      "type": "section_ref",
+      "text_span": "Section 3.01",
+      "position": 412,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_71",
+      "target_ref": "3.01",
+      "type": "legal_ref",
+      "text_span": "pursuant to Section 3.01",
+      "position": 400,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_71",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 124,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_72",
+      "target_ref": "6",
+      "type": "section_ref",
+      "text_span": "Section 6",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_72",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 450,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_73",
+      "target_ref": "7",
+      "type": "section_ref",
+      "text_span": "Section 7",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_74",
+      "target_ref": "8",
+      "type": "section_ref",
+      "text_span": "Section 8",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_74",
+      "target_ref": "10.01",
+      "type": "section_ref",
+      "text_span": "Section 10.01",
+      "position": 322,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_74",
+      "target_ref": "10.01",
+      "type": "legal_ref",
+      "text_span": "in accordance with Section 10.01",
+      "position": 303,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_74",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 98,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "6.11",
+      "type": "section_ref",
+      "text_span": "Section 6.11",
+      "position": 16,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "A",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit A",
+      "position": 275,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 117,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 428,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 728,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 758,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 772,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "thereunder",
+      "type": "document_ref",
+      "text_span": "thereunder",
+      "position": 900,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 916,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 139,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 461,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 739,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 817,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 961,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_75",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 1010,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "9",
+      "type": "section_ref",
+      "text_span": "Section 9",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "10.02",
+      "type": "section_ref",
+      "text_span": "Section 10.02",
+      "position": 176,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "10.02",
+      "type": "section_ref",
+      "text_span": "Section 10.02",
+      "position": 330,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "10.02",
+      "type": "legal_ref",
+      "text_span": "under Section 10.02",
+      "position": 170,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "10.02",
+      "type": "legal_ref",
+      "text_span": "in accordance with Section 10.02",
+      "position": 311,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "10",
+      "type": "exhibit_ref",
+      "text_span": "Schedule 10",
+      "position": 469,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "10",
+      "type": "exhibit_ref",
+      "text_span": "Schedule 10",
+      "position": 568,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 76,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 256,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 1178,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 1256,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_76",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 1104,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_77",
+      "target_ref": "10",
+      "type": "section_ref",
+      "text_span": "Section 10",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_77",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 129,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_77",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 166,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_77",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 228,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_77",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 278,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_77",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 334,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_78",
+      "target_ref": "11",
+      "type": "section_ref",
+      "text_span": "Section 11",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_78",
+      "target_ref": "11",
+      "type": "section_ref",
+      "text_span": "Section 11",
+      "position": 1187,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_78",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 893,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_79",
+      "target_ref": "12",
+      "type": "section_ref",
+      "text_span": "Section 12",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_79",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 136,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_79",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 815,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_79",
+      "target_ref": "this\nAgreement",
+      "type": "document_self_ref",
+      "text_span": "this\nAgreement",
+      "position": 877,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_80",
+      "target_ref": "foregoing",
+      "type": "positional_ref",
+      "text_span": "foregoing",
+      "position": 1178,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_81",
+      "target_ref": "1",
+      "type": "section_ref",
+      "text_span": "Section 1",
+      "position": 205,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_81",
+      "target_ref": "2",
+      "type": "section_ref",
+      "text_span": "Section 2",
+      "position": 258,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_81",
+      "target_ref": "5",
+      "type": "section_ref",
+      "text_span": "Section 5",
+      "position": 313,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_81",
+      "target_ref": "12",
+      "type": "section_ref",
+      "text_span": "Section 12",
+      "position": 332,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_81",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 304,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_81",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 92,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_81",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 450,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_82",
+      "target_ref": "13",
+      "type": "section_ref",
+      "text_span": "Section 13",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_82",
+      "target_ref": "13",
+      "type": "section_ref",
+      "text_span": "Section 13",
+      "position": 290,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_82",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 260,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_85",
+      "target_ref": "10.05",
+      "type": "section_ref",
+      "text_span": "Section 10.05",
+      "position": 81,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_86",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 731,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_88",
+      "target_ref": "14",
+      "type": "section_ref",
+      "text_span": "Section 14",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_88",
+      "target_ref": "10.07",
+      "type": "section_ref",
+      "text_span": "Section 10.07",
+      "position": 989,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_88",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 842,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_88",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 879,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_88",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 1083,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_88",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 1109,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_88",
+      "target_ref": "preceding",
+      "type": "positional_ref",
+      "text_span": "preceding",
+      "position": 447,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_88",
+      "target_ref": "This Agreement",
+      "type": "document_self_ref",
+      "text_span": "This Agreement",
+      "position": 74,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_89",
+      "target_ref": "15",
+      "type": "section_ref",
+      "text_span": "Section 15",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_89",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 548,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_89",
+      "target_ref": "This Agreement",
+      "type": "document_self_ref",
+      "text_span": "This Agreement",
+      "position": 40,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_89",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 447,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_89",
+      "target_ref": "this Agreement",
+      "type": "document_self_ref",
+      "text_span": "this Agreement",
+      "position": 625,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_90",
+      "target_ref": "16",
+      "type": "section_ref",
+      "text_span": "Section 16",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_90",
+      "target_ref": "This Agreement",
+      "type": "document_self_ref",
+      "text_span": "This Agreement",
+      "position": 73,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_91",
+      "target_ref": "THIS AGREEMENT",
+      "type": "document_self_ref",
+      "text_span": "THIS AGREEMENT",
+      "position": 49,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_91",
+      "target_ref": "THIS AGREEMENT",
+      "type": "document_self_ref",
+      "text_span": "THIS AGREEMENT",
+      "position": 219,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_91",
+      "target_ref": "THIS AGREEMENT",
+      "type": "document_self_ref",
+      "text_span": "THIS AGREEMENT",
+      "position": 544,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_92",
+      "target_ref": "16",
+      "type": "section_ref",
+      "text_span": "SECTION 16",
+      "position": 845,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_92",
+      "target_ref": "THIS AGREEMENT",
+      "type": "document_self_ref",
+      "text_span": "THIS AGREEMENT",
+      "position": 52,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_92",
+      "target_ref": "THIS AGREEMENT",
+      "type": "document_self_ref",
+      "text_span": "THIS AGREEMENT",
+      "position": 180,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_92",
+      "target_ref": "THIS AGREEMENT",
+      "type": "document_self_ref",
+      "text_span": "THIS AGREEMENT",
+      "position": 369,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "signature_94",
+      "target_ref": "hereof",
+      "type": "document_ref",
+      "text_span": "hereof",
+      "position": 12,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "signature_94",
+      "target_ref": "above",
+      "type": "positional_ref",
+      "text_span": "above",
+      "position": 158,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "signature_94",
+      "target_ref": "this\nAgreement",
+      "type": "document_self_ref",
+      "text_span": "this\nAgreement",
+      "position": 47,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_120",
+      "target_ref": "8",
+      "type": "section_ref",
+      "text_span": "Section 8",
+      "position": 477,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_120",
+      "target_ref": "8",
+      "type": "legal_ref",
+      "text_span": "pursuant to Section 8",
+      "position": 465,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_120",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 799,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_120",
+      "target_ref": "below",
+      "type": "positional_ref",
+      "text_span": "below",
+      "position": 780,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_122",
+      "target_ref": "6.11",
+      "type": "section_ref",
+      "text_span": "Section 6.11",
+      "position": 115,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_122",
+      "target_ref": "6.11",
+      "type": "legal_ref",
+      "text_span": "Pursuant to Section 6.11",
+      "position": 103,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "paragraph_122",
+      "target_ref": "herein",
+      "type": "document_ref",
+      "text_span": "herein",
+      "position": 299,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_124",
+      "target_ref": "1",
+      "type": "section_ref",
+      "text_span": "Section 1",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_124",
+      "target_ref": "10.04",
+      "type": "section_ref",
+      "text_span": "Section 10.04",
+      "position": 1195,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_124",
+      "target_ref": "10.04",
+      "type": "legal_ref",
+      "text_span": "under Section 10.04",
+      "position": 1189,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_124",
+      "target_ref": "foregoing",
+      "type": "positional_ref",
+      "text_span": "foregoing",
+      "position": 507,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_124",
+      "target_ref": "foregoing",
+      "type": "positional_ref",
+      "text_span": "foregoing",
+      "position": 1365,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_127",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 271,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_127",
+      "target_ref": "thereunder",
+      "type": "document_ref",
+      "text_span": "thereunder",
+      "position": 285,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_127",
+      "target_ref": "hereunder",
+      "type": "document_ref",
+      "text_span": "hereunder",
+      "position": 605,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_127",
+      "target_ref": "thereunder",
+      "type": "document_ref",
+      "text_span": "thereunder",
+      "position": 619,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_127",
+      "target_ref": "foregoing",
+      "type": "positional_ref",
+      "text_span": "foregoing",
+      "position": 649,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_129",
+      "target_ref": "2",
+      "type": "section_ref",
+      "text_span": "Section 2",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_129",
+      "target_ref": "thereunder",
+      "type": "document_ref",
+      "text_span": "thereunder",
+      "position": 240,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_129",
+      "target_ref": "above",
+      "type": "positional_ref",
+      "text_span": "above",
+      "position": 96,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_129",
+      "target_ref": "above",
+      "type": "positional_ref",
+      "text_span": "above",
+      "position": 305,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_130",
+      "target_ref": "3",
+      "type": "section_ref",
+      "text_span": "Section 3",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_130",
+      "target_ref": "6",
+      "type": "section_ref",
+      "text_span": "Section 6",
+      "position": 119,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_131",
+      "target_ref": "4",
+      "type": "section_ref",
+      "text_span": "Section 4",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "section_134",
+      "target_ref": "5",
+      "type": "section_ref",
+      "text_span": "Section 5",
+      "position": 0,
+      "confidence": 0.8,
+      "detection_layer": 0
+    },
+    {
+      "source_id": "subsection_136",
+      "target_ref": "5",
+      "type": "section_ref",
+      "text_span": "SECTION 5",
+      "position": 861,
+      "confidence": 0.8,
+      "detection_layer": 0
+    }
+  ],
+  "cross_reference_statistics": {
+    "total": 182,
+    "by_type": {
+      "exhibit_ref": 5,
+      "section_ref": 60,
+      "legal_ref": 9,
+      "positional_ref": 15,
+      "document_ref": 42,
+      "document_self_ref": 51
+    }
+  },
+  "statistics": {
+    "format": "html",
+    "quality_score": 0.8999999999999999,
+    "total_elements": 152,
+    "element_types": {
+      "metadata": 1,
+      "paragraph": 23,
+      "title": 3,
+      "table": 44,
+      "section": 39,
+      "subsection": 28,
+      "signature": 14
+    },
+    "structure_depth": 4,
+    "cross_references": {
+      "total": 182,
+      "by_type": {
+        "exhibit_ref": 5,
+        "section_ref": 60,
+        "legal_ref": 9,
+        "positional_ref": 15,
+        "document_ref": 42,
+        "document_self_ref": 51
+      }
+    },
+    "warnings": [],
+    "file_size": 127755
+  },
+  "enhanced_at": "2025-06-14T01:48:05.207109"
+}

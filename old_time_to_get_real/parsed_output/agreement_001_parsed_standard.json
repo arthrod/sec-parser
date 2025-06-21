@@ -1,0 +1,71 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TitleElement",
+    "text": "Exhibit 10.1",
+    "level": 0
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "AMENDMENT TO EMPLOYMENT AGREEMENT",
+    "level": 1
+  },
+  {
+    "id": "element_0002",
+    "cls": "TextElement",
+    "text": "This Amendment (the “Amendment”) is made as of February 21, 2024 , and amends the Employment Agreement dated April 22, 2021 between Myomo, a Delaware corporation (the “Company”), and David Henry (the “Executive”) (such Agreement, the “Employment Agreement”). NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, and in consideration for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree: 1.All references in the Employment Agreement to “Commencement Date” shall mean February 21, 2024.2.Section 2(a) of the Employment Agreement is amended by replacing “$221,500” with “$260,000, and deleting the words “which shall be effective July 1, 2021.”3.Section 2(b) of the Employment Agreement is hereby amended by replacing “75%” with “55%.”4.In Section 5(a) of the Employment Agreement, the following two sentences are added between the heading “Change in Control” and the words “During the Term”:During the Term, if the closing of a Change in Control occurs, and if Executive is engaged as the Chief Financial Officer at such time, notwithstanding anything to the contrary in any applicable option agreement or stock-based award agreement: (i) all time-based stock options and other stock-based awards subject to time-based vesting held by the Executive shall immediately accelerate and become fully exercisable or non-forfeitable as of the closing date of such Change in Control; and (ii) the measurement date of any unvested performance-based stock awards shall accelerate to the closing date of a Change in Control.  If upon such acceleration of the measurement date, the Executive is entitled to vesting of all or a portion of such performance-based stock award, such earned portion shall immediately accelerate and become fully exercisable or non-forfeitable as of the closing date of such Change in Control.5.Section 5(a)(ii) of the Employment Agreement is hereby deleted.6.Section 7(b) of the Employment Agreement is amended by deleting the words between “For avoidance of doubt” and “made under seal.” and replacing them with the following language:Nothing contained in this Agreement, any other agreement with the Company, or any Company policy limits the Executive’s ability, with or without notice to the Company, to: (i) file a charge or complaint with any federal, state or local governmental agency or commission (a “Government Agency”), including without limitation, the Equal Employment Opportunity Commission, the National Labor Relations Board or the Securities and Exchange Commission; (ii) communicate with any Government Agency or otherwise participate in any investigation or proceeding that may be conducted by any Government Agency, including by providing non-privileged documents or information; (iii) exercise any rights under Section 7 of the National Labor Relations Act, which are available to non-supervisory employees, including assisting co-workers with or discussing any employment issue as part of engaging in concerted activities for the purpose of mutual aid or protection; (iv) discuss or disclose information about unlawful acts in the workplace, such as harassment or discrimination or any other conduct that the Executive have reason to believe is unlawful; or (v) testify truthfully in a legal proceeding.  Any such communications and disclosures must not violate applicable law and the information disclosed must not have been obtained through a communication that was subject to the attorney-client privilege (unless disclosure of that information would otherwise be permitted consistent with such privilege or applicable law). In addition, for the avoidance of doubt, pursuant to the federal Defend Trade Secrets Act of 2016, the Executive shall not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that (i) is made (A) in confidence to a federal, state or local government official, either directly or indirectly, or to an attorney and (B) solely for the purpose of reporting or investigating a suspected violation of law ; or (ii) is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal7.Except as expressly amended in this Amendment, the Employment Agreement remains in full effect.  The Amendment, the Employment Agreement (as amended) and any confidentiality and restrictive covenant obligations Executive has to the Company constitute the entire agreement between the parties with respect to the subject matter hereof and supersede all prior agreements between the parties concerning such subject matter.IN WITNESS WHEREOF, the parties have executed this Amendment effective on the date and year first above written."
+  },
+  {
+    "id": "element_0003",
+    "cls": "TitleElement",
+    "text": "2",
+    "level": 2
+  },
+  {
+    "id": "element_0004",
+    "cls": "TitleElement",
+    "text": "Myomo, Inc.",
+    "level": 0
+  },
+  {
+    "id": "element_0005",
+    "cls": "TitleElement",
+    "text": "By:\t/s/ Paul R. Gudonis__",
+    "level": 3
+  },
+  {
+    "id": "element_0006",
+    "cls": "TextElement",
+    "text": "Paul R. Gudonis"
+  },
+  {
+    "id": "element_0007",
+    "cls": "TitleElement",
+    "text": "Its: CEO\t____________",
+    "level": 3
+  },
+  {
+    "id": "element_0008",
+    "cls": "TitleElement",
+    "text": "Executive",
+    "level": 0
+  },
+  {
+    "id": "element_0009",
+    "cls": "TitleElement",
+    "text": "/s/  David Henry___________",
+    "level": 3
+  },
+  {
+    "id": "element_0010",
+    "cls": "TextElement",
+    "text": "David Henry"
+  },
+  {
+    "id": "element_0011",
+    "cls": "TitleElement",
+    "text": "3",
+    "level": 2
+  }
+]

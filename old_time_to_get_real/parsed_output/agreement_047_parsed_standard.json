@@ -1,0 +1,473 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TitleElement",
+    "text": "EXHIBIT 10.31",
+    "level": 0
+  },
+  {
+    "id": "element_0001",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0002",
+    "cls": "TitleElement",
+    "text": "Form RSU-016",
+    "level": 1
+  },
+  {
+    "id": "element_0003",
+    "cls": "TextElement",
+    "text": "RESTRICTED STOCK UNIT AWARD AGREEMENT under the FIRST SOLAR, INC. 2020 OMNIBUS INCENTIVE COMPENSATION PLAN, between First Solar, Inc. (the “Company”), a Delaware corporation, and the individual (the “Participant”) set forth on the Grant Notice which incorporates this Form RSU-016 by reference.This Restricted Stock Unit Award Agreement including any addendum hereto and the Grant Notice (collectively, this “Award Agreement”) set forth the terms and conditions of an award of Restricted Stock Units (this “Award”) that is being granted to the Participant set forth on the Grant Notice on the date set forth in the Grant Notice (such date, the “Grant Date”), under the terms of the First Solar, Inc. 2020 Omnibus Incentive Compensation Plan (the “Plan”) for the number of restricted stock units (each such restricted stock unit, an “RSU”) set forth in the Grant Notice. Each RSU constitutes an unfunded and unsecured promise of the Company to deliver (or cause to be delivered) to the Participant one share of the common stock of the Company (a “Share”), subject to all the terms and conditions of this Award Agreement and the Plan, including without limitation, THE DISPUTE RESOLUTION PROVISIONS SET FORTH IN SECTION 15 OF THIS AWARD AGREEMENT.    SECTION 1.     The Plan. This Award is made pursuant to the Plan, all the terms of which are hereby incorporated in this Award Agreement. In the event of any conflict between the terms of the Plan, on the one hand, and the terms of this Award Agreement, on the other hand, the terms of the Plan shall govern.SECTION 2.     Definitions. The following terms are defined in this Award Agreement, and shall when capitalized have the meaning ascribed to them in this Award Agreement in the locations set forth below."
+  },
+  {
+    "id": "element_0004",
+    "cls": "TableElement",
+    "text": "Defined TermCross-Ref.Defined TermCross-Ref.“Addendum”Section 19“Participant”Paragraph 1“Award”Paragraph 2“Plan”Paragraph 2“Award Agreement”Paragraph 2“RSU”Paragraph 2“Business Day”Section 16“Share”Paragraph 2“Company”Paragraph 1“Tax-Related Items”Section 7“Employer”Section 7“Vesting Date”Section 3(a)“Grant Date”Paragraph 2"
+  },
+  {
+    "id": "element_0005",
+    "cls": "TextElement",
+    "text": "Capitalized terms that are not defined in this Award Agreement shall have the meanings used or defined in the Plan."
+  },
+  {
+    "id": "element_0006",
+    "cls": "TitleElement",
+    "text": "SECTION 3.     Vesting and Delivery of Shares",
+    "level": 1
+  },
+  {
+    "id": "element_0007",
+    "cls": "TextElement",
+    "text": "(a)     Vesting. Except as otherwise determined by the Committee in its sole discretion, the Participant shall vest in the number of RSUs that corresponds to the vesting date(s) set forth in the Grant Notice (each, a “Vesting Date”); provided that the Participant is actively employed by the Company or an Affiliate on the relevant Vesting Date. For purposes of this Award Agreement, an “Affiliate” of the Company is an individual or entity that directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, the Company. (b)     Delivery of Shares. On or shortly following, but in no event later than 30 days after, each Vesting Date, the Company shall deliver to the Participant one Share for each RSU that vests on such date. SECTION 4.     Forfeiture of RSUs. Unless the Committee determines otherwise, or unless otherwise provided in the Grant Notice, a written agreement between the Company and the Participant or any other plan, policy or program of the Company then in effect, if the Participant’s rights with respect to any RSUs awarded pursuant to this Award Agreement do not vest prior to the date on which the Participant’s employment or service relationship with the Company and/or its Affiliates terminates for any reason, the Participant’s rights with respect to such RSUs shall immediately terminate, and the Participant will not be entitled to receive any Shares or any other payments or benefits with respect thereto (as further described in Section 9(k) below).SECTION 5.     Voting Rights; Dividend Equivalents. The Participant shall not be entitled to exercise any voting rights with respect to an RSU and shall not be entitled to receive dividends, dividend equivalents or other distributions with respect to the Shares underlying such RSU prior to the date on which the Participant’s rights with respect to the RSU have become vested and Shares are delivered to the Participant. SECTION 6.     Non-Transferability of RSUs. Unless otherwise provided by the Committee in its discretion, RSUs may not be sold, assigned, alienated, transferred, pledged, attached or otherwise encumbered by the Participant. Any purported sale, assignment, alienation, transfer, pledge, attachment or other encumbrance of an RSU in violation of the provisions of this Section 6 shall be void."
+  },
+  {
+    "id": "element_0008",
+    "cls": "TitleElement",
+    "text": "SECTION 7.     Responsibility for Taxes.",
+    "level": 1
+  },
+  {
+    "id": "element_0009",
+    "cls": "TextElement",
+    "text": "(a)     Regardless of any action the Company or the Participant’s employer, if other than the Company (the “Employer”), takes with respect to any or all federal, state or local income tax, social security contributions, payroll tax, fringe benefits tax, payment on account or other tax-related items related to the Participant’s participation in the Plan that are legally applicable to the Participant (“Tax-Related Items”), the Participant acknowledges that the ultimate liability for all Tax-Related Items is and remains the Participant’s responsibility and that such liability may exceed the amount actually withheld, if any, by the Company or the Employer. The Participant further acknowledges that the Company and/or the Employer (i) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the RSUs, including, without limitation, the grant, vesting or settlement of the RSUs, the issuance of Shares on the relevant Vesting Date, the subsequent sale of Shares acquired pursuant to such issuance and the receipt of any dividends; and (ii) do not commit to and are under no obligation to structure the terms of the Award or any aspect of the RSUs to reduce or eliminate the Participant’s liability for Tax-Related Items or achieve any particular tax result. Further, if the Participant becomes subject to tax and/or social security contributions in more than one jurisdiction, the Participant acknowledges that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.    (b)     Prior to any relevant taxable, tax and/or social security contribution withholding event, the Participant shall pay or make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items. In this regard, the Participant authorizes the Company or its agent to satisfy any applicable withholding obligations with regards to Tax-Related Items by withholding a number of Shares to be issued upon settlement of the RSUs. If, for any reason, the Shares that would otherwise be deliverable to the Participant upon settlement of the RSUs would be insufficient to satisfy the tax withholding obligations, or if such withholding in Shares is problematic under applicable tax or securities law or there is a substantial likelihood that the use of such form of payment would result in adverse accounting treatment for the Company, the Participant authorizes: (i) the Company and any brokerage firm determined acceptable to the Company to sell on the Participant’s behalf a whole number of Shares from those Shares to be issued to the Participant as the Company determines to be appropriate to generate cash proceeds sufficient to satisfy any applicable withholding obligations for Tax-Related Items; (ii) the Company, the Employer and any Affiliate to withhold an amount from the Participant’s wages or other compensation or require the Participant to make a cash payment sufficient to fully satisfy any applicable withholding obligations for Tax-Related Items; and (iii) the Company, the Employer and any Affiliate to satisfy any applicable withholding obligations for Tax-Related Items by any other method of withholding determined by the Company and, to the extent required by applicable law or the Plan, approved by the Committee.    (c)     Depending on the withholding method, the Company may withhold or account for Tax-Related Items by considering statutory or other applicable withholding rates, including minimum or maximum rates, in the jurisdictions applicable to the Participant. In no event will the Company withhold more than the maximum amount necessary to satisfy any applicable withholding requirements in the applicable jurisdiction. In the event of over-withholding, the Participant may receive a refund of any over-withheld amount in cash (with no entitlement to the equivalent in Shares), or if not refunded, the Participant may seek a refund from the local tax authorities. If the obligation for Tax-Related Items is satisfied by withholding in Shares, the Participant will be deemed, for tax and/or social security contributions and other purposes, to have been issued the full number of Shares subject to the vested RSUs, notwithstanding that a number of Shares are held back solely for the purposes of paying the Tax-Related Items due as a result of any aspect of the Participant’s participation in the Plan.    (d)     The Participant shall pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold or account for as a result of the Participant’s participation in the Plan that cannot be satisfied by the means previously described. The Participant expressly acknowledges that the delivery of Shares pursuant to Section 3(b) above is conditioned on satisfaction of all Tax-Related Items in accordance with this Section 7, and that the Company may refuse to deliver the Shares if the Participant fails to comply with the Participant’s obligations in connection with the Tax-Related Items."
+  },
+  {
+    "id": "element_0010",
+    "cls": "TitleElement",
+    "text": "SECTION 8.     Consents and Legends.",
+    "level": 1
+  },
+  {
+    "id": "element_0011",
+    "cls": "TextElement",
+    "text": "(a)     Consents. The Participant’s rights in respect of the RSUs are conditioned on the receipt to the full satisfaction of the Committee of any required consents that the Committee may determine to be necessary or advisable (including, without limitation, the Participant’s consent to the Company’s supplying to any third-party recordkeeper of the Plan such personal information as the Committee deems advisable to administer the Plan, as may further be described to the extent applicable discussing applicable data privacy considerations in an addendum to this Award Agreement, as described in Section 19). (b)     Legends. The Company may affix to certificates for Shares issued pursuant to this Award Agreement any legend that the Committee determines to be necessary or advisable (including to reflect any restrictions to which the Participant may be subject under any applicable securities laws). The Company may advise the applicable transfer agent to place a stop order against any legended Shares.SECTION 9.     Nature of Award. As a condition to receipt of this Award, the Participant acknowledges, understands and agrees that:(a)     the Plan is established voluntarily by the Company, is discretionary in nature and may be modified, amended, suspended or terminated by the Company at any time, unless otherwise provided in the Plan;(b)     this Award is exceptional, voluntary and occasional and does not create any contractual or other right to receive future awards of RSUs, or benefits in lieu of RSUs, even if RSUs have been granted in the past; (c)     all decisions with respect to future RSU or other awards, if any, will be at the sole discretion of the Company; (d)     the Participant’s participation in the Plan shall not create a right to further employment with the Employer and shall not interfere with the ability of the Employer to terminate the Participant’s employment or other service relationship at any time; (e)     the Participant’s participation in the Plan is voluntary; (f)     the RSUs and the Shares subject to the RSUs, and the income from and value of same, are not intended to replace any pension rights or compensation;(g)     the RSUs and the Shares subject to the RSUs, and the income from and value of same, are not part of normal or expected compensation or salary for any purposes, including, without limitation, calculating any severance, resignation, termination, redundancy, dismissal, end-of-service payments, bonuses, long-service awards, holiday pay, pension or retirement or welfare benefits or similar payments and in no event should be considered as compensation for, or relating in any way to, past services for the Company, the Employer, or any Affiliate; (h)     this Award and the Participant’s participation in the Plan will not be interpreted to form or amend an employment or service agreement or relationship with the Company, the Employer or any Affiliate; (i)     the future value of the underlying Shares is unknown and cannot be predicted with certainty; (j)     no claim or entitlement to compensation or damages shall arise from forfeiture of the RSUs resulting from termination of the Participant’s employment or other service relationship by the Company or the Employer (for any reason whatsoever, whether or not later found to be invalid or in breach of employment laws in the jurisdiction where the Participant is employed or the terms of the Participant’s employment or service agreement, if any) or from any forfeiture of RSUs or recoupment of Shares pursuant to Section 29 of this Award Agreement; (k)     except as otherwise provided by the Committee or the Grant Notice, in the event of termination of the Participant’s employment or service relationship, the Participant’s right to vest in the RSUs under the Plan, if any, will terminate effective as of the date the Participant is no longer actively providing services to the Company, the Employer or any Affiliate (regardless of the reason for such termination and whether or not later found to be invalid or in breach of employment laws in the jurisdiction where the Participant is employed or the terms of the Participant’s employment agreement, if any), and unless otherwise expressly provided in this Award Agreement or determined by the Company, the Participant’s right to vest in the RSU under the Plan, if any, will terminate as of such date and will not be extended by any notice period (e.g., the Participant’s period of service would not include any contractual notice period or any period of “garden leave” or similar period mandated under employment laws in the jurisdiction where the Participant is employed or the terms of the Participant’s employment or service agreement, if any); the Committee shall have the exclusive discretion to determine when the Participant is no longer actively providing services for purposes of the RSUs (including whether the Participant may still be considered to be providing services while on a leave of absence); (l)     unless otherwise agreed with the Company, the RSUs and Shares subject to the RSUs, and the income from and value of same, are not granted as consideration for, or in connection with, the service the Participant may provide as a director of an Affiliate;(m)     the RSUs and the benefits under the Plan, if any, will not automatically transfer to a successor company in the case of a Change of Control or a merger, takeover, or transfer of liability of the Employer; and (n)     neither the Company nor the Employer or any Affiliate shall be liable for any foreign exchange rate fluctuation between the Participant’s local currency and the United States Dollar that may affect the value of the Award or of any amounts due to the Participant for the settlement of the RSUs or the subsequent sale of any Shares acquired upon settlement.SECTION 10.     No Advice Regarding Grant. Nothing in this Award Agreement should be viewed as the provision by the Company of any tax, legal, or financial advice, nor is the Company making any recommendations regarding the Participant’s participation in the Plan, or the Participant’s acquisition or sale of the underlying Shares. The Participant understands and agrees that the Participant should consult with the Participant’s own personal tax, legal and financial advisors regarding the Participant’s participation in the Plan before taking any action in relation thereto.    SECTION 11.     Adjustments. In the event of any change in the outstanding Shares by reason of any stock split, stock dividend, split-up, split-off, spin-off, recapitalization, merger, consolidation, rights offering, reorganization, combination or exchange of Shares, sale by the Company of all or part of its assets, distribution to shareholders other than a normal cash dividend, or other extraordinary or unusual event occurring after the Grant Date and prior to the end of the vesting period, that affects the value of the RSUs or Shares, the number, class and kind of the securities subject to the RSUs, or the number of RSUs, as appropriate, shall be adjusted by the Committee to reflect the occurrence of such event.SECTION 12.     Electronic Delivery. The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. Receipt of this Award is conditioned upon the Participant’s consent to such electronic delivery and the Participant’s agreement to participate in the Plan through an online or electronic system established and maintained by the Company or a third party designated by the Company.SECTION 13.     Successors and Assigns of the Company. The terms and conditions of this Award Agreement shall be binding upon and shall inure to the benefit of the Company and its successors and assigns.SECTION 14.     Committee Discretion. The Committee shall have full and plenary discretion with respect to any actions to be taken or determinations to be made in connection with this Award Agreement, and its determinations shall be final, binding and conclusive."
+  },
+  {
+    "id": "element_0012",
+    "cls": "TitleElement",
+    "text": "SECTION 15.     Dispute Resolution.",
+    "level": 1
+  },
+  {
+    "id": "element_0013",
+    "cls": "TextElement",
+    "text": "(a)     Jurisdiction and Venue. Notwithstanding any provision in any employment or service agreement between the Participant and the Company, the Employer or any Affiliate, the Participant and the Company hereby irrevocably submit to the exclusive jurisdiction of (i) the United States District Court for the District of Delaware and (ii) the courts of the State of Delaware for the purposes of any action, suit or other proceeding arising out of this Award Agreement or the Plan. The Participant and the Company agree to commence any such action, suit or proceeding either in the United States District Court for the District of Delaware or, if such action, suit or other proceeding may not be brought in such court for jurisdictional reasons, in the courts of the State of Delaware. The Participant and the Company further agree that service of any process, summons, notice or document by U.S. registered mail (or its equivalent in the Participant’s country of residence) to the applicable address set forth in Section 16 below shall be effective service of process for any action, suit or proceeding in Delaware with respect to any matters to which the Participant has submitted to jurisdiction in this Section 15(a). The Participant and the Company irrevocably and unconditionally waive any objection to the laying of venue of any action, suit or proceeding arising out of this Award Agreement or the Plan in (A) the United States District Court for the District of Delaware, or (B) the courts of the State of Delaware, and hereby and thereby further irrevocably and unconditionally waive and agree not to plead or claim in any such court that any such action, suit or proceeding brought in any such court has been brought in an inconvenient forum.(b)     Waiver of Jury Trial. Notwithstanding any provision in the Participant’s employment agreement, if any, between the Participant and the Company, the Participant and the Company hereby waive, to the fullest extent permitted by applicable law, any right either may have to a trial by jury in respect to any litigation directly or indirectly arising out of, under or in connection with this Award Agreement or the Plan. (c)     Confidentiality. The Participant hereby agrees to keep confidential the existence of, and any information concerning, a dispute described in this Section 15, except that the Participant may disclose information concerning such dispute to the court that is considering such dispute or to the Participant’s legal counsel (provided that such counsel agrees not to disclose any such information other than as necessary to the prosecution or defense of the dispute).SECTION 16.     Notice. All notices, requests, demands and other communications required or permitted to be given under the terms of this Award Agreement shall be in writing and shall be deemed to have been duly given when delivered by hand or overnight courier or three Business Days after they have been mailed by U.S. registered mail (or its equivalent in the Participant’s country of residence), return receipt requested, postage prepaid, addressed to the other party as set forth below:"
+  },
+  {
+    "id": "element_0014",
+    "cls": "TableElement",
+    "text": "If to the Company:First Solar, Inc. 350 W Washington Street, Suite 600 Tempe, AZ 85288 Attention: Stock Plan AdministratorIf to the Participant:To the address most recently supplied to the Company and set forth in the Company’s records"
+  },
+  {
+    "id": "element_0015",
+    "cls": "TextElement",
+    "text": "The parties may change the address to which notices under this Award Agreement shall be sent by providing written notice to the other in the manner specified above. For this purpose, “Business Day” means a day that is not a Saturday, a Sunday or a day on which banking institutions are legally permitted to be closed in Phoenix, Arizona, U.S.SECTION 17.     Governing Law. This Award Agreement shall be deemed to be made in the State of Delaware, and the validity, construction and effect of this Award Agreement in all respects shall be determined in accordance with the laws of the State of Delaware, without giving effect to the conflict of law principles thereof.SECTION 18.     Headings. Headings are given to the Sections and subsections of this Award Agreement solely as a convenience to facilitate reference. Such headings shall not be deemed in any way material or relevant to the construction or interpretation of this Award Agreement or any provision thereof."
+  },
+  {
+    "id": "element_0016",
+    "cls": "TitleElement",
+    "text": "SECTION 19.     Country-Specific or Other Addenda.",
+    "level": 1
+  },
+  {
+    "id": "element_0017",
+    "cls": "TextElement",
+    "text": "(a)     Notwithstanding any provisions in this Award Agreement or the Plan, this Award shall be subject to such special terms and conditions set forth in any Addendum attached hereto (“Addendum”) or as may later become applicable, as described herein. (b)     If the Participant becomes subject to the laws of a jurisdiction to which an Addendum applies, the special terms and conditions for such jurisdiction will apply to this Award to the extent the Committee determines that the application of such terms and conditions is necessary or advisable to comply with local laws or to facilitate the administration of the Plan; provided the imposition of the term or condition will not result in any adverse accounting expense with respect to the Award.(c)     Any Addendum attached hereto shall be considered a part of this Award Agreement.SECTION 20.     Severability. The provisions of this Award Agreement are severable, and, if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions nevertheless shall be binding and enforceable.SECTION 21.     Amendment of this Award Agreement. The Committee may waive any conditions or rights under, amend any terms of, or alter, suspend, discontinue, cancel or terminate this Award Agreement prospectively or retroactively; provided, however, that any such waiver, amendment, alteration, suspension, discontinuance, cancellation or termination that would materially and adversely impair the Participant’s rights under this Award Agreement shall not, to the extent of such impairment, be effective without the Participant’s consent (it being understood, notwithstanding the foregoing proviso, that this Award Agreement and the RSUs shall be subject to the provisions of Section 7(c) of the Plan).SECTION 22.     Imposition of Other Requirements. The Company reserves the right to impose other requirements on the Participant’s participation in the Plan, on the RSUs and on any Shares acquired under this Award, to the extent that the Company determines it is necessary or advisable to comply with local law or facilitate the administration of the Plan, and to require the Participant to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.SECTION 23.     Acceptance of Terms and Conditions for RSUs. As a condition to receipt of this Award, the Participant confirms that he/she has read and understood the documents relating to this Award (i.e., the Plan, this Award Agreement, including any Addendum) and accepts the terms of those documents accordingly.SECTION 24.     Counterparts. Where signature of this Award Agreement is contemplated in the Grant Notice or any Addendum, this Award Agreement may be signed in counterparts, with the same effect as if the signatures thereto and hereto were upon the same instrument.SECTION 25.     Code Section 409A. The vesting and settlement of RSUs awarded pursuant to this Award Agreement are intended to either qualify for the “short-term deferral” exemption from Section 409A of the Code or to comply with Section 409A of the Code, as applicable, and the provisions of this Award Agreement will be interpreted, operated, and administered in a manner consistent with these intentions. Anything to the contrary in the Plan or this Award Agreement requiring the consent of the Participant notwithstanding, the Company reserves the right, to the extent the Company deems necessary or advisable in its sole discretion, to unilaterally amend or modify the Plan and/or this Award Agreement to ensure that the RSUs qualify for exemption from or comply with Section 409A of the Code; provided, however, that the Company makes no representations that the RSUs will be exempt from or comply with Section 409A of the Code, and makes no undertaking to preclude Section 409A of the Code from applying to the RSUs, and the Company will have no liability to the Participant or any other party if a payment under this Award Agreement that is intended to be exempt from, or compliant with, Section 409A of the Code is not so exempt or compliant or for any action taken by the Committee with respect thereto.SECTION 26.     Waiver. The Participant acknowledges that a waiver by the Company of breach of any provision of the Award Agreement shall not operate or be considered as a waiver of any other provision of the Award Agreement, or of any subsequent breach by the Participant or any other participant.SECTION 27.     Insider Trading Restrictions/Market Abuse Laws. The Participant acknowledges that he or she may be subject to insider trading restrictions and/or market abuse laws based on the exchange on which the Shares are listed and in applicable jurisdictions, including the United States, the Participant’s country and the designated broker’s country, that may affect his or her ability to accept, acquire, sell or otherwise dispose of Shares, rights to Shares (e.g., RSUs) or rights linked to the value of Shares under the Plan during such times as the Participant is considered to have “inside information” regarding the Company (as defined by the laws in applicable jurisdictions). Local insider trading laws and regulations may prohibit the cancellation or amendment of orders the Participant placed before the Participant possessed inside information. Furthermore, the Participant could be prohibited from (i) disclosing the inside information to any third party, which may include fellow employees and (ii) “tipping” third parties or causing them otherwise to buy or sell securities. Any restrictions under these laws or regulations are separate from and in addition to any restrictions that may be imposed under any applicable Company insider trading policy. The Participant acknowledges that it is his or her responsibility to comply with any applicable restrictions, and the Participant should consult his or her personal advisor on this matter.SECTION 28.     Foreign Asset/Account, Exchange Control and Tax Reporting. The Participant acknowledges that the Participant may be subject to foreign asset/account, exchange control and/or tax reporting requirements as a result of the acquisition, holding and/or transfer of Shares or cash (including dividends and the proceeds arising from the sale of Shares) derived from his or her participation in the Plan in, to and/or from a brokerage/bank account or legal entity located outside the Participant’s country. The applicable laws of the Participant’s country may require that the Participant report such accounts, assets, the balances therein, the value thereof and/or the transactions related thereto to the applicable authorities in such country. The Participant acknowledges that he or she is responsible for ensuring compliance with any applicable foreign asset/account, exchange control and tax reporting requirements and should consult his or her personal legal advisor on this matter.SECTION 29.    Clawback.  Pursuant to Section 9(s) of the Plan, each Award is subject to potential forfeiture or clawback to the fullest extent called for by applicable laws, rules, regulations, stock exchange listing standards, or Company policy.  By accepting this Award, the Participant agrees to be bound by, and to comply with, the terms of any such forfeiture or clawback provisions. To satisfy any recoupment obligation arising under applicable laws, rules, regulations, stock exchange listing standards, or Company policies, among other things, the Participant expressly and explicitly authorizes the Company to issue instructions, on the Participant's behalf, to any brokerage firm or stock plan service provider engaged by the Company to hold any Shares or other amounts acquired pursuant to the RSUs to re-convey, transfer or otherwise return such Shares and/or other amounts to the Company.SECTION 30.     Entire Agreement. This Award Agreement (including any addenda), the Grant Notice and the Plan contain the entire agreement and understanding of the parties hereto with respect to the subject matter contained herein and supersede all prior communications, representations and negotiations in respect thereto."
+  },
+  {
+    "id": "element_0018",
+    "cls": "TitleElement",
+    "text": "ADDENDUM ADDITIONAL TERMS AND CONDITIONS APPLICABLE TO AWARD AGREEMENT (RSU-016)",
+    "level": 2
+  },
+  {
+    "id": "element_0019",
+    "cls": "TextElement",
+    "text": "This Addendum, which is part of the Award Agreement, includes additional terms and conditions that govern the Award and that will apply to the Participant if he or she resides in one of the countries listed below. Capitalized terms that are not defined in this Addendum shall have the meanings used or defined in the Award Agreement or the Plan. This Addendum also includes information regarding securities, exchange control and certain other issues of which the Participant should be aware with respect to his or her participation in the Plan. The information is based on the securities, exchange control and other laws in effect in the countries set forth below as of September 2023. Such laws are often complex and change frequently. As a result, the Participant should not rely solely on this Addendum for information relating to the consequences of participating in the Plan because such information may be outdated when the Participant’s RSUs vest and/or the Participant sells any Shares acquired on a Vesting Date.In addition, the information set forth in this Addendum is general in nature and may not apply to the Participant’s particular situation. As a result, the Company is not in a position to assure the Participant of any particular result. The Participant therefore should seek appropriate professional advice as to the application of relevant laws in the Participant’s country to the Participant’s particular situation.Finally, if the Participant is a citizen or resident of a country other than the one in which he or she currently is working, or transfers to a different country after the Grant Date, the information set forth in this Addendum may not apply to the Participant."
+  },
+  {
+    "id": "element_0020",
+    "cls": "TitleElement",
+    "text": "ALL COUNTRIES OUTSIDE THE U.S.",
+    "level": 3
+  },
+  {
+    "id": "element_0021",
+    "cls": "SupplementaryText",
+    "text": "Consent to Personal Data Processing and Transfer. By accepting the Award via the Company’s acceptance procedure, the Participant is declaring that he or she agrees with the data processing practices described herein and consents to the collection, processing and use of Personal Data (as defined below) by the Company and the transfer of Personal Data to the recipients mentioned herein, including recipients located in countries which do not adduce an adequate level of protection from a European (or other) data protection law perspective, for the purposes described herein."
+  },
+  {
+    "id": "element_0022",
+    "cls": "SupplementaryText",
+    "text": "(a)    Declaration of Consent. The Participant understands that the Participant must review the following information about the processing of the Participant’s personal data by or on behalf of the Company or the Employer as described in this Award Agreement and any materials related to the Award (the “Personal Data”) and declare his or her consent. As regards the processing of the Participant’s Personal Data in connection with the Plan and this Award Agreement, the Participant understands that the Company is the controller of the Participant’s Personal Data."
+  },
+  {
+    "id": "element_0023",
+    "cls": "TitleElement",
+    "text": "(b)    Data Processing and Legal Basis. The Company collects, uses and otherwise processes Personal Data about the Participant for purposes of allocating Shares and implementing, administering and managing the Plan. The Personal Data processed by the Company includes, without limitation, the Participant’s name, home address and telephone number, email address, date of birth, social insurance number, passport number or other identification number (e.g., resident registration number), salary, nationality, job title, any shares of stock or directorships held in the Company or its Affiliates, details of all Awards or any other entitlement to shares of stock",
+    "level": 4
+  },
+  {
+    "id": "element_0024",
+    "cls": "SupplementaryText",
+    "text": "or equivalent benefits awarded, canceled, exercised, vested, unvested or outstanding in the Participant’s favor. The legal basis for the processing of the Participant’s Personal Data, where required, is the Participant’s consent."
+  },
+  {
+    "id": "element_0025",
+    "cls": "SupplementaryText",
+    "text": "(c)    Stock Plan Administration Service Providers. The Participant understands that the Company transfers the Participant’s Personal Data, or parts thereof, to (i) Fidelity Stock Plan Services, LLC (and its affiliated companies), an independent service provider based in the United States which assists the Company with the implementation, administration and management of the Plan and (ii) My Equity Comp (and its affiliated companies), an independent service provider based in the United States which assists the Company with the preparation of tax forms and tax returns. In the future, the Company may select different service providers and share the Participant’s Personal Data with such different service providers that serve the Company in a similar manner. The Company’s service providers will open an account for the Participant to receive and trade Shares acquired under the Plan and that the Participant will be asked to agree on separate terms and data processing practices with the service provider, which is a condition of the Participant’s ability to participate in the Plan."
+  },
+  {
+    "id": "element_0026",
+    "cls": "SupplementaryText",
+    "text": "(d)    International Data Transfers. The Company and, as of the date hereof, any third parties assisting in the implementation, administration and management of the Plan, such as Fidelity Stock Plan Services, LLC and My Equity Comp, are based in the United States. If the Participant is located outside the United States, the Participant’s country may have enacted data privacy laws that are different from the laws of the United States. The Company’s legal basis for the transfer of the Participant’s Personal Data is the Participant’s consent."
+  },
+  {
+    "id": "element_0027",
+    "cls": "SupplementaryText",
+    "text": "(e)    Data Retention. The Company will process the Participant’s Personal Data only as long as is necessary to implement, administer and manage the Participant’s participation in the Plan, or to comply with legal or regulatory obligations, including under tax and securities laws. In the latter case, the Participant understands and acknowledges that the Company’s legal basis for the processing of the Participant’s Personal Data would be compliance with the relevant laws or regulations. When the Company no longer needs the Participant’s Personal Data for any of the above purposes, the Participant understands the Company will remove it from its systems."
+  },
+  {
+    "id": "element_0028",
+    "cls": "SupplementaryText",
+    "text": "(f)    Voluntariness and Consequences of Denial/Withdrawal of Consent. The Participant understands that any participation in the Plan and his or her consent are purely voluntary. The Participant may deny or later withdraw his or her consent at any time, with future effect and for any or no reason. If the Participant denies or later withdraws his or her consent, the Company can no longer offer participation in the Plan or grant equity awards to the Participant or administer or maintain such awards, and the Participant will no longer be eligible to participate in the Plan. The Participant further understands that denial or withdrawal of his or her consent would not affect his or her status or salary as an employee or his or her career and that the Participant would merely forfeit the opportunities associated with the Plan."
+  },
+  {
+    "id": "element_0029",
+    "cls": "SupplementaryText",
+    "text": "(g)    Data Subject Rights. The data subject rights regarding the processing of Personal Data vary depending on the applicable law and that, depending on where the Participant is based and subject to the conditions set out in the applicable law, the Participant may have, without limitation, the rights to (i) inquire whether and what kind of Personal Data the Company holds about the Participant and how it is processed, and to access or request copies of such Personal Data, (ii) request the correction or supplementation of Personal Data about the Participant that is inaccurate, incomplete or out- of-date in light of the purposes underlying the processing, (iii) obtain the erasure of Personal Data no longer necessary for the purposes underlying the processing, (iv) request the Company to restrict the processing of the Participant’s Personal Data in certain situations where the Participant feels its processing is inappropriate, (v) object, in certain circumstances, to the processing of Personal Data for legitimate interests, and to (vi)request portability of the Participant’s Personal Data that the Participant has actively or passively provided to the Company (which does not include data derived or inferred from the collected data), where the processing of such Personal Data is based on consent or the Participant’s employment and is carried out by automated means. In case of concerns, the Participant may also have the right to lodge a complaint with the competent local data protection authority. Further, to receive clarification of, or to exercise any of, the Participant’s rights the Participant should contact the Participant’s local human resources representative."
+  },
+  {
+    "id": "element_0030",
+    "cls": "TextElement",
+    "text": "Language. The Participant acknowledges that he or she is proficient in the English language, or has consulted with an advisor who is sufficiently proficient in English, so as to allow the Participant to understand the terms and conditions of this Award Agreement. If the Participant receives the Award Agreement or any other document related to the Plan translated into a language other than English and if the meaning of the translated version is different than the English version, the English version will control, unless otherwise required by applicable law."
+  },
+  {
+    "id": "element_0031",
+    "cls": "TitleElement",
+    "text": "AUSTRALIA",
+    "level": 3
+  },
+  {
+    "id": "element_0032",
+    "cls": "TextElement",
+    "text": "RSUs Payable in Shares Only. Notwithstanding any discretion in the Plan, due to securities law considerations in Australia, the RSUs will be settled in Shares only. The RSUs do not provide any right for the Participant to receive a cash payment."
+  },
+  {
+    "id": "element_0033",
+    "cls": "TitleElement",
+    "text": "Securities Law Disclosure. The offer of RSUs is being made under Division 1A, Part 7.12 of the Corporations Act 2001 (Cth). If the Participant offers his or her Shares for sale to a person or entity resident in Australia, the Participant's offer may be subject to disclosure requirements under Australian law The Participant should obtain legal advice regarding any applicable disclosure obligations prior to making any such offer.",
+    "level": 5
+  },
+  {
+    "id": "element_0034",
+    "cls": "TextElement",
+    "text": "Tax Information. The Plan is a plan to which Subdivision 83A-C of the Income Tax Assessment Act 1997 (Cth) (the “Act”) applies (subject to conditions in the Act).Exchange Control Notification. Exchange control reporting is required for cash transactions exceeding AUD 10,000 and international fund transfers. If there is an Australian bank assisting with the transaction, the Australian bank will file the report for the Participant. If there is no Australian bank involved in the transaction, the Participant must file the report."
+  },
+  {
+    "id": "element_0035",
+    "cls": "TitleElement",
+    "text": "BELGIUM",
+    "level": 3
+  },
+  {
+    "id": "element_0036",
+    "cls": "TextElement",
+    "text": "Tax Reporting Notification. The Participant must report any taxable income attributable to the RSUs on the Participant’s annual tax return. Foreign Asset/Account Reporting Notification. The Participant must report securities held (including Shares) or any bank or brokerage accounts opened and maintained outside Belgium on the Participant’s annual tax return. In a separate report, the Participant is required to report to the National Bank of Belgium the details of such accounts opened and maintained outside Belgium. This report, as well as additional information on how to complete it, can be found on the website of the National Bank of Belgium, www.nbb.be, under the Kredietcentrales / Centrales des crédits caption.Stock Exchange Tax. A stock exchange tax applies to transactions executed by a Belgian resident through a non-Belgian financial intermediary, such as a U.S. broker. The stock exchange tax will likely apply when Shares acquired upon vesting of the RSUs are sold. The Participant should consult with his or her personal tax advisor for additional details on his or her obligations with respect to the stock exchange tax.Annual Securities Account Tax.  An annual securities accounts tax imposes a 0.15% annual tax on the value of qualifying securities held in a Belgian or foreign securities account.  The tax will not apply unless the total average value of securities the Participant holds in such an account exceeds an average of EUR 1 million on four reference dates within the relevant reporting period (i.e., December 31, March 31, June 30 and September 30).  Different payment obligations may apply, depending on whether the securities account is held with a Belgian or foreign financial institution.  The Participant should consult with the Participant’s personal tax advisor for more information regarding annual securities accounts tax payment obligations."
+  },
+  {
+    "id": "element_0037",
+    "cls": "TitleElement",
+    "text": "BRAZIL",
+    "level": 3
+  },
+  {
+    "id": "element_0038",
+    "cls": "TextElement",
+    "text": "Compliance with Law. By accepting the Award, the Participant agrees to comply with applicable Brazilian laws and pay any and all applicable taxes associated with the issuance of Shares upon vesting of the RSUs, the subsequent sale of Shares issued in settlement of the RSUs, and the receipt of any dividends.Labor Law Acknowledgement. By accepting the Award, the Participant agrees that (i) he or she is making an investment decision, (ii) the Shares will be issued to the Participant only if the vesting conditions are met, and (iii) the value of the underlying Shares is not fixed and may increase or decrease in value over the vesting period without compensation to the Participant.Foreign Asset/Account Reporting Notification. If the Participant holds assets and rights outside Brazil with an aggregate value exceeding USD 1,000,000, the Participant will be required to prepare and submit to the Central Bank of Brazil an annual declaration of such assets and rights, including: (i) bank deposits; (ii) loans; (iii) financing transactions; (iv) leases; (v) direct investments; (vi) portfolio investments, including Shares acquired under the Plan; (vii) financial derivatives investments; and (viii) other investments, including real estate and other assets. In addition, if the Participant holds such assets and rights outside Brazil with an aggregate value exceeding USD 100,000,000, then quarterly reporting to the Central Bank of Brazil is required.Please note that foreign individuals holding Brazilian visas are considered Brazilian residents for purposes of this reporting requirement and must declare at least the assets held abroad that were acquired subsequent to the date of admittance as a resident of Brazil. Individuals holding assets and rights outside Brazil valued at less than USD 1,000,000 are not required to submit a declaration. Please note that the USD 1,000,000 threshold may be changed annually.Tax on Financial Transaction (“IOF”). Cross-border financial transactions relating to RSUs may be subject to the IOF (tax on financial transactions). It is the Participant's responsibility to comply with any applicable IOF arising from the Participant's participation in the Plan. The Participant should consult with his or her personal tax advisor for additional details."
+  },
+  {
+    "id": "element_0039",
+    "cls": "TitleElement",
+    "text": "CANADA",
+    "level": 3
+  },
+  {
+    "id": "element_0040",
+    "cls": "TextElement",
+    "text": "RSUs Payable in Shares Only. Notwithstanding any discretion in the Plan, due to securities law considerations in Canada, the RSUs will be settled in Shares only. The RSUs do not provide any right for the Participant to receive a cash payment.Termination of Employment. The following provision replaces Section 9(k) of the Award Agreement:Except as otherwise provided by the Committee or the Grant Notice, for purposes of the Award, the Participant’s employment will be considered terminated as of the date the Participant is no longer actually employed or otherwise rendering services to the Company or, if different, the Affiliate to which the Participant provides services (regardless of the reason for such termination and whether or not later found to be invalid or in breach of employment or other laws or otherwise rendering services or the terms of the Participant’s employment or other service agreement, if any). Unless otherwise extended by the Company, the Participant’s right to vest in the Award, if any, will terminate effective as of such date (the “Date of Termination”). The Date of Termination will not be extended by any common law notice period. Notwithstanding the foregoing, however, if applicable employment standards legislation explicitly requires continued entitlement to vesting during a statutory notice period, the Participant’s right to vest in the Award under the Agreement, if any, will be allowed to continue for that minimum notice period but then immediately terminate effective as of the last day of the Participant’s minimum statutory notice period.Unless otherwise provided by the Committee or the Grant Notice, any portion of the Award that is not vested on the Date of Termination shall terminate immediately and be null and void. Unless the applicable employment standards legislation specifically requires, in the Participant’s case, the Participant will not earn or be entitled to any pro-rated vesting for that portion of time before the date on which the Participant’s service relationship is terminated (as determined under this provision), nor will the Participant be entitled to any compensation for lost vesting.The following terms and conditions apply if the Participant is in Quebec:Authorization to Release and Transfer Necessary Personal Information. The following provision supplements the “Consent to Personal Data Processing and Transfer” provision set forth above in this Addendum:"
+  },
+  {
+    "id": "element_0041",
+    "cls": "SupplementaryText",
+    "text": "The Participant hereby authorizes the Company and the Company’s representatives to discuss with and obtain all relevant information from all personnel, professional or not, involved in the administration and operation of the Plan. The Participant acknowledges and agrees that the Participant's personal information, including sensitive personal information, may be transferred or disclosed outside of the Province of Quebec, including to the United States. The Participant further authorizes the Company and/or any Affiliate to disclose and discuss the Plan with their advisors. The Participant further authorizes the Company and any Affiliate to record and keep such information in the Participant’s employment file. If applicable, the Participant also acknowledges and authorizes the Company, Affiliates, the administrator of the Plan and any designated brokers that are assisting the Company with the operation and administration of the Plan to use technology for profiling purposes and to make automated decisions that may have an impact on the Participant or the administration of the Plan."
+  },
+  {
+    "id": "element_0042",
+    "cls": "TextElement",
+    "text": "French Language Documents. A French translation of the Award Agreement and the Plan will be made available to the Participant as soon as reasonably practicable. The Participant understands that, from time to time, additional information related to the offering of the Plan might be provided in English and such information may not be immediately available in French. However, upon request, the Company will translate into French documents related to the offering of the Plan as soon as reasonably practicable."
+  },
+  {
+    "id": "element_0043",
+    "cls": "SupplementaryText",
+    "text": "Une traduction française du présent Contrat d’Attribution et du Plan sera mise à la disposition du Membre de l’Équipe dès que cela sera raisonnablement possible. Le Membre de l’Équipe comprend que, de temps à autre, des informations supplémentaires relatives à l'offre du Plan peuvent être fournies en anglais et que ces informations peuvent ne pas être immédiatement disponibles en français. Cependant, sur demande, la Société traduira en français les documents relatifs à l'offre du Plan dès que cela sera raisonnablement possible."
+  },
+  {
+    "id": "element_0044",
+    "cls": "TextElement",
+    "text": "Securities Law Notification. The Participant will not be permitted to sell or otherwise dispose of the Shares acquired under the Plan within Canada. The Participant will be permitted to sell or dispose of any Shares only if such sale or disposal takes place outside Canada through the facilities of the stock exchange on which the Shares are traded.Foreign Asset/Account Reporting Notification. If the total cost of the Participant’s foreign specified property (including cash held outside Canada and RSUs and Shares acquired under the Plan) exceeds CAD 100,000 at any time during the year, the Participant must report all of his or her foreign specified property on Form T1135 (Foreign Income Verification Statement). Thus, unvested RSUs must be reported (generally at a nil cost) if the CAD 100,000 cost threshold is exceeded by other foreign specified property the Participant holds. When Shares are acquired, their cost generally is the adjusted cost base (“ACB”) of the Shares. The ACB typically equals the fair market value of the Shares at the time of acquisition, but if the Participant owns other Shares, the ACB may have to be averaged with the ACB of the other Shares. The Participant should consult with his or her personal tax advisor to ensure compliance with any reporting requirements."
+  },
+  {
+    "id": "element_0045",
+    "cls": "TitleElement",
+    "text": "CHILE",
+    "level": 3
+  },
+  {
+    "id": "element_0046",
+    "cls": "TextElement",
+    "text": "Securities Law Notification. The offer of RSUs constitutes a private offering of securities in Chile effective as of the Grant Date, and is expressly subject to general ruling N° 336 of the Chilean Commission for the Financial Market (“CMF”). The offer of RSUs refers to securities not registered in the Registry of Securities or in the Registry of Foreign securities of the CMF, and therefore: (i) the Shares shall not be subject to public offering in Chile; and (ii) the Company is not subject to the oversight of the CMF nor to the continual information obligations that Chilean law and regulations require from registered issuers.Exchange Control Notification. The Participant is not required to repatriate funds obtained from the sale of Shares or the receipt of any dividends. However, if the Participant decides to repatriate such funds, the Participant must do so through the Formal Exchange Market (“Mercado Cambiario Formal”) if the amount of the funds exceeds USD 10,000. In such case, the Participant must report the payment to a commercial bank or registered foreign exchange office receiving the funds. If the Participant does not repatriate the funds and instead uses such funds for the payment of other obligations contemplated under a different Chapter of the Foreign Exchange Regulations, the Participant must sign Annex 1 of the Manual of Chapter XII of the Foreign Exchange Regulations and file it directly with the Central Bank within the first 10 days of the month immediately following the transaction.If the Participant’s aggregate investments held outside Chile meets or exceeds USD 5,000,000 (including the investments made under the Plan), the Participant must inform the Central Bank (“Banco Central de Chile”) with updated information accumulated for a three-month period within and no later than the first 45 calendar days following the closing of the months of March, June and September and no later than 60 calendar days following the closing of the month of December. Annex 3.1 of Chapter XII of the Foreign Exchange Regulations must be used to file this report.Please note that exchange control regulations in Chile are subject to change. The Participant should consult with his or her personal legal advisor regarding any exchange control obligations that the Participant may have prior to the vesting of the RSUs.Foreign Asset/Account Reporting Notification. The Chilean Internal Revenue Service (“CIRS”) requires Chilean residents to report the details of their foreign investments on an annual basis. Foreign investments include Shares acquired under the Plan. Further, if the Participant wishes to receive a credit against his or her Chilean income taxes for any taxes paid abroad, the Participant must also report the payment of taxes abroad to the CIRS. These reports must be submitted electronically through the CIRS website at www.sii.cl in accordance with applicable deadlines. In addition, Shares acquired upon settlement of the RSUs must be registered with the CIRS’s Foreign Investment Registry. The Participant should consult with his or her personal legal and tax advisors to ensure compliance with applicable requirements."
+  },
+  {
+    "id": "element_0047",
+    "cls": "TitleElement",
+    "text": "FRANCE",
+    "level": 3
+  },
+  {
+    "id": "element_0048",
+    "cls": "TextElement",
+    "text": "RSUs Not Tax-Qualified. The Participant understands that the RSUs are not intended to be French tax-qualified pursuant to Section L. 225-197 1 to L. 225-197 6 of the French Commercial Code, as amended.Language Consent. By accepting the RSUs, the Participant confirms having read and understood the Plan and the Award Agreement, including all terms and conditions included therein, which were provided in the English language. The Participant accepts the terms of those documents accordingly."
+  },
+  {
+    "id": "element_0049",
+    "cls": "SupplementaryText",
+    "text": "En acceptant ces <<RSUs>>, le Participant confirme avoir lu et compris le Plan et le convention, incluant tous leurs termes et conditions, qui ont été transmis en langue anglaise. Le Participant accepte les dispositions de ces documents en connaissance de cause."
+  },
+  {
+    "id": "element_0050",
+    "cls": "TextElement",
+    "text": "Exchange Control Notification. The Participant must declare to the customs and excise authorities any cash or securities he or she imports or exports without the use of a financial institution when the value of the cash or securities is equal to or greater than a certain amount.Foreign Asset/Account Reporting Notification. If the Participant holds securities (e.g., Shares) or maintains a foreign bank account, this must be reported to the French tax authorities when filing his or her annual tax return, whether such accounts are open, current or closed. Failure to comply could trigger significant penalties. The Participant should consult with his or her personal tax advisor to ensure compliance with applicable reporting obligations."
+  },
+  {
+    "id": "element_0051",
+    "cls": "TitleElement",
+    "text": "GERMANY",
+    "level": 3
+  },
+  {
+    "id": "element_0052",
+    "cls": "TextElement",
+    "text": "Exchange Control Notification. Cross-border payments in excess of EUR 12,500 must be reported to the German Federal Bank (Bundesbank).  If a German resident receives a payment in excess of this amount (including if Shares are acquired with a value in excess of this amount or Shares are sold via a foreign broker, bank or service provider and proceeds are received in excess of this amount) and/or if the Company withholds Shares with a value in excess of EUR 12,500 to recover taxes due in connection with the RSUs, the individual must report the payment and/or the value of the Shares received and/or withheld to Bundesbank, either electronically using the “General Statistics Reporting Portal” (“Allgemeines Meldeportal Statistik”) available on the Bundesbank website (www.bundesbank.de) or via such other method (e.g., by email or telephone) as is permitted or required by Bundesbank. The report must be submitted monthly or within other such timing as is permitted or required by Bundesbank.Foreign Asset/Account Reporting Information. German residents must notify their local tax office of the acquisition of Shares when they file their personal income tax returns for the relevant year if the value of the Shares acquired exceeds EUR 150,000 or in the unlikely event that the resident holds Shares exceeding 10% of the Company’s total Shares outstanding. However, if the Shares are listed on a recognized U.S. stock exchange and the Participant owns less than 1% of the total Shares, this requirement will not apply even if Shares with a value exceeding EUR 150,000 are acquired."
+  },
+  {
+    "id": "element_0053",
+    "cls": "TitleElement",
+    "text": "INDIA",
+    "level": 3
+  },
+  {
+    "id": "element_0054",
+    "cls": "TextElement",
+    "text": "Exchange Control Notification. Any funds realized in connection with the Plan (e.g., proceeds from the sale of Shares) must be repatriated to India within a specified period of time after receipt as prescribed under Indian exchange control laws.  The Participant is personally responsible for obtaining a foreign inward remittance certificate (“FIRC”) from the bank where the Participant deposits the foreign currency and holding the FIRC as evidence of the repatriation of funds in the event the Reserve Bank of India or the Employer requests proof of repatriation.  The Participant may be required to provide information regarding funds received from participation in the Plan to the Company and/or the Employer to enable them to comply with their filing requirements under exchange control laws in India. The Participant is personally responsible for complying with exchange control laws in India, and neither the Company nor the Employer will be liable for any fines or penalties resulting from the Participant’s failure to comply with applicable laws.  The Participant should consult with his or her personal legal advisor to ensure compliance with the applicable requirements.Foreign Asset/Account Reporting Notification. The Participant is required to declare any foreign bank accounts and foreign financial assets (including Shares held outside India) in the Participant’s annual tax return. It is the Participant’s responsibility to comply with this reporting obligation and the Participant should consult with his or her personal tax advisor in this regard."
+  },
+  {
+    "id": "element_0055",
+    "cls": "TitleElement",
+    "text": "INDONESIA",
+    "level": 3
+  },
+  {
+    "id": "element_0056",
+    "cls": "TextElement",
+    "text": "Language Consent and Notification. By accepting the Award, the Participant (i) confirms having read and understood the documents relating to this grant (i.e., the Plan and the Award Agreement) which were provided in the English language, (ii) accepts the terms of those documents accordingly, and (iii) agrees not to challenge the validity of this document based on Law No. 24 of 2009 on National Flag, Language, Coat of Arms and National Anthem or the implementing Presidential Regulation (when issued)."
+  },
+  {
+    "id": "element_0057",
+    "cls": "SupplementaryText",
+    "text": "Persetujuan dan Pemberitahuan Bahasa. Dengan menerima Penghargaan, Peserta (i) mengkonfirmasi bahwa dirinya telah membaca dan mengerti dokumen-dokumen yang terkait dengan pemberian ini (yaitu, Program dan Perjanjian Penghargaan) yang disediakan dalam Bahasa Inggris, (ii) menerima syarat-syarat dari dokumen-dokumen tersebut, dan (iii) setuju untuk tidak mengajukan keberatan atas keberlakuan dokumen ini berdasarkan Undang-Undang No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, Serta Lagu Kebangsaan atau Peraturan Presiden pelaksananya (ketika diterbitkan)."
+  },
+  {
+    "id": "element_0058",
+    "cls": "TextElement",
+    "text": "Exchange Control Notification. If the Participant remits funds into Indonesia (e.g., proceeds from the sale of Shares), the Indonesian bank handling the transaction is responsible for submitting a report of the transaction to the Bank of Indonesia for statistical reporting purposes.  For transactions of USD 10,000 or more, a description of the transaction must be included in the report and the Participant may be required to provide information about the transaction (e.g., the relationship between the Participant and the transferor of the funds, the source of the funds, etc.) to the bank in order for the bank to complete the report.In addition, the Participant must provide the Bank of Indonesia with information on foreign exchange activities via a monthly report submitted online through the Bank of Indonesia’s website. The report is due no later than the 15th day of the month following the month in which the activity occurred.Foreign Asset/Account Reporting Notification. The Participant has the obligation to report his or her worldwide assets (including foreign accounts and Shares acquired under the Plan) in his or her annual individual income tax return. In addition, if there is a change of position of any foreign asset the Participant holds (including Shares acquired under the Plan), the Participant must report this change in position (e.g., the sale of Shares) to Bank of Indonesia. The report should be submitted online through Bank Indonesia’s website no later than the 15th day of the month following the month in which the activity occurred."
+  },
+  {
+    "id": "element_0059",
+    "cls": "TitleElement",
+    "text": "JAPAN",
+    "level": 3
+  },
+  {
+    "id": "element_0060",
+    "cls": "TextElement",
+    "text": "Exchange Control Information. If the Participant acquires Shares valued at more than JPY 100,000,000 in a single transaction, the Participant must file a Securities Acquisition Report with the Ministry of Finance through the Bank of Japan within 20 days of the acquisition.Foreign Asset/Account Reporting Notification. The Participant is required to report details of any assets held outside Japan as of December 31, including Shares, to the extent such assets have a total net fair market value exceeding JPY 50,000,000. Such report will be due from the Participant by March 15 each year. The Participant is responsible for complying with this reporting obligation and should consult with his or her personal tax advisor as to whether the Participant will be required to report the details of RSUs or Shares he or she holds."
+  },
+  {
+    "id": "element_0061",
+    "cls": "TitleElement",
+    "text": "MALAYSIA",
+    "level": 3
+  },
+  {
+    "id": "element_0062",
+    "cls": "TextElement",
+    "text": "Data Privacy Consent. The following provision replaces the “Consent to Personal Data Processing and Transfer” provision set forth above in this Addendum:"
+  },
+  {
+    "id": "element_0063",
+    "cls": "TitleElement",
+    "text": "The Participant hereby explicitly, voluntarily and unambiguously consents to the collection, use and transfer, in electronic or other form, of his or her personal data as described in the Award Agreement and any other Plan participation materials by and among, as applicable, the Company, the Employer and any other Affiliate or any third parties authorized by same in assisting in the implementation, administration and management of the Participant’s participation in the Plan.The Participant may have previously provided the Company and the Employer with, and the Company and the Employer may hold, certain personal information about the Participant, including, but not limited to, his or her name, home address, email address and telephone number, date of birth, social insurance number, passport or other identification number, salary, nationality, job title, any shares of stock or directorships held in the Company, the fact and conditions of the Participant’s participation in the Plan, details of all RSUs or any other entitlement to shares of stock awarded, cancelled, exercised, vested, unvested or outstanding in the Participant’s favor (“Data”), for the exclusive purpose of implementing, administering and managing the Plan.The Participant also authorizes any transfer of Data, as may be required, to such stock plan service provider as may be selected by the Company from time to time, which is assisting the Company with the implementation, administration and management of the Plan and/or with whom any Shares acquired upon vesting of the RSUs are deposited. The Participant acknowledges that these recipients may be located in the Participant’s country or elsewhere, and that the recipient’s country (e.g., the United States) may have different data privacy laws and protections to the Participant’s country, which may not give the same level of protection to Data. The Participant understands that he or she may request a list with the names and addresses of any potential recipients of Data by contacting his or her local human resources representative. Peserta dengan ini secara jelas, secara sukarela dan tanpa sebarang keraguan mengizinkan pengumpulan, penggunaan dan pemindahan, dalam bentuk elektronik atau lain-lain, data peribadinya seperti yang dinyatakan dalam Perjanjian ini dan apa-apa bahan penyertaan Pelan oleh dan di antara, sebagaimana yang berkenaan, Syarikat, Penerima Perkhidmatan dan mana-mana Syarikat Induk atau Anak Syarikat lain atau mana-mana pihak ketiga yang diberi kuasa oleh yang sama untuk membantu dalam pelaksanaan, pentadbiran dan pengurusan penyertaan Pesertadalam Pelan tersebut.Sebelum ini, Pesertamungkin telah membekalkan Syarikat dan Penerima Perkhidmatan dengan, dan Syarikat dan Majikan mungkin memegang, maklumat peribadi tertentu tentang Peserta, termasuk, tetapi tidak terhad kepada, namanya , alamat rumah dan nombor telefon, alamat emel, tarikh lahir, insurans sosia, nombor pasport atau pengenalan lain, gaji, kewarganegaraan, jawatan, apa-apa syer dalam saham atau jawatan pengarah yang dipegang dalam Syarikat, fakta dan syarat-syarat penyertaan Peserta dalam Pelan, butir-butir semua opsyenatau apa-apa hak lain untuk syer dalam saham yang dianugerahkan, dibatalkan, dilaksanakan, terletak hak, tidak diletak hak ataupun bagi faedah Peserta (“Data”), untuk tujuan yang eksklusif bagi melaksanakan, mentadbir dan menguruskan Pelan tersebut.Peserta juga memberi kuasa untuk membuat apa-apa pemindahan Data, sebagaimana yang diperlukan, kepada pembekal perkhidmatan pelan saham sebagaimana yang dipilih oleh Syarikatdari semasa ke semasa, yang membantu Syarikat dalam pelaksanaan, pentadbiran dan pengurusan Pelandan/atau dengan sesiapa yang mendepositkan Saham yang diperolehi melalui pelaksanaan Opsyen ini. Peserta mengakui bahawa penerima-penerima ini mungkin berada di negara Peserta atau di tempat lain, dan bahawa negara penerima (contohnya, Amerika Syarikat) mungkin mempunyai undang-undang privasi data dan perlindungan yang berbeza daripada negara Peserta, yang mungkin tidak boleh memberi tahap perlindungan yang sama kepada Data. Peserta faham bahawa dia boleh meminta senarai nama dan alamat mana-mana penerima Data dengan menghubungi wakil sumber manusia tempatannya. Peserta memberi kuasa kepada Syarikat, pembekal perkhidmatan pelan saham dan mana-mana penerima lain yang mungkin membantu Syarikat (masa sekarang atau pada masa depan) untuk melaksanakan, mentadbir dan menguruskan penyertaan",
+    "level": 6
+  },
+  {
+    "id": "element_0064",
+    "cls": "SupplementaryText",
+    "text": "The Participant authorizes the Company, the stock plan service provider and any other possible recipients which may assist the Company (presently or in the future) with implementing, administering and managing the Participant’s participation in the Plan to receive, possess, use, retain and transfer Data, in electronic or other form, for the sole purpose of implementing, administering and managing the Participant’s participation in the Plan. The Participant understands that Data will be held only as long as is necessary to implement, administer and manage his or her participation in the Plan. The Participant understands that he or she may, at any time, view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case, without cost, by contacting in writing his or her local human resources representative, whose contact details are:No 8, Jalan Hi-Tech 3/3Zon Industri Fasa 3, Kulim Hi Tech Park09000, Kulim, Kedah Darul Aman MalaysiaFurther, the Participant understands that he or she is providing the consents herein on a purely voluntary basis. If the Participant does not consent, or if the Participant later seeks to revoke the consent, his or her status and career with the Company and the Employer will not be adversely affected; the only adverse consequence of refusing or withdrawing the consent is that the Company would not be able to grant future RSUs or other equity awards to the Participant or administer or maintain such awards. Therefore, the Participant understands that refusing or withdrawing his or her consent may affect his or her ability to participate in the Plan. For more information on the consequences of the refusal to consent or withdrawal of consent, the Participant understands that he or she may contact his or her local human resources representative.Peserta dalam Pelan untuk menerima, memiliki, menggunakan, mengekalkan dan memindahkan Data, dalam bentuk elektronik atau lain-lain, semata-mata dengan tujuan untuk melaksanakan, mentadbir dan menguruskan penyertaan Peserta dalam Pelan tersebut. Peserta faham bahawa Data akan dipegang hanya untuk tempoh yang diperlukan untuk melaksanakan, mentadbir dan menguruskan penyertaannya dalam Pelan tersebut. Peserta faham bahawa dia boleh, pada bila-bila masa, melihat data, meminta maklumat tambahan mengenai penyimpanan dan pemprosesan Data, meminta bahawa pindaan-pindaan dilaksanakan ke atas Data atau menolak atau menarik balik persetujuan dalam ini, dalam mana-mana kes, tanpa kos, dengan menghubungi secara bertulis wakil sumber manusia di lokasi masing-masing, di mana butir-butir hubungannya adalah:No 8, Jalan Hi-Tech 3/3Zon Industri Fasa 3, Kulim Hi Tech Park09000, Kulim, Kedah Darul Aman MalaysiaSelanjutnya, Peserta memahami bahawa dia memberikan persetujuan di sini secara sukarela. Jika Peserta tidak bersetuju, atau jika Peserta kemudian membatalkan persetujuannya , status sebagai Pemberi Perkhidmatan dan kerjayanya dengan Penerima Perkhidmatan tidak akan terjejas; satunya akibat buruk jika dia tidak bersetuju atau menarik balik persetujuannya adalah bahawa Syarikat tidak akan dapat memberikan opsyen pada masa depan atau anugerah ekuiti lain kepada Peserta atau mentadbir atau mengekalkan anugerah tersebut. Oleh itu, Peserta faham bahawa keengganan atau penarikan balik persetujuannya boleh menjejaskan keupayaannya untuk mengambil bahagian dalam Pelan tersebut. Untuk maklumat lanjut mengenai akibat keengganannya untuk memberikan keizinan atau penarikan balik keizinan, Peserta fahami bahawa dia boleh menghubungi wakil sumber manusia tempatannya."
+  },
+  {
+    "id": "element_0065",
+    "cls": "TextElement",
+    "text": "Director Notification Obligation. If the Participant is a director of an Affiliate, the Participant is subject to certain notification requirements under the Malaysian Companies Act, 2016. Among these requirements is an obligation on the Participant’s part to notify the Malaysian Affiliate in writing when the Participant acquires an interest (e.g., RSUs or Shares) in the Company or any related companies. The Participant must also notify the Malaysian Affiliate if there are any subsequent changes in the Participant's interest in the Company or any related companies. In addition, the Participant must notify the Malaysian Affiliate when the Participant sells Shares (including Shares acquired under the Plan) or the shares of any related company. These notifications must be made within 14 days of acquiring or disposing of any interest in the Company or any related company."
+  },
+  {
+    "id": "element_0066",
+    "cls": "TitleElement",
+    "text": "MEXICO",
+    "level": 3
+  },
+  {
+    "id": "element_0067",
+    "cls": "TextElement",
+    "text": "Labor Law Acknowledgment. By accepting the Award, the Participant acknowledges that he or she understands and agrees that: (a) the RSUs are not related to the salary and other contractual benefits provided to the Participant by the Employer; and (b) any modification of the Plan or its termination shall not constitute a change or impairment of the terms and conditions of the Participant’s employment.Policy Statement. The invitation the Company is making under the Plan is unilateral and discretionary and, therefore, the Company reserves the absolute right to amend it and discontinue it at any time without any liability to the Participant.The Company, with registered offices at 350 West Washington Street, Suite 600, Tempe, Arizona 85288, United States of America is solely responsible for the administration of the Plan and participation in the Plan or the acquisition of Shares does not, in any way, establish an employment or other service relationship between the Participant and the Company since the Participant is participating in the Plan on a wholly commercial basis and the sole employer is a Mexican legal entity that employs the Participant and to which he/she is subordinated, nor does it establish any rights between the Participant and the Employer.Plan Document Acknowledgment. By accepting the Award, the Participant acknowledges that he or she has received a copy of the Plan, has reviewed the Plan and the Award Agreement in their entirety and fully understands and accepts all provisions of the Plan and the Award Agreement. The Participant further acknowledges that having read and specifically and expressly approved the terms and conditions in the Section 9 of the Award Agreement, in which the following is clearly described and established: (a) participation in the Plan does not constitute an acquired right; (b) the Plan and participation in the Plan is offered by the Company on a wholly discretionary basis; (c) participation in the Plan is voluntary; and (d) the Company and its Affiliates are not responsible for any decrease in the value of the Shares underlying the RSUs.Finally, the Participant does not reserve any action or right to bring any claim against the Company for any compensation or damages as a result of participation in the Plan and the Participant therefore grants a full and broad release to the Employer and the Company (including its Affiliates) with respect to any claim that may arise under the Plan."
+  },
+  {
+    "id": "element_0068",
+    "cls": "TitleElement",
+    "text": "Spanish Translation",
+    "level": 6
+  },
+  {
+    "id": "element_0069",
+    "cls": "SupplementaryText",
+    "text": "Reconocimiento de la Ley Laboral. Al aceptar el Otorgamiento, el Beneficiario reconoce y acepta que: (a) las Unidades no se encuentran relacionadas con su salario ni con otras prestaciones contractuales concedidas por parte del Patrón; y (b) cualquier modificación del Plan o su terminación no constituye un cambio o impedimento de los términos y condiciones del empleo del Beneficiario."
+  },
+  {
+    "id": "element_0070",
+    "cls": "SupplementaryText",
+    "text": "Declaración de la Política. La invitación que hace la Compañía bajo el Plan es unilateral y discrecional, por lo que la Compañía se reserva el derecho absoluto de modificar e interrumpir el mismo en cualquier tiempo, sin ninguna responsabilidad para el Beneficiario."
+  },
+  {
+    "id": "element_0071",
+    "cls": "SupplementaryText",
+    "text": "La Compañía, con oficinas ubicadas en 350 West Washington Street, Suite 600, Tempe, Arizona 85288 United States of America, es la única responsable por la administración y la participación en el Plan, así como de la adquisición de acciones, por lo que de ninguna manera podrá establecerse una relación de trabajo entre el Beneficiario y la Compañía, ya que el Beneficiario participa únicamente en de forma comercial y que su único Patrón es una empresa legal Mexicana a quien se encuentra subordinado; la participación en el Plan tampoco genera ningún derecho entre el Beneficiario y el Patrón."
+  },
+  {
+    "id": "element_0072",
+    "cls": "SupplementaryText",
+    "text": "Reconocimiento del Plan de Documentos. Al aceptar el Otorgamiento, el Beneficiario reconoce que ha recibido una copia del Plan, que lo ha revisado junto con el Convenio, y que ha entendido y aceptado completamente las disposiciones contenidas en el Plan y en el Convenio."
+  },
+  {
+    "id": "element_0073",
+    "cls": "SupplementaryText",
+    "text": "Adicionalmente, al firmar el presente documento, el Beneficiario reconoce que ha leído y aprobado de manera expresa y específica los términos y condiciones contenidos en el apartado 9 del Convenio, el cual claramente establece y describe: (a) que la participación en el Plan no constituye un derecho adquirido; (b) que el Plan y la participación en el mismo es ofrecido por la Compañía en forma totalmente discrecional; (c) que la participación en el Plan es voluntaria; y (d) que la Compañía, así como sus Afiliadas, no son responsables por cualquier detrimento en el valor de las acciones que integran las Unidades."
+  },
+  {
+    "id": "element_0074",
+    "cls": "SupplementaryText",
+    "text": "Finalmente, el Beneficiario acepta no reservarse ninguna acción o derecho para interponer una demanda en contra de la Compañía por compensación, daño o perjuicio alguno como resultado de su participación en el Plan y en consecuencia, otorga al Patrón el más amplio y completo finiquito que en derecho proceda, así como a la Compañía y sus Afiliadas, respecto a cualquier demanda que pudiera originarse derivada del Plan."
+  },
+  {
+    "id": "element_0075",
+    "cls": "TextElement",
+    "text": "Securities Law Information. The RSUs and the Shares offered under the Plan have not been registered with the National Register of Securities maintained by the Mexican National Banking and Securities Commission and cannot be offered or sold publicly in Mexico.  In addition, the Plan, the Award Agreement and any other document relating to the RSUs may not be publicly distributed in Mexico. These materials are addressed to the Participant only because of the Participant’s existing relationship with the Company and the Employer and these materials should not be reproduced or copied in any form. The offer contained in these materials does not constitute a public offering of securities but rather constitutes a private placement of securities addressed specifically to individuals who are present employees of the Company’s Mexican Affiliate made in accordance with the provisions of the Mexican Securities Market Law, and any rights under such offering shall not be assigned or transferred."
+  },
+  {
+    "id": "element_0076",
+    "cls": "TitleElement",
+    "text": "NETHERLANDS",
+    "level": 3
+  },
+  {
+    "id": "element_0077",
+    "cls": "TextElement",
+    "text": "Labor Law Acknowledgment. By accepting the Award, the Participant acknowledges that: (i) the Award is intended as an incentive to remain employed with the Employer and is not intended as remuneration for labor performed; and (ii) the Award is not intended to replace any pension rights or compensation."
+  },
+  {
+    "id": "element_0078",
+    "cls": "TitleElement",
+    "text": "PHILIPPINES",
+    "level": 3
+  },
+  {
+    "id": "element_0079",
+    "cls": "TextElement",
+    "text": "Additional Conditions to Vesting and Settlement. The RSUs and the Shares underlying the RSUs may be subject to certain securities approval/confirmation requirements in the Philippines with the Philippine Securities and Exchange Commission, as determined by the Company in its discretion.  Notwithstanding any provision of the Plan or the Award Agreement to the contrary, if the Company has not obtained, or does not maintain, the necessary securities approval/confirmation, the Participant will not vest in the RSUs and no Shares will be issued under the Plan. The Company assumes no liability if the RSUs cannot vest and/or Shares cannot be issued.  In this case, the Committee will in its sole discretion determine how any RSUs will be settled.Securities Law Information. The Participant acknowledges he or she is permitted to dispose or sell Shares acquired under the Plan provided the offer and resale of the Shares takes place outside the Philippines through the facilities of a stock exchange on which the Shares are listed. The Shares are currently listed on the Nasdaq Global Select Market in the United States of America."
+  },
+  {
+    "id": "element_0080",
+    "cls": "TitleElement",
+    "text": "SINGAPORE",
+    "level": 3
+  },
+  {
+    "id": "element_0081",
+    "cls": "TextElement",
+    "text": "Securities Law Notification. The RSUs are being granted to the Participant pursuant to the “Qualifying Person” exemption under section 273(1)(f) of the Singapore Securities and Futures Act (Chapter 289, 2006 Ed.) (“SFA”). The Plan has not been lodged or registered as a prospectus with the Monetary Authority of Singapore. The Participant should note that such RSU grant is subject to section 257 of the SFA and the Participant will not be able to make any subsequent sale in Singapore, or any offer of such subsequent sale of the Shares underlying the Award, unless such sale or offer in Singapore is made (i) more than six months from the Grant Date, (ii) pursuant to the exemptions under Part XIII Division (1) Subdivision (4) (other than section 280) of the SFA, or (iii) pursuant to, and in accordance with the conditions of, any other applicable provision of the SFA. The Shares are currently traded on the Nasdaq Global Select Market, which is located outside Singapore, and Shares acquired under the Plan may be sold through this exchange.Director Notification Requirement. If the Participant is a director, associate director or shadow director1 of a Singaporean Affiliate, the Participant is subject to certain notification requirements under the Singapore Companies Act. Among these requirements is an obligation to notify the Singapore Affiliate in writing of an interest (e.g., unvested RSUs, Shares, etc.) in the Company or any Affiliate within two (2) business days of (i) its acquisition or disposal, (ii) any change in previously disclosed interest (e.g., when Shares acquired at vesting are sold), or (iii) becoming a director, associate director or shadow director."
+  },
+  {
+    "id": "element_0082",
+    "cls": "TitleElement",
+    "text": "SWEDEN",
+    "level": 3
+  },
+  {
+    "id": "element_0083",
+    "cls": "TextElement",
+    "text": "Responsibility for Taxes. The following provision supplements Section 7 (Responsibility for Taxes) of the Award Agreement:Without limiting the Company’s and the Employer’s authority to satisfy any withholding obligations for Tax-Related Items as set forth in Section 7 of the Award Agreement, in accepting the Award, the Participant authorizes the Company and/or the Employer to withhold Shares or to sell Shares otherwise deliverable to the Participant upon vesting/settlement of the RSUs to satisfy any liability the Participant may have for Tax-Related Items, regardless of whether the Company and/or the Employer have any statutory or regulatory obligation to withhold such Tax-Related Items.1 A shadow director is an individual who is not on the board of directors of a company but who has sufficient control so that the board of directors acts in accordance with the “directions or instructions” of the individual."
+  },
+  {
+    "id": "element_0084",
+    "cls": "TitleElement",
+    "text": "THAILAND",
+    "level": 3
+  },
+  {
+    "id": "element_0085",
+    "cls": "TextElement",
+    "text": "Exchange Control Notification. Thai resident Participants realizing USD 1,000,000 or more in a single transaction from the sale of Shares issued to the Participant following the vesting and settlement of the RSUs must repatriate the proceeds to Thailand and then convert such proceeds to Thai Baht or deposit the proceeds into a foreign currency account opened with any commercial bank in Thailand within 360 days of repatriation, unless the Participant can rely on an applicable exemption (e.g., where the funds will be used offshore for any permissible purposes under exchange control regulations and the relevant form and supporting documents have been submitted to a commercial bank in Thailand). The Participant must provide details of the transaction (i.e., identification information and purpose of the transaction) to the receiving bank. If the Participant fails to comply with these obligations, the Participant may be subject to penalties assessed by the Bank of Thailand. The Participant should consult his or her personal advisor before taking action with respect to the remittance of proceeds from the sale of Shares into Thailand. The Participant is responsible for ensuring compliance with all exchange control laws in Thailand."
+  },
+  {
+    "id": "element_0086",
+    "cls": "TitleElement",
+    "text": "UNITED STATES",
+    "level": 3
+  },
+  {
+    "id": "element_0087",
+    "cls": "TextElement",
+    "text": "Supplemental Notice for California Residents. The Company does not sell the Participant’s personal information or share it for cross‐context behavioral advertising. The Company’s online California Consumer Privacy Act (“CCPA”) Privacy Policy can be found here First Solar Privacy Statement | First Solar. If the Participant has a visual disability, please contact the Participant’s HR department for accommodations."
+  }
+]

@@ -1,0 +1,64 @@
+====================================================================================================
+COMPREHENSIVE SEMANTIC ANALYSIS REPORT
+====================================================================================================
+Generated: 2025-06-14T01:40:25.581996
+Total Documents Analyzed: 15
+
+📊 OVERALL STATISTICS:
+--------------------------------------------------
+Total Elements Extracted: 5,129
+Total Cross-References: 1,512
+Average Quality Score: 0.86
+
+🎯 QUALITY DISTRIBUTION:
+--------------------------------------------------
+Excellent (0.9-1.0) :   7 ( 46.7%)
+Good (0.8-0.9)      :   5 ( 33.3%)
+Fair (0.7-0.8)      :   2 ( 13.3%)
+Poor (<0.7)         :   1 (  6.7%)
+
+📈 ELEMENT TYPES ACROSS ALL DOCUMENTS:
+--------------------------------------------------
+paragraph           :  1916 (avg: 127.7 per doc)
+table               :  1042 (avg:  69.5 per doc)
+section             :   961 (avg:  64.1 per doc)
+metadata            :   562 (avg:  37.5 per doc)
+subsection          :   466 (avg:  31.1 per doc)
+signature           :   142 (avg:   9.5 per doc)
+party               :    24 (avg:   1.6 per doc)
+title               :    16 (avg:   1.1 per doc)
+
+🔗 CROSS-REFERENCE TYPES ACROSS ALL DOCUMENTS:
+--------------------------------------------------
+Section Ref         :   638 (avg:  42.5 per doc)
+Document Ref        :   323 (avg:  21.5 per doc)
+Document Self Ref   :   228 (avg:  15.2 per doc)
+Exhibit Ref         :   145 (avg:   9.7 per doc)
+Positional Ref      :   124 (avg:   8.3 per doc)
+Legal Ref           :    54 (avg:   3.6 per doc)
+
+🏆 TOP PERFORMING DOCUMENTS:
+--------------------------------------------------
+ 1. agreement_04.html         Quality: 0.91 Elements:  97 XRefs:   3
+    Title: CONSULTING AGREEMENT...
+ 2. agreement_05.html         Quality: 0.91 Elements: 410 XRefs:  77
+    Title: TRANSITION SERVICES AGREEMENT...
+ 3. agreement_06.html         Quality: 0.91 Elements: 1828 XRefs: 347
+    Title: LEASE AGREEMENT...
+ 4. agreement_10.html         Quality: 0.91 Elements: 164 XRefs:  78
+    Title: SCREENPLAY OPTION/PURCHASE AGREEMENT...
+ 5. agreement_11.html         Quality: 0.91 Elements: 205 XRefs: 138
+    Title: FORWARD PURCHASE AGREEMENT...
+ 6. agreement_12.html         Quality: 0.91 Elements: 300 XRefs:  17
+    Title: ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATI...
+ 7. agreement_15.html         Quality: 0.91 Elements: 552 XRefs:  33
+    Title: MASTER SERVICE AGREEMENT AND...
+ 8. agreement_07.html         Quality: 0.90 Elements: 152 XRefs: 117
+    Title: Guaranty
+Agreement...
+ 9. agreement_09.html         Quality: 0.90 Elements:  96 XRefs:  78
+    Title: EXECUTIVE SERVICES AGREEMENT...
+10. agreement_08.html         Quality: 0.89 Elements:  58 XRefs:  36
+    Title: Management Agreement...
+
+====================================================================================================

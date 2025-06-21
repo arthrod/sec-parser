@@ -1,0 +1,180 @@
+AGREEMENT 07 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_07.html
+Total Elements: 97
+Hierarchical Elements: 73
+Status: ✅ EXCELLENT
+
+Title: Guaranty
+Agreement
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ClauseElement: 10
+  ContentTextElement: 40
+  DefinitionElement: 1
+  HeadingElement: 2
+  PartyElement: 3
+  SectionElement: 16
+  TableOfContentsElement: 1
+  TextElement: 23
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: Guaranty
+Agreement
+  ├─ Heading: 3D-ID,
+LLC
+    ├─ Heading: Guaranty
+Agreement
+    ├─ Party: Inc.
+    ├─ Party: LLC
+      ├─ ContentText: The
+Lenders have agreed to make a Term Loan to the Borrower,
+      ├─ ContentText: Now,
+Therefore, in consideration of the premises and
+in orde
+    ├─ Section: 1: Guaranty; Limitation of Liability. (a) Each Guarantor ...
+      ├─ ContentText: (b) Each
+Guarantor, and by its acceptance of this Agreement,
+      ├─ ContentText: (c) Each
+Guarantor hereby unconditionally and irrevocably ag
+    ├─ Section: 2: Guaranty Absolute. Each Guarantor guarantees that the ...
+      ├─ Clause: (a) any
+        ├─ ContentText: Field: Page; Sequence: 4; Options: NewSection; Value: 2
+      ├─ Clause: (b) any
+      ├─ Clause: (c) any
+      ├─ Clause: (d) any
+      ├─ Clause: (e) any
+        ├─ ContentText: (f)	any
+failure of any Secured Party to disclose to any Loan
+      ├─ Clause: (g) the
+        ├─ ContentText: (h)	any
+other circumstance or any existence of or reliance o
+        ├─ ContentText: This
+Agreement shall continue to be effective or be reinstat
+    ├─ Section: 3: Waivers and Acknowledgments. (a) Each Guarantor hereby...
+      ├─ Clause: (b) Each
+        ├─ ContentText: (c) Each
+Guarantor hereby unconditionally and irrevocably wa
+        ├─ ContentText: (d) Each
+Guarantor acknowledges that the Administrative Agen
+      ├─ Clause: (e) Each
+      ├─ Clause: (f) Each
+    ├─ Section: 4: Subrogation. Until the Obligations are indefeasibly sa...
+    ├─ Section: 5: Payments Free and Clear of Taxes, Etc. Any and all pay...
+    ├─ Section: 6: Representations and Warranties. Each Guarantor hereby ...
+    ├─ Section: 7: Covenants. Each Guarantor covenants and agrees that, u...
+    ├─ Section: 8: Amendments, Guaranty Supplements, Etc. (a) No amendmen...
+      ├─ ContentText: (b) Pursuant
+to Section 6.11 of the Credit Agreement, certai
+    ├─ Section: 9: Notices, Etc. All notices and other communications pro...
+    ├─ Section: 10: No Waiver; Remedies. No failure on the part of any Se...
+    ├─ Section: 11: Right of Setoff. Upon the occurrence and during the c...
+    ├─ Section: 12: Indemnification. (a) Without limitation on any other ...
+      ├─ ContentText: (b) Each
+Guarantor hereby also agrees that none of the Indem
+      ├─ ContentText: (c) Without
+prejudice to the survival of any of the other ag
+    ├─ Section: 13: Subordination. Each Guarantor hereby subordinates any...
+      ├─ ContentText: (a)	Prohibited
+Payments, Etc. Except during the continuance 
+      ├─ ContentText: (b)	Prior
+Payment of Guaranteed Obligations. In any proceedi
+      ├─ ContentText: 1
+Note for Robinson: Loan Parties are already covered
+by the
+      ├─ ContentText: (c)	Turn-Over.
+After the occurrence and during the continuan
+      ├─ ContentText: (d)	Administrative
+Agent Authorization. After the occurrence
+    ├─ Section: 14: Continuing Guaranty; Assignments under the Credit Agr...
+    ├─ Section: 15: Execution in Counterparts. This Agreement or any Guar...
+    ├─ Section: 16: Governing Law; Jurisdiction; Waiver of Jury Trial, Et...
+      ├─ ContentText: (b) ANY
+LEGAL ACTION OR PROCEEDING ARISING UNDER THIS AGREEM
+      ├─ ContentText: (c) WAIVER
+OF RIGHT TO TRIAL BY JURY. EACH PARTY TO THIS AGR
+      ├─ ContentText: In
+Witness Whereof, each Guarantor has caused this
+Agreement
+      ├─ ContentText: Nxt-ID, Inc., as a Guarantor
+
+ 
+ 
+ 
+
+ 
+By:
+ 
+
+ 
+Name:
+ 
+
+ 
+T
+      ├─ ContentText: Acknowledged
+    and accepted:
+
+ 
+ 
+ 
+ 
+
+ 
+Sagard
+    Holdin
+    ├─ Party: Inc.
+      ├─ Definition: "shall also"
+        ├─ ContentText: Section 3.
+Representations and Warranties. The undersigned h
+        ├─ ContentText: Section 4.
+Delivery by Facsimile; Electronic Transmission. D
+        ├─ ContentText: Section 5.
+Governing Law; Jurisdiction; Waiver of Jury Trial
+        ├─ ContentText: (b) ANY
+LEGAL ACTION OR PROCEEDING ARISING UNDER THIS GUARAN
+        ├─ ContentText: (c) WAIVER
+OF RIGHT TO TRIAL BY JURY. EACH PARTY TO THIS GUA
+        ├─ ContentText: Very truly yours,
+
+ 
+ 
+ 
+
+ 
+[Name of Additional Guarantor]
+
+
+        ├─ ContentText: signature
+page
+supplement no. [  ] to guaranty agreement
+        ├─ ContentText: Acknowledged and accepted:
+
+ 
+ 
+ 
+ 
+
+ 
+Sagard Holdings Manag
+        ├─ ContentText: signature
+page
+supplement no. [  ] to guaranty agreement
+      ├─ Clause: (A) Reference
+      ├─ ContentText: B. The
+Guarantors have entered into the Guaranty in order to
+      ├─ ContentText: Accordingly,
+the Administrative Agent and the undersigned ag
+      ├─ ContentText: Section 1.
+Guaranty; Limitation of Liability. (a) The unders
+      ├─ ContentText: Field: Page; Sequence: 15; Options: NewSection; Value: 1
+      ├─ ContentText: (b) The
+undersigned, and by its acceptance of this Guaranty 
+      ├─ ContentText: (c) The
+undersigned hereby unconditionally and irrevocably a
+    ├─ ContentText: Sagard
+Holdings Manager LP,
+as Administrative Agent
+    ├─ ContentText: Field: Page; Sequence: 2; Options: NewSection; Value: 1

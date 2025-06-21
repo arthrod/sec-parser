@@ -1,0 +1,44 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_08.html
+====================================================================================================
+📊 Quality Score: 0.89
+📄 Format: html
+🔢 Total Elements: 58
+🔗 Cross-References: 43
+📋 Title: Management Agreement...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 1
+  paragraph           : 15
+  section             : 11
+  signature           : 3
+  table               : 27
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 13
+  Document Self Ref   : 4
+  Exhibit Ref         : 1
+  Legal Ref           : 3
+  Positional Ref      : 4
+  Section Ref         : 18
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.1
+[PARAGRAPH] Execution Version
+[PARAGRAPH] FIRST AMENDMENT
+[TITLE] Management Agreement
+[PARAGRAPH] May 16, 2018
+[PARAGRAPH] This First Amendment (this “ Amendment ”) to the Management Agreement (as define...
+[PARAGRAPH] WHEREAS, the Parties entered into that certain Management Agreement, dated Janua...
+[PARAGRAPH] WHEREAS, the Initial Term of the Management Agreement will expire on December 31...
+[PARAGRAPH] WHEREAS, prior to the expiration of the Initial Term, a Party may request change...
+[PARAGRAPH] WHEREAS, notwithstanding the automatic renewal provisions of Section 16(a) of th...
+... and 48 more elements
+
+====================================================================================================

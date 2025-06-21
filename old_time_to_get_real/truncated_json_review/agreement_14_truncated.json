@@ -1,0 +1,559 @@
+{
+  "agreement_summary": {
+    "number": 14,
+    "filename": "agreement_14.html",
+    "title": "AMENDMENT NO. 2 TO CREDIT AGREEMENT",
+    "total_elements": 38,
+    "hierarchical_elements": 34,
+    "total_text_chars": 7886,
+    "element_type_counts": {
+      "TextElement": 4,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 3,
+      "ContentTextElement": 15,
+      "HeadingElement": 6,
+      "PartyElement": 1,
+      "RecitalElement": 2,
+      "SectionElement": 6
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "[Remainder of page intentionally left blank.]",
+      "text_length": 45
+    },
+    {
+      "class_name": "TextElement",
+      "text": "as Administrative Agent",
+      "text_length": 23
+    },
+    {
+      "class_name": "TextElement",
+      "text": "COMERICA BANK, as a LenderBy:/s/ Anita ChanName: Anita ChanTitle: Relationshi...",
+      "text_length": 503
+    },
+    {
+      "class_name": "TextElement",
+      "text": "By:/s/ Conan SchleicherName: Conan SchleicherTitle: Senior Vice President BAN...",
+      "text_length": 853
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "AMENDMENT NO. 2 TO CREDIT AGREEMENT",
+      "text_length": 35,
+      "id": "AgreementTitleElement_1128",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 16,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "c.    The second sentence of the last paragraph of Section 5.01 of the Credit...",
+      "text_length": 158,
+      "id": "ClauseElement_1135",
+      "parent_id": "PartyElement_1140",
+      "level": 3,
+      "children_count": 4,
+      "clause_id": "(c)",
+      "clause_text": "The second sentence of the last paragraph of Section 5.01 of the Credit Agree...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "b.    all fees required to be paid to the Administrative Agent or any Lender ...",
+      "text_length": 216,
+      "id": "ClauseElement_1136",
+      "parent_id": "SectionElement_1130",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "all fees required to be paid to the Administrative Agent or any Lender and al...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "U.S. NATIONAL ASSOCIATION, as a Lender",
+      "text_length": 38,
+      "id": "ClauseElement_1137",
+      "parent_id": "HeadingElement_1146",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(U)",
+      "normalized_id": "u"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Amendment No. 2 to Credit Agreement, dated as of October 3, 2016 (this “...",
+      "text_length": 748,
+      "id": "ContentTextElement_1147",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "a.    Section 1.01 of the Credit Agreement is hereby amended by adding the fo...",
+      "text_length": 130,
+      "id": "ContentTextElement_1148",
+      "parent_id": "SectionElement_1129",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "b.    Section 5.01(c) of the Credit Agreement is hereby amended and restated ...",
+      "text_length": 104,
+      "id": "ContentTextElement_1149",
+      "parent_id": "PartyElement_1140",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "“(c)     within 90 days after the end of each fiscal year of the Company, and...",
+      "text_length": 937,
+      "id": "ContentTextElement_1150",
+      "parent_id": "PartyElement_1140",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "d.    Section 6.01(n) of the Credit Agreement is hereby amended and restated ...",
+      "text_length": 104,
+      "id": "ContentTextElement_1151",
+      "parent_id": "ClauseElement_1135",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "“(n)     unsecured Indebtedness of DBT, Deckers Shanghai, and/or Deckers Guan...",
+      "text_length": 231,
+      "id": "ContentTextElement_1152",
+      "parent_id": "ClauseElement_1135",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "e.    Section 6.04(e) of the Credit Agreement is hereby amended and restated ...",
+      "text_length": 104,
+      "id": "ContentTextElement_1153",
+      "parent_id": "ClauseElement_1135",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "“(n)     Guarantees constituting Indebtedness permitted by clauses (l), (n), ...",
+      "text_length": 105,
+      "id": "ContentTextElement_1154",
+      "parent_id": "ClauseElement_1135",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "a.     counterparts of this Amendment duly executed by each Borrower, the Req...",
+      "text_length": 124,
+      "id": "ContentTextElement_1155",
+      "parent_id": "SectionElement_1130",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the...",
+      "text_length": 144,
+      "id": "ContentTextElement_1156",
+      "parent_id": "SectionElement_1134",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "By:/s/ Thomas A. GeorgeName: Thomas A. George Title: Chief Financial Officer",
+      "text_length": 76,
+      "id": "ContentTextElement_1157",
+      "parent_id": "HeadingElement_1141",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "By:/s/ Alex Henderson Name: Alex Henderson Title: Director",
+      "text_length": 58,
+      "id": "ContentTextElement_1158",
+      "parent_id": "HeadingElement_1142",
+      "level": 4,
+      "children_count": 0
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "[Remainder of page intentionally left blank.]",
+      "text_length": 45
+    },
+    {
+      "class_name": "TextElement",
+      "text": "as Administrative Agent",
+      "text_length": 23
+    },
+    {
+      "class_name": "TextElement",
+      "text": "COMERICA BANK, as a LenderBy:/s/ Anita ChanName: Anita ChanTitle: Relationshi...",
+      "text_length": 503
+    },
+    {
+      "class_name": "TextElement",
+      "text": "By:/s/ Conan SchleicherName: Conan SchleicherTitle: Senior Vice President BAN...",
+      "text_length": 853
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "AMENDMENT NO. 2 TO CREDIT AGREEMENT",
+      "text_length": 35,
+      "id": "AgreementTitleElement_1128",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 16,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "c.    The second sentence of the last paragraph of Section 5.01 of the Credit...",
+      "text_length": 158,
+      "id": "ClauseElement_1135",
+      "parent_id": "PartyElement_1140",
+      "level": 3,
+      "children_count": 4,
+      "clause_id": "(c)",
+      "clause_text": "The second sentence of the last paragraph of Section 5.01 of the Credit Agree...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "b.    all fees required to be paid to the Administrative Agent or any Lender ...",
+      "text_length": 216,
+      "id": "ClauseElement_1136",
+      "parent_id": "SectionElement_1130",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "all fees required to be paid to the Administrative Agent or any Lender and al...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "U.S. NATIONAL ASSOCIATION, as a Lender",
+      "text_length": 38,
+      "id": "ClauseElement_1137",
+      "parent_id": "HeadingElement_1146",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(U)",
+      "normalized_id": "u"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Amendment No. 2 to Credit Agreement, dated as of October 3, 2016 (this “...",
+      "text_length": 748,
+      "id": "ContentTextElement_1147",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "a.    Section 1.01 of the Credit Agreement is hereby amended by adding the fo...",
+      "text_length": 130,
+      "id": "ContentTextElement_1148",
+      "parent_id": "SectionElement_1129",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "b.    Section 5.01(c) of the Credit Agreement is hereby amended and restated ...",
+      "text_length": 104,
+      "id": "ContentTextElement_1149",
+      "parent_id": "PartyElement_1140",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "“(c)     within 90 days after the end of each fiscal year of the Company, and...",
+      "text_length": 937,
+      "id": "ContentTextElement_1150",
+      "parent_id": "PartyElement_1140",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "d.    Section 6.01(n) of the Credit Agreement is hereby amended and restated ...",
+      "text_length": 104,
+      "id": "ContentTextElement_1151",
+      "parent_id": "ClauseElement_1135",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "“(n)     unsecured Indebtedness of DBT, Deckers Shanghai, and/or Deckers Guan...",
+      "text_length": 231,
+      "id": "ContentTextElement_1152",
+      "parent_id": "ClauseElement_1135",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "e.    Section 6.04(e) of the Credit Agreement is hereby amended and restated ...",
+      "text_length": 104,
+      "id": "ContentTextElement_1153",
+      "parent_id": "ClauseElement_1135",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "“(n)     Guarantees constituting Indebtedness permitted by clauses (l), (n), ...",
+      "text_length": 105,
+      "id": "ContentTextElement_1154",
+      "parent_id": "ClauseElement_1135",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "a.     counterparts of this Amendment duly executed by each Borrower, the Req...",
+      "text_length": 124,
+      "id": "ContentTextElement_1155",
+      "parent_id": "SectionElement_1130",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the...",
+      "text_length": 144,
+      "id": "ContentTextElement_1156",
+      "parent_id": "SectionElement_1134",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "By:/s/ Thomas A. GeorgeName: Thomas A. George Title: Chief Financial Officer",
+      "text_length": 76,
+      "id": "ContentTextElement_1157",
+      "parent_id": "HeadingElement_1141",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "By:/s/ Alex Henderson Name: Alex Henderson Title: Director",
+      "text_length": 58,
+      "id": "ContentTextElement_1158",
+      "parent_id": "HeadingElement_1142",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "By:/s/ Alex Henderson  Name: Alex Henderson Title: Director",
+      "text_length": 59,
+      "id": "ContentTextElement_1159",
+      "parent_id": "HeadingElement_1143",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "By:/s/ Alex Henderson  Name: Alex Henderson Title: Director",
+      "text_length": 59,
+      "id": "ContentTextElement_1160",
+      "parent_id": "HeadingElement_1144",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "By:/s/ Anna C. Araya Name:  Anna C. Araya  Title: Director",
+      "text_length": 58,
+      "id": "ContentTextElement_1161",
+      "parent_id": "HeadingElement_1146",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "DECKERS OUTDOOR CORPORATION",
+      "text_length": 27,
+      "id": "HeadingElement_1141",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "DECKERS OUTDOOR CORPORATION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "DECKERS UK LIMITED",
+      "text_length": 18,
+      "id": "HeadingElement_1142",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "DECKERS UK LIMITED"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "DECKERS BENELUX B.V.",
+      "text_length": 20,
+      "id": "HeadingElement_1143",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "DECKERS BENELUX B.V."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "DECKERS EUROPE LIMITED",
+      "text_length": 22,
+      "id": "HeadingElement_1144",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "DECKERS EUROPE LIMITED"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "ACKNOWLEDGED BY:",
+      "text_length": 16,
+      "id": "HeadingElement_1145",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "ACKNOWLEDGED BY:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "JPMORGAN CHASE BANK, N.A.,",
+      "text_length": 26,
+      "id": "HeadingElement_1146",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 1,
+      "children_count": 2,
+      "heading_text": "JPMORGAN CHASE BANK, N.A.,"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "““Deckers Guangzhou” means Deckers Outdoor (Guangzhou) Consulting Co. Ltd., a...",
+      "text_length": 152,
+      "id": "PartyElement_1140",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 2,
+      "children_count": 3,
+      "party_name": "Deckers Outdoor (Guangzhou) Consulting Co. Ltd.",
+      "party_type": "wholly-owned Subsidiary of the Company o",
+      "normalized_id": "party_deckers_outdoor__guangzhou__consulting_co__ltd_"
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Company, the Lenders party hereto and the Administrative Agent h...",
+      "text_length": 189,
+      "id": "RecitalElement_1138",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW, THEREFORE, in consideration of the premises and for other good and valua...",
+      "text_length": 201,
+      "id": "RecitalElement_1139",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.Amendments.  Effective as of the date hereof and subject to the satisfactio...",
+      "text_length": 199,
+      "id": "SectionElement_1129",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "1",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.    Conditions Precedent.  This Amendment shall become effective on the dat...",
+      "text_length": 183,
+      "id": "SectionElement_1130",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "2",
+      "section_title": "Conditions Precedent.  This Amendment shall become effect...",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.    Representations and Warranties.  Each Borrower represents and warrants ...",
+      "text_length": 758,
+      "id": "SectionElement_1131",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "3",
+      "section_title": "Representations and Warranties.  Each Borrower represents...",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.    Confirmation. On and after the Amendment Effective Date, each reference...",
+      "text_length": 562,
+      "id": "SectionElement_1132",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "4",
+      "section_title": "Confirmation. On and after the Amendment Effective Date, ...",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "5.    Counterparts.  This Amendment may be executed in any number of counterp...",
+      "text_length": 185,
+      "id": "SectionElement_1133",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "5",
+      "section_title": "Counterparts.  This Amendment may be executed in any numb...",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "6.    Governing Law.  THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN A...",
+      "text_length": 416,
+      "id": "SectionElement_1134",
+      "parent_id": "AgreementTitleElement_1128",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "6",
+      "section_title": "Governing Law.  THIS AMENDMENT SHALL BE GOVERNED BY, AND ...",
+      "normalized_id": "6"
+    }
+  ]
+}

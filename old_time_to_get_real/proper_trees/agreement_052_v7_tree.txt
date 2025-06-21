@@ -1,0 +1,15 @@
+AGREEMENT 052 - PARSER V7
+==================================================
+Total Elements: 16
+Root Elements: 0
+Orphan Elements: 3
+Orphan Rate: 18.8%
+
+ELEMENT DETAILS:
+NO ROOT ELEMENTS FOUND
+
+ORPHAN ELEMENTS (No Valid Parent):
+==================================================
+ORPHAN: [ContentTextElement | ID:ContentTextElement_53 | L4 | Parent:None] Code means the U.S. Internal Revenue Code of 1986, as amended, and any successor Code, and related rules, regulations and interpretations. Consulta...
+ORPHAN: [DefinitionElement | ID:DefinitionElement_52 | L3 | Parent:None] Sale Event shall mean (i) the sale of all or substantially all of the assets of the Company on a consolidated basis to an unrelated person or entity...
+ORPHAN: [SectionElement | ID:SectionElement_51 | L2 | Parent:None] Section 409A) to a grantee who is then considered a specified employee (within the meaning of Section 409A), then no such payment shall be made prio...

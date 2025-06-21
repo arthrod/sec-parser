@@ -1,0 +1,132 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_14.html
+====================================================================================================
+📊 Quality Score: 0.89
+📄 Format: html
+🔢 Total Elements: 88
+🔗 Cross-References: 24
+📋 Title: AMENDMENT NO. 2 TO CREDIT AGREEMENT
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 2
+  paragraph           : 65
+  party               : 1
+  section             : 7
+  signature           : 12
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 12
+  Document Self Ref   : 1
+  Exhibit Ref         : 2
+  Positional Ref      : 2
+  Section Ref         : 7
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] EXHIBIT 10.10
+   ⚠️  Confidence: 0.80
+
+[TITLE] AMENDMENT NO. 2 TO CREDIT AGREEMENT
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] This Amendment No. 2 to Credit Agreement, dated as of October 3, 2016 (this “ Am...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the Company, the Lenders party hereto and the Administrative Agent have...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] NOW, THEREFORE, in consideration of the premises and for other good and valuable...
+   ⚠️  Confidence: 0.80
+
+[SECTION] 1. Amendments .  Effective as of the date hereof and subject to the satisfaction...
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] a. Section 1.01 of the Credit Agreement is hereby amended by adding the followin...
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] ““ Deckers Guangzhou ” means Deckers Outdoor (Guangzhou) Consulting Co. Ltd., a ...
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] b. Section 5.01(c) of the Credit Agreement is hereby amended and restated in its...
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] “(c)     within 90 days after the end of each fiscal year of the Company, and wi...
+│     ⚠️  Confidence: 0.80
+├─ [PARTY] c. The second sentence of the last paragraph of Section 5.01 of the Credit Agree...
+│     ⚠️  Confidence: 0.80
+├─ ... and 4 more content elements
+
+[SECTION] 2. Conditions Precedent .  This Amendment shall become effective on the date (th...
+   ⚠️  Confidence: 0.80
+├─ [SIGNATURE] a. counterparts of this Amendment duly executed by each Borrower, the Required L...
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] b. all fees required to be paid to the Administrative Agent or any Lender and al...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 3. Representations and Warranties .  Each Borrower represents and warrants to th...
+   ⚠️  Confidence: 0.80
+
+[SECTION] 4. Confirmation . On and after the Amendment Effective Date, each reference in t...
+   ⚠️  Confidence: 0.80
+
+[SECTION] 5. Counterparts .  This Amendment may be executed in any number of counterparts,...
+   ⚠️  Confidence: 0.80
+
+[SECTION] 6. Governing Law .  THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORD...
+   ⚠️  Confidence: 0.80
+├─ [METADATA] [Remainder of page intentionally left blank.]
+│     ⚠️  Confidence: 0.80
+├─ [SIGNATURE] IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the da...
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] DECKERS OUTDOOR CORPORATION
+│     ⚠️  Confidence: 0.80
+├─ [SIGNATURE] By: /s/ Thomas A. George Name: Thomas A. George Title: Chief Financial Officer
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] DECKERS UK LIMITED
+│     ⚠️  Confidence: 0.80
+├─ ... and 29 more content elements
+
+[SECTION] U.S. NATIONAL ASSOCIATION, as a Lender
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] By: /s/ Conan Schleicher
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] Name: Conan Schleicher
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] Title: Senior Vice President
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] BANK OF THE WEST, as a Lender
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] By: /s/ David G. Kronen
+│     ⚠️  Confidence: 0.80
+├─ ... and 26 more content elements
+
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (12 references):
+   • "hereof" → hereof (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   ... and 7 more document ref references
+
+📌 Document Self Ref (1 references):
+   • "this Agreement" → this Agreement (confidence: 0.80)
+
+📌 Exhibit Ref (2 references):
+   • "EXHIBIT 10" → 10 (confidence: 0.80)
+   • "Exhibit C" → C (confidence: 0.80)
+
+📌 Positional Ref (2 references):
+   • "foregoing" → foregoing (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+
+📌 Section Ref (7 references):
+   • "Section 2" → 2 (confidence: 0.80)
+   • "Section 1.01" → 1.01 (confidence: 0.80)
+   • "Section 5.01" → 5.01 (confidence: 0.80)
+   • "Section 5.01" → 5.01 (confidence: 0.80)
+   • "Section 6.01" → 6.01 (confidence: 0.80)
+   ... and 2 more section ref references
+
+====================================================================================================

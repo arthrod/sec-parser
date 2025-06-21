@@ -1,0 +1,152 @@
+{
+  "agreement_summary": {
+    "number": 3,
+    "filename": "agreement_03.html",
+    "title": "No title found",
+    "total_elements": 10,
+    "hierarchical_elements": 4,
+    "total_text_chars": 733,
+    "element_type_counts": {
+      "TextElement": 4,
+      "TableElement": 2,
+      "ContentTextElement": 4
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "Exhibit 10(a)1ALLETE Executive Annual Incentive PlanForm of AwardEffective 2018",
+      "text_length": 79
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Target Award Opportunity",
+      "text_length": 24
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Base Salary$  Times   Award Opportunity (percent of base salary)%  Equals   T...",
+      "text_length": 90
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Performance Levels and Award Amounts",
+      "text_length": 36
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Goal Performance LevelPayout as Percent of Target AwardAward Amount Superior2...",
+      "text_length": 127
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Goals",
+      "text_length": 5
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "[Eligible Executive Employees, except CEO and CFO]",
+      "text_length": 50,
+      "id": "ContentTextElement_45",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Goal       Weighting Financial Goals       Net Income 50%  Cash from Operatin...",
+      "text_length": 163,
+      "id": "ContentTextElement_46",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Compensation Subject to Compensation Recovery Policy",
+      "text_length": 52,
+      "id": "ContentTextElement_47",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Annual Incentive Plan Compensation is subject to recoupment as defined in the...",
+      "text_length": 107,
+      "id": "ContentTextElement_48",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "Exhibit 10(a)1ALLETE Executive Annual Incentive PlanForm of AwardEffective 2018",
+      "text_length": 79
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Target Award Opportunity",
+      "text_length": 24
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Base Salary$  Times   Award Opportunity (percent of base salary)%  Equals   T...",
+      "text_length": 90
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Performance Levels and Award Amounts",
+      "text_length": 36
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Goal Performance LevelPayout as Percent of Target AwardAward Amount Superior2...",
+      "text_length": 127
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Goals",
+      "text_length": 5
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "[Eligible Executive Employees, except CEO and CFO]",
+      "text_length": 50,
+      "id": "ContentTextElement_45",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Goal       Weighting Financial Goals       Net Income 50%  Cash from Operatin...",
+      "text_length": 163,
+      "id": "ContentTextElement_46",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Compensation Subject to Compensation Recovery Policy",
+      "text_length": 52,
+      "id": "ContentTextElement_47",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Annual Incentive Plan Compensation is subject to recoupment as defined in the...",
+      "text_length": 107,
+      "id": "ContentTextElement_48",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    }
+  ]
+}

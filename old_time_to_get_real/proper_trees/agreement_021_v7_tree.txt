@@ -1,0 +1,14 @@
+AGREEMENT 021 - PARSER V7
+==================================================
+Total Elements: 2
+Root Elements: 0
+Orphan Elements: 2
+Orphan Rate: 100.0%
+
+ELEMENT DETAILS:
+NO ROOT ELEMENTS FOUND
+
+ORPHAN ELEMENTS (No Valid Parent):
+==================================================
+ORPHAN: [SectionElement | ID:SectionElement_49 | L2 | Parent:None] 9. Events of Default. The following shall constitute an event of default (Event of Default): (a) Failure to Make Required Payments. Failure by Maker...
+ORPHAN: [SectionElement | ID:SectionElement_50 | L2 | Parent:None] 13. Notices. All notices, statements or other documents which are required or contemplated by this Agreement shall be: (a) in writing and delivered pe...

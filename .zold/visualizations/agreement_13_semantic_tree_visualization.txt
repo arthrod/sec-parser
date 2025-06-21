@@ -1,0 +1,126 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_13.html
+====================================================================================================
+📊 Quality Score: 0.89
+📄 Format: html
+🔢 Total Elements: 1035
+🔗 Cross-References: 534
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 45
+  paragraph           : 273
+  section             : 357
+  signature           : 14
+  subsection          : 17
+  table               : 329
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 35
+  Document Self Ref   : 9
+  Exhibit Ref         : 17
+  Legal Ref           : 11
+  Positional Ref      : 18
+  Section Ref         : 444
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.10
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] N INTH A MENDMENT
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] T HIRD A MENDED AND R ESTATED C REDIT A GREEMENT
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] AMONG
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] L EGACY R ESERVES LP,
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] as Borrower,
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] T HE G UARANTORS ,
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] W ELLS F ARGO B ANK , N ATIONAL A SSOCIATION ,
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] as Administrative Agent,
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] and
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] T HE L ENDERS S IGNATORY H ERETO
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] D ATED AS OF M ARCH 23, 2018
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Sole Lead Arranger and Sole Book Runner
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Wells Fargo Securities, LLC
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Syndication Agent
+   ⚠️  Confidence: 0.80
+
+... and 361 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (35 references):
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   ... and 30 more document ref references
+
+📌 Document Self Ref (9 references):
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   ... and 4 more document self ref references
+
+📌 Exhibit Ref (17 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "Schedule 1" → 1 (confidence: 0.80)
+   • "Schedule 7" → 7 (confidence: 0.80)
+   • "Schedule 7" → 7 (confidence: 0.80)
+   • "Schedule 7" → 7 (confidence: 0.80)
+   ... and 12 more exhibit ref references
+
+📌 Legal Ref (11 references):
+   • "under Section 8.01" → 8.01 (confidence: 0.80)
+   • "pursuant to Section 9.04" → 9.04 (confidence: 0.80)
+   • "pursuant to Section 9.04" → 9.04 (confidence: 0.80)
+   • "pursuant to Section 9.05" → 9.05 (confidence: 0.80)
+   • "pursuant to Section 9.05" → 9.05 (confidence: 0.80)
+   ... and 6 more legal ref references
+
+📌 Positional Ref (18 references):
+   • "Above" → Above (confidence: 0.80)
+   • "Above" → Above (confidence: 0.80)
+   • "Above" → Above (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   ... and 13 more positional ref references
+
+📌 Section Ref (444 references):
+   • "Section 1.01" → 1.01 (confidence: 0.80)
+   • "Section 1.02" → 1.02 (confidence: 0.80)
+   • "Section 1.03" → 1.03 (confidence: 0.80)
+   • "Section 1.04" → 1.04 (confidence: 0.80)
+   • "Section 1.05" → 1.05 (confidence: 0.80)
+   ... and 439 more section ref references
+
+====================================================================================================

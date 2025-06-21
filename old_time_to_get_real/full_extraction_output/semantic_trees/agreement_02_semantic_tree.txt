@@ -1,0 +1,27 @@
+AGREEMENT 02 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_02.html
+Total Elements: 10
+Hierarchical Elements: 7
+Status: ❌ FAILED
+
+Title: FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ContentTextElement: 3
+  RecitalElement: 3
+  TableElement: 2
+  TextElement: 1
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGR
+  ├─ Recital: WHEREAS, WGC USA Asset Management Company, LLC, a Delaware l
+  ├─ Recital: WHEREAS, the parties hereto desire to amend the Agreement
+(
+  ├─ Recital: NOW, THEREFORE, in consideration of the agreements and
+oblig
+    ├─ ContentText: Schedule A. Schedule A is hereby amended by listing a new se
+    ├─ ContentText: The Trust will pay to the Sponsor as compensation for the Sp
+    ├─ ContentText: IN WITNESS WHEREOF, the parties hereto have caused this Amen

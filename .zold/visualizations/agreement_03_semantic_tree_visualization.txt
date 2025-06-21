@@ -1,0 +1,83 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_03.html
+====================================================================================================
+📊 Quality Score: 0.51
+📄 Format: html
+🔢 Total Elements: 68
+🔗 Cross-References: 6
+📋 Title: ALLETE Executive Annual Incentive Plan
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 2
+  paragraph           : 40
+  table               : 25
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Exhibit Ref         : 2
+  Positional Ref      : 4
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10(a)1
+   ⚠️  Confidence: 0.80
+
+[METADATA] Exhibit 10(a)1
+   ⚠️  Confidence: 0.80
+
+[TITLE] ALLETE Executive Annual Incentive Plan
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Form of Award
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Effective 2018
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] [Eligible Executive Employees, except CEO and CFO]
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Target Award Opportunity
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Base Salary $ Times Award Opportunity (percent of base salary) % Equals Target A...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Base Salary $ Times Award Opportunity (percent of base salary) % Equals Target A...
+   ⚠️  Confidence: 0.80
+
+[TABLE] Base Salary
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Base Salary
+   ⚠️  Confidence: 0.80
+
+[TABLE] Times
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Times
+   ⚠️  Confidence: 0.80
+
+[TABLE] Award Opportunity (percent of base salary)
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Award Opportunity (percent of base salary)
+   ⚠️  Confidence: 0.80
+
+... and 53 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Exhibit Ref (2 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "Exhibit 10" → 10 (confidence: 0.80)
+
+📌 Positional Ref (4 references):
+   • "Below" → Below (confidence: 0.80)
+   • "Below" → Below (confidence: 0.80)
+   • "Below" → Below (confidence: 0.80)
+   • "Below" → Below (confidence: 0.80)
+
+====================================================================================================

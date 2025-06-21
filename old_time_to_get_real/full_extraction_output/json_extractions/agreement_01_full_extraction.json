@@ -1,0 +1,496 @@
+{
+  "agreement_info": {
+    "number": 1,
+    "filename": "agreement_01.html",
+    "total_elements": 51,
+    "element_types": {
+      "TextElement": 13,
+      "TableElement": 1,
+      "AgreementTitleElement": 1,
+      "ContentTextElement": 22,
+      "HeadingElement": 2,
+      "PartyElement": 1,
+      "SectionElement": 10,
+      "SignatureBlockElement": 1
+    }
+  },
+  "elements": [
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Page; Sequence: 1  Field: /Page"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Rule-Page  Field: /Rule-Page"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Page; Sequence: 2  Field: /Page"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Rule-Page  Field: /Rule-Page"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Page; Sequence: 3  Field: /Page"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Rule-Page  Field: /Rule-Page"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Page; Sequence: 4  Field: /Page"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Rule-Page  Field: /Rule-Page"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Very truly yours,BetterSea, LLC"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Page; Sequence: 5  Field: /Page"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Rule-Page  Field: /Rule-Page [intentionally blank]"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "A Delaware Corporation"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "/s/ Melvin Gagerman\n \n\nMelvin Gagerman\n \n\nCEO"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Field: Rule-Page  Field: /Rule-Page"
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "module": "agreement_parser_v6",
+      "text": "Consulting Agreement",
+      "id": "AgreementTitleElement_1",
+      "parent_id": null,
+      "children": [
+        "PartyElement_13",
+        "SectionElement_2",
+        "SectionElement_3",
+        "SectionElement_4",
+        "SectionElement_5",
+        "SectionElement_6",
+        "SectionElement_7",
+        "SectionElement_8",
+        "SectionElement_9",
+        "SectionElement_10",
+        "SectionElement_11",
+        "SignatureBlockElement_12",
+        "HeadingElement_14",
+        "HeadingElement_15"
+      ],
+      "level": 0,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "BetterSea will act as an independent contractor\nat all times in the performance of its duties under this Agreement. BetterSea’s primary responsibilities on Aura’s\nbehalf will be to advise and assist Aura in scientific developments of magnetic technologies related to axial induction machines\nand electromagnetic actuators. In addition, BetterSea will provide technical and sales support to Aura for (i) various government\nand quasigovernmental grants and/or contracts sought by Aura, and (ii) Aura’s commercial customers. Additionally, BetterSea\nwill assist Aura with technical support and product development for Aura’s Joint Venture in China as well as other potential\njoint ventures (or similar arrangements) entered into by Aura in other parts of the world. BetterSea may also provide such additional\nservices to Aura on other matters as requested from time to time by Aura’s Board of Directors and as agreed to be performed\nby BetterSea.",
+      "id": "ContentTextElement_16",
+      "parent_id": "SectionElement_2",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "In connection with BetterSea’s services,\nAura agrees to cooperate with BetterSea in connection with the services to be performed, making its officers, directors and other\npersonnel available for consultation, providing relevant information and being truthful at all times. As you know, matters are\noften time sensitive and failure to act within a certain time may result in impairment or loss of certain opportunities. By signing\nthis Agreement, Aura agrees to respond timely to all requests by BetterSea for instructions, information, or other action and agrees\nthat Aura’s failure to timely respond to any such request shall be deemed to be an instruction by Aura that no action is\nto be taken with respect to such matter.",
+      "id": "ContentTextElement_17",
+      "parent_id": "SectionElement_2",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Aura herby acknowledges and agrees that\na past due principal balance of $331,492 is presently due and owing to BetterSea for work performed through June 16, 2017 (the\n“Past Due Balance”). Aura further agrees that in the event that the Past Due Balance is not paid by January 1, 2018\nthe Past Due Balance will bear interest at the rate of ten percent (10%) per annum commencing January 1, 2018 until paid. Aura\nfurther agrees to pay no less than 25% of the past due by April 1, 2018, additional no less than 25% by July l, 2018 and no less\nthan additional 25% by November 1, 2018, and all past due amounts must be paid in full before February I, 2019. Furthermore, Aura\nagrees to pay all future invoices from BetterSea within 30 days of receipt by Aura of such invoices. Any invoice or other amount\nhereinafter due to BetterSea (other than with respect to the Past Due Balance) that is not paid within five (5) calendar days of\nwhen due, shall continue to accrue and shall entail a late fee at the rate of 1.5% per month through and including the date of\nactual payment in full thereof.",
+      "id": "ContentTextElement_18",
+      "parent_id": "SectionElement_3",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017 Page 2 of 6",
+      "id": "ContentTextElement_19",
+      "parent_id": "SectionElement_3",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "In addition to the Past Due Balance (and\nany interest accrued thereon), Aura further acknowledges and agrees that BetterSea LLC is further entitled to receive, at no cost\nto BetterSea, such number of shares of Aura’s common stock equal to the product of 0.04 multiplied by the total number of\nshares of Aura’s common stock outstanding (calculated on a fully diluted basis) on the first business day following the effective\ndate of the first reverse stock split taking place after the effective date of this Agreement (the “Securities”). Aura\nrepresents and warrants to BetterSea that the issuance of the Securities has been duly authorized by Aura’s Board of Directors\nand when issued will be validly issued, fully paid and nonassessable, and will be free of any liens or encumbrances. The Securities\nshall be deemed fully earned, vested, and shall be immediately issuable to BetterSea on the first business day following the effective\ndate of the first reverse stock split taking place after the effective date of this Agreement.",
+      "id": "ContentTextElement_20",
+      "parent_id": "SectionElement_3",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Aura acknowledges that many of the activities\nto be undertaken by BetterSea hereunder are complex in nature involving not only complex scientific issues but also decisions of\nthird parties which are beyond the control of BetterSea. BetterSea cannot and does not promise or guarantee the successful implementation\nof any particular activity undertaken by it, including without limitation, the receipt of any particular sale, contract and/or\ngrant by Aura.",
+      "id": "ContentTextElement_21",
+      "parent_id": "SectionElement_4",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "BetterSea’s fees for services are\nbased primary on the actual time expended performing services multiplied by the hourly rates then in effect for its personnel.\nCurrently, the hourly rate of BetterSea’s senior technical and sales consultants is: $250 per hour; $175-$200 per hour for\njunior technical and sales consultants; and $60-100 per hour for other support members. Charged time includes all time personnel\nspend relating to Aura’s matters, including without limitation, travel time. Please note that BetterSea may assign various\npeople to Aura’s matters, as BetterSea deems appropriate.",
+      "id": "ContentTextElement_22",
+      "parent_id": "SectionElement_5",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "BetterSea will bill Aura monthly for its\nservices and each invoice shall be paid by Aura within thirty (30) calendar days of Aura’s receipt thereof. It is the policy\nof BetterSea that it will perform no further services for Aura if Aura becomes more than sixty (60) days delinquent in the payment\nof BetterSea’s bills, unless an arrangement to cure the delinquency is made in writing and agreed to by both parties. Please\nnote that BetterSea’s hourly rates are adjusted periodically to reflect the advancing experience, capabilities and seniority\nof the BetterSea’s professionals as well as general economic factors. BetterSea reserves the right to adjust such rates upon\n30 calendar days’ notice to Aura.",
+      "id": "ContentTextElement_23",
+      "parent_id": "SectionElement_5",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The foregoing notwithstanding, with respect\nto each Sale (as defined below), BetterSea shall be entitled to compensation equal to the greater of: (i) a commission equal to\nfive percent (5%) of the Net Amount (as defined below) of such Sale (a “Commission”) or (ii) the amount of its hourly\nbillings associated with such Sale calculated as of the date that such Sale is deemed to have occurred, as described below (the\n“Invoiced Amount”). To the extent that BetterSea is entitled to a Commission with respect to a Sale and Aura has previously\npaid some or all of BetterSea’s invoiced hourly billings relating to such Sale, the Commission due to BetterSea with respect\nthereto shall then be reduced by the amount already paid. For purposes of this Agreement, a “Sale” shall mean any sale\nby Aura of any of its current or future products under contracts occurring now or in the future that result from any introduction\nor other intervention by BetterSea commenced on or before January 1, 2019, including, without limitation, any purchase order (or\nsimilar document) issued by a customer introduced to Aura by BetterSea and any grants or other contract awards issued to Aura that\nwere identified by BetterSea or for which BetterSea’s intervention was a substantial factor in Aura’s receipt thereof.\nA Sale is deemed to occur upon the sooner of: (a) Aura’s receipt of a purchase order (or equivalent document) from an applicable\ncustomer; or (b) the announcement of Aura’s receipt of any applicable grant or contract award; for the avoidance of doubt,\nhowever, it is hereby confirmed that, regardless of the particular timing of any Sale occurrence, so long as the underlying introduction\nor other intervention forming the basis of the Sale occurred on or before January 1, 2019, BetterSea shall be entitled to a Commission\nor the Invoiced Amount, as applicable, with respect to such Sale. The “Net Amount” of a Sale shall equal the gross\namount of the applicable transaction, award or grant less any tax(es) required to be charged to the customer or other contract/award\nissuing authority by Aura and/or any applicable shipping charges relating to such Sale.",
+      "id": "ContentTextElement_24",
+      "parent_id": "SectionElement_5",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017\nPage 3 of 6",
+      "id": "ContentTextElement_25",
+      "parent_id": "SectionElement_5",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Commission payments to BetterSea shall\nbe made within 10 business days of Aura’s receipt of payment with respect to the applicable Sale. In the event of partial\nor progress payments to Aura, Aura will pay BetterSea proportionally as payments are received by Aura, in each case, within 10\nbusiness days of Aura’s receipt thereof.",
+      "id": "ContentTextElement_26",
+      "parent_id": "SectionElement_5",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Please note that that any fees quoted or\notherwise agreed to by BetterSea do not include the cost of any out-of-pocket expenses incurred in the course of BetterSea’s\nservice (as further described in paragraph 5 below). BetterSea barges for travel expenses, including time spent in transit in connection\nwith client matters as well as reimbursement for meals, transportation, accommodations, tolls, parking and mileage (at the standard\nmileage rate announced by the IRS). Aura expressly agrees that any compensation paid to BetterSea pursuant to this Agreement is\nin addition to (and not in lieu of) any other amounts that may be owed by Aura to BetterSea from time to time and that nothing\ncontained in this Agreement constitutes a waiver or discharge of any claims that BetterSea may have with respect to Aura.",
+      "id": "ContentTextElement_27",
+      "parent_id": "SectionElement_5",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Aura will be responsible for paying all\nout-of-pocket expenses incurred by BetterSea relating to Aura matters. Chargeable expenses include, among others, postage/shipping\nfees, telephone charges, telecopy charges, document duplication and processing charges, travel expenses such as mileage, transportation,\nparking, airfare, meals, and hotel accommodations and any other out of pocket expenses incurred m connection with any matter related\nto BetterSea’s services for Aura.",
+      "id": "ContentTextElement_28",
+      "parent_id": "SectionElement_6",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The services provided to Aura by BetterSea\nare provided on a non-exclusive basis.",
+      "id": "ContentTextElement_29",
+      "parent_id": "SectionElement_7",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This Agreement may be terminated by either\nparty for any reason at any time after February 28, 2019 upon 30 calendar days advance written notice. Notwithstanding the above,\nBetterSea may immediately cease performing services and terminate this Agreement if, among other things, Aura fails to honor the\nterms of this Agreement, Aura fails to cooperate with BetterSea, Aura fails to pay BetterSea’s fees and expenses incurred\nin a timely fashion, or under any other circumstances in which, in BetterSea’s view, it would be unlawful to perform such\nservices",
+      "id": "ContentTextElement_30",
+      "parent_id": "SectionElement_8",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017\nPage 4 of 6",
+      "id": "ContentTextElement_31",
+      "parent_id": "SectionElement_8",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Expiration or termination for any reason\nwill not, however, relieve Aura of its obligation to pay fees for services rendered or commission earned and charges for all expenses\naccrued on its behalf through the date of the termination. Upon the conclusion of BetterSea’s services, all unpaid fees and\nexpenses will immediately become due and payable.",
+      "id": "ContentTextElement_32",
+      "parent_id": "SectionElement_8",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Aura shall indemnify and hold BetterSea\n(as well as BetterSea’s officers, employees, members, managers, and agents) harmless to the fullest extent permitted by law\nfrom any claim, fine, judgment, settlement, liability, loss; cost or expense of any nature (including attorney’s fees of\ncounsel selected by BetterSea and all costs of any nature) incurred by BetterSea which arises from or relates in any manner to\nBetterSea’s services to Aura. To the maximum extent allowed by law, all amounts to be indemnified hereunder (including reasonable\nattorneys’ fees) shall be advanced by Aura until such time, if ever, as it is determined by final, non-appealable decision\nthat BetterSea is not entitled to indemnification hereunder (whereupon BetterSea shall reimburse Aura for all sums theretofore\nadvanced). BetterSea’s rights under this Paragraph 8 will be in addition to any other rights to which BetterSea may be entitled.",
+      "id": "ContentTextElement_33",
+      "parent_id": "SectionElement_9",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Any dispute or controversy relating to\nthis Agreement or any services or charges by BetterSea (including, but not limited to, disputes or claims regarding breach of contract,\nfraud, or violation of any rule or statute) that cannot be resolved by discussion or negotiation, will be resolved exclusively\nthrough final and binding arbitration rather than by litigation in court. Such binding arbitration will take place in Los Angeles\nCounty, California in accordance with California substantive and procedural law, other than choice-of-law principles, under the\nauspices of J.A.M.S and before a retired judge or justice. If the parties are unable to agree upon a retired superior court judge\nor appellate judge or justice, the matter will be submitted to J.A.M.S. and the administrator will select three names for submission\nto the parties. Each party will have a right to strike one name and the remaining judge listed will be the arbitrator for all purposes.\nThe fees of the arbitrator will be paid initially equally by Aura and BetterSea. However, the arbitrator shall have the right to\norder either party to pay all fees and costs as part of an award. All aspects of the arbitration shall be treated as confidential\nand neither the parties nor the arbitrator(s) may disclose the content or result of the arbitration, except as necessary to comply\nwith legal or regulatory requirements. The result of the arbitration shall be binding on the parties and judgment on the arbitrator’s\naward may be entered in any court having jurisdiction. The prevailing party in any arbitration or legal proceeding arising from\nor relating to this Agreement or the services provided hereunder will be entitled to recover as costs the reasonable expenses incurred\ntherewith, including, without limitation, reasonable attorneys’ fees, arbitrator fees, expert fees, court reporter fees,\nfiling fees, and deposition fees, whether or not such costs are otherwise recoverable pursuant to the California Code of Civil\nProcedure.",
+      "id": "ContentTextElement_34",
+      "parent_id": "SectionElement_10",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017\nPage 5 of 6",
+      "id": "ContentTextElement_35",
+      "parent_id": "SectionElement_10",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This Agreement is the entire agreement\nbetween Aura and BetterSea concerning BetterSea’s services to Aura and this Agreement supersedes all other prior oral or\nwritten agreements between Aura and BetterSea with respect to the matters discussed herein. Neither BetterSea nor Aura (nor any\nperson acting or purporting to act on the respective parties’ behalf) have made any representation, warranty, covenant, or\nundertaking with respect to such matters except as specifically set forth in this Agreement. California law governs this Agreement.\nIf any term of this Agreement is determined to be invalid or unenforceable for any reason, the remaining terms of this Agreement\nwill remain in full force and effect. This Agreement will not take effect, and BetterSea will have no obligation to provide any\nservices, until Aura has returned to BetterSea a signed copy of this Agreement. If you agree that the foregoing correctly represents\nAura’s understanding of the terms and conditions of our agreement, please sign the following page. I look forward to working\nwith you.",
+      "id": "ContentTextElement_36",
+      "parent_id": "SectionElement_11",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017\nPage 6 of 6",
+      "id": "ContentTextElement_37",
+      "parent_id": "SignatureBlockElement_12",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "APPROVED AND ACCEPTED:",
+      "id": "HeadingElement_14",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [],
+      "level": 1,
+      "heading_text": "APPROVED AND ACCEPTED:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "AURA SYSTEMS INC.",
+      "id": "HeadingElement_15",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [],
+      "level": 1,
+      "heading_text": "AURA SYSTEMS INC."
+    },
+    {
+      "class_name": "PartyElement",
+      "module": "agreement_parser_v6",
+      "text": "This Consulting Agreement (this “Agreement”)\nis entered into as of June 19, 2017 by and among Aura Systems Inc., a Delaware Corporation (“Aura”) and BetterSea,\nLLC a Wyoming Limited Liability Company (“BetterSea”).",
+      "id": "PartyElement_13",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [],
+      "level": 2,
+      "party_name": "Aura Systems Inc.",
+      "party_type": "Delaware Corporation (“Aura”)",
+      "normalized_id": "party_aura_systems_inc_"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "9.Binding Arbitration of Disputes.",
+      "id": "SectionElement_10",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_34",
+        "ContentTextElement_35"
+      ],
+      "level": 2,
+      "section_number": "9",
+      "normalized_id": "9"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "10.Miscellaneous.",
+      "id": "SectionElement_11",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_36"
+      ],
+      "level": 2,
+      "section_number": "10",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "1.Scope of Work; Independent Contractor.",
+      "id": "SectionElement_2",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_16",
+        "ContentTextElement_17"
+      ],
+      "level": 2,
+      "section_number": "1",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "2.Acknowledgment of Existing Debt.",
+      "id": "SectionElement_3",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_18",
+        "ContentTextElement_19",
+        "ContentTextElement_20"
+      ],
+      "level": 2,
+      "section_number": "2",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "3.No Guarantee of Outcome.",
+      "id": "SectionElement_4",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_21"
+      ],
+      "level": 2,
+      "section_number": "3",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "4.Payment for Services.",
+      "id": "SectionElement_5",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_22",
+        "ContentTextElement_23",
+        "ContentTextElement_24",
+        "ContentTextElement_25",
+        "ContentTextElement_26",
+        "ContentTextElement_27"
+      ],
+      "level": 2,
+      "section_number": "4",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "5.Out-of-Pocket Expenses.",
+      "id": "SectionElement_6",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_28"
+      ],
+      "level": 2,
+      "section_number": "5",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "6.Non-Exclusivity.",
+      "id": "SectionElement_7",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_29"
+      ],
+      "level": 2,
+      "section_number": "6",
+      "normalized_id": "6"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "7.Terminating the Representation.",
+      "id": "SectionElement_8",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_30",
+        "ContentTextElement_31",
+        "ContentTextElement_32"
+      ],
+      "level": 2,
+      "section_number": "7",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "8.Indemnification.",
+      "id": "SectionElement_9",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_33"
+      ],
+      "level": 2,
+      "section_number": "8",
+      "normalized_id": "8"
+    },
+    {
+      "class_name": "SignatureBlockElement",
+      "module": "agreement_parser_v6",
+      "text": "By:\n/s/ Zvi Kurtzman\n \n\n \nAuthorized Agent",
+      "id": "SignatureBlockElement_12",
+      "parent_id": "AgreementTitleElement_1",
+      "children": [
+        "ContentTextElement_37"
+      ],
+      "level": 2
+    }
+  ]
+}

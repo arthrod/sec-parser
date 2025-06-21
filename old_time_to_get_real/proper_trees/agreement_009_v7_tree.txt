@@ -1,0 +1,16 @@
+AGREEMENT 009 - PARSER V7
+==================================================
+Total Elements: 13
+Root Elements: 0
+Orphan Elements: 4
+Orphan Rate: 30.8%
+
+ELEMENT DETAILS:
+NO ROOT ELEMENTS FOUND
+
+ORPHAN ELEMENTS (No Valid Parent):
+==================================================
+ORPHAN: [SectionElement | ID:SectionElement_1 | L2 | Parent:None] 1.2 Company Commitment Prior to the Retirement Date. Subject to the terms and conditions of this Agreement, Executives compliance with the same, his ...
+ORPHAN: [SectionElement | ID:SectionElement_2 | L2 | Parent:None] 2.4 Cooperation. Until the Retirement Date, Executive agrees to comply with all Company rules, policies, and procedures, including but not limited to ...
+ORPHAN: [SectionElement | ID:SectionElement_3 | L2 | Parent:None] 3.3 Knowing and Voluntary Agreement. Executive hereby acknowledges and agrees that: (a) he has a period of at least twenty-one (21) days within which ...
+ORPHAN: [SectionElement | ID:SectionElement_4 | L2 | Parent:None] 4.3 Injunctive Relief; Survival. In the event of a breach by Executive of any of the provisions of this Agreement, the Company shall be entitled, if i...

@@ -1,0 +1,55 @@
+AGREEMENT 14 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_14.html
+Total Elements: 38
+Hierarchical Elements: 34
+Status: ✅ EXCELLENT
+
+Title: AMENDMENT NO. 2 TO CREDIT AGREEMENT
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ClauseElement: 3
+  ContentTextElement: 15
+  HeadingElement: 6
+  PartyElement: 1
+  RecitalElement: 2
+  SectionElement: 6
+  TextElement: 4
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: AMENDMENT NO. 2 TO CREDIT AGREEMENT
+  ├─ Heading: DECKERS OUTDOOR CORPORATION
+    ├─ ContentText: By:/s/ Thomas A. GeorgeName: Thomas A. George Title: Chief F
+  ├─ Heading: DECKERS UK LIMITED
+    ├─ ContentText: By:/s/ Alex Henderson Name: Alex Henderson Title: Director
+  ├─ Heading: DECKERS BENELUX B.V.
+    ├─ ContentText: By:/s/ Alex Henderson  Name: Alex Henderson Title: Director
+  ├─ Heading: DECKERS EUROPE LIMITED
+    ├─ ContentText: By:/s/ Alex Henderson  Name: Alex Henderson Title: Director
+  ├─ Heading: ACKNOWLEDGED BY:
+  ├─ Heading: JPMORGAN CHASE BANK, N.A.,
+    ├─ ContentText: By:/s/ Anna C. Araya Name:  Anna C. Araya  Title: Director
+    ├─ Clause: (U)
+  ├─ Recital: WHEREAS, the Company, the Lenders party hereto and the Admin
+  ├─ Recital: NOW, THEREFORE, in consideration of the premises and for oth
+  ├─ Section: 1
+    ├─ ContentText: a.    Section 1.01 of the Credit Agreement is hereby amended
+  ├─ Party: Deckers Outdoor (Guangzhou) Consulting Co. Ltd.
+    ├─ Clause: (c) The second sentence of the last paragraph of Section ...
+      ├─ ContentText: d.    Section 6.01(n) of the Credit Agreement is hereby amen
+      ├─ ContentText: “(n)     unsecured Indebtedness of DBT, Deckers Shanghai, an
+      ├─ ContentText: e.    Section 6.04(e) of the Credit Agreement is hereby amen
+      ├─ ContentText: “(n)     Guarantees constituting Indebtedness permitted by c
+    ├─ ContentText: b.    Section 5.01(c) of the Credit Agreement is hereby amen
+    ├─ ContentText: “(c)     within 90 days after the end of each fiscal year of
+  ├─ Section: 2: Conditions Precedent.  This Amendment shall become eff...
+    ├─ Clause: (b) all fees required to be paid to the Administrative Ag...
+    ├─ ContentText: a.     counterparts of this Amendment duly executed by each 
+  ├─ Section: 3: Representations and Warranties.  Each Borrower represe...
+  ├─ Section: 4: Confirmation. On and after the Amendment Effective Dat...
+  ├─ Section: 5: Counterparts.  This Amendment may be executed in any n...
+  ├─ Section: 6: Governing Law.  THIS AMENDMENT SHALL BE GOVERNED BY, A...
+    ├─ ContentText: IN WITNESS WHEREOF, the parties hereto have executed this Am
+  ├─ ContentText: This Amendment No. 2 to Credit Agreement, dated as of Octobe

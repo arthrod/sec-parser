@@ -1,0 +1,90 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_02.html
+====================================================================================================
+📊 Quality Score: 0.79
+📄 Format: html
+🔢 Total Elements: 28
+🔗 Cross-References: 7
+📋 Title: FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 1
+  paragraph           : 8
+  section             : 3
+  signature           : 7
+  table               : 8
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 1
+  Exhibit Ref         : 6
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.9
+   ⚠️  Confidence: 0.80
+
+[TITLE] FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, WGC USA Asset Management Company, LLC, a Delaware limited liability com...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the parties hereto desire to amend the Agreement (“Amendment”) to list ...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] NOW, THEREFORE, in consideration of the agreements and obligations set forth her...
+   ⚠️  Confidence: 0.80
+
+[SECTION] Schedule A . Schedule A is hereby amended by listing a new series thereon, with ...
+   ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] “Schedule A
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] The Trust will pay to the Sponsor as compensation for the Sponsor’s services ren...
+│     ⚠️  Confidence: 0.80
+├─ [TABLE] Fund
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] Fund
+│     ⚠️  Confidence: 0.80
+├─ [TABLE] Rate
+│     ⚠️  Confidence: 0.80
+├─ ... and 2 more content elements
+
+[SECTION] 0.33
+   ⚠️  Confidence: 0.80
+├─ [TABLE] SPDR ® Gold MiniShares Trust
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] SPDR ® Gold MiniShares Trust
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 0.XX
+   ⚠️  Confidence: 0.80
+├─ [SIGNATURE] IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly exe...
+│     ⚠️  Confidence: 0.80
+├─ [SIGNATURE] World Gold Trust By: Delaware Trust Company, its Trustee By: ___________________...
+│     ⚠️  Confidence: 0.80
+├─ [TABLE] World Gold Trust
+│     ⚠️  Confidence: 0.80
+├─ [SIGNATURE] By: Delaware Trust Company, its Trustee
+│     ⚠️  Confidence: 0.80
+├─ [SIGNATURE] By: ________________________________
+│     ⚠️  Confidence: 0.80
+├─ ... and 6 more content elements
+
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (1 references):
+   • "herein" → herein (confidence: 0.80)
+
+📌 Exhibit Ref (6 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "Schedule A" → A (confidence: 0.80)
+   • "Schedule A" → A (confidence: 0.80)
+   • "Schedule A" → A (confidence: 0.80)
+   • "Schedule A" → A (confidence: 0.80)
+   ... and 1 more exhibit ref references
+
+====================================================================================================

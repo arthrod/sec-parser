@@ -1,0 +1,161 @@
+AGREEMENT 10 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_10.html
+Total Elements: 61
+Hierarchical Elements: 57
+Status: ✅ EXCELLENT
+
+Title: SCREENPLAY OPTION/PURCHASE AGREEMENT
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ClauseElement: 7
+  ContentTextElement: 21
+  HeadingElement: 7
+  SectionElement: 21
+  TableElement: 3
+  TextElement: 1
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: SCREENPLAY OPTION/PURCHASE AGREEMENT
+  ├─ Heading: “CHILD SUPPORT”
+    ├─ Heading: Dear
+Pete and Gary:
+      ├─ ContentText: This
+will confirm the agreement between MJW Media, LLC
+(“Pur
+      ├─ ContentText: In
+consideration of the parties’ mutual promises, it is here
+    ├─ Section: 1: Option.
+      ├─ Clause: (a) In
+      ├─ Clause: (b) Purchaser
+      ├─ Clause: (c) The
+        ├─ ContentText: (d)          During
+the Option Period (and any extensions th
+    ├─ Section: 2: Purchase
+    ├─ Section: 3: Contingent
+    ├─ Section: 4: Writing
+    ├─ Section: 5: Rights.
+      ├─ ContentText: Without
+limiting the foregoing, if the Option granted pursua
+      ├─ ContentText: The
+Rights herein granted include the right to distribute, t
+      ├─ ContentText: Artist
+agrees that Purchaser shall have the unlimited right 
+    ├─ Section: 6: Writer
+    ├─ Section: 7: Purchaser
+    ├─ Section: 8: Insurance
+    ├─ Section: 9: Additional
+    ├─ Section: 10: Credit.
+    ├─ Section: 11: Subsequent
+      ├─ Clause: (i) Theatrical
+        ├─ ContentText: a.
+
+
+
+
+Pilot and Series. If a television pilot and/or series
+        ├─ Clause: (ii) Theatrical
+        ├─ Clause: (iii) Television
+      ├─ Clause: (b) Movies-For-Television and Television Mini-Series. If a
+        ├─ ContentText: iv.         New
+Media Productions: If a feature-length produ
+        ├─ ContentText: v.           100/50/50:
+With respect to any television serie
+      ├─ ContentText: (a)          First
+Negotiation. If, within (7) years after t
+      ├─ ContentText: (b)          Passive
+Payments. Provided that: (i) Artist is 
+    ├─ Section: 12: Premieres.
+    ├─ Section: 13: DVD.
+    ├─ Section: 14: Reversion.
+    ├─ Section: 15: Remedies.
+    ├─ Section: 16: Assignment.
+    ├─ Section: 17: Default/Force
+    ├─ Section: 18: Jurisdiction.
+    ├─ Section: 19: Notices/Payments.
+      ├─ ContentText: MJW
+Media, LLC
+
+Attn:
+Mike Witherill
+
+1166 E.
+Warner Road, S
+      ├─ ContentText: cc:
+
+
+
+Paul
+Miloknay, Esq.
+
+
+Miloknay Weiner
+LLP
+
+7162
+Bever
+      ├─ ContentText: Notices
+shall be sufficiently given when the same shall be d
+      ├─ ContentText: All
+payments which Purchaser may be required to make to Arti
+    ├─ Section: 20: No
+    ├─ Section: 21: Miscellaneous.
+  ├─ Heading: ACCEPTED
+AND AGREED AS OF AUGUST 1, 2016:
+  ├─ Heading: EXHIBIT “A”
+  ├─ Heading: SHORT FORM OPTION
+    ├─ ContentText: For
+good and valuable consideration, receipt of which is her
+    ├─ ContentText: This
+instrument is executed in accordance with and is subjec
+    ├─ ContentText: DATED
+as of August 1, 2016
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+/s/
+Pete Rosen
+
+
+  ├─ Heading: EXHIBIT “B”
+  ├─ Heading: SHORT FORM ASSIGNMENT
+    ├─ ContentText: For
+good and valuable consideration, the receipt of which is
+    ├─ ContentText: IN
+WITNESS WHEREOF, the undersigned has executed this Assign
+    ├─ ContentText: DATED:  August
+1, 2016
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+/s/
+Pete Rosen
+
+
+
+ 
+

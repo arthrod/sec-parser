@@ -1,0 +1,569 @@
+{
+  "run_timestamp": "2025-06-14T01:48:06.538658",
+  "total_files": 15,
+  "successful": 15,
+  "failed": 0,
+  "parser_used": "UniversalEDGARParser (complete_parser.py)",
+  "cross_reference_method": "Pattern-based extraction",
+  "total_elements_extracted": 5129,
+  "total_cross_references_found": 8344,
+  "results": [
+    {
+      "file": "html_files/agreement_01.html",
+      "timestamp": "2025-06-14T01:48:04.394159",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.7999999999999999,
+        "total_elements": 48,
+        "element_types": {
+          "metadata": 8,
+          "title": 1,
+          "paragraph": 19,
+          "table": 12,
+          "section": 1,
+          "party": 1,
+          "signature": 6
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 40,
+          "by_type": {
+            "exhibit_ref": 1,
+            "document_self_ref": 20,
+            "document_ref": 10,
+            "positional_ref": 7,
+            "section_ref": 2
+          }
+        },
+        "warnings": [],
+        "file_size": 31995
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_01_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_01_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_02.html",
+      "timestamp": "2025-06-14T01:48:04.413647",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.7857142857142857,
+        "total_elements": 28,
+        "element_types": {
+          "metadata": 1,
+          "title": 1,
+          "paragraph": 8,
+          "section": 3,
+          "table": 8,
+          "signature": 7
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 8,
+          "by_type": {
+            "exhibit_ref": 6,
+            "document_ref": 2
+          }
+        },
+        "warnings": [],
+        "file_size": 6216
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_02_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_02_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_03.html",
+      "timestamp": "2025-06-14T01:48:04.422503",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.5071428571428571,
+        "total_elements": 68,
+        "element_types": {
+          "metadata": 2,
+          "title": 1,
+          "paragraph": 40,
+          "table": 25
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 6,
+          "by_type": {
+            "exhibit_ref": 2,
+            "positional_ref": 4
+          }
+        },
+        "warnings": [],
+        "file_size": 27989
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_03_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_03_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_04.html",
+      "timestamp": "2025-06-14T01:48:04.431523",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.9142857142857143,
+        "total_elements": 97,
+        "element_types": {
+          "metadata": 11,
+          "title": 1,
+          "signature": 13,
+          "paragraph": 15,
+          "table": 31,
+          "section": 17,
+          "subsection": 5,
+          "party": 4
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 48,
+          "by_type": {
+            "exhibit_ref": 4,
+            "positional_ref": 7,
+            "document_ref": 8,
+            "document_self_ref": 24,
+            "section_ref": 4,
+            "legal_ref": 1
+          }
+        },
+        "warnings": [],
+        "file_size": 42092
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_04_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_04_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_05.html",
+      "timestamp": "2025-06-14T01:48:04.444516",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.9142857142857143,
+        "total_elements": 410,
+        "element_types": {
+          "metadata": 19,
+          "paragraph": 184,
+          "title": 1,
+          "section": 43,
+          "subsection": 10,
+          "table": 134,
+          "party": 1,
+          "signature": 18
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 798,
+          "by_type": {
+            "exhibit_ref": 39,
+            "document_ref": 144,
+            "positional_ref": 38,
+            "document_self_ref": 442,
+            "section_ref": 122,
+            "legal_ref": 13
+          }
+        },
+        "warnings": [],
+        "file_size": 102798
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_05_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_05_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_06.html",
+      "timestamp": "2025-06-14T01:48:04.697444",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.9142857142857143,
+        "total_elements": 1828,
+        "element_types": {
+          "metadata": 368,
+          "title": 1,
+          "party": 9,
+          "paragraph": 806,
+          "table": 172,
+          "section": 314,
+          "subsection": 146,
+          "signature": 12
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 1085,
+          "by_type": {
+            "section_ref": 268,
+            "exhibit_ref": 117,
+            "document_ref": 418,
+            "positional_ref": 172,
+            "legal_ref": 100,
+            "document_self_ref": 10
+          }
+        },
+        "warnings": [],
+        "file_size": 1109047
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_06_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_06_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_07.html",
+      "timestamp": "2025-06-14T01:48:05.181823",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.8999999999999999,
+        "total_elements": 152,
+        "element_types": {
+          "metadata": 1,
+          "paragraph": 23,
+          "title": 3,
+          "table": 44,
+          "section": 39,
+          "subsection": 28,
+          "signature": 14
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 182,
+          "by_type": {
+            "exhibit_ref": 5,
+            "section_ref": 60,
+            "legal_ref": 9,
+            "positional_ref": 15,
+            "document_ref": 42,
+            "document_self_ref": 51
+          }
+        },
+        "warnings": [],
+        "file_size": 127755
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_07_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_07_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_08.html",
+      "timestamp": "2025-06-14T01:48:05.209178",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.8857142857142857,
+        "total_elements": 58,
+        "element_types": {
+          "metadata": 1,
+          "paragraph": 15,
+          "title": 1,
+          "section": 11,
+          "table": 27,
+          "signature": 3
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 43,
+          "by_type": {
+            "exhibit_ref": 1,
+            "document_ref": 13,
+            "positional_ref": 4,
+            "section_ref": 18,
+            "legal_ref": 3,
+            "document_self_ref": 4
+          }
+        },
+        "warnings": [],
+        "file_size": 12808
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_08_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_08_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_09.html",
+      "timestamp": "2025-06-14T01:48:05.238622",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.8999999999999999,
+        "total_elements": 96,
+        "element_types": {
+          "title": 1,
+          "party": 2,
+          "section": 20,
+          "paragraph": 55,
+          "metadata": 3,
+          "signature": 4,
+          "subsection": 11
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 103,
+          "by_type": {
+            "positional_ref": 10,
+            "document_self_ref": 48,
+            "document_ref": 36,
+            "section_ref": 6,
+            "legal_ref": 3
+          }
+        },
+        "warnings": [],
+        "file_size": 41044
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_09_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_09_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_10.html",
+      "timestamp": "2025-06-14T01:48:05.295242",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.9142857142857143,
+        "total_elements": 164,
+        "element_types": {
+          "metadata": 1,
+          "title": 1,
+          "paragraph": 84,
+          "table": 42,
+          "party": 1,
+          "section": 21,
+          "subsection": 6,
+          "signature": 8
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 116,
+          "by_type": {
+            "exhibit_ref": 2,
+            "document_ref": 47,
+            "positional_ref": 23,
+            "document_self_ref": 19,
+            "section_ref": 16,
+            "legal_ref": 9
+          }
+        },
+        "warnings": [],
+        "file_size": 107555
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_10_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_10_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_11.html",
+      "timestamp": "2025-06-14T01:48:05.324426",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.9142857142857143,
+        "total_elements": 205,
+        "element_types": {
+          "metadata": 18,
+          "title": 1,
+          "party": 1,
+          "paragraph": 41,
+          "table": 37,
+          "subsection": 63,
+          "section": 27,
+          "signature": 17
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 1389,
+          "by_type": {
+            "exhibit_ref": 127,
+            "section_ref": 186,
+            "legal_ref": 6,
+            "document_ref": 434,
+            "positional_ref": 80,
+            "document_self_ref": 556
+          }
+        },
+        "warnings": [],
+        "file_size": 101187
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_11_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_11_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_12.html",
+      "timestamp": "2025-06-14T01:48:05.630411",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.9142857142857143,
+        "total_elements": 300,
+        "element_types": {
+          "metadata": 42,
+          "paragraph": 111,
+          "title": 1,
+          "table": 71,
+          "party": 2,
+          "subsection": 24,
+          "section": 40,
+          "signature": 9
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 29,
+          "by_type": {
+            "exhibit_ref": 11,
+            "positional_ref": 3,
+            "document_ref": 5,
+            "section_ref": 10
+          }
+        },
+        "warnings": [],
+        "file_size": 102738
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_12_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_12_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_13.html",
+      "timestamp": "2025-06-14T01:48:05.700440",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.8857142857142857,
+        "total_elements": 1035,
+        "element_types": {
+          "metadata": 45,
+          "paragraph": 273,
+          "section": 357,
+          "table": 329,
+          "subsection": 17,
+          "signature": 14
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 4309,
+          "by_type": {
+            "exhibit_ref": 74,
+            "section_ref": 2807,
+            "legal_ref": 179,
+            "document_ref": 764,
+            "positional_ref": 293,
+            "document_self_ref": 192
+          }
+        },
+        "warnings": [],
+        "file_size": 234110
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_13_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_13_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_14.html",
+      "timestamp": "2025-06-14T01:48:06.298877",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.8857142857142857,
+        "total_elements": 88,
+        "element_types": {
+          "metadata": 2,
+          "title": 1,
+          "paragraph": 65,
+          "section": 7,
+          "party": 1,
+          "signature": 12
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 29,
+          "by_type": {
+            "exhibit_ref": 2,
+            "document_ref": 15,
+            "section_ref": 9,
+            "document_self_ref": 1,
+            "positional_ref": 2
+          }
+        },
+        "warnings": [],
+        "file_size": 53657
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_14_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_14_complete_summary.txt"
+      ]
+    },
+    {
+      "file": "html_files/agreement_15.html",
+      "timestamp": "2025-06-14T01:48:06.353342",
+      "success": true,
+      "errors": [],
+      "stats": {
+        "format": "html",
+        "quality_score": 0.9142857142857143,
+        "total_elements": 552,
+        "element_types": {
+          "metadata": 40,
+          "title": 1,
+          "paragraph": 177,
+          "party": 2,
+          "section": 61,
+          "table": 110,
+          "subsection": 156,
+          "signature": 5
+        },
+        "structure_depth": 4,
+        "cross_references": {
+          "total": 159,
+          "by_type": {
+            "exhibit_ref": 17,
+            "document_self_ref": 91,
+            "section_ref": 17,
+            "positional_ref": 8,
+            "document_ref": 23,
+            "legal_ref": 3
+          }
+        },
+        "warnings": [],
+        "file_size": 295679
+      },
+      "output_files": [
+        "complete_semantic_trees/agreement_15_complete_semantic_tree.json",
+        "complete_semantic_trees/agreement_15_complete_summary.txt"
+      ]
+    }
+  ]
+}

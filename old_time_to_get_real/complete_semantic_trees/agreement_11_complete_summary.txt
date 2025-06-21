@@ -1,0 +1,46 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_11.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 205
+🔗 Cross-References: 1389
+📋 Title: FORWARD PURCHASE AGREEMENT...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 18
+  paragraph           : 41
+  party               : 1
+  section             : 27
+  signature           : 17
+  subsection          : 63
+  table               : 37
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 434
+  Document Self Ref   : 556
+  Exhibit Ref         : 127
+  Legal Ref           : 6
+  Positional Ref      : 80
+  Section Ref         : 186
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.8
+[TITLE] FORWARD PURCHASE AGREEMENT
+[PARTY] This Forward Purchase Agreement (this “ Agreement ”) is entered into as of May 1...
+[PARAGRAPH] Recitals
+[PARAGRAPH] WHEREAS, the Company was formed for the purpose of effecting a merger, capital s...
+[PARAGRAPH] WHEREAS, the Company intends to file with the U.S. Securities and Exchange Commi...
+[PARAGRAPH] WHEREAS, following the closing of the IPO (the “ IPO Closing ”), the Company wil...
+[PARAGRAPH] WHEREAS, the parties wish to enter into this Agreement, pursuant to which immedi...
+[PARAGRAPH] WHEREAS, the Company’s Class B common stock, par value $0.0001 per share (the “ ...
+[PARAGRAPH] WHEREAS, in connection with the IPO, the Sponsor will purchase an aggregate of 6...
+... and 195 more elements
+
+====================================================================================================

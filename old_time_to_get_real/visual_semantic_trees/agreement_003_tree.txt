@@ -1,0 +1,412 @@
+Heading (L1): EXECUTION VERSION
+
+--- (Additional Root Structure) ---
+Heading (L1): INTELLECTUAL
+PROPERTY LICENSE AGREEMENT
+`-- Content: This
+INTELLECTUAL PROPERTY LICENSE AGREEMENT (this “Agreement”) is made and entered
+into as of as of...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+|-- Recital: WHEREAS,
+Cementos Argos and Summit Materials have entered into a Transaction Agreement, dated as of ...
+|-- Recital: WHEREAS,
+Cementos Argos (or its Subsidiaries) owns or controls certain Intellectual Property Rights ...
+|-- Recital: WHEREAS,
+the Transaction Agreement requires the execution and delivery of this Agreement by the Part...
+|-- Recital: NOW,
+THEREFORE, in consideration of the foregoing and the mutual agreements, provisions and covenant...
+`-- Heading (L2): Article
+I 
+
+DEFINITIONS
+    |-- Content: Section
+1.1  
+Definitions. The following terms, as used herein, have the following meanings; provide...
+    |-- Clause (a): “Affiliate” shall have the meaning set forth in the Transaction Agreement; provided that, for purpos...
+    |-- Clause (b): “Agreement” has the meaning set forth in the preamble.
+    |-- Clause (c): “Argos ONE Platform” means that certain ecommerce and logistics platform known as the “Argos ONE”
+    |-- Clause (d): “Business” means the activities conducted by the Transferred Company or any of its Subsidiaries as o...
+    |-- Clause (e): “Calcined Clay” means a Supplementary Cementitious Material that is produced by thermal activation o...
+    |   `-- Content: (f)  
+“Calcined Clay IP” means (i) any and all Patents that are owned or Licensable by Cementos Argo...
+    |-- Clause (g): “Calcined Clay IP License” has the meaning set forth in Section 2.2(a).
+    |-- Clause (h): “Cementos Argos” has the meaning set forth in the preamble.
+    |   `-- Content: (i)  
+“Complaining Party” has the meaning set forth in Section 10.2(b).
+    |-- Clause (j): “Confidential Information” has the meaning set forth in Section
+    |   `-- Content: (k)  
+“Disclosing Party” has the meaning set forth in Section 8.1.
+    |-- Clause (l): “Dispute” has the meaning set forth in Section 10.2(a).
+    |-- Clause (m): “Effective Date” has the meaning set forth in the preamble.
+    |-- Clause (n): “Exclusively Licensed IP” means any and all Intellectual Property Rights licensed pursuant to the SM...
+    |-- Clause (o): “Exclusivity Term” has the meaning set forth in Section 2.2(b).
+    |-- Clause (p): “Group” means two or more persons acting together, pursuant to any agreement, arrangement or underst...
+    |-- Clause (q): “Improvements” means any and all enhancements, modifications, changes,
+    |   |-- Content: a
+Party or any of its respective Subsidiaries, directors, officers, employees, agents, consultants, ...
+    |   |-- Content: (r)  
+“Intellectual Property Rights” means any and all intellectual property and similar proprietary...
+    |   `-- Content: (s)  
+“Licensable” means, with respect to any Intellectual Property Rights owned by a third party, t...
+    |-- Clause (t): “Licensed Field” means the production, distribution and sale of heavy building materials, including ...
+    `-- Clause (u): “Licensed IP” means the Licensed Patents, the Licensed Other IP, the Calcined Clay IP, the Microalga...
+        `-- Content: (v)  
+“Licensed Other IP” means any and all Intellectual Property Rights (other than Patents and Tra...
+
+--- (Additional Root Structure) ---
+Exhibit Schedule C
+
+--- (Additional Root Structure) ---
+Exhibit Schedule A
+|-- Clause (y): “Microalgae IP” means any and all Intellectual Property Rights (other than Trademarks) that are owne...
+`-- Clause (z): “Microalgae IP License” has the meaning set forth in Section 2.3.
+    |-- Content: (aa)  
+“Microalgae Pilot Project” means that certain pilot project being conducted by Cementos Argos...
+    |-- Content: (bb)  
+“Net Sales” means the gross amounts received by Summit Materials or any of its Subsidiaries f...
+    |   |-- Clause (cc): “[***] Cement Plant” means the Transferred Company’s cement plant located in [***].
+    |   `-- Clause (dd): “Non-Trademark IP Licenses” has the meaning set forth in Section 2.3.
+    |-- Content: (ee)  
+“Party” and “Parties”
+have the meanings set forth in the preamble.
+    |-- Content: (ff)  
+“Patents” has the meaning set forth in the definition of “Intellectual Property Rights.”
+    |-- Content: (gg)  
+“Products and Services” means any products or services sold or otherwise commercially provide...
+    |-- Content: (hh)  
+“Receiving Party” has the meaning set forth in Section 8.1.
+    |   `-- Clause (ii): “Representative” has the meaning set forth in the definition of “Improvements.”
+    |-- Content: (jj)  
+“Restrictive Covenant Agreement” means the Restrictive Covenant Agreement, dated January 12, ...
+    |-- Content: (kk)  
+“Subsidiary” has the meaning set forth in the Transaction Agreement; provided that, for purpo...
+    |   |-- Clause (ll): “Summit Materials” has the meaning set forth in the preamble.
+    |   `-- Clause (mm): “SM Business IP Licenses” has the meaning set forth in Section 2.1(b).
+    |-- Content: (nn)  
+“SM Control Event” means, with respect to Summit Materials or the Transferred Company (the “S...
+    |-- Content: (oo)  
+“Supplementary Cementitious Materials” means any inorganic material that contributes to the p...
+    |-- Content: (pp)  
+“Technology” means any tangible embodiment, whether in electronic, written or other media, of...
+    `-- Content: (qq)  
+“Territory” means the United States (including the District of Columbia but excluding Puerto ...
+
+--- (Additional Root Structure) ---
+Exhibit Schedule B
+|-- Content: (ss)  
+“Trademark License” has the meaning set forth in Section 3.1.
+|-- Content: (tt)  
+“Trademark Transition Period” has the meaning set forth in Section 7.2(b).
+|-- Content: (uu)  
+“Trademarks” has the meaning set forth in the definition of “Intellectual Property Rights.”
+|   `-- Clause (vv): “Transaction Agreement” has the meaning set forth in the recitals.
+|-- Content: (ww)  
+“Transferred Company” has the meaning set forth in the preamble.
+|-- Content: Section
+1.2  
+Interpretation. References in this Agreement to any gender include references to all g...
+|-- Heading (L2): Article
+II 
+
+NON-TRADEMARK IP LICENSES TO SUMMIT MATERIALS
+|   |-- Section 2.1
+|   |   |-- Content: (a)  
+Subject to the terms and conditions of this Agreement, Cementos Argos (on behalf of itself and...
+|   |   `-- Content: (b)  
+Subject to the terms and conditions of this Agreement, Cementos Argos (on behalf of itself and...
+|   `-- Section 2.2
+|       |-- Content: (a)  
+Calcined Clay IP License. Subject to the terms and conditions of this Agreement, Cementos Argo...
+|       |-- Content: (b)  
+Exclusivity of Calcined Clay IP License. The Calcined Clay IP License shall be exclusive (even...
+|       |-- Content: (c)  
+Royalty for Calcined Clay IP License. As consideration for the Calcined Clay IP License, comme...
+|       |-- Content: Section
+2.3  
+Microalgae IP License. Subject to the terms and conditions of this Agreement, Cementos...
+|       |-- Content: Section
+2.4  
+Sublicensing. Summit Materials and its Subsidiaries shall have the right to grant subl...
+|       |-- Content: Section
+2.5  
+Joint Development. Prior to the Parties jointly developing with one another any Improv...
+|       `-- Content: Section
+2.6   No Conflict with RCA. Notwithstanding anything
+herein to the contrary, none of the exc...
+`-- Heading (L2): Article
+III
+
+--- (Additional Root Structure) ---
+Heading (L1): TRADEMARK
+LICENSE
+|-- Content: Section
+3.1  
+Trademark License. Subject to the terms and conditions of this Agreement, Cementos Arg...
+|-- Content: Section
+3.2  
+Sublicensing of Trademark License. Summit Materials and its Subsidiaries shall have th...
+|-- Content: Section
+3.3  
+Quality Control. Summit Materials shall, and shall cause its Subsidiaries (and its and...
+|-- Content: Section
+3.4  
+Transitional Corporate Name. For the avoidance of doubt, and without limiting, and sub...
+|-- Content: Section
+3.5  
+Wind-Down. Upon the expiration or termination of the Trademark License, Summit Materia...
+|-- Section 3.6
+|   |-- Content: (a)  
+While the Trademark License is in effect, (i) in the Licensed Field in the Territory (the “Cem...
+|   |-- Content: sell
+or provide (including any sale for re-sale) such Restricted Products in the Cementos Argos Rest...
+|   |-- Content: (b)  
+While the Trademark License is in effect: (i) each Party shall, and shall cause its respective...
+|   `-- Content: (c)  
+For the avoidance of doubt, this Section 3.6 shall in no way limit the last sentence of Sectio...
+|-- Section 3.7
+|   |-- Content: (a)  
+Immediately following the Effective Date, with respect to any domain names included in the Lic...
+|   `-- Content: (b)  
+Immediately following the termination or expiration of the Trademark License, with respect to ...
+|-- Heading (L2): Article
+IV 
+
+BACKGROUND LICENSES TO CEMENTOS ARGOS
+|   |-- Content: Section
+4.1  
+Background Patent License. The Transferred Company (on behalf of itself and its Subsid...
+|   |-- Content: any
+products or services developed, sold or otherwise commercially provided by Cementos Argos and it...
+|   `-- Content: Section
+4.2  
+Background Other IP License. The Transferred Company (on behalf of itself and its Subs...
+|-- Heading (L2): Article
+V 
+
+OWNERSHIP; PROSECUTION; MAINTENANCE; ENFORCEMENT
+|   |-- Content: Section
+5.1  
+Ownership and Improvements. The Parties acknowledge and agree that, as between the Par...
+|   |-- Section 5.2
+|   |   `-- Content: (a)  
+Cementos Argos (and, as applicable, its Subsidiaries) shall have the sole right (but not the o...
+|   |-- Clause (i): Cementos Argos (on behalf of itself and its Subsidiaries) shall assign to Summit Materials
+|   |   |-- Content: (ii)  
+Summit Materials hereby grants to Cementos Argos and its Affiliates a non-exclusive, perpetua...
+|   |   |-- Content: In
+furtherance of Section 5.2(b)(i), Cementos Argos shall, and shall cause its Subsidiaries to, take...
+|   |   `-- Content: (c)  
+Summit Materials shall keep Cementos Argos reasonably informed of any material challenge to th...
+|   `-- Section 5.3
+|       |-- Content: (a)  
+As between the Parties, Cementos Argos shall have the sole right (but not the obligation) to c...
+|       |-- Content: (b)  
+Each Party shall keep the other Party reasonably informed of any actual or suspected infringem...
+|       |-- Content: Section
+5.4  
+Cooperation. Subject to the last sentence of Section 5.3(a), each Party shall, at the ...
+|       |-- Content: Section
+5.5  
+Restrictions. The Parties’ obligations hereunder, and all licenses, covenants and othe...
+|       `-- Content: Section
+5.6  
+Delivery. To the extent that Summit Materials does not have a tangible embodiment of a...
+`-- Heading (L2): Article
+VI
+
+--- (Additional Root Structure) ---
+Heading (L1): REPRESENTATIONS
+AND WARRANTIES
+|-- Content: Section
+6.1  
+Mutual Representations and Warranties. Each Party represents and warrants to the other...
+|-- Heading (L2): Article
+VII 
+
+TERM AND EXPIRATION
+|   `-- Section 7.1
+|       `-- Content: (a)  
+Subject to Section 7.2(b), with respect to the Trademark License, this Agreement will commence...
+|-- Heading (L2): Section
+7.2  
+Termination; Expiration.
+|   |-- Content: (a)  
+Subject to Section 7.3, this Agreement shall expire in its entirety automatically upon the exp...
+|   |-- Content: (b)  
+Cementos Argos may, in its sole discretion, terminate the Trademark License (and any sublicens...
+|   `-- Content: Section
+7.3  
+Effect of Termination or Expiration; Survival. The termination or expiration of this A...
+|-- Heading (L2): Article
+VIII 
+
+CONFIDENTIALITY
+|   |-- Content: Section
+8.1  
+Confidential Information. The provisions of this Article VIII shall apply to any and a...
+|   |-- Content: uses
+for its own confidential information of a like nature, but in no event less than a commercially...
+|   |-- Content: Section
+8.2  
+Exclusions. The confidentiality obligations in this Article VIII shall not apply to an...
+|   `-- Content: (d)  
+is required (by oral question, interrogatories, requests for information or documents, subpoen...
+|-- Heading (L2): Article
+IX 
+
+LIABILITY
+|   `-- Content: Section
+9.1  
+Disclaimer of Liability. EXCEPT FOR AND WITHOUT LIMITING ANY RIGHTS OR OBLIGATIONS UND...
+|-- Heading (L2): Article
+X 
+
+GENERAL PROVISIONS
+|   |-- Section 10.1
+|   |   |-- Content: (a)  
+Summit Materials may not assign this Agreement or any of its rights or obligations hereunder t...
+|   |   `-- Content: (b)  
+Subject to ‎Section 5.5, Cementos Argos may assign this Agreement to any Person without the pr...
+|   `-- Section 10.2
+|       |-- Content: (a)  
+In the event of a controversy, dispute or claim arising out of, in connection with, or in rela...
+|       |-- Content: (b)  
+In the event the Parties are unable to resolve a Dispute in the ordinary course of business, e...
+|       |-- Content: (c)  
+If a Dispute has not been resolved to the mutual satisfaction of both Parties within twenty (2...
+|       |-- Content: Section
+10.3   Section
+365(n) of the United States Bankruptcy Code. All licenses granted under this ...
+|       |-- Content: Section
+10.4   Reservation
+of Rights. For the avoidance of doubt and notwithstanding anything to the...
+|       `-- Content: Section
+10.5   Notices.
+All notices and other communications hereunder shall be in writing, shall re...
+|-- Heading (L2): To
+Cementos Argos:
+|   `-- Content: with a copy (which shall not
+constitute notice) to:
+`-- Heading (L2): To
+Summit Materials or the Transferred Company:
+    |-- Content: Summit
+Materials, Inc.
+[***]
+[***]
+Attention: [***]
+E-mail: [***]
+    |-- Content: with a copy (which shall not
+constitute notice) to:
+    |-- Content: Davis Polk & Wardwell
+LLP
+[***]
+[***]
+Attention: [***]
+    |-- Content: Section
+10.6   Relationship
+of Parties. Nothing in this Agreement shall be deemed or construed by th...
+    |-- Content: Section
+10.7   Complete
+Agreement; Construction. This Agreement, including the Schedules hereto, sha...
+    |-- Content: Section
+10.8   Waivers
+and Consents. The failure of any Party to require strict performance by the o...
+    |-- Content: Section
+10.9   Amendments.
+This Agreement may not be modified or amended except by an agreement in w...
+    |-- Content: Section
+10.10   Successors and Assigns.
+The provisions of this Agreement and the obligations and rig...
+    |-- Content: Section
+10.11   No Circumvention.
+The Parties shall not directly or indirectly take any actions or a...
+    |-- Content: Section
+10.12   Third-Party Beneficiaries.
+This Agreement is solely for the benefit of the Parties a...
+    |-- Content: Section
+10.13   Titles and Headings.
+Titles and headings to sections herein are inserted for the con...
+    |-- Content: Section
+10.14   Schedules. The
+Schedules hereto shall be construed with and as an integral part of t...
+    |-- Content: Section
+10.15   Governing Law.
+This Agreement shall be governed by and construed in accordance with ...
+    |-- Content: Section
+10.16   Specific Performance.
+The Parties agree that irreparable damage would occur in the e...
+    |-- Content: Section
+10.17   WAIVER OF JURY TRIAL.
+EACH OF THE PARTIES HEREBY WAIVES TO THE FULLEST EXTENT PERMIT...
+    |-- Content: Section
+10.18   Severability.
+In the event any one or more of the provisions contained in this Agree...
+    |-- Content: Section
+10.19   Interpretation.
+The Parties have participated jointly in the negotiation and draftin...
+    |-- Content: Section
+10.20   No Duplication; No
+Double Recovery. Nothing in this Agreement is intended to confer ...
+    |-- Content: Section
+10.21   Tax Matters. Each
+Party (and its Affiliates and designees) shall be entitled to dedu...
+    |-- Content: IN
+WITNESS WHEREOF, each Party has caused this Agreement to be executed by its duly authorized repre...
+    |-- Content: CEMENTOS ARGOS S.A.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+By:
+/s/ María Isabel Echeverri
+
+ 
+ 
+Name:
+María Isabel Echeverr...
+    |-- Content: ARGOS NORTH AMERICA CORP.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+By:
+/s/ Felipe Aristizabal
+
+ 
+ 
+Name:
+Felipe Aristizabal
+...
+    |-- Content: SUMMIT MATERIALS, INC.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+By:
+/s/ Christopher B. Gaskill
+
+ 
+ 
+Name:
+Christopher B. Gas...
+    `-- Content: [Signature Page to Intellectual Property License Agreement]

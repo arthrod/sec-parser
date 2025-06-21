@@ -1,0 +1,38 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_03.html
+====================================================================================================
+📊 Quality Score: 0.51
+📄 Format: html
+🔢 Total Elements: 68
+🔗 Cross-References: 6
+📋 Title: ALLETE Executive Annual Incentive Plan...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 2
+  paragraph           : 40
+  table               : 25
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Exhibit Ref         : 2
+  Positional Ref      : 4
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10(a)1
+[METADATA] Exhibit 10(a)1
+[TITLE] ALLETE Executive Annual Incentive Plan
+[PARAGRAPH] Form of Award
+[PARAGRAPH] Effective 2018
+[PARAGRAPH] [Eligible Executive Employees, except CEO and CFO]
+[PARAGRAPH] Target Award Opportunity
+[PARAGRAPH] Base Salary $ Times Award Opportunity (percent of base salary) % Equals Target A...
+[PARAGRAPH] Base Salary $ Times Award Opportunity (percent of base salary) % Equals Target A...
+[TABLE] Base Salary
+... and 58 more elements
+
+====================================================================================================

@@ -1,0 +1,200 @@
+{
+  "run_timestamp": "2025-06-14T01:39:03.526522",
+  "total_files": 15,
+  "successful": 15,
+  "failed": 0,
+  "total_cross_references": 1512,
+  "processing_results": [
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_01_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_01_semantic_tree_enhanced.json",
+      "cross_references_found": 17,
+      "reference_types": {
+        "exhibit_ref": 1,
+        "document_self_ref": 6,
+        "document_ref": 3,
+        "positional_ref": 6,
+        "section_ref": 1
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_02_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_02_semantic_tree_enhanced.json",
+      "cross_references_found": 7,
+      "reference_types": {
+        "exhibit_ref": 6,
+        "document_ref": 1
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_03_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_03_semantic_tree_enhanced.json",
+      "cross_references_found": 6,
+      "reference_types": {
+        "exhibit_ref": 2,
+        "positional_ref": 4
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_04_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_04_semantic_tree_enhanced.json",
+      "cross_references_found": 3,
+      "reference_types": {
+        "exhibit_ref": 1,
+        "positional_ref": 1,
+        "document_ref": 1
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_05_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_05_semantic_tree_enhanced.json",
+      "cross_references_found": 77,
+      "reference_types": {
+        "exhibit_ref": 8,
+        "document_ref": 16,
+        "document_self_ref": 43,
+        "positional_ref": 3,
+        "section_ref": 7
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_06_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_06_semantic_tree_enhanced.json",
+      "cross_references_found": 347,
+      "reference_types": {
+        "exhibit_ref": 76,
+        "section_ref": 72,
+        "positional_ref": 50,
+        "document_ref": 116,
+        "legal_ref": 26,
+        "document_self_ref": 7
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_07_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_07_semantic_tree_enhanced.json",
+      "cross_references_found": 117,
+      "reference_types": {
+        "exhibit_ref": 4,
+        "section_ref": 52,
+        "legal_ref": 5,
+        "positional_ref": 5,
+        "document_ref": 23,
+        "document_self_ref": 28
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_08_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_08_semantic_tree_enhanced.json",
+      "cross_references_found": 36,
+      "reference_types": {
+        "exhibit_ref": 1,
+        "document_ref": 13,
+        "positional_ref": 3,
+        "section_ref": 13,
+        "legal_ref": 3,
+        "document_self_ref": 3
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_09_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_09_semantic_tree_enhanced.json",
+      "cross_references_found": 78,
+      "reference_types": {
+        "positional_ref": 7,
+        "document_self_ref": 44,
+        "document_ref": 25,
+        "section_ref": 2
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_10_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_10_semantic_tree_enhanced.json",
+      "cross_references_found": 78,
+      "reference_types": {
+        "exhibit_ref": 2,
+        "document_ref": 32,
+        "section_ref": 11,
+        "positional_ref": 15,
+        "document_self_ref": 11,
+        "legal_ref": 7
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_11_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_11_semantic_tree_enhanced.json",
+      "cross_references_found": 138,
+      "reference_types": {
+        "exhibit_ref": 13,
+        "section_ref": 17,
+        "legal_ref": 2,
+        "document_ref": 38,
+        "positional_ref": 6,
+        "document_self_ref": 62
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_12_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_12_semantic_tree_enhanced.json",
+      "cross_references_found": 17,
+      "reference_types": {
+        "exhibit_ref": 5,
+        "positional_ref": 2,
+        "document_ref": 2,
+        "section_ref": 8
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_13_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_13_semantic_tree_enhanced.json",
+      "cross_references_found": 534,
+      "reference_types": {
+        "exhibit_ref": 17,
+        "section_ref": 444,
+        "positional_ref": 18,
+        "document_ref": 35,
+        "document_self_ref": 9,
+        "legal_ref": 11
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_14_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_14_semantic_tree_enhanced.json",
+      "cross_references_found": 24,
+      "reference_types": {
+        "exhibit_ref": 2,
+        "document_ref": 12,
+        "section_ref": 7,
+        "document_self_ref": 1,
+        "positional_ref": 2
+      }
+    },
+    {
+      "success": true,
+      "file": "semantic_tree/agreement_15_semantic_tree.json",
+      "output_file": "semantic_trees_enhanced/agreement_15_semantic_tree_enhanced.json",
+      "cross_references_found": 33,
+      "reference_types": {
+        "exhibit_ref": 7,
+        "document_self_ref": 14,
+        "section_ref": 4,
+        "positional_ref": 2,
+        "document_ref": 6
+      }
+    }
+  ]
+}

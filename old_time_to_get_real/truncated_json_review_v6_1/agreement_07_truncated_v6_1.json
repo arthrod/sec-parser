@@ -1,0 +1,785 @@
+[
+  {
+    "text": "Execution Version Field: /Rule-Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "ByNxt-ID,\nInc.,Fit\nPay, Inc., and",
+    "cls": "TextElement"
+  },
+  {
+    "text": "as\nGuarantorsand",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Rule-Page Dated\nas of May 24, 2018 Field: /Rule-Page  Field: /Page Table\nof Contents",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Section\nPage\n\nSection 1. \nGuaranty;\n    Limitation of Liability\n1\n\nSection 2. \nGuaranty\n    Absolute\n2\n\nSection 3. \nWaivers\n    and Acknowledgments\n4\n\nSection 4. \nSubrogation\n5\n\nSection 5. \nPayments\n    Free and Clear of Taxes, Etc.\n5\n\nSection 6. \nRepresentations\n    and Warranties\n5\n\nSection 7. \nCovenants\n5\n\nSection 8. \nAmendments,\n    Guaranty Supplements, Etc.\n6\n\nSection 9. \nNotices,\n    Etc.\n6\n\nSection 10. \nNo\n    Waiver; Remedies\n6\n\nSection 11. \nRight\n    of Setoff\n7\n\nSection 12. \nIndemnification\n7\n\nSection 13. \nSubordination\n8\n\nSection 14. \nContinuing\n    Guaranty; Assignments under the Credit Agreement\n9\n\nSection 15. \nExecution\n    in Counterparts\n9\n\nSection 16. \nGoverning\n    Law; Jurisdiction; Waiver of Jury Trial, Etc.\n10\n\nExhibit A - Guaranty Supplement",
+    "cls": "TableOfContentsElement"
+  },
+  {
+    "text": "i Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Rule-Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "[Signature\npages follow.] Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "signature\npage\nguaranty agreement Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "signature\npage\nguaranty agreement Field: /Page To\nTheGuaranty\nAgreement",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "[Signature\npages follow.] Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Page",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Field: /Rule-Page",
+    "cls": "TextElement"
+  },
+  {
+    "level": 0,
+    "children": [
+      "HeadingElement_532"
+    ],
+    "text": "Guaranty\nAgreement",
+    "id": "AgreementTitleElement_527",
+    "parent_id": null,
+    "cls": "AgreementTitleElement"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_540"
+    ],
+    "text": "(a)\tany\nlack of validity or enforceability of any Loan Document or any agreement or instrument relating thereto;",
+    "id": "ClauseElement_519",
+    "parent_id": "SectionElement_499",
+    "cls": "ClauseElement",
+    "clause_id": "(a)",
+    "clause_text": "any"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(b)\tany\nchange in the time, manner or place of payment of, or in any other term of, all or any of the Guaranteed Obligations or any other\nObligations of any other Loan Party under or in respect of the Loan Documents, or any other amendment or waiver of or any consent\nto departure from any Loan Document, including, without limitation, any increase in the Guaranteed Obligations resulting from\nthe extension of additional credit to any Loan Party or any of its Subsidiaries or otherwise;",
+    "id": "ClauseElement_520",
+    "parent_id": "SectionElement_499",
+    "cls": "ClauseElement",
+    "clause_id": "(b)",
+    "clause_text": "any"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(c)\tany\ntaking, exchange, release or non-perfection of any Collateral or any other collateral, or any taking, release or amendment or\nwaiver of, or consent to departure from, any other guaranty, for all or any of the Guaranteed Obligations;",
+    "id": "ClauseElement_521",
+    "parent_id": "SectionElement_499",
+    "cls": "ClauseElement",
+    "clause_id": "(c)",
+    "clause_text": "any"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(d)\tany\nmanner of application of Collateral or any other collateral, or proceeds thereof, to all or any of the Guaranteed Obligations,\nor any manner of sale or other disposition of any Collateral or any other collateral for all or any of the Guaranteed Obligations\nor any other Obligations of any Loan Party under the Loan Documents or any other assets of any Loan Party or any of its Subsidiaries;",
+    "id": "ClauseElement_522",
+    "parent_id": "SectionElement_499",
+    "cls": "ClauseElement",
+    "clause_id": "(d)",
+    "clause_text": "any"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_541"
+    ],
+    "text": "(e)\tany\nchange, restructuring or termination of the corporate structure or existence of any Loan Party or any of its Subsidiaries;",
+    "id": "ClauseElement_523",
+    "parent_id": "SectionElement_499",
+    "cls": "ClauseElement",
+    "clause_id": "(e)",
+    "clause_text": "any"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_542",
+      "ContentTextElement_543"
+    ],
+    "text": "(g)\tthe\nfailure of any other Person to execute or deliver this Agreement, any Guaranty Supplement (as hereinafter defined) or any other\nguaranty or agreement or the release or reduction of liability of any Guarantor or other guarantor or surety with respect to the\nGuaranteed Obligations; or",
+    "id": "ClauseElement_524",
+    "parent_id": "SectionElement_499",
+    "cls": "ClauseElement",
+    "clause_id": "(g)",
+    "clause_text": "the"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(f) Each\nGuarantor acknowledges that it will receive substantial direct and indirect benefits from the financing arrangements contemplated\nby the Loan Documents and that the waivers set forth in Section 2 and this Section 3 are knowingly made\nin contemplation of such benefits.",
+    "id": "ClauseElement_525",
+    "parent_id": "SectionElement_500",
+    "cls": "ClauseElement",
+    "clause_id": "(f)",
+    "clause_text": "Each"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "A. Reference\nis made to that certain Senior Secured Credit Agreement dated as of May 24, 2018 (as amended, restated, amended and restated,\nsupplemented or otherwise modified from time to time, the “Credit Agreement”), among LogicMark,\nLLC, a Delaware limited liability company, (the “Borrower”), the Lenders party thereto from time to\ntime and Sagard, as Administrative Agent and Collateral Agent.",
+    "id": "ClauseElement_526",
+    "parent_id": "PartyElement_530",
+    "cls": "ClauseElement",
+    "clause_id": "(A)",
+    "clause_text": "Reference"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Sagard\nHoldings Manager LP,\nas Administrative Agent",
+    "id": "ContentTextElement_534",
+    "parent_id": "HeadingElement_532",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "The\nLenders have agreed to make a Term Loan to the Borrower, pursuant to, and upon the terms and subject to the conditions specified\nin, the Credit Agreement. Each of the Guarantors acknowledges that it will derive substantial direct and indirect economic benefit\nfrom the Term Loan made by the Lenders. The obligation of the Lenders to make the Term Loan is conditioned on, among other things,\nthe execution and delivery by the Guarantors of a Guaranty Agreement in the form hereof. As consideration therefor and in order\nto induce the Lenders to make the Term Loan, the Guarantors are willing to execute this Agreement.",
+    "id": "ContentTextElement_536",
+    "parent_id": "PartyElement_529",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Now,\nTherefore, in consideration of the premises and\nin order to induce the Lenders to make the Term Loan under the Credit Agreement, each Guarantor, jointly and severally with each\nother Guarantor, hereby agrees as follows:",
+    "id": "ContentTextElement_537",
+    "parent_id": "PartyElement_529",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b) Each\nGuarantor, and by its acceptance of this Agreement, the Administrative Agent and each other Secured Party, hereby confirms that\nit is the intention of all such Persons that this Agreement and the Obligations of each Guarantor hereunder not constitute a fraudulent\ntransfer or conveyance for purposes of Bankruptcy Law (as hereinafter defined), the Uniform Fraudulent Conveyance Act, the Uniform\nFraudulent Transfer Act or any similar foreign, federal or state law to the extent applicable to this Agreement and the Obligations\nof each Guarantor hereunder. To effectuate the foregoing intention, the Administrative Agent, the other Secured Parties and the\nGuarantors hereby irrevocably agree that the Obligations of each Guarantor under this Agreement at any time shall be limited to\nthe maximum amount as will result in the Obligations of such Guarantor under this Agreement not constituting a fraudulent transfer\nor conveyance under applicable foreign, federal or state law. For purposes hereof, “Bankruptcy Law” means any\nproceeding under Debtor Relief Laws.",
+    "id": "ContentTextElement_538",
+    "parent_id": "SectionElement_498",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c) Each\nGuarantor hereby unconditionally and irrevocably agrees that in the event any payment shall be required to be made to any Secured\nParty under this Agreement or any other guaranty, such Guarantor will contribute, to the extent necessary and to the maximum extent\npermitted by law, such amounts to each other Guarantor and each other guarantor so as to maximize (up to but not exceeding the\npayment amount required) the aggregate amount paid to the Secured Parties under or in respect of the Loan Documents.",
+    "id": "ContentTextElement_539",
+    "parent_id": "SectionElement_498",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(f)\tany\nfailure of any Secured Party to disclose to any Loan Party any information relating to the business, condition (financial or otherwise),\noperations, performance, properties or prospects of any other Loan Party now or hereafter known to such Secured Party (each Guarantor\nwaiving any duty on the part of the Secured Parties to disclose such information);",
+    "id": "ContentTextElement_541",
+    "parent_id": "ClauseElement_523",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(h)\tany\nother circumstance or any existence of or reliance on any representation by any Secured Party that might otherwise constitute\na defense available to, or a discharge of, any Loan Party or any other guarantor or surety, other than irrevocable payment in\nfull in cash of the Obligations (other than (A) contingent indemnification and reimbursement obligations not yet accrued\nand payable and (B) any other obligation (including a guarantee) that is contingent in nature and that has not yet accrued).",
+    "id": "ContentTextElement_542",
+    "parent_id": "ClauseElement_524",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "This\nAgreement shall continue to be effective or be reinstated, as the case may be, if at any time any payment of any of the Guaranteed\nObligations is rescinded or must otherwise be returned by any Secured Party or any other Person upon the insolvency, bankruptcy\nor reorganization of the Borrower or any other Loan Party or otherwise, all as though such payment had not been made.",
+    "id": "ContentTextElement_543",
+    "parent_id": "ClauseElement_524",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c) Each\nGuarantor hereby unconditionally and irrevocably waives, to the extent permitted by applicable Laws, (i) any defense arising\nby reason of any claim or defense based upon an election of remedies by any Secured Party that in any manner impairs, reduces,\nreleases or otherwise adversely affects the subrogation, reimbursement, exoneration, contribution or indemnification rights of\nsuch Guarantor or other rights of such Guarantor to proceed against any of the other Loan Parties, any other guarantor or any\nother Person or any Collateral and (ii) any defense based on any right of setoff or counterclaim against or in respect of\nthe Obligations of such Guarantor hereunder.",
+    "id": "ContentTextElement_544",
+    "parent_id": "SectionElement_500",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(d) Each\nGuarantor acknowledges that the Administrative Agent may, without notice to or demand upon such Guarantor and without affecting\nthe liability of such Guarantor under this Agreement, foreclose under any mortgage by nonjudicial sale (to the extent such sale\nis permitted by applicable Laws), and each Guarantor hereby waives, to the extent permitted by applicable Laws, any defense to\nthe recovery by the Administrative Agent and the other Secured Parties against such Guarantor of any deficiency after such nonjudicial\nsale and any defense or benefits that may be afforded by applicable Laws.",
+    "id": "ContentTextElement_545",
+    "parent_id": "SectionElement_500",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b) Pursuant\nto Section 6.11 of the Credit Agreement, certain Subsidiaries of Parent may be required, after the date hereof, to enter\ninto this Agreement as a Guarantor. Upon the execution and delivery by any such Person of a guaranty supplement in substantially\nthe form of Exhibit A hereto (each, a “Guaranty Supplement”), (i) such Person shall be referred\nto as an “Additional Guarantor” and shall become and be a Guarantor hereunder, and each reference in this Agreement\nto a “Guarantor” shall also mean and be a reference to such Additional Guarantor, and each reference in any\nother Loan Document to a “Guarantor” or a “Loan Party” shall also mean and be a reference\nto such Additional Guarantor, and (ii) each reference herein to “this Agreement”, “hereunder”,\n“hereof” or words of like import referring to this Agreement, and each reference in any other Loan Document\nto the “Guaranty”, “thereunder”, “thereof” or words of like import referring\nto this Agreement, shall mean and be a reference to this Agreement as supplemented by such Guaranty Supplement. Each such Additional\nGuarantor shall also execute and deliver a Security Agreement Supplement to the extent required by the Loan Documents.",
+    "id": "ContentTextElement_546",
+    "parent_id": "SectionElement_505",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b) Each\nGuarantor hereby also agrees that none of the Indemnitees shall have any liability (whether direct or indirect, in contract, tort\nor otherwise) to any of the Guarantors or any of their respective Affiliates or any of their respective officers, directors, employees,\nagents and advisors, and each Guarantor hereby agrees not to assert any claim against any Indemnitee on any theory of liability,\nfor special, indirect, consequential or punitive damages1 arising out of or otherwise relating to the Facility, the\nactual or proposed use of the proceeds of the Term Loan, the Loan Documents or any of the transactions contemplated by the Loan\nDocuments, in all cases, whether or not caused by or arising, in whole or in part, out of the negligence of the Indemnitee and\nwhether brought by an Indemnitee, a third party or by the Borrower or any other Loan Party or any of the Borrower’s or such\nLoan Party’s directors, shareholders or creditors, and regardless of whether any Indemnitee is a party thereto and whether\nor not any of the transactions contemplated hereby are consummated, provided, that, such indemnity shall not, as to any\nIndemnitee, be available (and the foregoing agreements of each Guarantor not to assert any such claims) to the extent such liabilities,\nobligations, losses, damages, penalties, claims, demands, actions, judgments, suits, costs, expenses or disbursements resulted\nfrom or arose out of the gross negligence or willful misconduct of such Indemnitee or of any affiliate, director, officer, employee,\ncounsel, agent or attorney-in-fact of such Indemnitee as determined by a final non-appealable judgment of a court of competent\njurisdiction.",
+    "id": "ContentTextElement_547",
+    "parent_id": "SectionElement_509",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c) Without\nprejudice to the survival of any of the other agreements of any Guarantor under this Agreement or any of the other Loan Documents,\nthe agreements and obligations of each Guarantor contained in Section 1(a) (with respect to enforcement expenses),\nSection 2 (with respect to the last sentence thereof), Section 5 and this Section 12 shall\nsurvive the payment in full of the Guaranteed Obligations and all of the other amounts payable under this Agreement and the resignation\nor removal of any Agent.",
+    "id": "ContentTextElement_548",
+    "parent_id": "SectionElement_509",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(a)\tProhibited\nPayments, Etc. Except during the continuance of an Event of Default (including, without limitation, the commencement and continuation\nof any proceeding under any Bankruptcy Law relating to any other Loan Party), and subject to the terms of the Credit Agreement,\neach Guarantor may receive payments from any other Loan Party on account of the Subordinated Obligations. After the occurrence\nand during the continuance of any Event of Default (including, without limitation, the commencement and continuation of any proceeding\nunder any Bankruptcy Law relating to any other Loan Party), however, unless the Administrative Agent shall otherwise agree, no\nGuarantor shall demand, accept or take any action to collect any payment on account of the Subordinated Obligations, other than\nthe filing of proofs of claim or other similar requirements to preserve its rights as a creditor.",
+    "id": "ContentTextElement_549",
+    "parent_id": "SectionElement_510",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b)\tPrior\nPayment of Guaranteed Obligations. In any proceeding under any Bankruptcy Law relating to any other Loan Party, each Guarantor\nagrees that the Secured Parties shall be entitled to receive payment in full in cash of all Guaranteed Obligations (including\nall interest and expenses accruing after the commencement of a proceeding under any Bankruptcy Law, whether or not constituting\nan allowed claim in such proceeding (“Post Petition Interest”)) before such Guarantor receives payment of any\nSubordinated Obligations.",
+    "id": "ContentTextElement_550",
+    "parent_id": "SectionElement_510",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "1\nNote for Robinson: Loan Parties are already covered\nby the Credit Agreement in Section 10.05",
+    "id": "ContentTextElement_551",
+    "parent_id": "SectionElement_510",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c)\tTurn-Over.\nAfter the occurrence and during the continuance of any Event of Default (including, without limitation, the commencement and continuation\nof any proceeding under any Bankruptcy Law relating to any other Loan Party), each Guarantor shall, if the Administrative Agent\nso requests, collect, enforce and receive payments on account of the Subordinated Obligations as trustee for the Secured Parties\nand deliver such payments to the Administrative Agent on account of the Guaranteed Obligations (including all Post Petition Interest),\ntogether with any necessary endorsements or other instruments of transfer, but without reducing or affecting in any manner the\nliability of such Guarantor under the other provisions of this Agreement.",
+    "id": "ContentTextElement_552",
+    "parent_id": "SectionElement_510",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(d)\tAdministrative\nAgent Authorization. After the occurrence and during the continuance of any Event of Default (including, without limitation,\nthe commencement and continuation of any proceeding under any Bankruptcy Law relating to any other Loan Party), the Administrative\nAgent is authorized and empowered (but without any obligation to so do), (i) in the name of each Guarantor, to collect and\nenforce, and to submit claims in respect of, Subordinated Obligations and to apply any amounts received thereon to the Guaranteed\nObligations (including any and all Post Petition Interest), and (ii) to require each Guarantor (A) to collect and enforce,\nand to submit claims in respect of, Subordinated Obligations and (B) to pay any amounts received on such obligations to the\nAdministrative Agent for application to the Guaranteed Obligations (including any and all Post Petition Interest).",
+    "id": "ContentTextElement_553",
+    "parent_id": "SectionElement_510",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b) ANY\nLEGAL ACTION OR PROCEEDING ARISING UNDER THIS AGREEMENT OR IN ANY WAY CONNECTED WITH OR RELATED OR INCIDENTAL TO THE DEALINGS\nOF THE UNDERSIGNED, THE SECURED PARTIES OR THE AGENTS OR ANY OF THEM WITH RESPECT TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT,\nOR THE TRANSACTIONS RELATED HERETO OR THERETO, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING, MAY BE BROUGHT IN THE COURTS\nOF THE STATE OF NEW YORK SITTING IN NEW YORK COUNTY OR OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF SUCH STATE, AND BY EXECUTION\nAND DELIVERY OF THIS AGREEMENT, EACH OF THE UNDERSIGNED CONSENTS, FOR ITSELF AND IN RESPECT OF ITS PROPERTY, TO THE EXCLUSIVE\nJURISDICTION OF THOSE COURTS. EACH OF THE UNDERSIGNED IRREVOCABLY WAIVES ANY OBJECTION TO THE LAYING OF VENUE OR BASED ON THE\nGROUNDS OF FORUM NON CONVENIENS, WHICH IT MAY NOW OR HEREAFTER HAVE TO THE BRINGING OF ANY ACTION OR PROCEEDING IN SUCH JURISDICTION\nIN RESPECT OF ANY LOAN DOCUMENT OR OTHER DOCUMENT RELATED HERETO OR THERETO.",
+    "id": "ContentTextElement_554",
+    "parent_id": "SectionElement_513",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c) WAIVER\nOF RIGHT TO TRIAL BY JURY. EACH PARTY TO THIS AGREEMENT HEREBY EXPRESSLY WAIVES ANY RIGHT TO TRIAL BY JURY OF ANY CLAIM, DEMAND,\nACTION OR CAUSE OF ACTION ARISING UNDER THIS AGREEMENT OR ANY LOAN DOCUMENT OR IN ANY WAY CONNECTED WITH OR RELATED OR INCIDENTAL\nTO THE DEALINGS OF THE UNDERSIGNED, THE SECURED PARTIES, THE AGENTS OR ANY OF THEM WITH RESPECT TO THIS AGREEMENT OR ANY OTHER\nLOAN DOCUMENT, OR THE TRANSACTIONS RELATED HERETO OR THERETO, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING, AND WHETHER\nFOUNDED IN CONTRACT OR TORT OR OTHERWISE; AND EACH OF THE UNDERSIGNED HEREBY AGREES AND CONSENTS THAT ANY SUCH CLAIM, DEMAND,\nACTION OR CAUSE OF ACTION SHALL BE DECIDED BY COURT TRIAL WITHOUT A JURY, AND THAT ANY OF THE UNDERSIGNED, THE SECURED PARTIES\nOR THE AGENTS MAY FILE AN ORIGINAL COUNTERPART OR A COPY OF THIS SECTION 16(c) WITH ANY COURT AS WRITTEN EVIDENCE OF THE\nCONSENT OF THE UNDERSIGNED TO THE WAIVER OF THEIR RIGHT TO TRIAL BY JURY.",
+    "id": "ContentTextElement_555",
+    "parent_id": "SectionElement_513",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "In\nWitness Whereof, each Guarantor has caused this\nAgreement to be duly executed and delivered by its officer thereunto duly authorized as of the date first above written.",
+    "id": "ContentTextElement_556",
+    "parent_id": "SectionElement_513",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Nxt-ID, Inc., as a Guarantor\n\n \n \n \n\n \nBy:\n \n\n \nName:\n \n\n \nTitle:\n \n\n \n \n \n\n \nFit Pay, Inc., as a Guarantor\n\n \n \n \n\n \nBy:\n \n\n \nName:\n \n\n \nTitle:\n \n\n \n \n \n\n \n3D-ID, LLC, as a Guarantor\n\n \n \n \n\n \nBy:\n \n\n \nName: \n           \n\n \nTitle:",
+    "id": "ContentTextElement_557",
+    "parent_id": "SectionElement_513",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Acknowledged\n    and accepted:\n\n \n \n \n \n\n \nSagard\n    Holdings Manager LP, as Administrative Agent\n\n \n \n \n \n\n \nBy:\n    \nIts\n    general partner, Sagard Holdings Manager GP Inc.\n\n \n \n \n \n\n \n \n \n \n\n \nBy:\n \n \n\n \n \nName: \n               \n\n \n \nTitle:\n \n\n \n \n \n \n\n \nSigned\n    at Toronto, Canada",
+    "id": "ContentTextElement_558",
+    "parent_id": "SectionElement_513",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "B. The\nGuarantors have entered into the Guaranty in order to induce the Lenders to make the Term Loan. Pursuant to Section 6.11\nof the Credit Agreement and the requirements of the “Collateral and Guarantee Requirement” set forth in the Credit\nAgreement (and subject to certain limitations provided therein) (i) Parent and each Subsidiary of Parent (excluding the Borrower)\nexisting on the Closing Date and (ii) any Person that becomes a Subsidiary of Parent after the Closing Date is required to\nenter into the Guaranty as a Guarantor. Each undersigned Subsidiary of Parent is executing this Supplement in accordance with\nthe requirements of the Credit Agreement and the Guaranty to become a Guarantor under the Guaranty as consideration for the Term\nLoan previously made.",
+    "id": "ContentTextElement_559",
+    "parent_id": "PartyElement_530",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Accordingly,\nthe Administrative Agent and the undersigned agree as follows:",
+    "id": "ContentTextElement_560",
+    "parent_id": "PartyElement_530",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Section 1.\nGuaranty; Limitation of Liability. (a) The undersigned hereby absolutely, unconditionally and irrevocably guarantees\nthe punctual payment when due, whether at scheduled maturity or on the date of any required prepayment or by acceleration, demand\nor otherwise, of all Obligations of each other Loan Party now or hereafter existing under or in respect of the Loan Documents\n(including, without limitation, any extensions, modifications, substitutions, amendments or renewals of any or all of the foregoing\nObligations), whether direct or indirect, absolute or contingent, and whether for principal, interest, premiums (including, without\nlimitation, any Yield Maintenance Premium and Prepayment Premium), fees, indemnities, contract causes of action, costs, expenses\nor otherwise (such Obligations being the “Guaranteed Obligations”), and agrees to pay any, subject to the Credit\nAgreement, and all costs and expenses (including, without limitation, reasonable and document incurred by the Administrative Agent\nor any other Secured Party in enforcing any rights under this Guaranty Supplement, the Guaranty or any other Loan Document, in\neach case as and to the extent payable under Section 10.04 the Credit Agreement (as if the obligations of the Borrower under such\nSection were obligations of the undersigned). Without limiting the generality of the foregoing, the undersigned’s liability\nshall extend to all amounts that constitute part of the Guaranteed Obligations and would be owed by any other Loan Party to any\nSecured Party under or in respect of the Loan Documents but for the fact that they are unenforceable or not allowable due to the\nexistence of a bankruptcy, reorganization or similar proceeding involving such other Loan Party.",
+    "id": "ContentTextElement_561",
+    "parent_id": "PartyElement_530",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b) The\nundersigned, and by its acceptance of this Guaranty Supplement, the Administrative Agent and each other Secured Party, hereby\nconfirms that it is the intention of all such Persons that this Guaranty Supplement, the Guaranty and the Obligations of the undersigned\nhereunder and thereunder not constitute a fraudulent transfer or conveyance for purposes of Bankruptcy Law, the Uniform Fraudulent\nConveyance Act, the Uniform Fraudulent Transfer Act or any similar foreign, federal or state law to the extent applicable to this\nGuaranty Supplement, the Guaranty and the Obligations of the undersigned hereunder and thereunder. To effectuate the foregoing\nintention, the Administrative Agent, the other Secured Parties and the undersigned hereby irrevocably agree that the Obligations\nof the undersigned under this Guaranty Supplement and the Guaranty at any time shall be limited to the maximum amount as will\nresult in the Obligations of the undersigned under this Guaranty Supplement and the Guaranty not constituting a fraudulent transfer\nor conveyance under applicable foreign, federal or state law.",
+    "id": "ContentTextElement_563",
+    "parent_id": "PartyElement_530",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c) The\nundersigned hereby unconditionally and irrevocably agrees that in the event any payment shall be required to be made to any Secured\nParty under this Guaranty Supplement, the Guaranty or any other guaranty, the undersigned will contribute, to the extent necessary\nand to the maximum extent permitted by applicable law, such amounts to each other Guarantor and each other guarantor so as to\nmaximize (up to but not exceeding the payment amount required) the aggregate amount paid to the Secured Parties under or in respect\nof the Loan Documents.",
+    "id": "ContentTextElement_564",
+    "parent_id": "PartyElement_530",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Section 3.\nRepresentations and Warranties. The undersigned hereby makes each representation and warranty set forth in Section 6\nof the Guaranty to the same extent as each other Guarantor.",
+    "id": "ContentTextElement_565",
+    "parent_id": "DefinitionElement_531",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Section 4.\nDelivery by Facsimile; Electronic Transmission. Delivery of an executed counterpart of a signature page to this Guaranty\nSupplement by facsimile or electronic transmission of a .pdf copy shall be effective as delivery of an original executed counterpart\nof this Guaranty Supplement.",
+    "id": "ContentTextElement_566",
+    "parent_id": "DefinitionElement_531",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Section 5.\nGoverning Law; Jurisdiction; Waiver of Jury Trial, Etc. (a) This Guaranty Supplement shall be governed by, and construed\nin accordance with, the laws of the State of New York.",
+    "id": "ContentTextElement_567",
+    "parent_id": "DefinitionElement_531",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b) ANY\nLEGAL ACTION OR PROCEEDING ARISING UNDER THIS GUARANTY SUPPLEMENT OR IN ANY WAY CONNECTED WITH OR RELATED OR INCIDENTAL TO THE\nDEALINGS OF THE UNDERSIGNED, THE SECURED PARTIES OR THE AGENT OR ANY OF THEM WITH RESPECT TO THIS GUARANTY SUPPLEMENT OR ANY LOAN\nDOCUMENT, OR THE TRANSACTIONS RELATED HERETO OR THERETO, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING, MAY BE BROUGHT\nIN THE COURTS OF THE STATE OF NEW YORK SITTING IN NEW YORK COUNTY OR OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF SUCH\nSTATE, AND BY EXECUTION AND DELIVERY OF THIS GUARANTY SUPPLEMENT, EACH OF THE UNDERSIGNED CONSENTS, FOR ITSELF AND IN RESPECT\nOF ITS PROPERTY, TO THE EXCLUSIVE JURISDICTION OF THOSE COURTS. EACH OF THE UNDERSIGNED IRREVOCABLY WAIVES ANY OBJECTION TO THE\nLAYING OF VENUE OR BASED ON THE GROUNDS OF FORUM NON CONVENIENS, WHICH IT MAY NOW OR HEREAFTER HAVE TO THE BRINGING OF ANY ACTION\nOR PROCEEDING IN SUCH JURISDICTION IN RESPECT OF ANY LOAN DOCUMENT OR OTHER DOCUMENT RELATED THERETO.",
+    "id": "ContentTextElement_568",
+    "parent_id": "DefinitionElement_531",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(c) WAIVER\nOF RIGHT TO TRIAL BY JURY. EACH PARTY TO THIS GUARANTY SUPPLEMENT HEREBY EXPRESSLY WAIVES ANY RIGHT TO TRIAL BY JURY OF ANY CLAIM,\nDEMAND, ACTION OR CAUSE OF ACTION ARISING UNDER THIS GUARANTY SUPPLEMENT OR ANY LOAN DOCUMENT OR IN ANY WAY CONNECTED WITH OR\nRELATED OR INCIDENTAL TO THE DEALINGS OF THE UNDERSIGNED, THE SECURED PARTIES, THE AGENTS OR ANY OF THEM WITH RESPECT TO THIS\nGUARANTY SUPPLEMENT OR ANY LOAN DOCUMENT, OR THE TRANSACTIONS RELATED HERETO OR THERETO, IN EACH CASE WHETHER NOW EXISTING OR\nHEREAFTER ARISING, AND WHETHER FOUNDED IN CONTRACT OR TORT OR OTHERWISE; AND THE UNDERSIGNED HEREBY AGREES AND CONSENTS THAT ANY\nSUCH CLAIM, DEMAND, ACTION OR CAUSE OF ACTION SHALL BE DECIDED BY COURT TRIAL WITHOUT A JURY, AND THAT ANY OF THE UNDERSIGNED,\nTHE SECURED PARTIES OR THE AGENTS MAY FILE AN ORIGINAL COUNTERPART OR A COPY OF THIS SECTION 5(c) WITH ANY COURT AS\nWRITTEN EVIDENCE OF THE CONSENT OF THE UNDERSIGNED TO THE WAIVER OF THEIR RIGHT TO TRIAL BY JURY.",
+    "id": "ContentTextElement_569",
+    "parent_id": "DefinitionElement_531",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Very truly yours,\n\n \n \n \n\n \n[Name of Additional Guarantor]\n\n \n \n \n\n \nBy:\n          \n\n \nName: \n           \n\n  \nTitle:",
+    "id": "ContentTextElement_570",
+    "parent_id": "DefinitionElement_531",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "signature\npage\nsupplement no. [  ] to guaranty agreement",
+    "id": "ContentTextElement_571",
+    "parent_id": "DefinitionElement_531",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Acknowledged and accepted:\n\n \n \n \n \n\n \nSagard Holdings Manager LP, as Administrative Agent\n\n \n \n \n \n\n \nBy:\n \n                 \n\n \n  \nName: \n \n\n \n \nTitle:",
+    "id": "ContentTextElement_572",
+    "parent_id": "DefinitionElement_531",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "signature\npage\nsupplement no. [  ] to guaranty agreement",
+    "id": "ContentTextElement_573",
+    "parent_id": "DefinitionElement_531",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_565",
+      "ContentTextElement_566",
+      "ContentTextElement_567",
+      "ContentTextElement_568",
+      "ContentTextElement_569",
+      "ContentTextElement_570",
+      "ContentTextElement_571",
+      "ContentTextElement_572",
+      "ContentTextElement_573"
+    ],
+    "text": "Section 2.\nObligations Under the Guaranty. The undersigned hereby agrees, as of the date first above written, to be bound as a Guarantor\nby all of the terms and conditions of the Guaranty to the same extent as each of the other Guarantors thereunder. The undersigned\nfurther agrees, as of the date first above written, that each reference in the Guaranty to an “Additional Guarantor”\nor a “Guarantor” shall also mean and be a reference to the undersigned, and each reference in any other\nLoan Document to a “Guarantor” or a “Loan Party” shall also mean and be a reference to the\nundersigned.",
+    "id": "DefinitionElement_531",
+    "parent_id": "PartyElement_530",
+    "cls": "DefinitionElement",
+    "term": "shall also",
+    "definition": "and be a reference to the undersigned, and each reference in any other"
+  },
+  {
+    "level": 1,
+    "children": [
+      "ContentTextElement_534",
+      "ContentTextElement_535",
+      "HeadingElement_533",
+      "PartyElement_528",
+      "PartyElement_529",
+      "SectionElement_498",
+      "SectionElement_499",
+      "SectionElement_500",
+      "SectionElement_501",
+      "SectionElement_502",
+      "SectionElement_503",
+      "SectionElement_504",
+      "SectionElement_505",
+      "SectionElement_506",
+      "SectionElement_507",
+      "SectionElement_508",
+      "SectionElement_509",
+      "SectionElement_510",
+      "SectionElement_511",
+      "SectionElement_512",
+      "SectionElement_513",
+      "PartyElement_530"
+    ],
+    "text": "3D-ID,\nLLC",
+    "id": "HeadingElement_532",
+    "parent_id": "AgreementTitleElement_527",
+    "cls": "HeadingElement",
+    "heading_text": "3D-ID,\nLLC"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Guaranty\nAgreement",
+    "id": "HeadingElement_533",
+    "parent_id": "HeadingElement_532",
+    "cls": "HeadingElement",
+    "heading_text": "Guaranty\nAgreement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Guaranty\nAgreement (this “Agreement”)\ndated as of May 24, 2018, among Nxt-ID, Inc., a Delaware corporation (“Parent”),\nFit Pay, Inc., a Delaware corporation, 3D-ID,\nLLC, a Florida limited liability company, and each of the subsidiaries of Parent that is a party hereto or may become party\nhereto pursuant to Section 8(b) below (collectively, the “Guarantors”) and Sagard\nHoldings Manager LP (“Sagard”), as administrative agent (in such capacity, and together with any successors\nin such capacity, the “Administrative Agent”) for the Secured Parties (as defined in the Credit Agreement referred\nto below).",
+    "id": "PartyElement_528",
+    "parent_id": "HeadingElement_532",
+    "cls": "PartyElement",
+    "party_name": "Inc.",
+    "party_type": "Delaware corporation (“Parent”)"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_536",
+      "ContentTextElement_537"
+    ],
+    "text": "Reference\nis made to the Senior Secured Credit Agreement, dated as of the date hereof (as amended, restated, amended and restated, supplemented\nor otherwise modified from time to time, the “Credit Agreement”), among LogicMark,\nLLC, a Delaware limited liability company, (the “Borrower”), the Lenders party thereto from time to\ntime and Sagard, as Administrative Agent and Collateral Agent. Terms used herein without definition shall have the meanings assigned\nto such terms in the Credit Agreement.",
+    "id": "PartyElement_529",
+    "parent_id": "HeadingElement_532",
+    "cls": "PartyElement",
+    "party_name": "LLC",
+    "party_type": "Delaware limited liability company"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ClauseElement_526",
+      "ContentTextElement_559",
+      "ContentTextElement_560",
+      "ContentTextElement_561",
+      "ContentTextElement_562",
+      "ContentTextElement_563",
+      "ContentTextElement_564",
+      "DefinitionElement_531"
+    ],
+    "text": "Supplement\nNo. _____ (this “Supplement”)\ndated as of __________, 20___, to the Guaranty Agreement dated as of May 24, 2018 (as the same may be amended, supplemented or\notherwise modified from time to time, the “Guaranty”), among Nxt-ID,\nInc., a Delaware corporation (“Parent”), Fit Pay, Inc.,\na Delaware corporation, 3D-ID, LLC, a Florida limited liability company, and each\nof the subsidiaries of Parent that is a party thereto or may become party thereto pursuant to Section 8(b) of the\nGuaranty (collectively, the “Guarantors”) and Sagard Holdings Manager\nLP (“Sagard”), as administrative agent (in such capacity, and together with any successors in such capacity,\nthe “Administrative Agent”) for the Secured Parties (as defined in the Credit Agreement referred to below).\nTerms used herein without definition shall have the meanings assigned to such terms in the Guaranty.",
+    "id": "PartyElement_530",
+    "parent_id": "HeadingElement_532",
+    "cls": "PartyElement",
+    "party_name": "Inc.",
+    "party_type": "Delaware corporation (“Parent”)"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_538",
+      "ContentTextElement_539"
+    ],
+    "text": "Section 1.\nGuaranty; Limitation of Liability. (a) Each Guarantor hereby absolutely, unconditionally and irrevocably guarantees,\njointly and severally, the punctual payment when due, whether at scheduled maturity or on any date of a required prepayment or\nby acceleration, demand or otherwise, of all Obligations of each other Loan Party now or hereafter existing under or in respect\nof the Loan Documents (including, without limitation, any extensions, modifications, amendments or renewals of any or all of the\nforegoing Obligations), whether direct or indirect, absolute or contingent, and whether for principal, interest, premiums (including,\nwithout limitation, any Yield Maintenance Premium and Prepayment Premium), fees, indemnities, contract causes of action, costs,\nexpenses or otherwise (such Obligations being the “Guaranteed Obligations”), and agrees, subject to and without\nlimitation on the Credit Agreement, to pay any and all costs and expenses (including, without limitation, reasonable and documented\nfees and expenses of counsel, provided that if no Event of Default has occurred and is continuing, such costs and expenses\nof counsel shall be limited to a single form of primary outside counsel and, if necessary, one local counsel in each applicable\njurisdiction, for the Secured Parties) incurred by the Administrative Agent or any other Secured Party in enforcing any rights\nunder this Agreement or any other Loan Document, in each case as and to the extent payable under Section 10.04 the Credit Agreement\n(as if the obligations of the Borrower under such Section were obligations of such Guarantor). Without limiting the generality\nof the foregoing, each Guarantor’s liability shall extend to all amounts that constitute part of the Guaranteed Obligations\nand would be owed by any other Loan Party to any Secured Party under or in respect of the Loan Documents but for the fact that\nthey are unenforceable or not allowable due to the existence of a bankruptcy, reorganization or similar proceeding involving such\nother Loan Party.",
+    "id": "SectionElement_498",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "1",
+    "section_title": "Guaranty; Limitation of Liability. (a) Each Guarantor hereby absolutely, unconditionally and irrevocably guarantees,"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ClauseElement_519",
+      "ClauseElement_520",
+      "ClauseElement_521",
+      "ClauseElement_522",
+      "ClauseElement_523",
+      "ClauseElement_524"
+    ],
+    "text": "Section 2.\nGuaranty Absolute. Each Guarantor guarantees that the Guaranteed Obligations will be paid strictly in accordance with the\nterms of the Loan Documents, regardless of any applicable law, regulation or order now or hereafter in effect in any jurisdiction\naffecting any of such terms or the rights of any Secured Party with respect thereto. The obligations of each Guarantor under or\nin respect of this Agreement are independent of the Guaranteed Obligations or any other obligations of any other Loan Party under\nor in respect of the Loan Documents, and a separate action or actions may be brought and prosecuted against each Guarantor to\nenforce this Agreement, irrespective of whether any action is brought against the Borrower or any other Loan Party or whether\nthe Borrower or any other Loan Party is joined in any such action or actions. This Agreement is a guaranty of payment when due,\nand not of collection. The liability of each Guarantor under this Agreement shall be irrevocable, absolute and unconditional irrespective\nof, and each Guarantor hereby irrevocably waives (to the extent permitted by applicable Laws) any defenses it may now have or\nhereafter acquire in any way relating to, any or all of the following:",
+    "id": "SectionElement_499",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "2",
+    "section_title": "Guaranty Absolute. Each Guarantor guarantees that the Guaranteed Obligations will be paid strictly in accordance with the"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_544",
+      "ContentTextElement_545",
+      "ClauseElement_525"
+    ],
+    "text": "Section 3.\nWaivers and Acknowledgments. (a) Each Guarantor hereby unconditionally and irrevocably waives, to the extent permitted\nby applicable Laws, promptness, diligence, notice of acceptance, presentment, demand for performance, notice of nonperformance,\ndefault, acceleration, protest or dishonor and any other notice with respect to any of the Guaranteed Obligations and this Agreement\nand any requirement that any Secured Party protect, secure, perfect or insure any Lien or any property subject thereto or exhaust\nany right or take any action against any Loan Party or any other Person or any Collateral.",
+    "id": "SectionElement_500",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "3",
+    "section_title": "Waivers and Acknowledgments. (a) Each Guarantor hereby unconditionally and irrevocably waives, to the extent permitted"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Section 4.\nSubrogation. Until the Obligations are indefeasibly satisfied in full, each Guarantor hereby unconditionally and irrevocably\nagrees not to exercise any rights that it may now have or hereafter acquire against the Borrower, any other Loan Party or any\nother insider guarantor that arise from the existence, payment, performance or enforcement of such Guarantor’s Obligations\nunder or in respect of this Agreement or any other Loan Document, including, without limitation, any right of subrogation, reimbursement,\nexoneration, contribution or indemnification and any right to participate in any claim or remedy of any Secured Party against\nthe Borrower, any other Loan Party or any other insider guarantor or any Collateral, whether or not such claim, remedy or right\narises in equity or under contract, statute or common law, including, without limitation, the right to take or receive from the\nBorrower, any other Loan Party or any other insider guarantor, directly or indirectly, in cash or other property or by setoff\nor in any other manner, payment or security on account of such claim, remedy or right, unless and until the occurrence of the\nTermination Date. If any amount shall be paid to any Guarantor in violation of the immediately preceding sentence at any time\nprior to the payment in full in cash of the Guaranteed Obligations and all other amounts payable under this Agreement, such amount\nshall be received and held in trust by such Guarantor for the benefit of the Secured Parties, shall be segregated from other property\nand funds of such Guarantor and shall forthwith be paid or delivered to the Administrative Agent in the same form as so received\n(with any necessary endorsement or assignment) to be credited and applied to the Guaranteed Obligations and all other amounts\npayable under this Agreement, whether matured or unmatured, in accordance with the terms of the Loan Documents, or to be held\nas Collateral for any Guaranteed Obligations or other amounts payable under this Agreement thereafter arising. If any Guarantor\nshall make payment to any Secured Party of all or any part of the Guaranteed Obligations and the Termination Date has occurred,\nthe Secured Parties will, at such Guarantor’s request and expense, execute and deliver to such Guarantor appropriate documents,\nwithout recourse and without representation or warranty, necessary or reasonably requested by such Guarantor to evidence the transfer\nby subrogation to such Guarantor of an interest in the Guaranteed Obligations resulting from such payment made by such Guarantor\npursuant to this Agreement.",
+    "id": "SectionElement_501",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "4",
+    "section_title": "Subrogation. Until the Obligations are indefeasibly satisfied in full, each Guarantor hereby unconditionally and irrevocably"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Section 5.\nPayments Free and Clear of Taxes, Etc. Any and all payments by or on account of any obligation of any Guarantor hereunder\nor under any other Loan Document shall be made free and clear of and without deduction or withholding for any Taxes or Other Taxes\non the same terms and to the same extent that payments by the Borrower are required to be made free and clear of Taxes and Other\nTaxes pursuant to Section 3.01 of the Credit Agreement.",
+    "id": "SectionElement_502",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "5",
+    "section_title": "Payments Free and Clear of Taxes, Etc. Any and all payments by or on account of any obligation of any Guarantor hereunder"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Section 6.\nRepresentations and Warranties. Each Guarantor hereby makes each representation and warranty made in the Loan Documents\nby the Borrower with respect to such Guarantor and each Guarantor hereby further represents and warrants that such Guarantor has,\nindependently and without reliance upon any Secured Party and based on such documents and information as it has deemed appropriate,\nmade its own credit analysis and decision to enter into this Agreement and each other Loan Document to which it is or is to be\na party, and such Guarantor has established adequate means of obtaining from each other Loan Party on a continuing basis information\npertaining to, and is now and on a continuing basis will be familiar with, the business, condition (financial or otherwise), operations,\nperformance, properties and prospects of such other Loan Party.",
+    "id": "SectionElement_503",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "6",
+    "section_title": "Representations and Warranties. Each Guarantor hereby makes each representation and warranty made in the Loan Documents"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Section 7.\nCovenants. Each Guarantor covenants and agrees that, until the Termination Date has occurred, such Guarantor will perform\nand observe all of the terms, covenants and agreements set forth in the Loan Documents on its part to be performed or observed\nor that the Borrower has agreed in the Loan Documents to cause such Guarantor to perform or observe.",
+    "id": "SectionElement_504",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "7",
+    "section_title": "Covenants. Each Guarantor covenants and agrees that, until the Termination Date has occurred, such Guarantor will perform"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_546"
+    ],
+    "text": "Section 8.\nAmendments, Guaranty Supplements, Etc. (a) No amendment or waiver of any provision of this Agreement and no consent to\nany departure by any Guarantor therefrom shall in any event be effective unless the same shall be in writing and signed by the\nAdministrative Agent, and shall otherwise be in accordance with Section 10.01 of the Credit Agreement.",
+    "id": "SectionElement_505",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "8",
+    "section_title": "Amendments, Guaranty Supplements, Etc. (a) No amendment or waiver of any provision of this Agreement and no consent to"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Section 9.\nNotices, Etc. All notices and other communications provided for hereunder shall be in writing (including facsimile transmission,\nand, to the extent permitted under Section 10.02(e) of the Credit Agreement, in an electronic medium as specified\ntherein) and mailed, faxed or otherwise delivered to it in accordance with Section 10.02 of the Credit Agreement,\nif to any Guarantor, addressed to it in care of the Borrower at the Borrower’s address specified in Schedule 10.02\nof the Credit Agreement, if to any Agent or any Lender, at its address specified in Schedule 10.02 of the Credit\nAgreement or, as to any party, at such other address as shall be designated by such party in a written notice to each other party.\nAll such notices and other communications shall, when mailed, faxed or delivered by electronic mail, be effective when deposited\nin the mails, transmitted by facsimile or delivered by electronic mail, respectively. Delivery by facsimile or by electronic transmission\nof a .pdf copy of an executed counterpart of a signature page to any amendment or waiver of any provision of this Agreement or\nof any Guaranty Supplement to be executed and delivered hereunder shall be effective as delivery of an original executed counterpart\nthereof.",
+    "id": "SectionElement_506",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "9",
+    "section_title": "Notices, Etc. All notices and other communications provided for hereunder shall be in writing (including facsimile transmission,"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Section 10.\nNo Waiver; Remedies. No failure on the part of any Secured Party to exercise, and no delay in exercising, any right hereunder\nshall operate as a waiver thereof; nor shall any single or partial exercise of any right hereunder preclude any other or further\nexercise thereof or the exercise of any other right. The remedies herein provided are cumulative and not exclusive of any remedies\nprovided by law.",
+    "id": "SectionElement_507",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "10",
+    "section_title": "No Waiver; Remedies. No failure on the part of any Secured Party to exercise, and no delay in exercising, any right hereunder"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Section 11.\nRight of Setoff. Upon the occurrence and during the continuance of any Event of Default, each Agent, each Lender and each\nof their respective Affiliates is hereby authorized upon prior written notice to each applicable Guarantor at any time and from\ntime to time, to the fullest extent permitted by applicable law, to set off and apply any and all deposits (general or special,\ntime or demand, provisional or final) (other than in accounts used exclusively for payroll or employee benefits and in other trust\nor fiduciary accounts) at any time held and other indebtedness at any time owing by such Agent, such Lender or such Affiliate\nto or for the credit or the account of any Guarantor against any and all of the Obligations of such Guarantor now or hereafter\nexisting under the Loan Documents, irrespective of whether such Agent or such Lender shall have made any demand under this Agreement\nor any other Loan Document and although such Obligations may be unmatured; provided, however, that the failure to\ngive such notice shall not affect the validity of such setoff and application. The rights of each Agent and each Lender and their\nrespective Affiliates under this Section 11 are in addition to other rights and remedies (including, without limitation,\nother rights of setoff) that such Agent, such Lender and their respective Affiliates may have.",
+    "id": "SectionElement_508",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "11",
+    "section_title": "Right of Setoff. Upon the occurrence and during the continuance of any Event of Default, each Agent, each Lender and each"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_547",
+      "ContentTextElement_548"
+    ],
+    "text": "Section 12.\nIndemnification. (a) Without limitation on any other Obligations of any Guarantor or remedies of the Secured Parties\nunder this Agreement, each Guarantor shall, to the fullest extent permitted by law, indemnify and hold harmless each Agent-Related\nPerson, each Secured Party and each of their respective Affiliates, directors, officers, employees, counsel, agents, trustees,\nand attorneys-in-fact (collectively the “Indemnitees”) from and against any and all liabilities, obligations,\nlosses, taxes, damages, penalties, claims, demands, actions, judgments, suits, costs, expenses and disbursements of any kind or\nnature whatsoever which may at any time be imposed on, incurred by or asserted against any such Indemnitee in any way relating\nto or arising out of or in connection with or resulting from this Agreement (including, without limitation, enforcement of this\nAgreement), in all cases, whether or not caused by or arising, in whole or in part, out of the negligence of the Indemnitee and\nwhether brought by an Indemnitee, a third party or by the Borrower or any other Loan Party or any of the Borrower’s or such\nLoan Party’s directors, shareholders or creditors, and regardless of whether any Indemnitee is a party thereto and whether\nor not any of the transactions contemplated hereby are consummated, provided, that, such indemnity shall not, as to any\nIndemnitee, be available to the extent such liabilities, obligations, losses, damages, penalties, claims, demands, actions, judgments,\nsuits, costs, expenses or disbursements resulted from the gross negligence or willful misconduct of such Indemnitee or of any\naffiliate, director, officer, employee, counsel, agent or attorney-in-fact of such Indemnitee as determined by a final non-appealable\njudgment of a court of competent jurisdiction.",
+    "id": "SectionElement_509",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "12",
+    "section_title": "Indemnification. (a) Without limitation on any other Obligations of any Guarantor or remedies of the Secured Parties"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_549",
+      "ContentTextElement_550",
+      "ContentTextElement_551",
+      "ContentTextElement_552",
+      "ContentTextElement_553"
+    ],
+    "text": "Section 13.\nSubordination. Each Guarantor hereby subordinates any and all debts, liabilities and other Obligations owed to such Guarantor\nby each other Loan Party (the “Subordinated Obligations”) to the Guaranteed Obligations to the extent and in\nthe manner hereinafter set forth in this Section 13:",
+    "id": "SectionElement_510",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "13",
+    "section_title": "Subordination. Each Guarantor hereby subordinates any and all debts, liabilities and other Obligations owed to such Guarantor"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Section 14.\nContinuing Guaranty; Assignments under the Credit Agreement. This Agreement is a continuing guaranty and shall (a) remain\nin full force and effect until the Termination Date, (b) be binding upon each Guarantor, its successors and assigns and (c) inure\nto the benefit of and be enforceable by the Secured Parties and their successors, transferees and permitted assigns. Without limiting\nthe generality of clause (c) of the immediately preceding sentence, any Secured Party may assign or otherwise transfer all\nor any portion of its rights and obligations under the Credit Agreement (including, without limitation, all or any portion of\nits Term Loan Commitments, the Term Loan owing to it and the Note or Notes held by it) to any other Person, and such other Person\nshall thereupon become vested with all the benefits in respect thereof granted to such Secured Party herein or otherwise, in each\ncase as and to the extent provided in and in accordance with the requirements of Section 10.07 of the Credit Agreement. No\nGuarantor shall have the right to assign its rights hereunder or any interest herein without the prior written consent of each\nLender.",
+    "id": "SectionElement_511",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "14",
+    "section_title": "Continuing Guaranty; Assignments under the Credit Agreement. This Agreement is a continuing guaranty and shall (a) remain"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "Section 15.\nExecution in Counterparts. This Agreement or any Guaranty Supplement and each amendment, waiver and consent with respect\nhereto may be executed in any number of counterparts and by different parties thereto in separate counterparts, each of which\nwhen so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.\nDelivery of an executed counterpart of a signature page to this Agreement or any Guaranty Supplement by facsimile or an electronic\ntransmission of a .pdf copy thereof shall be effective as delivery of an original executed counterpart of this Agreement or any\nGuaranty Supplement.",
+    "id": "SectionElement_512",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "15",
+    "section_title": "Execution in Counterparts. This Agreement or any Guaranty Supplement and each amendment, waiver and consent with respect"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_554",
+      "ContentTextElement_555",
+      "ContentTextElement_556",
+      "ContentTextElement_557",
+      "ContentTextElement_558"
+    ],
+    "text": "Section 16.\nGoverning Law; Jurisdiction; Waiver of Jury Trial, Etc. (a) This Agreement shall be governed by, and construed in\naccordance with, the laws of the State of New York.",
+    "id": "SectionElement_513",
+    "parent_id": "HeadingElement_532",
+    "cls": "SectionElement",
+    "section_number": "16",
+    "section_title": "Governing Law; Jurisdiction; Waiver of Jury Trial, Etc. (a) This Agreement shall be governed by, and construed in"
+  }
+]

@@ -1,0 +1,18 @@
+AGREEMENT 03 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_03.html
+Total Elements: 10
+Hierarchical Elements: 4
+Status: ❌ FAILED
+
+Element Type Breakdown:
+  ContentTextElement: 4
+  TableElement: 2
+  TextElement: 4
+
+SEMANTIC TREE:
+--------------------
+ContentText: [Eligible Executive Employees, except CEO and CFO]
+ContentText: Goal       Weighting Financial Goals       Net Income 50%  C
+ContentText: Compensation Subject to Compensation Recovery Policy
+ContentText: Annual Incentive Plan Compensation is subject to recoupment 

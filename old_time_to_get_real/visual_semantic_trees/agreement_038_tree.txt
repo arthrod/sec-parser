@@ -1,0 +1,421 @@
+Heading (L2): Form of Non-Redemption Subscription Agreement
+
+--- (Additional Root Structure) ---
+Heading (L1): SUBSCRIPTION AGREEMENT
+|-- Content: ARYA Sciences Acquisition Corp IV
+      51 Astor Place, 10th Floor
+      New York, New York 10002
+|-- Heading (L2): Ladies and Gentlemen:
+`-- Party: Inc. (Delaware corporation and prior to the Cl)
+
+--- (Additional Root Structure) ---
+Exhibit Exhibit A
+|-- Content: In connection therewith, and in consideration of the foregoing and the
+      mutual representations,...
+|-- Content: 1.       Subscription. The Investor hereby irrevocably subscribes for
+      and agrees to purchase f...
+|-- Content: 2.       Closing. The closing of the sale, purchase and issuance of
+      the PIPE Securities contem...
+|-- Heading (L2): 3.
+Closing Conditions.
+|   |-- Content: a.         The obligation of the parties hereto to consummate the sale,
+      purchase and issuance ...
+|   |-- Content: (i)       no applicable governmental authority shall have enacted,
+      issued, promulgated, enforc...
+|   |-- Content: (ii)       (A) all conditions precedent to the closing of the
+      Transaction set forth in Article...
+|   |-- Content: b.         The obligation of ListCo to consummate the sale and issuance of the
+      PIPE Securities...
+|   |-- Content: c.         The obligation of the Investor to consummate the purchase of the
+      PIPE Securities pu...
+|   `-- Content: 4.       Further Assurances. At or prior to the Closing, the parties
+      hereto shall execute and ...
+|-- Section 5: ListCo Representations and Warranties
+|   |-- Clause (a): ListCo is duly incorporated and validly existing as a corporation in
+|   |   |-- Content: b.       As of the Closing Date, the Shares, the Warrants and any Warrant
+      Shares, will be duly...
+|   |   |-- Content: c.       This Subscription Agreement has been duly authorized, validly
+      executed and delivered ...
+|   |   |-- Content: d.       The sale and issuance of the PIPE Securities and the compliance by
+      ListCo with all of...
+|   |   |-- Content: e.       As of the date of this Subscription Agreement, the authorized share
+      capital of ListCo...
+|   |   `-- Content: f.         Assuming the accuracy of the representations and warranties of the
+      Investor, ListCo...
+|   |-- Clause (g): As of the date hereof, there is no suit, action, proceeding or
+|   |   `-- Content: h.         Assuming the accuracy of the Investor’s representations and
+      warranties set forth in...
+|   |-- Clause (i): Except for such matters as have not had and would not be
+|   `-- Clause (j): ListCo has not engaged any broker, finder, commission agent,
+|       |-- Content: k.        ListCo acknowledges and agrees that, notwithstanding anything herein
+      to the contrary...
+|       `-- Content: l.        Other than the Other Subscription Agreements, the Transaction
+      Agreement and any othe...
+|-- Section 6: ARYA Representations and Warranties
+|   |-- Content: b.       This Subscription Agreement has been duly authorized, validly
+      executed and delivered ...
+|   |-- Content: c.       As of the date hereof, the authorized share capital of ARYA consists
+      of (i) 479,000,0...
+|   |-- Content: d.       A copy of each form, report, statement, schedule, proxy and other
+      document filed by A...
+|   |-- Content: e.       The sale and issuance of the PIPE Securities and the compliance by
+      ARYA with all of t...
+|   |-- Content: f.       Assuming the accuracy of the representations and warranties of the
+      Investor, ARYA is ...
+|   |-- Content: h.       Other than the Other Subscription Agreements, the Transaction
+      Agreement and any other...
+|   `-- Content: i.       The issued and outstanding Class A Ordinary Shares are registered
+      pursuant to Section...
+`-- Section 7: Investor Representations and Warranties
+
+--- (Additional Root Structure) ---
+Exhibit Schedule A
+|-- Content: b.       The Investor acknowledges and agrees that the PIPE Securities and
+      Warrant Shares are ...
+|-- Content: c.       The Investor acknowledges and agrees that the Investor is purchasing
+      the PIPE Securit...
+|-- Clause (d): The Investor’s acquisition and holding of the PIPE Securities will
+|   |-- Content: e.       The Investor acknowledges and agrees that the Investor has received
+      such information ...
+|   |-- Content: f.       The Investor became aware of this offering of the PIPE Securities
+      solely by means of ...
+|   `-- Content: g.       The Investor acknowledges that it is aware that there are substantial
+      risks incident ...
+|-- Clause (h): Alone, or together with any professional advisor(s), the Investor has
+|   `-- Content: i.        In making its decision to purchase the PIPE Securities, the Investor
+      has relied sole...
+|-- Clause (k): The Investor, if not an individual, has been duly formed or
+|   |-- Content: l.       The execution, delivery and performance by the Investor of this
+      Subscription Agreemen...
+|   `-- Content: m.       The Investor is not (i) a person or entity named on the List of
+      Specially Designated ...
+|-- Clause (n): The Investor acknowledges that no disclosure or offering document has
+|   `-- Content: o.       The Investor acknowledges that neither the Placement Agent, nor any
+      of its respective...
+|-- Clause (p): The Investor has or has commitments to have and, when required to
+|   `-- Content: q.       The Investor does not have, as of the date hereof, and during the
+      thirty (30) day per...
+|-- Clause (r): The Investor is not currently (and at all times through Closing will
+|   `-- Content: s.       The Investor acknowledges and agrees that the Placement Agent (a) is
+      acting solely in...
+|-- Clause (t): The Investor acknowledges and is aware that the Placement Agent is
+|   |-- Content: u.       The Investor acknowledges and agrees that no Placement Agent shall
+      have any liability...
+|   `-- Content: v.       The Investor acknowledges and agrees that no Placement Agent shall
+      have any liability...
+|-- Section 8: Registration Rights
+|   |-- Content: a.             In the event that the Shares and the Warrant Shares (such
+      securities, the “PIPE...
+|   `-- Content: b.           ListCo shall advise the Investor within two (2) business days (at
+      ListCo’s expens...
+|-- Heading (L2): c.            Indemnification.
+|   |-- Content: (i)       ListCo agrees to indemnify and hold harmless, to the
+      extent permitted by law, the In...
+|   |-- Content: (ii)       The Investor agrees, severally and not jointly with any
+      other person that is a part...
+|   |-- Content: (iii)       Any person entitled to indemnification herein shall (1)
+      give prompt written notice...
+|   |   `-- Clause (iv): The indemnification provided for under this Subscription
+|   |-- Content: (v)       If the indemnification provided under this Section 8.c)
+      from the indemnifying party ...
+|   |-- Content: 9.      Termination. This Subscription Agreement shall terminate and
+      be void and of no further...
+|   `-- Content: 10.      Trust Account Waiver. The Investor acknowledges that ARYA is
+      a blank check company wi...
+`-- Heading (L2): 11.      Miscellaneous.
+    |-- Content: a.       Neither this Subscription Agreement nor any rights that may accrue to
+      the Investor he...
+    |-- Content: b.       ListCo may request from the Investor such additional information as
+      ListCo may deem n...
+    |-- Content: c.       The Investor acknowledges that ListCo, ARYA, the Company, the
+      Placement Agent and oth...
+    |-- Content: d.       The Investor agrees that, from the date hereof until the Closing or
+      the earlier termi...
+    |-- Content: e.       ListCo, ARYA and the Placement Agent are each entitled to rely upon
+      this Subscription...
+    |-- Clause (f): All of the agreements, representations and warranties made by each
+    |   |-- Content: g.       This Subscription Agreement may not be terminated other than pursuant
+      to the terms of...
+    |   |-- Content: h.       This Subscription Agreement (including, without limitation, the
+      schedule hereto and t...
+    |   |-- Content: i.       Except as otherwise provided herein, this Subscription Agreement
+      shall be binding upo...
+    |   |-- Content: l.       The parties hereto acknowledge and agree that irreparable damage
+      would occur if any o...
+    |   |-- Content: m.       Any notice or communication required or permitted hereunder to be
+      given to the Invest...
+    |   |-- Content: (i)
+if to the Investor, to such address or addresses set forth on the signature page hereto; 
+
+
+ 
+ 
+...
+    |   |-- Content: n.       THIS SUBSCRIPTION AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN
+      ACCORDANCE WITH THE...
+    |   `-- Content: EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UNDER THIS SUBSCRIPTION
+    ...
+    `-- Clause (o): The Investor hereby acknowledges that the Placement Agent and/or its
+        |-- Content: 12.       Non-Reliance and Exculpation. The Investor acknowledges
+      that it is not relying upon,...
+        |-- Content: 14.       Disclosure. ARYA shall on the first (1st) business day
+      following the date of this Su...
+        |-- Content: 15.       Several Obligations. The obligations of the Investor and
+      each Other Investor in conn...
+        `-- Content: 16.       Non-Redemption Agreement. As of the date of this
+      Subscription Agreement, the Investo...
+
+--- (Additional Root Structure) ---
+Heading (L1): [SIGNATURE PAGES FOLLOW]
+|-- Content: IN WITNESS WHEREOF, the Investor has executed or caused this
+      Subscription Agreement to be exec...
+`-- Definition: shall: a number of Shares equal to (A) the
+    |-- Content: Number of Warrants subscribed for: A number of Warrants equal to the product of (i) 120%
+      and (...
+    |-- Content: Sponsor Promote Allocation Shares: [●] (such number of shares, the “Sponsor Promote
+      Allocation...
+    |-- Content: 1
+For the avoidance of doubt, the number of Shares subscribed for by the Investor shall be yielded b...
+    |-- Content: 2
+For the avoidance of doubt, the number of Warrants subscribed for by the Investor shall be yielded...
+    |-- Content: IN WITNESS WHEREOF, ListCo and ARYA have accepted this Subscription
+      Agreement as of the date s...
+    `-- Content: AJA HOLDCO, INC.
+
+
+ 
+ 
+
+
+ 
+By:
+            
+
+
+ 
+Name: Adam Stone
+
+
+ 
+Title: Chief Executive Officer
+...
+
+--- (Additional Root Structure) ---
+Heading (L1): SCHEDULE A
+
+--- (Additional Root Structure) ---
+Heading (L1): ELIGIBILITY REPRESENTATIONS OF THE INVESTOR
+`-- Content: This Schedule must be completed by Investor and forms a part of the Subscription Agreement to
+      ...
+
+--- (Additional Root Structure) ---
+Heading (L1): A.
+QUALIFIED INSTITUTIONAL BUYER STATUS
+`-- Content: ☐    We are a “qualified institutional buyer” (as defined in Rule 144A under the Securities Act).
+
+--- (Additional Root Structure) ---
+Heading (L1): ** OR **
+
+--- (Additional Root Structure) ---
+Heading (L1): B.
+INSTITUTIONAL ACCREDITED INVESTOR STATUS
+`-- Content: 1.
+☐    We are an “accredited investor” (within the meaning of Rule 501(a) under the Securities Act ...
+
+--- (Additional Root Structure) ---
+Heading (L1): C.
+AFFILIATE STATUS
+|-- Content: an “affiliate” (as defined in Rule 144 under the Securities Act) of the Company or
+      acting on b...
+`-- Definition: shall: any person who comes within any of the below listed categories, or who the issuer reasonably ...
+    |-- Content: ☐   Any bank, registered broker or dealer, insurance company, registered investment
+      company, b...
+    |-- Content: ☐   Any plan established and maintained by a state, its political subdivisions, or
+      any agency ...
+    |-- Content: ☐   Any employee benefit plan, within the meaning of the Employee Retirement Income
+      Security A...
+    |-- Content: ☐   Any organization described in Section 501(c)(3) of the Internal Revenue Code,
+      corporation,...
+    |-- Content: ☐   Any director, executive officer, or general partner of the issuer of the
+      securities being ...
+    |-- Content: ☐   Any natural person whose individual net worth, or joint net worth with that
+      person’s spous...
+    |-- Content: ☐   Any natural person who had an individual income in excess of $200,000 in each of
+      the two m...
+    |-- Content: ☐   Any natural person holding in good standing one or more professional
+      certifications or des...
+    |-- Content: ☐   Any trust with assets in excess of $5,000,000, not formed to acquire the
+      securities offere...
+    |-- Content: ☐   Any entity in which all of the equity owners are accredited investors meeting one
+      or more ...
+    `-- Content: This page should be completed by the Investor and constitutes a part of the Subscription Agreement.
+
+--- (Additional Root Structure) ---
+Heading (L1): WARRANT NUMBER: A-[_]
+`-- Content: THIS WARRANT MAY NOT BE TRANSFERRED EXCEPT FOR TRANSFERS TO AN AFFILIATE (AS DEFINED IN THE
+      SU...
+
+--- (Additional Root Structure) ---
+Heading (L1): WARRANT TO PURCHASE COMMON STOCK
+|-- Party: Inc. (Delaware corporation
+
+
+ 
+ 
+
+
+Number of S)
+|   `-- Content: THIS WARRANT CERTIFIES THAT, for good and valuable consideration, [HOLDER] (together with any
+      ...
+`-- Section 1: Warrants
+    `-- Clause (b): Registration.
+        |-- Content: (i)       Warrant Register. The Company shall maintain books
+      (the “Warrant Register”), for the...
+        |-- Content: This Warrant shall be signed by the Chief Executive Officer, Chief Financial
+      Officer, Secretar...
+        `-- Content: (ii)        Registered Holder. Prior to due presentment for
+      registration of transfer of any Wa...
+
+--- (Additional Root Structure) ---
+Exhibit Exhibit B
+|-- Content: c.       Procedure for Surrender of Warrants. This Warrant may be surrendered
+      to the Company, ...
+`-- Section 2: Terms and Exercise of Warrants
+    `-- Definition: as used in this Warrant: the price per share of each Warrant Share that may be purchased at the time...
+        `-- Content: b.           Duration of Warrants. A Warrant may be exercised only during the
+      period (the “Exe...
+
+--- (Additional Root Structure) ---
+Exhibit Exhibit A
+`-- Definition: at such time by: of a “cashless exercise” in which the Registered Holder
+    |-- Content: (A) =
+as applicable: (i) the VWAP on the Trading Day immediately preceding the date of the applicabl...
+    |-- Clause (X): =
+    |-- Content: If Warrant Shares are issued in such a cashless exercise, the parties
+      acknowledge and agree th...
+    |-- Content: “Bid Price” means, for any date, the price determined by the
+      first of the following clauses th...
+    |-- Content: “VWAP” means, for any date, the price determined by the first
+      of the following clauses that ap...
+    `-- Content: “Form 10 Disclosure Filing Date” means the date on which the
+      Company shall file with the SEC a...
+
+--- (Additional Root Structure) ---
+Exhibit Exhibit B
+
+--- (Additional Root Structure) ---
+Exhibit Exhibit C
+|-- Content: (iii)       Exercise Limitations. The Company shall not
+      effect any exercise of this Warrant, a...
+|-- Content: Notwithstanding anything to the contrary contained herein, the Company shall not effect any
+      ex...
+|-- Content: (v)       Date of Issuance. Each person in whose name any
+      book-entry position or certificate, ...
+|-- Content: (vi)       Delivery of Certificates upon Exercise.
+      Certificates for shares purchased hereunder...
+|   `-- Clause (vii): Rescission Rights. If the Company fails to cause
+|-- Content: (viii)       Compensation for Buy-In on Failure to Timely Deliver
+        Certificates Upon Exercise...
+|-- Content: (i)       Split-Ups. If after the Original Issue Date, and
+      subject to the provisions of 3.f be...
+|-- Content: (ii)       Extraordinary Dividends. If the Company, at any
+      time while this Warrant is outstand...
+|-- Content: b.           Aggregation of Shares. If after the Original Issue Date, and
+      subject to the provi...
+|-- Content: c.           Adjustments in Exercise Price. Whenever the number of Warrant
+      Shares purchasable ...
+|-- Content: d.           Replacement of Securities upon Reorganization, etc. In case of
+      any reclassificati...
+|-- Content: e.           Notices of Changes in Warrant. Upon every adjustment of the
+      Warrant Price or the ...
+|-- Content: f.           No Fractional Shares. Notwithstanding any provision contained in
+      this Warrant to ...
+|-- Content: 4.
+Other Provisions Relating to Rights of Holders of Warrants.
+|-- Content: b.       Lost, Stolen, Mutilated, or Destroyed Warrants. If this Warrant is
+      lost, stolen, muti...
+|-- Content: c.       Reservation of Common Stock. The Company shall at all times reserve
+      and keep availabl...
+|-- Heading (L2): 5.
+Miscellaneous Provisions.
+|   |-- Content: c.       Notices. All notices, requests, demands and other communications
+      under this Warrant s...
+|   |-- Content: d.        Applicable Law. The validity, interpretation, and performance of the
+      Warrants shall ...
+|   |-- Clause (e): Persons Having Rights under this Warrant. Nothing in this Warrant
+|   |   |-- Content: f.       Effect of Headings. The section headings herein are for convenience
+      only and are not ...
+|   |   |-- Content: h.      Severability. This Warrant shall be deemed severable, and the
+      invalidity or unenforcea...
+|   |   |-- Content: k.       Remedies. The Registered Holder, in addition to being entitled to
+      exercise all rights...
+|   |   `-- Content: l.       Nonwaiver and Expenses. No course of dealing or any delay or failure
+      to exercise any ...
+|   `-- Clause (m): Saturdays, Sundays, Holidays, etc. If the last or appointed day for
+|       |-- Content: IN WITNESS WHEREOF, the parties hereto have caused this Warrant to be duly executed as of the
+      ...
+|       `-- Content: AJA HOLDCO, INC.
+
+
+ 
+ 
+
+
+ 
+By:
+        
+
+
+ 
+Name:
+
+
+ 
+Title:
+`-- Heading (L2): Name and Address of Warrant Holder:
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT A
+
+--- (Additional Root Structure) ---
+Heading (L1): NOTICE OF EXERCISE
+`-- Party: Inc. (Delaware corporation (the “Company”))
+    |-- Content: ☐
+check in the amount of $ [___] payable to order of the Company enclosed herewith
+    |-- Content: ☐
+Wire transfer of immediately available funds to the Company’s account
+    |-- Content: 2.             Please issue a certificate or certificates, or book-entry interest, representing
+    ...
+    `-- Content: Holder’s Name
+ 
+
+ 
+
+
+ 
+(Address)
+
+ 
+HOLDER:
+ 
+By:
+              Name:
+              Title:
+         ...
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT B
+
+--- (Additional Root Structure) ---
+Heading (L1): ASSIGNMENT FORM
+|-- Content: [To be completed and executed by the Holder only upon transfer of the
+      Warrant]
+|-- Content: FOR VALUE RECEIVED, the undersigned hereby sells, assigns and transfers unto (the “Transferee”)
+    ...
+`-- Content: (d)
+the undersigned understands that the Company may condition the transfer of the Warrant contempla...
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT C
+`-- Content: “THE SHARES OF COMMON STOCK REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE
+      UNITED STATE...

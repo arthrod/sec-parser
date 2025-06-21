@@ -1,0 +1,72 @@
+{
+  "graph": {
+    "SectionElement_2256": [
+      {
+        "target_id": "SectionElement_2257",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section 2"
+      },
+      {
+        "target_id": "SectionElement_2257",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section 2"
+      }
+    ],
+    "ContentTextElement_2276": [
+      {
+        "target_id": "ClauseElement_2262",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_2277": [
+      {
+        "target_id": "ClauseElement_2262",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ClauseElement_2262": [
+      {
+        "target_id": "ClauseElement_2263",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "SectionElement_2258": [
+      {
+        "target_id": "ClauseElement_2263",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ]
+  },
+  "index": {
+    "title": "AgreementTitleElement_2255",
+    "1": "SectionElement_2256",
+    "party_deckers_outdoor__guangzhou__consulting_co__ltd_": "PartyElement_2267",
+    "c": "ClauseElement_2262",
+    "2": "SectionElement_2257",
+    "b": "ClauseElement_2263",
+    "3": "SectionElement_2258",
+    "4": "SectionElement_2259",
+    "5": "SectionElement_2260",
+    "6": "SectionElement_2261",
+    "u": "ClauseElement_2264"
+  },
+  "statistics": {
+    "total_references": 6,
+    "explicit_references": 4,
+    "implicit_references": 0,
+    "validated_references": 2,
+    "average_confidence": 0.9166666666666666,
+    "elements_with_references": 5,
+    "total_indexed_elements": 11
+  }
+}

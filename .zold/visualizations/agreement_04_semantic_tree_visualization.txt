@@ -1,0 +1,109 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_04.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 97
+🔗 Cross-References: 3
+📋 Title: CONSULTING AGREEMENT
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 11
+  paragraph           : 15
+  party               : 4
+  section             : 17
+  signature           : 13
+  subsection          : 5
+  table               : 31
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 1
+  Exhibit Ref         : 1
+  Positional Ref      : 1
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.11
+   ⚠️  Confidence: 0.80
+
+[TITLE] CONSULTING AGREEMENT
+   ⚠️  Confidence: 0.80
+
+[SIGNATURE] THIS CONSULTING AGREEMENT (the "Agreement") is effective as the last date provid...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the Company wishes to retain Consultant as an advisor to the Company; a...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, Consultant wishes to provide advisory services to the Company as set fo...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] NOW THEREFORE, in consideration of the mutual promises contained herein and othe...
+   ⚠️  Confidence: 0.80
+
+[TABLE] Consulting Services .
+   ⚠️  Confidence: 0.80
+
+[SECTION] 1.1.
+   ⚠️  Confidence: 0.80
+├─ [TABLE] Consultant will provide consulting services to the Company during the Term (as f...
+│     ⚠️  Confidence: 0.80
+├─ [TABLE] Effective Date; Term and Termination .
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 2.1.
+   ⚠️  Confidence: 0.80
+├─ [SIGNATURE] This Agreement shall be effective on the later of the dates that it is executed ...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 2.2.
+   ⚠️  Confidence: 0.80
+├─ [TABLE] The Agreement and the Services provided by Consultant may be terminated by eithe...
+│     ⚠️  Confidence: 0.80
+├─ [TABLE] Consulting Fees .
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 3.1.
+   ⚠️  Confidence: 0.80
+├─ [TABLE] In consideration of the Services provided hereunder, the Company shall provide C...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 3.2.
+   ⚠️  Confidence: 0.80
+├─ [TABLE] Consultant shall be responsible for all expenses incurred in association with pe...
+│     ⚠️  Confidence: 0.80
+├─ [METADATA] Confidentiality . Consultant acknowledges that Consultant will receive confident...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 4.1.
+   ⚠️  Confidence: 0.80
+├─ [METADATA] to hold the Confidential Information in strict confidence and not to disclose or...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 4.2.
+   ⚠️  Confidence: 0.80
+├─ [METADATA] to use the Confidential Information only for the benefit of the Company and only...
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 4.3.
+   ⚠️  Confidence: 0.80
+├─ [METADATA] to take at least the same degree of care to prevent disclosure of Confidential I...
+│     ⚠️  Confidence: 0.80
+
+... and 9 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (1 references):
+   • "herein" → herein (confidence: 0.80)
+
+📌 Exhibit Ref (1 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+
+📌 Positional Ref (1 references):
+   • "below" → below (confidence: 0.80)
+
+====================================================================================================

@@ -1,0 +1,579 @@
+{
+  "agreement_summary": {
+    "number": 1,
+    "filename": "agreement_01.html",
+    "title": "Consulting Agreement",
+    "total_elements": 51,
+    "hierarchical_elements": 37,
+    "total_text_chars": 15697,
+    "element_type_counts": {
+      "TextElement": 13,
+      "TableElement": 1,
+      "AgreementTitleElement": 1,
+      "ContentTextElement": 22,
+      "HeadingElement": 2,
+      "PartyElement": 1,
+      "SectionElement": 10,
+      "SignatureBlockElement": 1
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 1  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 2  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 3  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 4  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Very truly yours,BetterSea, LLC",
+      "text_length": 31
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 5  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page [intentionally blank]",
+      "text_length": 57
+    },
+    {
+      "class_name": "TextElement",
+      "text": "A Delaware Corporation",
+      "text_length": 22
+    },
+    {
+      "class_name": "TableElement",
+      "text": "/s/ Melvin Gagerman\n \n\nMelvin Gagerman\n \n\nCEO",
+      "text_length": 45
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "Consulting Agreement",
+      "text_length": 20,
+      "id": "AgreementTitleElement_1",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 14,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea will act as an independent contractor\nat all times in the performan...",
+      "text_length": 942,
+      "id": "ContentTextElement_16",
+      "parent_id": "SectionElement_2",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In connection with BetterSea’s services,\nAura agrees to cooperate with Better...",
+      "text_length": 724,
+      "id": "ContentTextElement_17",
+      "parent_id": "SectionElement_2",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Aura herby acknowledges and agrees that\na past due principal balance of $331,...",
+      "text_length": 1085,
+      "id": "ContentTextElement_18",
+      "parent_id": "SectionElement_3",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017 Page 2 of 6",
+      "text_length": 64,
+      "id": "ContentTextElement_19",
+      "parent_id": "SectionElement_3",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In addition to the Past Due Balance (and\nany interest accrued thereon), Aura ...",
+      "text_length": 1030,
+      "id": "ContentTextElement_20",
+      "parent_id": "SectionElement_3",
+      "level": 4,
+      "children_count": 0
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 1  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 2  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 3  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 4  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Very truly yours,BetterSea, LLC",
+      "text_length": 31
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 5  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page [intentionally blank]",
+      "text_length": 57
+    },
+    {
+      "class_name": "TextElement",
+      "text": "A Delaware Corporation",
+      "text_length": 22
+    },
+    {
+      "class_name": "TableElement",
+      "text": "/s/ Melvin Gagerman\n \n\nMelvin Gagerman\n \n\nCEO",
+      "text_length": 45
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "Consulting Agreement",
+      "text_length": 20,
+      "id": "AgreementTitleElement_1",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 14,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea will act as an independent contractor\nat all times in the performan...",
+      "text_length": 942,
+      "id": "ContentTextElement_16",
+      "parent_id": "SectionElement_2",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In connection with BetterSea’s services,\nAura agrees to cooperate with Better...",
+      "text_length": 724,
+      "id": "ContentTextElement_17",
+      "parent_id": "SectionElement_2",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Aura herby acknowledges and agrees that\na past due principal balance of $331,...",
+      "text_length": 1085,
+      "id": "ContentTextElement_18",
+      "parent_id": "SectionElement_3",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017 Page 2 of 6",
+      "text_length": 64,
+      "id": "ContentTextElement_19",
+      "parent_id": "SectionElement_3",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In addition to the Past Due Balance (and\nany interest accrued thereon), Aura ...",
+      "text_length": 1030,
+      "id": "ContentTextElement_20",
+      "parent_id": "SectionElement_3",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Aura acknowledges that many of the activities\nto be undertaken by BetterSea h...",
+      "text_length": 454,
+      "id": "ContentTextElement_21",
+      "parent_id": "SectionElement_4",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea’s fees for services are\nbased primary on the actual time expended p...",
+      "text_length": 593,
+      "id": "ContentTextElement_22",
+      "parent_id": "SectionElement_5",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea will bill Aura monthly for its\nservices and each invoice shall be p...",
+      "text_length": 705,
+      "id": "ContentTextElement_23",
+      "parent_id": "SectionElement_5",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The foregoing notwithstanding, with respect\nto each Sale (as defined below), ...",
+      "text_length": 2154,
+      "id": "ContentTextElement_24",
+      "parent_id": "SectionElement_5",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017\nPage 3 of 6",
+      "text_length": 64,
+      "id": "ContentTextElement_25",
+      "parent_id": "SectionElement_5",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Commission payments to BetterSea shall\nbe made within 10 business days of Aur...",
+      "text_length": 328,
+      "id": "ContentTextElement_26",
+      "parent_id": "SectionElement_5",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Please note that that any fees quoted or\notherwise agreed to by BetterSea do ...",
+      "text_length": 811,
+      "id": "ContentTextElement_27",
+      "parent_id": "SectionElement_5",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Aura will be responsible for paying all\nout-of-pocket expenses incurred by Be...",
+      "text_length": 474,
+      "id": "ContentTextElement_28",
+      "parent_id": "SectionElement_6",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The services provided to Aura by BetterSea\nare provided on a non-exclusive ba...",
+      "text_length": 81,
+      "id": "ContentTextElement_29",
+      "parent_id": "SectionElement_7",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement may be terminated by either\nparty for any reason at any time a...",
+      "text_length": 554,
+      "id": "ContentTextElement_30",
+      "parent_id": "SectionElement_8",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017\nPage 4 of 6",
+      "text_length": 64,
+      "id": "ContentTextElement_31",
+      "parent_id": "SectionElement_8",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Expiration or termination for any reason\nwill not, however, relieve Aura of i...",
+      "text_length": 348,
+      "id": "ContentTextElement_32",
+      "parent_id": "SectionElement_8",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Aura shall indemnify and hold BetterSea\n(as well as BetterSea’s officers, emp...",
+      "text_length": 920,
+      "id": "ContentTextElement_33",
+      "parent_id": "SectionElement_9",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Any dispute or controversy relating to\nthis Agreement or any services or char...",
+      "text_length": 2004,
+      "id": "ContentTextElement_34",
+      "parent_id": "SectionElement_10",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017\nPage 5 of 6",
+      "text_length": 64,
+      "id": "ContentTextElement_35",
+      "parent_id": "SectionElement_10",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement is the entire agreement\nbetween Aura and BetterSea concerning ...",
+      "text_length": 1067,
+      "id": "ContentTextElement_36",
+      "parent_id": "SectionElement_11",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "BetterSea LLC Agreement (Aura Systems)\nJune 19, 2017\nPage 6 of 6",
+      "text_length": 64,
+      "id": "ContentTextElement_37",
+      "parent_id": "SignatureBlockElement_12",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "APPROVED AND ACCEPTED:",
+      "text_length": 22,
+      "id": "HeadingElement_14",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "APPROVED AND ACCEPTED:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "AURA SYSTEMS INC.",
+      "text_length": 17,
+      "id": "HeadingElement_15",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "AURA SYSTEMS INC."
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "This Consulting Agreement (this “Agreement”)\nis entered into as of June 19, 2...",
+      "text_length": 214,
+      "id": "PartyElement_13",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "Aura Systems Inc.",
+      "party_type": "Delaware Corporation (“Aura”)",
+      "normalized_id": "party_aura_systems_inc_"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "9.Binding Arbitration of Disputes.",
+      "text_length": 34,
+      "id": "SectionElement_10",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "9",
+      "normalized_id": "9"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "10.Miscellaneous.",
+      "text_length": 17,
+      "id": "SectionElement_11",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "10",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.Scope of Work; Independent Contractor.",
+      "text_length": 40,
+      "id": "SectionElement_2",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "1",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.Acknowledgment of Existing Debt.",
+      "text_length": 34,
+      "id": "SectionElement_3",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "2",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.No Guarantee of Outcome.",
+      "text_length": 26,
+      "id": "SectionElement_4",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "3",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.Payment for Services.",
+      "text_length": 23,
+      "id": "SectionElement_5",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 6,
+      "section_number": "4",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "5.Out-of-Pocket Expenses.",
+      "text_length": 25,
+      "id": "SectionElement_6",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "5",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "6.Non-Exclusivity.",
+      "text_length": 18,
+      "id": "SectionElement_7",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "6",
+      "normalized_id": "6"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "7.Terminating the Representation.",
+      "text_length": 33,
+      "id": "SectionElement_8",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "7",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "8.Indemnification.",
+      "text_length": 18,
+      "id": "SectionElement_9",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "8",
+      "normalized_id": "8"
+    },
+    {
+      "class_name": "SignatureBlockElement",
+      "text": "By:\n/s/ Zvi Kurtzman\n \n\n \nAuthorized Agent",
+      "text_length": 42,
+      "id": "SignatureBlockElement_12",
+      "parent_id": "AgreementTitleElement_1",
+      "level": 2,
+      "children_count": 1
+    }
+  ]
+}

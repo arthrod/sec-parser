@@ -1,0 +1,129 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_06.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 1828
+🔗 Cross-References: 347
+📋 Title: LEASE AGREEMENT
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 368
+  paragraph           : 806
+  party               : 9
+  section             : 314
+  signature           : 12
+  subsection          : 146
+  table               : 172
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 116
+  Document Self Ref   : 7
+  Exhibit Ref         : 76
+  Legal Ref           : 26
+  Positional Ref      : 50
+  Section Ref         : 72
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.11 ***Text Omitted and Filed Separately with the Securities and Excha...
+   ⚠️  Confidence: 0.80
+
+[METADATA] Exhibit 10.11
+   ⚠️  Confidence: 0.80
+
+[METADATA] ***Text Omitted and Filed Separately with the Securities and Exchange Commission
+   ⚠️  Confidence: 0.80
+
+[METADATA] Confidential Treatment Requested Under 17 C.F.R. Sections 200.80(b)(4) and 240.2...
+   ⚠️  Confidence: 0.80
+
+[TITLE] LEASE AGREEMENT
+   ⚠️  Confidence: 0.80
+
+[PARTY] THIS LEASE AGREEMENT (this “Lease”) is made as of this 18th day of January, 2018...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] BASIC LEASE PROVISIONS
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Building : That certain to-be-constructed building to be known as 399 Binney Str...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Premises : That portion of the Building containing approximately 48,192 rentable...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Building : The to-be-constructed Building to be located in the Project which sha...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Project : The project commonly known as One Kendall Square, located on the Prope...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Base Rent : $78.00 per rentable square foot of the Premises per year, subject to...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Rentable Area of Premises : 48,192 rentable square feet
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Rentable Area of Project : 814,899 rentable square feet
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Rentable Area of Building : 165,194 rentable square feet
+   ⚠️  Confidence: 0.80
+
+... and 354 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (116 references):
+   • "hereof" → hereof (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   ... and 111 more document ref references
+
+📌 Document Self Ref (7 references):
+   • "This document" → This document (confidence: 0.80)
+   • "This document" → This document (confidence: 0.80)
+   • "This document" → This document (confidence: 0.80)
+   • "This document" → This document (confidence: 0.80)
+   • "This document" → This document (confidence: 0.80)
+   ... and 2 more document self ref references
+
+📌 Exhibit Ref (76 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "Exhibit A" → A (confidence: 0.80)
+   • "Exhibit B" → B (confidence: 0.80)
+   • "EXHIBIT A" → A (confidence: 0.80)
+   ... and 71 more exhibit ref references
+
+📌 Legal Ref (26 references):
+   • "as defined in Section 7" → 7 (confidence: 0.80)
+   • "as defined in Section 27" → 27 (confidence: 0.80)
+   • "as defined in Section 7" → 7 (confidence: 0.80)
+   • "as defined in Section 7" → 7 (confidence: 0.80)
+   • "in accordance with Section 17" → 17 (confidence: 0.80)
+   ... and 21 more legal ref references
+
+📌 Positional Ref (50 references):
+   • "below" → below (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   ... and 45 more positional ref references
+
+📌 Section Ref (72 references):
+   • "Section 4" → 4 (confidence: 0.80)
+   • "Section 7" → 7 (confidence: 0.80)
+   • "Section 7" → 7 (confidence: 0.80)
+   • "Section 5" → 5 (confidence: 0.80)
+   • "Section 27" → 27 (confidence: 0.80)
+   ... and 67 more section ref references
+
+====================================================================================================

@@ -1,0 +1,17 @@
+AGREEMENT 024 - PARSER V7
+==================================================
+Total Elements: 13
+Root Elements: 0
+Orphan Elements: 5
+Orphan Rate: 38.5%
+
+ELEMENT DETAILS:
+NO ROOT ELEMENTS FOUND
+
+ORPHAN ELEMENTS (No Valid Parent):
+==================================================
+ORPHAN: [ContentTextElement | ID:ContentTextElement_20 | L4 | Parent:None] discretionary and may be subject to achievement of performance targets established by the Company for such year. To earn an annual bonus, you must be ...
+ORPHAN: [SectionElement | ID:SectionElement_16 | L2 | Parent:None] 8. At-Will Employment; Date of Termination. At all times, your employment with the Company is at will, meaning you or the Company may terminate it a...
+ORPHAN: [SectionElement | ID:SectionElement_17 | L2 | Parent:None] 12. Continuing Obligations.     (a) EIACN Agreement. As a condition of your employment, you are required to enter into an Employee Invention Assignmen...
+ORPHAN: [SectionElement | ID:SectionElement_18 | L2 | Parent:None] 15. Withholding; Tax Effect. All forms of compensation referred to in this Agreement are subject to reduction to reflect applicable withholding and pa...
+ORPHAN: [SectionElement | ID:SectionElement_19 | L2 | Parent:None] 23. Other Terms. The provisions of this Agreement shall survive the termination of this Agreement and/or the termination of your employment to the ext...

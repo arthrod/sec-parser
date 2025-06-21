@@ -1,0 +1,849 @@
+[
+  {
+    "text": "Title:\nEXECUTIVEDavid Posel",
+    "cls": "TextElement"
+  },
+  {
+    "text": "AGREEMENT",
+    "cls": "TextElement"
+  },
+  {
+    "text": "[signature page follows]",
+    "cls": "TextElement"
+  },
+  {
+    "text": "By:  \nTitle:EXECUTIVEDavid Posel",
+    "cls": "TextElement"
+  },
+  {
+    "level": 0,
+    "children": [
+      "PartyElement_626",
+      "HeadingElement_632",
+      "HeadingElement_633",
+      "HeadingElement_634",
+      "HeadingElement_636",
+      "HeadingElement_637",
+      "HeadingElement_638"
+    ],
+    "text": "EXECUTIVE SERVICES AGREEMENT",
+    "id": "AgreementTitleElement_625",
+    "parent_id": null,
+    "cls": "AgreementTitleElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "I.      Services Provided",
+    "id": "ClauseElement_606",
+    "parent_id": "PartyElement_626",
+    "cls": "ClauseElement",
+    "clause_id": "(I)",
+    "clause_text": "Services Provided"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "II.      Nature of Relationship",
+    "id": "ClauseElement_607",
+    "parent_id": "ContentTextElement_639",
+    "cls": "ClauseElement",
+    "clause_id": "(II)",
+    "clause_text": "Nature of Relationship"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "III.      Work for Hire; Intellectual Property Ownership",
+    "id": "ClauseElement_608",
+    "parent_id": "ContentTextElement_640",
+    "cls": "ClauseElement",
+    "clause_id": "(III)",
+    "clause_text": "Work for Hire; Intellectual Property Ownership"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "IV.",
+    "id": "ClauseElement_609",
+    "parent_id": "ContentTextElement_644",
+    "cls": "ClauseElement",
+    "clause_id": "(IV)",
+    "clause_text": ""
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "V.      Compensation",
+    "id": "ClauseElement_610",
+    "parent_id": "HeadingElement_632",
+    "cls": "ClauseElement",
+    "clause_id": "(V)",
+    "clause_text": "Compensation"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "VI.      Indemnification and Insurance",
+    "id": "ClauseElement_611",
+    "parent_id": "ContentTextElement_654",
+    "cls": "ClauseElement",
+    "clause_id": "(VI)",
+    "clause_text": "Indemnification and Insurance"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "VII.      Term of Agreement",
+    "id": "ClauseElement_612",
+    "parent_id": "ContentTextElement_655",
+    "cls": "ClauseElement",
+    "clause_id": "(VII)",
+    "clause_text": "Term of Agreement"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "VIII.      Termination",
+    "id": "ClauseElement_613",
+    "parent_id": "ContentTextElement_656",
+    "cls": "ClauseElement",
+    "clause_id": "(VIII)",
+    "clause_text": "Termination"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "IX.      Sole Agreement",
+    "id": "ClauseElement_614",
+    "parent_id": "ContentTextElement_658",
+    "cls": "ClauseElement",
+    "clause_id": "(IX)",
+    "clause_text": "Sole Agreement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "X.      Assignment",
+    "id": "ClauseElement_615",
+    "parent_id": "HeadingElement_633",
+    "cls": "ClauseElement",
+    "clause_id": "(X)",
+    "clause_text": "Assignment"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "XI.      Notices",
+    "id": "ClauseElement_616",
+    "parent_id": "ContentTextElement_660",
+    "cls": "ClauseElement",
+    "clause_id": "(XI)",
+    "clause_text": "Notices"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "XII.      Survival of Obligations",
+    "id": "ClauseElement_617",
+    "parent_id": "ContentTextElement_662",
+    "cls": "ClauseElement",
+    "clause_id": "(XII)",
+    "clause_text": "Survival of Obligations"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "XIII.      Severability",
+    "id": "ClauseElement_618",
+    "parent_id": "ContentTextElement_663",
+    "cls": "ClauseElement",
+    "clause_id": "(XIII)",
+    "clause_text": "Severability"
+  },
+  {
+    "level": 5,
+    "children": [],
+    "text": "XIV.      Governing Laws",
+    "id": "ClauseElement_619",
+    "parent_id": "ContentTextElement_664",
+    "cls": "ClauseElement",
+    "clause_id": "(XIV)",
+    "clause_text": "Governing Laws"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(a) on account of any claim against Executive solely for an accounting of profits made from the purchase or sale by Executive of securities of the Company pursuant to the provisions of Section 16(b) of the Securities Exchange Act of 1934 and amendments thereto or similar provisions of any federal, state or local statutory law;",
+    "id": "ClauseElement_620",
+    "parent_id": "SectionElement_591",
+    "cls": "ClauseElement",
+    "clause_id": "(a)",
+    "clause_text": "on account of any claim against Executive solely for an accounting of profits made from the purchase or sale by Executive of securities of the Company pursuant to the provisions of Section 16(b) of the Securities Exchange Act of 1934 and amendments thereto or similar provisions of any federal, state or local statutory law;"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(b) on account of Executives conduct that is established by a final judgment as knowingly fraudulent or deliberately dishonest or that constituted willful misconduct;",
+    "id": "ClauseElement_621",
+    "parent_id": "SectionElement_591",
+    "cls": "ClauseElement",
+    "clause_id": "(b)",
+    "clause_text": "on account of Executives conduct that is established by a final judgment as knowingly fraudulent or deliberately dishonest or that constituted willful misconduct;"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(c) on account of Executives conduct that is established by a final judgment as constituting a breach of Executives duty of loyalty to the Company or resulting in any personal profit or advantage to which Executive was not legally entitled;",
+    "id": "ClauseElement_622",
+    "parent_id": "SectionElement_591",
+    "cls": "ClauseElement",
+    "clause_id": "(c)",
+    "clause_text": "on account of Executives conduct that is established by a final judgment as constituting a breach of Executives duty of loyalty to the Company or resulting in any personal profit or advantage to which Executive was not legally entitled;"
+  },
+  {
+    "level": 3,
+    "children": [],
+    "text": "(d) for which payment is actually made to Executive under a valid and collectible insurance policy or under a valid and enforceable indemnity clause, bylaw or agreement, except in respect of any excess beyond payment under such insurance, clause, bylaw or agreement;",
+    "id": "ClauseElement_623",
+    "parent_id": "SectionElement_591",
+    "cls": "ClauseElement",
+    "clause_id": "(d)",
+    "clause_text": "for which payment is actually made to Executive under a valid and collectible insurance policy or under a valid and enforceable indemnity clause, bylaw or agreement, except in respect of any excess beyond payment under such insurance, clause, bylaw or agreement;"
+  },
+  {
+    "level": 3,
+    "children": [
+      "ContentTextElement_667"
+    ],
+    "text": "(e) if indemnification is not lawful (and, in this respect, both the Company and Executive have been advised that the Securities and Exchange Commission believes that indemnification for liabilities arising under the federal securities laws is against public policy and is, therefore, unenforceable and that claims for indemnification should be submitted to appropriate courts for adjudication); or",
+    "id": "ClauseElement_624",
+    "parent_id": "SectionElement_591",
+    "cls": "ClauseElement",
+    "clause_id": "(e)",
+    "clause_text": "if indemnification is not lawful (and, in this respect, both the Company and Executive have been advised that the Securities and Exchange Commission believes that indemnification for liabilities arising under the federal securities laws is against public policy and is, therefore, unenforceable and that claims for indemnification should be submitted to appropriate courts for adjudication); or"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_607"
+    ],
+    "text": "Company hereby appoints Executive to serve as its Executive COO, Chief Operating Officer, and Executive hereby accepts such appointment. Executive shall provide those services required of an officer of like title of a company of similar size and industry. Without limiting the generality of the foregoing, Executives duties will include creation of formulas for the Companys CBD infused products. Any and all services relating to creation of such formulas or development the Companys products or methodologies provided by Executive under this Agreement will hereafter be referred to as Work.",
+    "id": "ContentTextElement_639",
+    "parent_id": "PartyElement_626",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_608"
+    ],
+    "text": "The Executive is an independent contractor and will not be deemed an employee of Company or any of its project companies for purposes of employee benefits, income tax withholding, F.I.C.A. taxes, unemployment benefits or otherwise.",
+    "id": "ContentTextElement_640",
+    "parent_id": "PartyElement_626",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "This Agreement is made with the intent that the Work is work made for hire. The Work (including, without limitation, any works of authorship, documents, records, notes, inventions (whether or not reduced to practice), methods, materials, ideas, designs, models, concepts, techniques, discoveries, and improvements created, conceived or reduced to practice by Executive in connection with Work or by use of or exposure to the Companys confidential information) has been specially ordered and commissioned by the Company, may be incorporated in existing the Company works as a compilation or collective work, and constitutes work made for hire for the Company under applicable copyright law to the extent it qualifies as such. Executive agrees that the Company will own all copyrights, trademarks, trade secrets, formulas and patents in the Work and that the Work is a work made for hire for all intellectual property purposes.",
+    "id": "ContentTextElement_641",
+    "parent_id": "PartyElement_626",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "All rights, titles and interests in and to any formulas, programs, systems data, and materials furnished to Executive by the Company are and shall remain the property of the Company. All rights,  titles and interests in and to the  formulas, programs, systems, data, reports, audio and video materials, databases, or other materials used or produced by Executive in the performance of the Work, including any modifications, enhancements, or derivative works thereof, shall remain or become the property of the Company.",
+    "id": "ContentTextElement_642",
+    "parent_id": "PartyElement_626",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "All rights, titles and interests in and to any and all materials provided pursuant to this Agreement, including all rights in copyrights, trade secrets, trademarks, patents, including but not limited to any research, databases created specifically for the Company, formulas and manufacturing methods for the Companys products, or other intellectual property rights pertaining thereto (the Work Products) shall be held by the Company, and all Work Products shall, to the extent possible, be considered works made by Executive for the benefit of the Company.  Executive shall mark all Work Products with the Company's copyright or other proprietary notices as directed by the Company and shall take all actions deemed necessary by the Company to protect the Company's rights therein.",
+    "id": "ContentTextElement_643",
+    "parent_id": "PartyElement_626",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_609"
+    ],
+    "text": "The Company may use any ideas, concepts, know-how, methods or techniques not fixed in a tangible medium during the term of this Agreement (Residual Subject Matter) relating to the Work that it, individually or jointly, develops or discloses under this Agreement. Notwithstanding the above, neither party shall be prevented from making use of know-how and principles learned nor experience gained of a non-proprietary and non-confidential nature.",
+    "id": "ContentTextElement_644",
+    "parent_id": "PartyElement_626",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Throughout the term of this Agreement and for a period of one (1) year thereafter, the Executive agrees he will not, without obtaining Companys prior written consent, directly or indirectly engage or prepare to engage in any activity in competition with any Company business or product, including products in the development stage, accept employment or provide services to (including service as a member of a board of directors), or establish a business in competition with Company in the territories in which the Company operates. All intellectual properties and formulas created by Executive shall be property of the Company, and stored in a secure data room provided by the Company.",
+    "id": "ContentTextElement_645",
+    "parent_id": "HeadingElement_632",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Executive shall perform his obligations under this Agreement in a manner that does not infringe, or constitute an infringement or misappropriation of, any patent, copyright, trademark, trade secret or other proprietary rights of the Company or any third party.",
+    "id": "ContentTextElement_646",
+    "parent_id": "HeadingElement_632",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Compensation.  As compensation for Executives services, Executive shall receive a salary of $5,000.00 per month.  The salary shall be paid on the 1st and 15th of each month unless modified by the Company.",
+    "id": "ContentTextElement_647",
+    "parent_id": "HeadingElement_632",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Corporate Annual Sales in a calendar year exceeds $1.5M the employee's income shall increase by 20%",
+    "id": "ContentTextElement_648",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Corporate Annual Sales in a calendar year exceeds $3M the employee's income shall increase by 10%",
+    "id": "ContentTextElement_649",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Corporate Annual Sales in a calendar year exceeds $5M the employee's income shall increase by 20%",
+    "id": "ContentTextElement_650",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Note: Any increase is from the last salary example: If employees salary is $5K/month and Company surpasses $1.5M annual Revenue then the salary will increase by 20% or $1,000 to $6,000/month, if the company then follows with a year where annual sales surpass $3M the salary shall increase to $6,600/month (10% above prior salary) and so forth. If the company surpasses a step in this model such as going directly to $3M+ in sales for the calendar year then the employee shall see a salary increase immediately of $1,600/month in the sample above",
+    "id": "ContentTextElement_651",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Executive shall also receive 5% of net revenues from the sale of the Companys products by U.S.A. Wholesale Exchange, LLC, payable in conjunction with Executives salary. For purposes of this Agreement, net revenues means all revenues derived from the sale of the Companys products by U.S.A. Wholesale Exchange, LLC, less the cost of goods sold, pro rata overhead expenses, shipping costs and returns.",
+    "id": "ContentTextElement_652",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Preferred Share Issuance. As additional compensation, Executive shall be issued one (1) share of the Companys Series A Preferred Stock upon execution of this Agreement, which shall vest and be considered fully earned only upon expiration of the initial four-year term of this Agreement.",
+    "id": "ContentTextElement_653",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_611"
+    ],
+    "text": "Vacation and Sick Pay.  Executive shall be entitled to two weeks paid vacation time and 5 paid days for illness each year. Unused vacation and sick days will roll-over and may be used in the following year. Further, Executive may take the following paid holidays: New Year's Day, Martin Luther King, Jr., Day, President's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving (plus one additional), and Christmas (plus one additional).",
+    "id": "ContentTextElement_654",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_612"
+    ],
+    "text": "The Company hereby agrees to hold harmless and indemnify Executive to the fullest extent authorized or permitted by law and the Companys governing documents, as the same may be amended from time to time, except for acts constituting negligence or willful misconduct by Executive, pursuant to the terms of the attached Indemnity Agreement.",
+    "id": "ContentTextElement_655",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_613"
+    ],
+    "text": "This Agreement shall be in effect from the date hereof and continue for an initial term of four years. This Agreement shall be renewed for consecutive four-year terms unless either party gives notice of its intent to terminate the Agreement at least 30 days prior to the expiration of the applicable term.",
+    "id": "ContentTextElement_656",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "This Agreement shall automatically terminate upon the death of the Executive or upon his resignation. Executive may resign with 30 days prior written notice to the Company. This Agreement may be terminated by the Company prior to the expiration of its term without or with cause. For purposes of this Agreement, with cause means: (i) the failure or neglect by the Executive to perform his duties, or (2) misconduct in connection with the performance of any of Executives duties, including, without limitation, misappropriation of funds or property of the company, securing or attempting to secure personally any profit in connection with any transaction entered into on behalf of the Company, or any material violation of law or regulations to which the Company is subject. If the Company terminates the Agreement prior to the expiration of its term, but not with cause, it shall pay to Executive within five (5) days of such termination, $5,000.00 (Severance Pay). In the event of a merger or acquisition involving the Company where this Agreement is terminated, the Company shall arrange to pay Executive the Severance Pay as a term of the merger or acquisition agreement.",
+    "id": "ContentTextElement_657",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_614"
+    ],
+    "text": "In the event of any termination of this Agreement, the Executive agrees to return any materials and confidential information of the Company.",
+    "id": "ContentTextElement_658",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "This Agreement supersedes all prior or contemporaneous written or oral understandings or agreements, and may not be added to, modified, or waived, in whole or in part, except by a writing signed by the party against whom such addition, modification or waiver is sought to be asserted.",
+    "id": "ContentTextElement_659",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_616"
+    ],
+    "text": "This Agreement and all of the provisions hereof shall be binding upon and insure to the benefit of the parties hereto and their respective successors and permitted assigns and, except as otherwise expressly provided herein, neither this agreement, nor any of the rights, interests or obligations hereunder shall be assigned by either of the parties hereto without the prior written consent of the other party.",
+    "id": "ContentTextElement_660",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Any and all notices, requests and other communications required or permitted hereunder shall be in writing, registered mail or by facsimile, to each of the parties at the addresses set forth herein or as otherwise provided in writing by such party.",
+    "id": "ContentTextElement_661",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_617"
+    ],
+    "text": "Any such notice shall be deemed given when received and notice given by certified mail shall be considered to have been given on the tenth (10th) day after having been sent in the manner provided for above.",
+    "id": "ContentTextElement_662",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_618"
+    ],
+    "text": "Notwithstanding the expiration of termination of this Agreement, neither party hereto shall be released hereunder from any liability or obligation to the other which has already accrued as of the time of such expiration or termination or which thereafter might accrue in respect of any act or omission of such party prior to such expiration or termination.",
+    "id": "ContentTextElement_663",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [
+      "ClauseElement_619"
+    ],
+    "text": "Any provision of this Agreement which is determined to be invalid or unenforceable shall not affect the remainder of this Agreement, which shall remain in effect as though the invalid or unenforceable provision had not been included herein, unless the removal of the invalid or unenforceable provision would substantially defeat the intent, purpose or spirit of this agreement.",
+    "id": "ContentTextElement_664",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "This Agreement will be construed in accordance with the laws of the state of New York, without resort to conflict of law principles.",
+    "id": "ContentTextElement_665",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "IN WITNESS WHEREOF, the parties hereto have caused this agreement to be executed by their duly authorized officers, as of the date first written above.",
+    "id": "ContentTextElement_666",
+    "parent_id": "HeadingElement_633",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(f) in connection with any proceeding (or part thereof) initiated by Executive, or any proceeding by Executive against the Company or its directors, officers, employees or other agents, unless (i) such indemnification is expressly required to be made by law, (ii) the proceeding was authorized by the board of directors of the Company, (iii) such indemnification is provided by the Company, in its sole discretion, pursuant to the powers vested in the Company under the NYCRR, or (iv) the proceeding is initiated pursuant to Section 9 hereof.",
+    "id": "ContentTextElement_667",
+    "parent_id": "ClauseElement_624",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(a)   the Company will be entitled to participate therein at its own expense;",
+    "id": "ContentTextElement_668",
+    "parent_id": "SectionElement_594",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "(b)   except as otherwise provided below, the Company may, at its option and jointly with any other indemnifying party similarly notified and electing to assume such defense, assume the defense thereof, with counsel reasonably satisfactory to Executive. After notice from the Company to Executive of its election to assume the defense thereof, the Company will not be liable to Executive under this Agreement for any legal or other expenses subsequently incurred by Executive in connection with the defense thereof except for reasonable costs of investigation or otherwise as provided below. Executive shall have the right to employ separate counsel in such action, suit or proceeding but the fees and expenses of such counsel incurred after notice from the Company of its assumption of the defense thereof shall be at the expense of Executive unless (i) the employment of counsel by Executive has been authorized by the Company, (ii) Executive shall have reasonably concluded, and so notified the Company, that there is an actual conflict of interest between the Company and Executive in the conduct of the defense of such action or (iii) the Company shall not in fact have employed counsel to assume the defense of such action, in each of which cases the fees and expenses of Executives separate counsel shall be at the expense of the Company. The Company shall not be entitled to assume the defense of any action, suit or proceeding brought by or on behalf of the Company or as to which Executive shall have made the conclusion provided for in clause (ii) above; and",
+    "id": "ContentTextElement_669",
+    "parent_id": "SectionElement_594",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement on and as of the day and year first above written.",
+    "id": "ContentTextElement_670",
+    "parent_id": "SectionElement_605",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_645",
+      "ContentTextElement_646",
+      "ClauseElement_610",
+      "ContentTextElement_647"
+    ],
+    "text": "Executives Warranties",
+    "id": "HeadingElement_632",
+    "parent_id": "AgreementTitleElement_625",
+    "cls": "HeadingElement",
+    "heading_text": "Executives Warranties"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_648",
+      "ContentTextElement_649",
+      "ContentTextElement_650",
+      "ContentTextElement_651",
+      "ContentTextElement_652",
+      "ContentTextElement_653",
+      "ContentTextElement_654",
+      "ContentTextElement_655",
+      "ContentTextElement_656",
+      "ContentTextElement_657",
+      "ContentTextElement_658",
+      "ContentTextElement_659",
+      "ClauseElement_615",
+      "ContentTextElement_660",
+      "ContentTextElement_661",
+      "ContentTextElement_662",
+      "ContentTextElement_663",
+      "ContentTextElement_664",
+      "ContentTextElement_665",
+      "ContentTextElement_666"
+    ],
+    "text": "Salary milestones:",
+    "id": "HeadingElement_633",
+    "parent_id": "AgreementTitleElement_625",
+    "cls": "HeadingElement",
+    "heading_text": "Salary milestones:"
+  },
+  {
+    "level": 1,
+    "children": [
+      "HeadingElement_635"
+    ],
+    "text": "CANBIOLA, INC.",
+    "id": "HeadingElement_634",
+    "parent_id": "AgreementTitleElement_625",
+    "cls": "HeadingElement",
+    "heading_text": "CANBIOLA, INC."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "By:",
+    "id": "HeadingElement_635",
+    "parent_id": "HeadingElement_634",
+    "cls": "HeadingElement",
+    "heading_text": "By:"
+  },
+  {
+    "level": 1,
+    "children": [
+      "PartyElement_627"
+    ],
+    "text": "INDEMNITY AGREEMENT",
+    "id": "HeadingElement_636",
+    "parent_id": "AgreementTitleElement_625",
+    "cls": "HeadingElement",
+    "heading_text": "INDEMNITY AGREEMENT"
+  },
+  {
+    "level": 1,
+    "children": [
+      "RecitalElement_628",
+      "RecitalElement_629",
+      "RecitalElement_630",
+      "RecitalElement_631",
+      "SectionElement_590",
+      "SectionElement_591",
+      "SectionElement_592",
+      "SectionElement_593",
+      "SectionElement_594",
+      "SectionElement_595",
+      "SectionElement_596",
+      "SectionElement_597",
+      "SectionElement_598",
+      "SectionElement_599",
+      "SectionElement_600",
+      "SectionElement_601",
+      "SectionElement_602",
+      "SectionElement_603",
+      "SectionElement_604",
+      "SectionElement_605"
+    ],
+    "text": "RECITALS",
+    "id": "HeadingElement_637",
+    "parent_id": "AgreementTitleElement_625",
+    "cls": "HeadingElement",
+    "heading_text": "RECITALS"
+  },
+  {
+    "level": 1,
+    "children": [],
+    "text": "CANBIOLA, INC.",
+    "id": "HeadingElement_638",
+    "parent_id": "AgreementTitleElement_625",
+    "cls": "HeadingElement",
+    "heading_text": "CANBIOLA, INC."
+  },
+  {
+    "level": 2,
+    "children": [
+      "ClauseElement_606",
+      "ContentTextElement_639",
+      "ContentTextElement_640",
+      "ContentTextElement_641",
+      "ContentTextElement_642",
+      "ContentTextElement_643",
+      "ContentTextElement_644"
+    ],
+    "text": "This Executive Services Agreement (Agreement) is entered into as of February 7, 2017, by and between Canbiola, Inc., a Florida corporation (the Company), and David Posel, a resident of Washington (Executive). The parties agree as follows:",
+    "id": "PartyElement_626",
+    "parent_id": "AgreementTitleElement_625",
+    "cls": "PartyElement",
+    "party_name": "Inc.",
+    "party_type": "Florida corporation (the Company)"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "This Indemnity Agreement (Agreement) is made and entered into this 6 day of February, 2018 by and between Canbiola, Inc., a Florida corporation (the Company), and David Posel (Executive).",
+    "id": "PartyElement_627",
+    "parent_id": "HeadingElement_636",
+    "cls": "PartyElement",
+    "party_name": "Inc.",
+    "party_type": "Florida corporation (the Company)"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, Executive performs a valuable service to the Company in his capacity as Chief Operations Officer;",
+    "id": "RecitalElement_628",
+    "parent_id": "HeadingElement_637",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, the Company has adopted Bylaws (the Bylaws) providing for the indemnification of the directors, officers, employees and other agents, including persons serving at the request of the Company in such capacities with other corporations or enterprises; and",
+    "id": "RecitalElement_629",
+    "parent_id": "HeadingElement_637",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, in order to induce Executive to continue to serve as COO of the Company, the Company has determined and agreed to enter into this Agreement with Executive.",
+    "id": "RecitalElement_630",
+    "parent_id": "HeadingElement_637",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "NOW, THEREFORE, in consideration of Executives continued service after the date hereof, the parties hereto agree as follows:",
+    "id": "RecitalElement_631",
+    "parent_id": "HeadingElement_637",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "1. Indemnity of Executive. The Company hereby agrees to hold harmless and indemnify Executive to the fullest extent authorized or permitted by the provisions of the Bylaws and applicable law against any and all expenses (including attorneys fees), witness fees, damages, judgments, fines and amounts paid in settlement and any other amounts that Executive becomes legally obligated to pay because of any claim or claims made against or by him in connection with any threatened, pending or completed action, suit or proceeding, whether civil, criminal, arbitrational, administrative or investigative (including an action by or in the right of the Company) to which Executive is, was or at any time becomes a party, or is threatened to be made a party, by reason of the fact that Executive is, was or at any time becomes a director, officer, employee or other agent of Company, or is or was serving or at any time serves at the request of the Company as a director, officer, employee or other agent of another corporation, partnership, joint venture, trust, employee benefit plan or other enterprise.",
+    "id": "SectionElement_590",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "1",
+    "section_title": "Indemnity of Executive. The Company hereby agrees to hold harmless and indemnify Executive to the fullest extent authorized or permitted by the provisions of the Bylaws and applicable law against any and all expenses (including attorneys fees), witness fees, damages, judgments, fines and amounts paid in settlement and any other amounts that Executive becomes legally obligated to pay because of any claim or claims made against or by him in connection with any threatened, pending or completed action, suit or proceeding, whether civil, criminal, arbitrational, administrative or investigative (including an action by or in the right of the Company) to which Executive is, was or at any time becomes a party, or is threatened to be made a party, by reason of the fact that Executive is, was or at any time becomes a director, officer, employee or other agent of Company, or is or was serving or at any time serves at the request of the Company as a director, officer, employee or other agent of another corporation, partnership, joint venture, trust, employee benefit plan or other enterprise."
+  },
+  {
+    "level": 2,
+    "children": [
+      "ClauseElement_620",
+      "ClauseElement_621",
+      "ClauseElement_622",
+      "ClauseElement_623",
+      "ClauseElement_624"
+    ],
+    "text": "2. Limitations on Indemnity. No indemnity shall be paid by the Company:",
+    "id": "SectionElement_591",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "2",
+    "section_title": "Limitations on Indemnity. No indemnity shall be paid by the Company:"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "3. Continuation of Indemnity. All agreements and obligations of the Company contained herein shall continue during the period Executive is a director, officer, employee or other agent of the Company (or is or was serving at the request of the Company as a director, officer, employee or other agent of another corporation, partnership, joint venture, trust, employee benefit plan or other enterprise) and shall continue thereafter so long as Executive shall be subject to any possible claim or threatened, pending or completed action, suit or proceeding, whether civil, criminal, arbitrational, administrative or investigative, by reason of the fact that Executive was serving in the capacity referred to herein.",
+    "id": "SectionElement_592",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "3",
+    "section_title": "Continuation of Indemnity. All agreements and obligations of the Company contained herein shall continue during the period Executive is a director, officer, employee or other agent of the Company (or is or was serving at the request of the Company as a director, officer, employee or other agent of another corporation, partnership, joint venture, trust, employee benefit plan or other enterprise) and shall continue thereafter so long as Executive shall be subject to any possible claim or threatened, pending or completed action, suit or proceeding, whether civil, criminal, arbitrational, administrative or investigative, by reason of the fact that Executive was serving in the capacity referred to herein."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "4. Partial Indemnification. Executive shall be entitled under this Agreement to indemnification by the Company for a portion of the expenses (including attorneys fees), witness fees, damages, judgments, fines and amounts paid in settlement and any other amounts that Executive becomes legally obligated to pay in connection with any action, suit or proceeding referred to in Section 1 hereof even if not entitled hereunder to indemnification for the total amount thereof, and the Company shall indemnify Executive for the portion thereof to which Executive is entitled.",
+    "id": "SectionElement_593",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "4",
+    "section_title": "Partial Indemnification. Executive shall be entitled under this Agreement to indemnification by the Company for a portion of the expenses (including attorneys fees), witness fees, damages, judgments, fines and amounts paid in settlement and any other amounts that Executive becomes legally obligated to pay in connection with any action, suit or proceeding referred to in Section 1 hereof even if not entitled hereunder to indemnification for the total amount thereof, and the Company shall indemnify Executive for the portion thereof to which Executive is entitled."
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_668",
+      "ContentTextElement_669"
+    ],
+    "text": "5. Notification and Defense of Claim. Not later than thirty (30) days after receipt by Executive of notice of the commencement of any action, suit or proceeding, Executive will, if a claim in respect thereof is to be made against the Company under this Agreement, notify the Company of the commencement thereof; but the omission so to notify the Company will not relieve it from any liability which it may have to Executive otherwise than under this Agreement. With respect to any such action, suit or proceeding as to which Executive notifies the Company of the commencement thereof:",
+    "id": "SectionElement_594",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "5",
+    "section_title": "Notification and Defense of Claim. Not later than thirty (30) days after receipt by Executive of notice of the commencement of any action, suit or proceeding, Executive will, if a claim in respect thereof is to be made against the Company under this Agreement, notify the Company of the commencement thereof; but the omission so to notify the Company will not relieve it from any liability which it may have to Executive otherwise than under this Agreement. With respect to any such action, suit or proceeding as to which Executive notifies the Company of the commencement thereof:"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "6. Expenses. The Company shall advance, prior to the final disposition of any proceeding, promptly following request therefore, all expenses incurred by Executive in connection with such proceeding upon receipt of an undertaking by or on behalf of Executive to repay said amounts if it shall be determined ultimately that Executive is not entitled to be indemnified under the provisions of this Agreement, the Bylaws, applicable law or otherwise.",
+    "id": "SectionElement_595",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "6",
+    "section_title": "Expenses. The Company shall advance, prior to the final disposition of any proceeding, promptly following request therefore, all expenses incurred by Executive in connection with such proceeding upon receipt of an undertaking by or on behalf of Executive to repay said amounts if it shall be determined ultimately that Executive is not entitled to be indemnified under the provisions of this Agreement, the Bylaws, applicable law or otherwise."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "7. Enforcement. Any right to indemnification or advances granted by this Agreement to Executive shall be enforceable by or on behalf of Executive in any court of competent jurisdiction if (i) the claim for indemnification or advances is denied, in whole or in part, or (ii) no disposition of such claim is made within ninety (90) days of request therefore. Executive, in such enforcement action, if successful in whole or in part, shall be entitled to be paid also the expense of prosecuting his claim. It shall be a defense to any action for which a claim for indemnification is made under Section 1 hereof (other than an action brought to enforce a claim for expenses pursuant to Section 6 hereof, provided that the required undertaking has been tendered to the Company) that Executive is not entitled to indemnification because of the limitations set forth in Section 2 hereof. Neither the failure of the Company (including its board of directors or its stockholders) to have made a determination prior to the commencement of such enforcement action that indemnification of Executive is proper in the circumstances, nor an actual determination by the Company (including its board of directors or its stockholders) that such indemnification is improper shall be a defense to the action or create a presumption that Executive is not entitled to indemnification under this Agreement or otherwise.",
+    "id": "SectionElement_596",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "7",
+    "section_title": "Enforcement. Any right to indemnification or advances granted by this Agreement to Executive shall be enforceable by or on behalf of Executive in any court of competent jurisdiction if (i) the claim for indemnification or advances is denied, in whole or in part, or (ii) no disposition of such claim is made within ninety (90) days of request therefore. Executive, in such enforcement action, if successful in whole or in part, shall be entitled to be paid also the expense of prosecuting his claim. It shall be a defense to any action for which a claim for indemnification is made under Section 1 hereof (other than an action brought to enforce a claim for expenses pursuant to Section 6 hereof, provided that the required undertaking has been tendered to the Company) that Executive is not entitled to indemnification because of the limitations set forth in Section 2 hereof. Neither the failure of the Company (including its board of directors or its stockholders) to have made a determination prior to the commencement of such enforcement action that indemnification of Executive is proper in the circumstances, nor an actual determination by the Company (including its board of directors or its stockholders) that such indemnification is improper shall be a defense to the action or create a presumption that Executive is not entitled to indemnification under this Agreement or otherwise."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "8. Subrogation. In the event of payment under this Agreement, the Company shall be subrogated to the extent of such payment to all of the rights of recovery of Executive, who shall execute all documents required and shall do all acts that may be necessary to secure such rights and to enable the Company effectively to bring suit to enforce such rights.",
+    "id": "SectionElement_597",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "8",
+    "section_title": "Subrogation. In the event of payment under this Agreement, the Company shall be subrogated to the extent of such payment to all of the rights of recovery of Executive, who shall execute all documents required and shall do all acts that may be necessary to secure such rights and to enable the Company effectively to bring suit to enforce such rights."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "9. Non-Exclusivity of Rights. The rights conferred on Executive by this Agreement shall not be exclusive of any other right which Executive may have or hereafter acquire under any statute, provision of the Companys Articles of Incorporation or Bylaws, agreement, vote of stockholders or directors, or otherwise, both as to action in his official capacity and as to action in another capacity while holding office.",
+    "id": "SectionElement_598",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "9",
+    "section_title": "Non-Exclusivity of Rights. The rights conferred on Executive by this Agreement shall not be exclusive of any other right which Executive may have or hereafter acquire under any statute, provision of the Companys Articles of Incorporation or Bylaws, agreement, vote of stockholders or directors, or otherwise, both as to action in his official capacity and as to action in another capacity while holding office."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "10. Survival of Rights.",
+    "id": "SectionElement_599",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "10",
+    "section_title": "Survival of Rights."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "11. Severability. Each of the provisions of this Agreement is a separate and distinct agreement and independent of the others, so that if any provision hereof shall be held to be invalid for any reason, such invalidity or unenforceability shall not affect the validity or enforceability of the other provisions hereof. Furthermore, if this Agreement shall be invalidated in its entirety on any ground, then the Company shall nevertheless indemnify Executive to the fullest extent provided by the Bylaws, the NYCRR or any other applicable law.",
+    "id": "SectionElement_600",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "11",
+    "section_title": "Severability. Each of the provisions of this Agreement is a separate and distinct agreement and independent of the others, so that if any provision hereof shall be held to be invalid for any reason, such invalidity or unenforceability shall not affect the validity or enforceability of the other provisions hereof. Furthermore, if this Agreement shall be invalidated in its entirety on any ground, then the Company shall nevertheless indemnify Executive to the fullest extent provided by the Bylaws, the NYCRR or any other applicable law."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "12. Governing Law. This Agreement shall be interpreted and enforced in accordance with the laws of the State of New York.",
+    "id": "SectionElement_601",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "12",
+    "section_title": "Governing Law. This Agreement shall be interpreted and enforced in accordance with the laws of the State of New York."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "13. Amendment and Termination. No amendment, modification, termination or cancellation of this Agreement shall be effective unless in writing signed by both parties hereto.",
+    "id": "SectionElement_602",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "13",
+    "section_title": "Amendment and Termination. No amendment, modification, termination or cancellation of this Agreement shall be effective unless in writing signed by both parties hereto."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "14. Identical Counterparts. This Agreement may be executed in one or more counterparts, each of which shall for all purposes be deemed to be an original but all of which together shall constitute but one and the same Agreement. Only one such counterpart need be produced to evidence the existence of this Agreement.",
+    "id": "SectionElement_603",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "14",
+    "section_title": "Identical Counterparts. This Agreement may be executed in one or more counterparts, each of which shall for all purposes be deemed to be an original but all of which together shall constitute but one and the same Agreement. Only one such counterpart need be produced to evidence the existence of this Agreement."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "15. Headings. The headings of the sections of this Agreement are inserted for convenience only and shall not be deemed to constitute part of this Agreement or to affect the construction hereof.",
+    "id": "SectionElement_604",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "15",
+    "section_title": "Headings. The headings of the sections of this Agreement are inserted for convenience only and shall not be deemed to constitute part of this Agreement or to affect the construction hereof."
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_670"
+    ],
+    "text": "16. Notices. All notices, requests, demands and other communications hereunder shall be in writing and shall be deemed to have been duly given (i) upon delivery if delivered by hand to the party to whom such communication was directed or (ii) upon the third business day after the date on which such communication was mailed if mailed by certified or registered mail with postage prepaid to the parties address of record, or to such other address as may have been furnished to Executive by the Company.",
+    "id": "SectionElement_605",
+    "parent_id": "HeadingElement_637",
+    "cls": "SectionElement",
+    "section_number": "16",
+    "section_title": "Notices. All notices, requests, demands and other communications hereunder shall be in writing and shall be deemed to have been duly given (i) upon delivery if delivered by hand to the party to whom such communication was directed or (ii) upon the third business day after the date on which such communication was mailed if mailed by certified or registered mail with postage prepaid to the parties address of record, or to such other address as may have been furnished to Executive by the Company."
+  }
+]

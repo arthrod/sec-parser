@@ -1,0 +1,211 @@
+{
+  "agreement_info": {
+    "number": 8,
+    "filename": "agreement_08.html",
+    "total_elements": 20,
+    "element_types": {
+      "TextElement": 3,
+      "TableElement": 1,
+      "AgreementTitleElement": 1,
+      "ContentTextElement": 5,
+      "HeadingElement": 1,
+      "RecitalElement": 6,
+      "SectionElement": 3
+    }
+  },
+  "elements": [
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Execution Version"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "to\nManagement Agreement May 16, 2018"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "[Signatures on Following Page]"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "HUNT UTILITY SERVICES, LLC\n\n\n\n\nBy:\n \n /s/ David Campbell\n\nName:\n \nDavid Campbell\n\nTitle:\n \nPresident and Chief Executive Officer\n\n\n\nINFRAREIT, INC.\n\n\n\n\nBy:\n \n /s/ Brant Meleski\n\nName:\n \nBrant Meleski\n\nTitle:\n \nSenior Vice President and Chief Financial Officer\n\n\n\nINFRAREIT PARTNERS, LP\n\n\n\nBy: InfraREIT, Inc., its general partner\n\n\n\n\nBy:\n \n /s/ Brant Meleski\n\nName:\n \nBrant Meleski\n\nTitle:\n \nSenior Vice President and Chief Financial Officer"
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "module": "agreement_parser_v6",
+      "text": "FIRST AMENDMENT",
+      "id": "AgreementTitleElement_576",
+      "parent_id": null,
+      "children": [
+        "ContentTextElement_587",
+        "RecitalElement_580",
+        "RecitalElement_581",
+        "RecitalElement_582",
+        "RecitalElement_583",
+        "RecitalElement_584",
+        "RecitalElement_585",
+        "SectionElement_577",
+        "SectionElement_578",
+        "SectionElement_579",
+        "HeadingElement_586"
+      ],
+      "level": 0,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This\nFirst Amendment (this Amendment) to the Management Agreement (as defined below) is entered into by and among InfraREIT, Inc. (the Company), InfraREIT Partners, LP (the Operating Partnership)\nand Hunt Utility Services, LLC (the Manager and, together with the Company and the Operating Partnership, the Parties) effective as of May 16, 2018. Capitalized terms used herein that are not otherwise\ndefined herein will have the meanings assigned to such terms in the Management Agreement.",
+      "id": "ContentTextElement_587",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "a.\nSection 16(a) of the Management Agreement is hereby amended by replacing the clause at least 15 months prior to the expiration of the Initial Term or a Renewal Term with (i) at least nine months\nprior to the expiration of the Initial Term or (ii) at least 15 months prior to the expiration of a Renewal Term, as applicable.",
+      "id": "ContentTextElement_588",
+      "parent_id": "SectionElement_577",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "b.\nSection 16(b) of the Management Agreement is hereby amended by replacing the clause at least 365 days prior to the end of the Initial Term or any Renewal Term with at least (x) six months\nprior to the end of the Initial Term or (y) 365 days prior to the end of any Renewal Term, as applicable.",
+      "id": "ContentTextElement_589",
+      "parent_id": "SectionElement_577",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 23\n  \nGoverning Law\n\n\n \nSection 24\n  \nArbitration\n\n\n \nSection 27\n  \nCure of Invalid Provisions\n\n\n \nSection 28\n  \nConstruction of Agreement\n\n\n \nSection 29\n  \nMultiple Counterparts",
+      "id": "ContentTextElement_590",
+      "parent_id": "SectionElement_579",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The Parties have executed this First Amendment as of the date first set forth above.",
+      "id": "ContentTextElement_591",
+      "parent_id": "SectionElement_579",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "FIRST\nAMENDMENT TO MANAGEMENT AGREEMENT",
+      "id": "HeadingElement_586",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [],
+      "level": 1,
+      "heading_text": "FIRST\nAMENDMENT TO MANAGEMENT AGREEMENT"
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, the Parties entered into that certain\nManagement Agreement, dated January 29, 2015 (the Management Agreement), pursuant to which the Manager manages the Company Entities\nday-to-day operations, subject to the oversight of the Companys Board of Directors;",
+      "id": "RecitalElement_580",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, the Initial Term of the Management Agreement will expire on December 31, 2019, and, unless otherwise terminated in accordance\nwith its terms, the Management Agreement will automatically renew for a Renewal Term at such time;",
+      "id": "RecitalElement_581",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, prior to the expiration of\nthe Initial Term, a Party may request changes to the Management Agreement or the Development Agreement, to be incorporated upon renewal, subject to the provisions, including notice periods, contained in Section 16(a) of the Management\nAgreement;",
+      "id": "RecitalElement_582",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, notwithstanding the automatic renewal provisions of Section 16(a) of the Management Agreement, the Independent\nDirectors may elect not to renew the Management Agreement upon the expiration of the Initial Term, subject to the provisions, including notice periods, contained in Section 16(b) of the Management Agreement; and",
+      "id": "RecitalElement_583",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, pursuant to Section 22 of the Management Agreement, the Parties desire to amend the notice periods required by Sections 16(a)\nand (b) of the Management Agreement as set forth herein.",
+      "id": "RecitalElement_584",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "NOW THEREFORE, in consideration of the premises and for other good and\nvaluable consideration, the receipt of which is hereby acknowledged, the Parties hereby agree as follows:",
+      "id": "RecitalElement_585",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "1.    Amendment of Management Agreement.",
+      "id": "SectionElement_577",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [
+        "ContentTextElement_588",
+        "ContentTextElement_589"
+      ],
+      "level": 2,
+      "section_number": "1",
+      "section_title": "Amendment of Management Agreement.",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "2.    Continuing Effect. Except as expressly amended by this\nAmendment, the provisions of the Management Agreement are and shall remain in full force and effect. From and after the date hereof, each reference to hereof, hereunder, herein, hereto and\nhereby and each reference to this Agreement and each other reference of like import in the Management Agreement shall be deemed to refer to the Management Agreement, as amended pursuant to Section 1 hereof.",
+      "id": "SectionElement_578",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [],
+      "level": 2,
+      "section_number": "2",
+      "section_title": "Continuing Effect. Except as expressly amended by this",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "3.    Miscellaneous. The following provisions of the Management Agreement are hereby incorporated into and\nspecifically made applicable to this Amendment (provided, that, in construing such incorporated provisions, any reference to this Agreement shall be deemed to refer to this Amendment):",
+      "id": "SectionElement_579",
+      "parent_id": "AgreementTitleElement_576",
+      "children": [
+        "ContentTextElement_590",
+        "ContentTextElement_591"
+      ],
+      "level": 2,
+      "section_number": "3",
+      "section_title": "Miscellaneous. The following provisions of the Management Agreement are hereby incorporated into and",
+      "normalized_id": "3"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "graph": {
+    "ContentTextElement_18": [
+      {
+        "target_id": "SectionElement_6",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(5)"
+      }
+    ]
+  },
+  "index": {
+    "title": "AgreementTitleElement_1",
+    "party_aura_systems_inc_": "PartyElement_13",
+    "1": "SectionElement_2",
+    "2": "SectionElement_3",
+    "3": "SectionElement_4",
+    "4": "SectionElement_5",
+    "5": "SectionElement_6",
+    "6": "SectionElement_7",
+    "7": "SectionElement_8",
+    "8": "SectionElement_9",
+    "9": "SectionElement_10",
+    "10": "SectionElement_11"
+  },
+  "statistics": {
+    "total_references": 1,
+    "explicit_references": 1,
+    "implicit_references": 0,
+    "validated_references": 0,
+    "average_confidence": 0.9,
+    "elements_with_references": 1,
+    "total_indexed_elements": 12
+  }
+}

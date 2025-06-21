@@ -1,0 +1,262 @@
+AGREEMENT 13 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_13.html
+Total Elements: 178
+Hierarchical Elements: 148
+Status: ✅ EXCELLENT
+
+Title: NINTH AMENDMENT
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ClauseElement: 12
+  ContentTextElement: 84
+  DefinitionElement: 2
+  HeadingElement: 31
+  PartyElement: 4
+  RecitalElement: 1
+  SectionElement: 13
+  TableElement: 20
+  TableOfContentsElement: 1
+  TextElement: 9
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: NINTH AMENDMENT
+  ├─ Heading: THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+  ├─ Heading: LEGACY RESERVES LP,
+  ├─ Heading: THE
+GUARANTORS,
+  ├─ Heading: WELLS FARGO BANK, NATIONAL
+ASSOCIATION,
+  ├─ Heading: THE
+LENDERS SIGNATORY HERETO
+  ├─ Heading: DATED AS OF
+MARCH 23, 2018
+    ├─ Clause: (U)
+  ├─ Heading: TABLE OF CONTENTS
+  ├─ Heading: NINTH AMENDMENT TO
+  ├─ Heading: THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+    ├─ Party: LEGACY RESERVES LP
+    ├─ Heading: Recitals
+      ├─ ContentText: A. The Borrower, the
+Administrative Agent and the Lenders ar
+      ├─ ContentText: B. The Guarantors are parties to that
+certain Third Amended 
+      ├─ Clause: (C) The Borrower, the Guarantors, the Administrative Agen...
+    ├─ Recital: NOW, THEREFORE, in consideration of the premises and the mut
+    ├─ Section: 1: Defined Terms. Each capitalized term which is defined ...
+    ├─ Section: 2: Amendments to Credit Agreement. Effective as of (a) in...
+    ├─ Heading: 2.1 Amendments to Section 1.02.
+      ├─ Clause: (a) The following definitions are hereby amended and rest...
+        ├─ ContentText: Agreement means this Third Amended and Restated Credit Agr
+        ├─ ContentText: Change in Control means (a) the Parent ceases to (i) be th
+        ├─ ContentText: Consolidated Net Income means with respect to the Parent a
+        ├─ ContentText: Subsidiary), as the case may be; (b) the net income (but not
+        ├─ ContentText: Consolidated Subsidiaries means, (a) with respect to the B
+        ├─ ContentText: Continuing Directors means, as of any date of determinatio
+        ├─ ContentText: EBITDA means, for any
+period, Consolidated Net Income for 
+        ├─ ContentText: writeups or writedowns of assets, including ceiling test wri
+        ├─ ContentText: Guarantors means (a) Legacy Reserves Operating LP, (b) Leg
+        ├─ ContentText: Pledge Agreement means the Third Amended and Restated Pled
+        ├─ ContentText: Subsidiary means, with respect to any Person (the parent
+      ├─ Definition: "shall"
+      ├─ Clause: (b) The following definitions are hereby added where alph...
+        ├─ ContentText: GP Purchase means the acquisition by the Parent from the G
+        ├─ ContentText: GP Purchase Agreement means that certain GP Purchase Agree
+        ├─ ContentText: GP Sellers means, collectively, Brothers Production Proper
+    ├─ Party: LLC
+    ├─ Party: Parent and Legacy Reserves Merger Sub LLC
+      ├─ ContentText: otherwise modified from time to time (without giving effect 
+      ├─ ContentText: Ninth Amendment means that certain Ninth Amendment to Thir
+      ├─ ContentText: Ninth Amendment Effective Date has the meaning ascribed to
+    ├─ Party: Parent means Legacy Reserves Inc.
+      ├─ Clause: (c) Clause (e) of the definition of Excepted Liens is h...
+      ├─ Clause: (d) Clause (i) of the definition of Excluded
+      ├─ Clause: (e) The definition of Indebtedness is hereby amended by...
+      ├─ Clause: (f) The definition of
+      ├─ Clause: (g) Each of the definitions Consolidated Cash Balance, ...
+      ├─ Clause: (h) Each of the definitions Available Cash and Legacy ...
+        ├─ ContentText: 2.2 Amendment to Section 2.08(j). Section 2.08(j) is hereby 
+        ├─ ContentText: 2.3 Amendment to
+Section 3.04(d). Section 3.04(d) is hereby 
+        ├─ ContentText: 2.4 Amendment to Section 7.14. Section 7.14 is hereby amende
+        ├─ ContentText: 2.5 Amendment to Section 7.21. Clause (b) of Section 7.21 is
+        ├─ ContentText: 2.6 Amendment
+to Article VII. Article VII is hereby amended 
+      ├─ Section: 7.27
+        ├─ ContentText: 2.7 Amendment to Section 8.01(a)-(c). Each of Sections 8.01(
+        ├─ ContentText: (a) Annual Financial Statements. As
+soon as available, but i
+        ├─ ContentText: (b) Quarterly Financial
+Statements. As soon as available, bu
+        ├─ ContentText: (c)
+Certificate of Financial Officer  Compliance. Concurren
+        ├─ ContentText: 2.8 Amendment to Section 8.01(h). Section 8.01(h) is hereby
+
+      ├─ Clause: (h) Other Accounting Reports. Promptly upon receipt
+        ├─ ContentText: 2.9
+Amendment to Section 8.01(i). Section 8.01(i) is hereby 
+        ├─ ContentText: 2.10 Amendment to Section 8.01(p). Section 8.01(p) is hereby
+        ├─ ContentText: 2.11 Amendment to
+Section 8.01(q). Section 8.01(q) is hereby
+        ├─ ContentText: 2.12 Amendment to Section 8.02(b). Section 8.02(b) is hereby
+        ├─ ContentText: 2.13 Amendment to Article VIII. Article VIII is hereby amend
+      ├─ Section: 8.21
+        ├─ ContentText: 2.14 Amendment to Section 9.01. Section 9.01 is hereby amend
+        ├─ ContentText: 2.15 Amendment to Section 9.04(a). Section 9.04(a) is hereby
+        ├─ ContentText: (a) Restricted Payments. The Borrower and the Parent
+Guarant
+        ├─ ContentText: 2.16 Amendment to Section 9.04(b)(i). Section 9.04(b)(i) is 
+      ├─ ContentText: Parent Guarantors means, collectively, the Parent and Lega
+      ├─ ContentText: Reorganization Transactions means the corporate reorganiza
+      ├─ ContentText: Subsidiary Guarantor means any Subsidiary of the Borrower 
+    ├─ Heading: 2.17 Amendments to Section 9.05.
+      ├─ Clause: (m) loans and advances made by the Borrower to the Parent...
+        ├─ ContentText: 2.18 Amendment to Section 9.11. Section 9.11 is hereby amend
+        ├─ ContentText: 2.19 Amendment to Section 9.14. Section 9.14 is hereby amend
+      ├─ Section: 9.14
+        ├─ ContentText: 2.20 Amendment to Section 9.21(a). The final proviso of
+Sect
+        ├─ ContentText: 2.21 Amendments to Article IX. Article IX is hereby amended 
+      ├─ Section: 9.24
+        ├─ ContentText: Refinancing Debt of the foregoing to which it is a party or 
+      ├─ Section: 9.25
+      ├─ Section: 9.26
+      ├─ Section: 9.27
+        ├─ ContentText: agreement (any such payment, an LTIP Payment) on account o
+        ├─ ContentText: 2.22 Amendment to Section 10.01. Section 10.01 is hereby ame
+        ├─ ContentText: 2.23 Amendment to Section 12.03(b)(ii). Section 12.03(b)(ii)
+        ├─ ContentText: 2.24 Amendment to
+Section 12.08. Section 12.08 is hereby ame
+        ├─ ContentText: 2.25 Amendment to Section 12.19. Section 12.19 is hereby ame
+      ├─ Section: 12.19
+      ├─ ContentText: (a) Section 9.05(g) is hereby amended and restated in its en
+      ├─ ContentText: (g) Investments (i) made by the Borrower in or to the Subsid
+      ├─ ContentText: (b) Section 9.05(m) is hereby added to Section 9.05 to read 
+    ├─ Section: 3: Consent to Reorganization Transactions.
+      ├─ ContentText: 3.1 So long as the Ninth Amendment Effective Date has occurr
+      ├─ ContentText: to the Borrowers payment of cash in lieu of fractional shar
+      ├─ ContentText: 3.2 Except as
+expressly waived herein, all covenants, obliga
+    ├─ Section: 4: Conditions Precedent. This Ninth Amendment shall not b...
+      ├─ ContentText: 4.1 The Administrative Agent shall have received from the Ma
+      ├─ ContentText: 4.2 The Administrative Agent shall
+have received from the Bo
+      ├─ ContentText: 4.3 The Administrative Agent shall be reasonably satisfied t
+      ├─ ContentText: 4.4 The Administrative Agent shall have received a certifica
+      ├─ ContentText: 4.5 The Administrative Agent shall have received certificate
+      ├─ ContentText: 4.6 The
+Administrative Agent shall have received an opinion 
+      ├─ ContentText: 4.7 The Administrative Agent shall have received an executed
+      ├─ ContentText: 4.8 The Administrative
+Agent shall have received a certifica
+      ├─ ContentText: 4.9 The Administrative Agent and the Lenders shall have
+rece
+      ├─ ContentText: executed this Ninth Amendment (each such Lender, a Consenti
+      ├─ ContentText: 4.10 The Administrative Agent shall have received a certific
+      ├─ ContentText: 4.11 No Default shall have occurred and be continuing as of 
+      ├─ ContentText: 4.12 The Administrative Agent shall have received such other
+      ├─ ContentText: The Administrative Agent is hereby authorized and directed t
+    ├─ Section: 5: Miscellaneous.
+      ├─ Definition: "email or other electronic"
+        ├─ ContentText: 5.4 No Oral
+Agreement. This Ninth Amendment, the Credit Agre
+        ├─ ContentText: 5.5
+GOVERNING LAW. THIS NINTH AMENDMENT SHALL BE GOVERNED BY
+        ├─ ContentText: 5.6 Payment of Expenses. In accordance with Section 12.03 of
+        ├─ ContentText: 5.7 Severability. Any provision of this Ninth Amendment whic
+        ├─ ContentText: 5.8 Successors and
+Assigns. This Ninth Amendment shall be bi
+        ├─ ContentText: 5.9 Loan Document. This Ninth Amendment is a Loan Document
+        ├─ ContentText: 5.10 RELEASE. FOR GOOD AND
+VALUABLE CONSIDERATION, THE RECEI
+        ├─ ContentText: 5.11
+Termination. Notwithstanding anything herein to the con
+      ├─ ContentText: 5.1 Confirmation. The provisions of the Credit Agreement, as
+      ├─ ContentText: 5.2 Ratification and Affirmation; Representations and Warran
+  ├─ Heading: [SIGNATURES BEGIN NEXT PAGE]
+    ├─ ContentText: IN WITNESS WHEREOF, the parties hereto have caused this Nint
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+    ├─ ContentText: ADMINISTRATIVE AGENT:
+ 
+
+ 
+WELLS FARGO BANK, NATIONAL
+
+
+ 
+
+ 
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+    ├─ ContentText: LENDERS:
+ 
+
+ 
+COMPASS BANK
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Rachel Fes
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...
+  ├─ Heading: SIGNATURE PAGE
+NINTH AMENDMENT TO THIRD AMENDED AND
+RESTA...

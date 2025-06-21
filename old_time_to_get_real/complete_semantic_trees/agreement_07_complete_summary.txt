@@ -1,0 +1,46 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_07.html
+====================================================================================================
+📊 Quality Score: 0.90
+📄 Format: html
+🔢 Total Elements: 152
+🔗 Cross-References: 182
+📋 Title: Guaranty
+Agreement...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 1
+  paragraph           : 23
+  section             : 39
+  signature           : 14
+  subsection          : 28
+  table               : 44
+  title               : 3
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 42
+  Document Self Ref   : 51
+  Exhibit Ref         : 5
+  Legal Ref           : 9
+  Positional Ref      : 15
+  Section Ref         : 60
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.5
+[PARAGRAPH] E xecution Version
+[TITLE] Guaranty Agreement
+[PARAGRAPH] Nxt-ID, Inc.,
+[PARAGRAPH] Fit Pay, Inc., and
+[PARAGRAPH] 3D-ID, LLC
+[PARAGRAPH] as Guarantors
+[PARAGRAPH] and
+[PARAGRAPH] Sagard Holdings Manager LP , as Administrative Agent
+[PARAGRAPH] Dated as of May 24, 2018
+... and 142 more elements
+
+====================================================================================================

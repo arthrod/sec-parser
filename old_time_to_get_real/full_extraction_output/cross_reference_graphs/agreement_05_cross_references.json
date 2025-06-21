@@ -1,0 +1,186 @@
+{
+  "graph": {
+    "ContentTextElement_290": [
+      {
+        "target_id": "ClauseElement_245",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_293": [
+      {
+        "target_id": "ClauseElement_245",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_294": [
+      {
+        "target_id": "ClauseElement_245",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_300": [
+      {
+        "target_id": "ClauseElement_244",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ExhibitElement_250": [
+      {
+        "target_id": "ExhibitElement_253",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "Schedule 1"
+      }
+    ],
+    "ArticleElement_212": [
+      {
+        "target_id": "ArticleElement_218",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "ARTICLE 3"
+      },
+      {
+        "target_id": "ArticleElement_218",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "ARTICLE 3"
+      }
+    ],
+    "ExhibitElement_251": [
+      {
+        "target_id": "ExhibitElement_253",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "Schedule 1"
+      }
+    ],
+    "ExhibitElement_252": [
+      {
+        "target_id": "ExhibitElement_253",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "Schedule 1"
+      },
+      {
+        "target_id": "ExhibitElement_253",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "Schedule 1"
+      }
+    ],
+    "ContentTextElement_310": [
+      {
+        "target_id": "ClauseElement_245",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_313": [
+      {
+        "target_id": "ClauseElement_244",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ExhibitElement_253",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "Schedule 1"
+      }
+    ],
+    "ContentTextElement_314": [
+      {
+        "target_id": "SectionElement_232",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(10)"
+      }
+    ],
+    "ContentTextElement_320": [
+      {
+        "target_id": "ClauseElement_244",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_321": [
+      {
+        "target_id": "ClauseElement_245",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_323": [
+      {
+        "target_id": "ClauseElement_244",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ContentTextElement_324": [
+      {
+        "target_id": "ClauseElement_244",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_245",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ContentTextElement_325": [
+      {
+        "target_id": "ClauseElement_244",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      },
+      {
+        "target_id": "ClauseElement_245",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ]
+  },
+  "index": {
+    "title": "AgreementTitleElement_205",
+    "party_scr_sibelco_n_v_": "PartyElement_246",
+    "article_i": "ArticleElement_231",
+    "2": "SectionElement_208",
+    "exhibit_1": "ExhibitElement_253",
+    "3": "SectionElement_213",
+    "b": "ClauseElement_244",
+    "article_3": "ArticleElement_218",
+    "5": "SectionElement_221",
+    "7": "SectionElement_226",
+    "c": "ClauseElement_245",
+    "10": "SectionElement_232",
+    "1": "SectionElement_243"
+  },
+  "statistics": {
+    "total_references": 21,
+    "explicit_references": 19,
+    "implicit_references": 0,
+    "validated_references": 2,
+    "average_confidence": 0.9047619047619048,
+    "elements_with_references": 16,
+    "total_indexed_elements": 13
+  }
+}

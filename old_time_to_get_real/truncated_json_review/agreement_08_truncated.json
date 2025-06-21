@@ -1,0 +1,374 @@
+{
+  "agreement_summary": {
+    "number": 8,
+    "filename": "agreement_08.html",
+    "title": "FIRST AMENDMENT",
+    "total_elements": 20,
+    "hierarchical_elements": 16,
+    "total_text_chars": 4254,
+    "element_type_counts": {
+      "TextElement": 3,
+      "TableElement": 1,
+      "AgreementTitleElement": 1,
+      "ContentTextElement": 5,
+      "HeadingElement": 1,
+      "RecitalElement": 6,
+      "SectionElement": 3
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "Execution Version",
+      "text_length": 17
+    },
+    {
+      "class_name": "TextElement",
+      "text": "to\nManagement Agreement May 16, 2018",
+      "text_length": 36
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signatures on Following Page]",
+      "text_length": 30
+    },
+    {
+      "class_name": "TableElement",
+      "text": "HUNT UTILITY SERVICES, LLC\n\n\n\n\nBy:\n \n /s/ David Campbell\n\nName:\n \nDavid Campb...",
+      "text_length": 441
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "FIRST AMENDMENT",
+      "text_length": 15,
+      "id": "AgreementTitleElement_576",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 11,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This\nFirst Amendment (this Amendment) to the Management Agreement (as defin...",
+      "text_length": 497,
+      "id": "ContentTextElement_587",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "a.\nSection 16(a) of the Management Agreement is hereby amended by replacing t...",
+      "text_length": 330,
+      "id": "ContentTextElement_588",
+      "parent_id": "SectionElement_577",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "b.\nSection 16(b) of the Management Agreement is hereby amended by replacing t...",
+      "text_length": 300,
+      "id": "ContentTextElement_589",
+      "parent_id": "SectionElement_577",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Section 23\n  \nGoverning Law\n\n\n \nSection 24\n  \nArbitration\n\n\n \nSection 27\n  \nC...",
+      "text_length": 186,
+      "id": "ContentTextElement_590",
+      "parent_id": "SectionElement_579",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Parties have executed this First Amendment as of the date first set forth...",
+      "text_length": 84,
+      "id": "ContentTextElement_591",
+      "parent_id": "SectionElement_579",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "FIRST\nAMENDMENT TO MANAGEMENT AGREEMENT",
+      "text_length": 39,
+      "id": "HeadingElement_586",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "FIRST\nAMENDMENT TO MANAGEMENT AGREEMENT"
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Parties entered into that certain\nManagement Agreement, dated Ja...",
+      "text_length": 266,
+      "id": "RecitalElement_580",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Initial Term of the Management Agreement will expire on December...",
+      "text_length": 233,
+      "id": "RecitalElement_581",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, prior to the expiration of\nthe Initial Term, a Party may request cha...",
+      "text_length": 281,
+      "id": "RecitalElement_582",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, notwithstanding the automatic renewal provisions of Section 16(a) of...",
+      "text_length": 331,
+      "id": "RecitalElement_583",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, pursuant to Section 22 of the Management Agreement, the Parties desi...",
+      "text_length": 191,
+      "id": "RecitalElement_584",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW THEREFORE, in consideration of the premises and for other good and\nvaluab...",
+      "text_length": 176,
+      "id": "RecitalElement_585",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.    Amendment of Management Agreement.",
+      "text_length": 40,
+      "id": "SectionElement_577",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "1",
+      "section_title": "Amendment of Management Agreement.",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.    Continuing Effect. Except as expressly amended by this\nAmendment, the p...",
+      "text_length": 468,
+      "id": "SectionElement_578",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "2",
+      "section_title": "Continuing Effect. Except as expressly amended by this",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.    Miscellaneous. The following provisions of the Management Agreement are...",
+      "text_length": 293,
+      "id": "SectionElement_579",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "3",
+      "section_title": "Miscellaneous. The following provisions of the Management...",
+      "normalized_id": "3"
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "Execution Version",
+      "text_length": 17
+    },
+    {
+      "class_name": "TextElement",
+      "text": "to\nManagement Agreement May 16, 2018",
+      "text_length": 36
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signatures on Following Page]",
+      "text_length": 30
+    },
+    {
+      "class_name": "TableElement",
+      "text": "HUNT UTILITY SERVICES, LLC\n\n\n\n\nBy:\n \n /s/ David Campbell\n\nName:\n \nDavid Campb...",
+      "text_length": 441
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "FIRST AMENDMENT",
+      "text_length": 15,
+      "id": "AgreementTitleElement_576",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 11,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This\nFirst Amendment (this Amendment) to the Management Agreement (as defin...",
+      "text_length": 497,
+      "id": "ContentTextElement_587",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "a.\nSection 16(a) of the Management Agreement is hereby amended by replacing t...",
+      "text_length": 330,
+      "id": "ContentTextElement_588",
+      "parent_id": "SectionElement_577",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "b.\nSection 16(b) of the Management Agreement is hereby amended by replacing t...",
+      "text_length": 300,
+      "id": "ContentTextElement_589",
+      "parent_id": "SectionElement_577",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Section 23\n  \nGoverning Law\n\n\n \nSection 24\n  \nArbitration\n\n\n \nSection 27\n  \nC...",
+      "text_length": 186,
+      "id": "ContentTextElement_590",
+      "parent_id": "SectionElement_579",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Parties have executed this First Amendment as of the date first set forth...",
+      "text_length": 84,
+      "id": "ContentTextElement_591",
+      "parent_id": "SectionElement_579",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "FIRST\nAMENDMENT TO MANAGEMENT AGREEMENT",
+      "text_length": 39,
+      "id": "HeadingElement_586",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "FIRST\nAMENDMENT TO MANAGEMENT AGREEMENT"
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Parties entered into that certain\nManagement Agreement, dated Ja...",
+      "text_length": 266,
+      "id": "RecitalElement_580",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Initial Term of the Management Agreement will expire on December...",
+      "text_length": 233,
+      "id": "RecitalElement_581",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, prior to the expiration of\nthe Initial Term, a Party may request cha...",
+      "text_length": 281,
+      "id": "RecitalElement_582",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, notwithstanding the automatic renewal provisions of Section 16(a) of...",
+      "text_length": 331,
+      "id": "RecitalElement_583",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, pursuant to Section 22 of the Management Agreement, the Parties desi...",
+      "text_length": 191,
+      "id": "RecitalElement_584",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW THEREFORE, in consideration of the premises and for other good and\nvaluab...",
+      "text_length": 176,
+      "id": "RecitalElement_585",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.    Amendment of Management Agreement.",
+      "text_length": 40,
+      "id": "SectionElement_577",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "1",
+      "section_title": "Amendment of Management Agreement.",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.    Continuing Effect. Except as expressly amended by this\nAmendment, the p...",
+      "text_length": 468,
+      "id": "SectionElement_578",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "2",
+      "section_title": "Continuing Effect. Except as expressly amended by this",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.    Miscellaneous. The following provisions of the Management Agreement are...",
+      "text_length": 293,
+      "id": "SectionElement_579",
+      "parent_id": "AgreementTitleElement_576",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "3",
+      "section_title": "Miscellaneous. The following provisions of the Management...",
+      "normalized_id": "3"
+    }
+  ]
+}

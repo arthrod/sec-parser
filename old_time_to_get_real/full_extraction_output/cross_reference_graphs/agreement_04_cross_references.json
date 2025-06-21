@@ -1,0 +1,118 @@
+{
+  "graph": {
+    "SectionElement_101": [
+      {
+        "target_id": "SectionElement_102",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\n2.2"
+      },
+      {
+        "target_id": "SectionElement_102",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section\n2.2"
+      }
+    ],
+    "SectionElement_102": [
+      {
+        "target_id": "SectionElement_117",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(5)"
+      }
+    ],
+    "SectionElement_111": [
+      {
+        "target_id": "ClauseElement_129",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section 2"
+      },
+      {
+        "target_id": "ClauseElement_129",
+        "type": "validated",
+        "confidence": 0.95,
+        "text_snippet": "Section 2"
+      }
+    ],
+    "SectionElement_116": [
+      {
+        "target_id": "ClauseElement_125",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "DefinitionElement_136": [
+      {
+        "target_id": "ClauseElement_128",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(1)"
+      },
+      {
+        "target_id": "ClauseElement_129",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(2)"
+      },
+      {
+        "target_id": "ClauseElement_130",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(3)"
+      },
+      {
+        "target_id": "ClauseElement_131",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(4)"
+      }
+    ]
+  },
+  "index": {
+    "title": "AgreementTitleElement_97",
+    "party_inc_": "PartyElement_132",
+    "1": "ClauseElement_128",
+    "1.1": "SectionElement_99",
+    "2": "ClauseElement_129",
+    "2.1": "SectionElement_101",
+    "2.2": "SectionElement_102",
+    "3": "ClauseElement_130",
+    "3.1": "SectionElement_104",
+    "3.2": "SectionElement_105",
+    "4": "ClauseElement_131",
+    "4.1": "SectionElement_107",
+    "4.2": "SectionElement_108",
+    "4.3": "SectionElement_109",
+    "4.4": "SectionElement_110",
+    "4.5": "SectionElement_111",
+    "4.6": "SectionElement_112",
+    "a": "ClauseElement_124",
+    "b": "ClauseElement_125",
+    "d": "ClauseElement_126",
+    "e": "ClauseElement_127",
+    "4.7": "SectionElement_113",
+    "4.8": "SectionElement_114",
+    "4.9": "SectionElement_115",
+    "4.10": "SectionElement_116",
+    "5": "SectionElement_117",
+    "6": "SectionElement_118",
+    "7": "SectionElement_119",
+    "8": "SectionElement_120",
+    "9": "SectionElement_121",
+    "10": "SectionElement_122",
+    "11": "SectionElement_123",
+    "def_bridge_financing": "DefinitionElement_136"
+  },
+  "statistics": {
+    "total_references": 10,
+    "explicit_references": 6,
+    "implicit_references": 0,
+    "validated_references": 4,
+    "average_confidence": 0.9200000000000002,
+    "elements_with_references": 5,
+    "total_indexed_elements": 33
+  }
+}

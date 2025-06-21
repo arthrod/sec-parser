@@ -1,0 +1,61 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TextElement",
+    "text": "Exhibit\n10.4"
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "DEVELOPMENT\nAGREEMENT",
+    "level": 0
+  },
+  {
+    "id": "element_0002",
+    "cls": "TextElement",
+    "text": "THIS\nAGREEMENT is by and between BOT LOGIC LABS, INC., a Colorado S-Corporation (hereinafter referred to as “BOT”), whose\nbusiness address is 8800 W. 116th Circle, Suite 7625 Broomfield CO 80021 and web address www.botlogiclabs.com (hereinafter\nreferred to as “BOT”) and Himalaya Technologies, Inc. , a Nevada publicly traded company, whose address is 625 Stanwix St.\n#2504 Pittsburg, PA 15222 (hereinafter referred to as “HMLA” and “Parties”), dated and effective as of\nthe last party to affix their signature below."
+  },
+  {
+    "id": "element_0003",
+    "cls": "TitleElement",
+    "text": "RECITALS:",
+    "level": 0
+  },
+  {
+    "id": "element_0004",
+    "cls": "TextElement",
+    "text": "WHEREAS\nBOT is the developer of the Active World Holdings portfolio of web based applications (“Website”), which uses ChatGPT4,\nas well as Solidity Smart Contracts to develop Web3, Web3.5 and Web4 DApps;WHEREAS\nHMLA requires the creation of an Ethereum smart contract, token website and web3 integration for this smart contract into the HMLA digital\necosystem and wishes to engage BOT to perform this task; andWHEREAS\nthe parties wish to compensate BOT to perform these services in the following manner:\n1.$50,000\n                                            total cash compensation\n   \n\na.$10,000\n                                            due within 1 business day of both parties signing of this agreement\nb.$10,000\n                                            due on delivery of the token to HMLA wallet\nc.$10,000\n                                            due when the www.theeveresttoken.com website is approved and delivered to HMLA\nd.$10,000\n                                            due when the EVEREST token is added to the Web3 on DiVinciPay\ne.$10,000\n                                            due one business day before the EVEREST Uniswap Pool Launch\n   \n\n2.10%\n                                            of the total token supply \n   \n\na.Due\n                                            immediately at the minting of the EVEREST token.\n   \n\n3.10%\n                                            revenue share of online sales generated from token transactions\n   \n\na.Begins\n                                            when the Web3 is added via DiVinciPayTHEREFORE\nit is agreed as follows:"
+  },
+  {
+    "id": "element_0005",
+    "cls": "TitleElement",
+    "text": "Article\nI. SERVICES TO BE PERFORMED BY BOT",
+    "level": 1
+  },
+  {
+    "id": "element_0006",
+    "cls": "TextElement",
+    "text": "BOT\nwill create and mint the EVEREST solidity smart contract with the following tokenomics:Name:\nThe Everest TokenSymbol:\nEVERESTTotal\nSupply: 250,000,000Decimals:\n9Reflections:\nNoneTax:\nNoneBuy\nSide Tax: NoneSell\nSide Tax: NoneUniswap\nPool Fee: .03 Field: Page; Sequence: 1 BOT\nwill develop the EVEREST token website under the URL www.theeveresttoken.com which is currently held by BOT for HMLA. BOT will\nbe responsible for all logo design as well as token graphic design for the project. HMLA will have final approval of all designs before\nthey are published.BOT\nwill prepare the initial EVEREST pool on Uniswap. The pool will be paired with ETH and will be funded by HMLA. The pre-launch price will\nbe .25 per token with a suggested pre-launch price of .10 per token.BOT\nwill integrate the EVEREST token within the DiVinciPay merchant platform so the token can be used a participating merchants, to pay for\ngoods and services.BOT\nwill install DiVinciPay on the www.theeveresttoken.com website for Web3 functionality so customers can buy the EVEREST token and\nhave it delivered to their Ethereum based wallet, without the need for human assistance.Within\n4 hours after the launch of the EVEREST pool on Uniswap, BOT will update the token information on www.dextools.io. This will instantly\nmove the EVEREST token to above 50 on the trust scale and provide new potential buyers to the EVEREST token."
+  },
+  {
+    "id": "element_0007",
+    "cls": "TitleElement",
+    "text": "Article\nII. SERVICES PROVIDED BY HMLA",
+    "level": 1
+  },
+  {
+    "id": "element_0008",
+    "cls": "TextElement",
+    "text": "HMLA\nshall provide to BOT the $50,000 total cash compensation as defined above.HMLA\nagrees that from the initial mint, 10% of the total token supply shall be sent to the BOT MetaMask wallet, 100,000,000 tokens shall be\nsent to the HMLA MetaMask wallet and the balance shall be used for Pre-Launch, Uniswap Pool and future CEX listing.HMLA\nagrees to provide 10% revenue share of online sales generated from token transactions provided from EVEREST tokens on DiVinciPay.In\naddition to the total cash compensation, HMLA shall provide a minimum of $35,000 for the initial EVEREST pool on Uniswap. These funds\ncan be raised from either the RegA the company has on file or the pre-launch of the EVEREST token. These funds must be provided one business\nday before the Uniswap launch.HMLA\nshall take no more than one business day to sign off on digital art and web design submitted by BOT. Field: Page; Sequence: 2 Article\nIII. Revenue Sharer’s Entitlement to other Revenue or ConsiderationHMLA\nagrees to pay BOT a percentage of the gross revenue generated from the sites that support the EVEREST token.Article\nIV. Independent ContributorThe\nparties agree that Revenue Sharer is an independent contributor of BOT and that all payments to Revenue Sharer will not be subject\nto any tax withholding or FICA or FUTA. Further, all payments paid to Revenue Sharer by BOT will be reported to Revenue Sharer\non Form 1099 as Miscellaneous Income.Revenue\nSharer further agrees to indemnify and hold BOT harmless for any damages, taxes, or any other amounts BOT may incur as\na result of BOT treatment and classification of Revenue Sharer as a contributor. Such indemnification and hold harmless includes\nbut is not limited to the consequences of BOT not withholding any tax on payments to Revenue Sharer and not paying or remitting\nto any taxing authority any withholding tax, income tax, federal or state FICA/FUTA taxes, or any other withholding upon the payments\nto Revenue Sharer.Distribution\nof Revenue shall be made directly from the merchant account associated with the Website. Distribution shall be made “at-will”\nas funds are received and cleared. Distribution shall be made in the following manner:"
+  },
+  {
+    "id": "element_0009",
+    "cls": "TableElement",
+    "text": "BOT:\n \n10%\n\n\n \n \n \n\nHimalaya\n    Technologies, Inc.:\n \n90%"
+  },
+  {
+    "id": "element_0010",
+    "cls": "TextElement",
+    "text": "If\nfor any reason the merchant account associated with the Website changes, the above Revenue Sharing split, to whom shall the split is\npaid to and how it is paid, shall remain in force for the entire term of the life-cycle of the Website.Article\nV. MiscellaneousAttorney\nFeesIn\nthe event any party deems it necessary to commence an action or proceeding to enforce its rights here under, the prevailing party to\nsuch action shall be entitled to have all costs of such action, including but not being limited to reasonable attorneys’ fees and\ncourt costs, directly paid or reimbursed by the losing party to such action. Field: Page; Sequence: 3 Entire\nAgreementThis\nAgreement constitutes the entire agreement between the parties hereto, and it is understood and agreed that all undertakings and agreements\nheretofore had between these parties are merged herein. No representation, promise or inducement not included herein shall be binding\nupon any party hereto. The appropriate gender will be read into all pronouns used herein to reference any of said parties whenever the\ncontext of this Agreement so requires.Section\n5.03 Amendments in WritingThis\nAgreement may not be changed orally, but only by an agreement in writing signed by the Parties.NoticeNotices\ngiven pursuant to this Agreement shall be in writing, delivered in person or by certified mail, return receipt requested, or by Federal\nExpress or comparable overnight delivery service, addressed to the mailing addresses given below. The time of postmark shall be deemed\nthe time of receipt of mailed notices and the time of delivery service receipt shall be deemed the time of receipt of overnight delivery\nservice transmittals.\n\n(a)\nNotices.\n \nAll\n                                            notices required to be given in this Settlement shall be made in writing either by:\n \n(i)\n                                            given, delivered or served by personal service, in which case it shall be conclusively deemed\n                                            to have been given or delivered on the date of such service;\n \n(ii)\n                                            sent by prepaid registered or certified mail addressed to the party for whom it is intended\n                                            at the address last known to the sender, in which case it shall be conclusively deemed to\n                                            have been given or delivered on the fourth day after the date of mailing; or\n\n\n(b)\nDelivery.\n \nFor\n                                            purposes of this Settlement “delivery” shall mean: (i) personal delivery to any\n                                            party; or (ii) mailing with sufficient postage prepaid to the party requiring notice.\nDuplicate\nOriginals.This\nSettlement may be executed in several counterparts; each counterpart shall be considered a duplicate original Settlement and may be relied\nupon as if it were an original.Successors\nand AssignsThe\nprovisions of this Agreement shall inure to the benefit of and shall be binding upon the parties hereto and their respective heirs, successors\nand assigns and the legal representatives of their estates, as the case may apply.Time\nis of EssenceTime\nis of the essence of this Agreement. Field: Page; Sequence: 4 Governing\nLawThis\nAgreement shall be governed by and construed and enforced in accordance with the laws of the State of Colorado.Counterparts\nand CopiesThis\nAgreement may be executed in several counterparts, each of which shall be deemed an original, and all of such counterparts together shall\nconstitute one and the same instrument. Any facsimile copy or signature shall be deemed equivalent to an original.IN\nWITNESS WHEREOF, the parties hereto set their respective hands and affix their seals the day and year indicated below.Bot\nLogic Labs __________________________________Date:\n1/1/2024Himalaya\nTechnologies, Inc._____________________________Date:\n1/1/2024 Field: Page; Sequence: 5; Options: Last"
+  }
+]

@@ -1,0 +1,722 @@
+PROCESSING STEP TRACE REPORT
+================================================================================
+
+Agreement 1:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 12, 'type_changes': {}}
+
+Agreement 2:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 49, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 26, 'type_changes': {}}
+
+Agreement 3:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 110, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 137, 'type_changes': {}}
+
+Agreement 4:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 112, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 163, 'type_changes': {}}
+
+Agreement 5:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 118, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 501, 'type_changes': {}}
+
+Agreement 6:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 119, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 518, 'type_changes': {}}
+
+Agreement 7:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 127, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 549, 'type_changes': {}}
+
+Agreement 8:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 127, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 549, 'type_changes': {}}
+
+Agreement 9:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 128, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 561, 'type_changes': {}}
+
+Agreement 10:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 150, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 598, 'type_changes': {}}
+
+Agreement 11:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 150, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 628, 'type_changes': {}}
+
+Agreement 12:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 162, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 667, 'type_changes': {}}
+
+Agreement 13:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 176, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 729, 'type_changes': {}}
+
+Agreement 14:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 176, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 788, 'type_changes': {}}
+
+Agreement 15:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 202, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 828, 'type_changes': {}}
+
+Agreement 16:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 261, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 905, 'type_changes': {}}
+
+Agreement 17:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 261, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 905, 'type_changes': {}}
+
+Agreement 18:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 261, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 914, 'type_changes': {}}
+
+Agreement 19:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 264, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 924, 'type_changes': {}}
+
+Agreement 20:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 266, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 937, 'type_changes': {}}
+
+Agreement 21:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 266, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 937, 'type_changes': {}}
+
+Agreement 22:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 267, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 942, 'type_changes': {}}
+
+Agreement 23:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 267, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 942, 'type_changes': {}}
+
+Agreement 24:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 273, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1095, 'type_changes': {}}
+
+Agreement 25:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 287, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1162, 'type_changes': {}}
+
+Agreement 26:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 288, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1174, 'type_changes': {}}
+
+Agreement 27:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 302, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1203, 'type_changes': {}}
+
+Agreement 28:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 352, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1262, 'type_changes': {}}
+
+Agreement 29:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 384, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1341, 'type_changes': {}}
+
+Agreement 30:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 384, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1341, 'type_changes': {}}
+
+Agreement 31:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 384, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1409, 'type_changes': {}}
+
+Agreement 32:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 384, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1419, 'type_changes': {}}
+
+Agreement 33:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 400, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1504, 'type_changes': {}}
+
+Agreement 34:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 442, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1621, 'type_changes': {}}
+
+Agreement 35:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 451, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1704, 'type_changes': {}}
+
+Agreement 36:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 463, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1787, 'type_changes': {}}
+
+Agreement 37:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 515, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1787, 'type_changes': {}}
+
+Agreement 38:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 515, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1787, 'type_changes': {}}
+
+Agreement 39:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 521, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1836, 'type_changes': {}}
+
+Agreement 40:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 521, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1836, 'type_changes': {}}
+
+Agreement 41:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 608, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1992, 'type_changes': {}}
+
+Agreement 42:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 608, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1994, 'type_changes': {}}
+
+Agreement 43:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 630, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2025, 'type_changes': {}}
+
+Agreement 44:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 634, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2035, 'type_changes': {}}
+
+Agreement 45:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 634, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2035, 'type_changes': {}}
+
+Agreement 46:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 652, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2057, 'type_changes': {}}
+
+Agreement 47:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 652, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2070, 'type_changes': {}}
+
+Agreement 48:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 677, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2159, 'type_changes': {}}
+
+Agreement 49:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 707, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2238, 'type_changes': {}}
+
+Agreement 50:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 716, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2313, 'type_changes': {}}
+
+Agreement 51:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 716, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2500, 'type_changes': {}}
+
+Agreement 52:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 716, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2511, 'type_changes': {}}
+
+Agreement 53:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 716, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2541, 'type_changes': {}}
+
+Agreement 54:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 722, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2671, 'type_changes': {}}
+
+Agreement 55:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 734, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2742, 'type_changes': {}}
+
+Agreement 56:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 747, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2809, 'type_changes': {}}
+
+Agreement 57:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 747, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2823, 'type_changes': {}}
+
+Agreement 58:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 747, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2823, 'type_changes': {}}
+
+Agreement 59:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 846, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2952, 'type_changes': {}}
+
+Agreement 60:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 846, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2968, 'type_changes': {}}
+
+Agreement 61:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 884, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3136, 'type_changes': {}}
+
+Agreement 62:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 894, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3187, 'type_changes': {}}
+
+Agreement 63:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 894, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3235, 'type_changes': {}}
+
+Agreement 64:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 894, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3235, 'type_changes': {}}
+
+Agreement 65:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 906, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3487, 'type_changes': {}}
+
+Agreement 66:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 919, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3579, 'type_changes': {}}
+
+Agreement 67:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 926, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3627, 'type_changes': {}}
+
+Agreement 68:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 936, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 3676, 'type_changes': {}}
+
+Agreement 69:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 955, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4021, 'type_changes': {}}
+
+Agreement 70:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 962, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4032, 'type_changes': {}}
+
+Agreement 71:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 979, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4114, 'type_changes': {}}
+
+Agreement 72:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 979, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4126, 'type_changes': {}}
+
+Agreement 73:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 981, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4208, 'type_changes': {}}
+
+Agreement 74:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1021, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4255, 'type_changes': {}}
+
+Agreement 75:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1021, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4260, 'type_changes': {}}
+
+Agreement 76:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1077, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4331, 'type_changes': {}}
+
+Agreement 77:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1082, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4355, 'type_changes': {}}
+
+Agreement 78:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1083, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4372, 'type_changes': {}}
+
+Agreement 79:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1098, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4437, 'type_changes': {}}
+
+Agreement 80:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1100, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4468, 'type_changes': {}}
+
+Agreement 81:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1117, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4580, 'type_changes': {}}
+
+Agreement 82:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1119, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 4662, 'type_changes': {}}
+
+Agreement 83:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1255, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5397, 'type_changes': {}}
+
+Agreement 84:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1346, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5669, 'type_changes': {}}
+
+Agreement 85:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1347, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5675, 'type_changes': {}}
+
+Agreement 86:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1374, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5900, 'type_changes': {}}
+
+Agreement 87:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1374, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5912, 'type_changes': {}}
+
+Agreement 88:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1457, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6424, 'type_changes': {}}
+
+Agreement 89:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1457, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6459, 'type_changes': {}}
+
+Agreement 90:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1458, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6475, 'type_changes': {}}
+
+Agreement 91:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1500, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6554, 'type_changes': {}}
+
+Agreement 92:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1500, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6554, 'type_changes': {}}
+
+Agreement 93:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1528, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6554, 'type_changes': {}}
+
+Agreement 94:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1731, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 6939, 'type_changes': {}}
+
+Agreement 95:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1731, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7006, 'type_changes': {}}
+
+Agreement 96:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1736, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7014, 'type_changes': {}}
+
+Agreement 97:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1882, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7014, 'type_changes': {}}
+
+Agreement 98:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1884, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7073, 'type_changes': {}}
+
+Agreement 99:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1884, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7073, 'type_changes': {}}
+
+Agreement 100:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1884, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7086, 'type_changes': {}}
+
+Agreement 101:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1890, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7166, 'type_changes': {}}
+
+Agreement 102:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1890, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7219, 'type_changes': {}}
+
+Agreement 103:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1891, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7256, 'type_changes': {}}
+
+Agreement 104:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1896, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7733, 'type_changes': {}}
+
+Agreement 105:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1903, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7742, 'type_changes': {}}
+
+Agreement 106:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1919, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7800, 'type_changes': {}}
+
+Agreement 107:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2039, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7800, 'type_changes': {}}
+
+Agreement 108:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2046, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7817, 'type_changes': {}}
+
+Agreement 109:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2055, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7865, 'type_changes': {}}
+
+Agreement 110:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2055, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7868, 'type_changes': {}}
+
+Agreement 111:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2059, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7938, 'type_changes': {}}
+
+Agreement 112:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2061, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 7995, 'type_changes': {}}
+
+Agreement 113:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2080, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8135, 'type_changes': {}}
+
+Agreement 114:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2098, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8214, 'type_changes': {}}
+
+Agreement 115:
+  EmptyElementClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 5, 'type_changes': {}}
+  ImprovedMetadataRemoverV7: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 2111, 'type_changes': {}}
+  TableClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TableOfContentsClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 1, 'type_changes': {}}
+  TextClassifier: {'Δcount': 0, 'Δroots': 0, 'Δorphans': 0, 'Δdepth': 0, 'Δretyped': 8262, 'type_changes': {}}
+
+
+SUMMARY BY PROCESSING STEP
+--------------------------------------------------------------------------------
+
+EmptyElementClassifier:
+  Agreements affected: 115
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 557
+
+ImprovedMetadataRemoverV7:
+  Agreements affected: 115
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 105090
+
+TextClassifier:
+  Agreements affected: 115
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 409157
+
+TableClassifier:
+  Agreements affected: 80
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 80
+
+TableOfContentsClassifier:
+  Agreements affected: 26
+  Total orphans reduced: 0
+  Total roots added: 0
+  Total elements added: 0
+  Total elements retyped: 26

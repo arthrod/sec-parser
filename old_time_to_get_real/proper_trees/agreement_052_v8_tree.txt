@@ -1,0 +1,14 @@
+AGREEMENT 052 - PARSER V8
+==================================================
+Total Elements: 16
+Root Elements: 0
+Orphan Elements: 2
+Orphan Rate: 12.5%
+
+ELEMENT DETAILS:
+NO ROOT ELEMENTS FOUND
+
+ORPHAN ELEMENTS (No Valid Parent):
+==================================================
+ORPHAN: [ContentTextElement | ID:ContentTextElement_47 | L4 | Parent:None] Code means the U.S. Internal Revenue Code of 1986, as amended, and any successor Code, and related rules, regulations and interpretations. Consulta...
+ORPHAN: [DefinitionElement | ID:DefinitionElement_46 | L3 | Parent:None] Sale Event shall mean (i) the sale of all or substantially all of the assets of the Company on a consolidated basis to an unrelated person or entity...

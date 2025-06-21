@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "source_file": "html_files/agreement_04.html",
+    "parsed_at": "2025-06-14T01:21:04.562706",
+    "parser_version": "simple_parser_v1",
+    "file_size": 42092
+  },
+  "elements": [
+    {
+      "type": "title",
+      "content": "",
+      "level": 0,
+      "id": "title_0"
+    },
+    {
+      "type": "paragraph",
+      "content": "Exhibit 10.11",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_1",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "CONSULTING AGREEMENT",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_3",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "THIS CONSULTING AGREEMENT\n(the \"Agreement\") is effective as the last date provided for on the signature page and is entered into by and between\nMark L. Baum, an individual (\"Consultant\") and Eton Pharmaceuticals, Inc., a Delaware corporation with its principal\naddress located at 12264 El Camino Real, Suite 350, San Diego, CA 92130 (the \"Company\").",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_5",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 36.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, the Company wishes to retain Consultant\nas an advisor to the Company; and",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_7",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, Consultant wishes to provide advisory\nservices to the Company as set forth below.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_9",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "NOW THEREFORE, in\nconsideration of the mutual promises contained herein and other good and valuable consideration, the receipt and sufficiency of\nwhich are hereby acknowledged, Consultant and the Company agree, intending to be legally bound, as follows:",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_11",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 35.55pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "1",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_22",
+      "attributes": {
+        "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_37",
+      "attributes": {
+        "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "3",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_46",
+      "attributes": {
+        "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "***SIGNATURE PAGE FOLLOWS***",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_56",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "4",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_58",
+      "attributes": {
+        "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "SIGNATURE PAGE",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_62",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "IN WITNESS WHEREOF, the parties hereto\nhave executed this Consulting Agreement as of the date first above written.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_64",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 36.6pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "5",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_67",
+      "attributes": {
+        "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Appendix A",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_71",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Statement of Work under Consulting Agreement",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_73",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "by and between",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_74",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Mark L. Baum and Eton Pharmaceuticals,\nInc.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_75",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Services:",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_77",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Consultant shall provide\nsenior management advisory services to the Company relating to its establishment, financing activities, patent applications and\nother related services as may be requested from time to time by the Company.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_79",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Compensation:",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_81",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Upon or shortly following\ncommencement of Consultant's Services to the Company, the Company shall grant to Consultant 730,000 shares (the \"Shares\")\nof the Company's restricted common stock, par value $0.001 (\"Common Stock\") under the terms of the Company's 2017 Equity\nIncentive Plan (the \"Plan\") and a Restricted Stock Award Grant Notice and Agreement thereunder to be provided to Consultant\nby the Company (collectively with the Plan, the \"Restricted Stock Documents\").",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_83",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.2pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The Shares shall vest upon the earlier\nof:",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_85",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "and in any case of\n(1), (2), (3) and (4), which occurs following the Bridge Financing (as defined below), subject to Consultant's Continuous Service\n(as defined in the Plan) through such vesting date;provided, however,in the event the Consultant's Continuous Service\nis terminated by the Company (other than for Cause (as defined in the Plan)) prior to the completion of the Term (as outlined below),\nthe Shares shall vest immediately upon such termination. The \"Bridge Financing\" shall mean closing of a bona-fide equity\nfinancing with third party investors resulting in cash gross proceeds to the Company of at least $10,000,000 which occurs within\none year of the Grant Date.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_88",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 1.9pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Consultant understands\nthat that the receipt of the Shares hereunder will trigger tax consequences to Consultant for which Consultant will be solely responsible\nand that the Shares have not been registered under the Securities Act of 1933, as amended, or any applicable state securities law.\nConsultant must execute the Restricted Stock Documents as a condition to receipt of the Shares hereunder.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_90",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.7pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "6",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_92",
+      "attributes": {
+        "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Term:",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_96",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Consultant commenced providing Services to the Company on April\n26, 2017 and shall provide the Services through the earlier of (i) one year from the Grant Date, (ii) a Change in Control, (iii)\nthe IPO, (iv) a Subsequent Financing or (v) such earlier date as the Services are terminated by the Company or Consultant in accordance\nwith this Agreement (the \"Term\").",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_98",
+      "attributes": {
+        "style": "font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "7",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_100",
+      "attributes": {
+        "style": "margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"
+      }
+    }
+  ],
+  "cross_references": [
+    {
+      "source_id": "paragraph_1",
+      "target_ref": "10",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit 10",
+      "position": 0
+    },
+    {
+      "source_id": "paragraph_71",
+      "target_ref": "A",
+      "type": "exhibit_ref",
+      "text_span": "Appendix A",
+      "position": 0
+    }
+  ],
+  "statistics": {
+    "total_elements": 30,
+    "element_types": {
+      "title": 1,
+      "paragraph": 29
+    },
+    "total_cross_references": 2,
+    "reference_types": {
+      "exhibit_ref": 2
+    },
+    "content_length": 42092
+  }
+}

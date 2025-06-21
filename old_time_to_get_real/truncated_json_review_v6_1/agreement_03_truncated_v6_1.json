@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Exhibit 10(a)1ALLETE Executive Annual Incentive PlanForm of AwardEffective 2018",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Target Award Opportunity",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Base Salary$  Times   Award Opportunity (percent of base salary)%  Equals   Target Award $",
+    "cls": "TableElement"
+  },
+  {
+    "text": "Performance Levels and Award Amounts",
+    "cls": "TextElement"
+  },
+  {
+    "text": "Goal Performance LevelPayout as Percent of Target AwardAward Amount Superior200% $Target100% $Threshold45% $Below Threshold0% $",
+    "cls": "TableElement"
+  },
+  {
+    "text": "Goals",
+    "cls": "TextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "[Eligible Executive Employees, except CEO and CFO]",
+    "id": "ContentTextElement_45",
+    "parent_id": null,
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Goal       Weighting Financial Goals       Net Income 50%  Cash from Operating Activities 25%         Strategic & Operational Positioning Goals     25%        100%",
+    "id": "ContentTextElement_46",
+    "parent_id": null,
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Compensation Subject to Compensation Recovery Policy",
+    "id": "ContentTextElement_47",
+    "parent_id": null,
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Annual Incentive Plan Compensation is subject to recoupment as defined in the Compensation Recovery policy.",
+    "id": "ContentTextElement_48",
+    "parent_id": null,
+    "cls": "ContentTextElement"
+  }
+]

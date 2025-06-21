@@ -1,0 +1,46 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_04.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 97
+🔗 Cross-References: 48
+📋 Title: CONSULTING AGREEMENT...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 11
+  paragraph           : 15
+  party               : 4
+  section             : 17
+  signature           : 13
+  subsection          : 5
+  table               : 31
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 8
+  Document Self Ref   : 24
+  Exhibit Ref         : 4
+  Legal Ref           : 1
+  Positional Ref      : 7
+  Section Ref         : 4
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.11
+[TITLE] CONSULTING AGREEMENT
+[SIGNATURE] THIS CONSULTING AGREEMENT (the "Agreement") is effective as the last date provid...
+[PARAGRAPH] WHEREAS, the Company wishes to retain Consultant as an advisor to the Company; a...
+[PARAGRAPH] WHEREAS, Consultant wishes to provide advisory services to the Company as set fo...
+[PARAGRAPH] NOW THEREFORE, in consideration of the mutual promises contained herein and othe...
+[TABLE] Consulting Services .
+[SECTION] 1.1.
+[TABLE] Consultant will provide consulting services to the Company during the Term (as f...
+[TABLE] Effective Date; Term and Termination .
+... and 87 more elements
+
+====================================================================================================

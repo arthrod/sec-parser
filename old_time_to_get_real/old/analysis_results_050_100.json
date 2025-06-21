@@ -1,0 +1,1462 @@
+{
+  "050": {
+    "json_analysis": {
+      "total_elements": 8,
+      "orphan_elements": 1,
+      "trash_elements": 5,
+      "orphan_pct": 12.5,
+      "trash_pct": 62.5,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 7,
+        "1": 1
+      },
+      "element_types": {
+        "TextElement": 4,
+        "TitleElement": 2,
+        "TableElement": 2
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 38651,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"margin: 0pt\">&nbsp;</P>\n\n<P STYLE=\"text-align: right; margin: 0pt\"><B>Exhibit 10.1</B></P>\n\n<P STYLE=\"margin: 0pt\">&nbsp;</P>\n\n<P STYLE=\"font: bold 24pt Arial, Helvetica, Sans-Serif; margin: 0pt 0\">Agreement</P>\n\n<P STYLE=\"font: bold 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0\">&nbsp;</P>\n\n<P STYLE=\"font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: left\">of 18 Janu..."
+    }
+  },
+  "051": {
+    "json_analysis": {
+      "total_elements": 61,
+      "orphan_elements": 12,
+      "trash_elements": 7,
+      "orphan_pct": 19.7,
+      "trash_pct": 11.5,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 49,
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "element_types": {
+        "TextElement": 17,
+        "EmptyElement": 12,
+        "PageNumberElement": 6,
+        "PageHeaderElement": 12,
+        "TitleElement": 14
+      },
+      "max_level": 6
+    },
+    "html_analysis": {
+      "length": 97427,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i3e67749cbdc9442794d0124e2f84a0cb_64\"></div><div style=\"min-height:67.68pt;width:100%\"><div style=\"text-align:right\"><font><br></font></div><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:11pt;font-weight:700;line-height:105%\">Exhibit 10.1</font></div></div><div style=\"margin-top:8.55pt;padding-left:5pt;padding..."
+    }
+  },
+  "052": {
+    "json_analysis": {
+      "total_elements": 97,
+      "orphan_elements": 0,
+      "trash_elements": 1,
+      "orphan_pct": 0.0,
+      "trash_pct": 1.0,
+      "status": "Good",
+      "hierarchy_levels": {
+        "0": 97
+      },
+      "element_types": {
+        "TextElement": 32,
+        "TitleElement": 24,
+        "EmptyElement": 29,
+        "PageNumberElement": 12
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 88464,
+      "patterns": [],
+      "sample": "<HTML><HEAD>\n<TITLE>EX-10.59</TITLE>\n</HEAD>\n <BODY BGCOLOR=\"WHITE\" STYLE=\"line-height:Normal\">\n\n\n<Center><DIV STYLE=\"width:8.5in\" align=\"left\">\n <P STYLE=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"right\"><B>Exhibit 10.59 </B></P>\n<P STYLE=\"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"center\"><B>Q32 BIO INC. </B></P> <P STYLE=\"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" AL..."
+    }
+  },
+  "053": {
+    "json_analysis": {
+      "total_elements": 2165,
+      "orphan_elements": 9,
+      "trash_elements": 3,
+      "orphan_pct": 0.4,
+      "trash_pct": 0.1,
+      "status": "Good",
+      "hierarchy_levels": {
+        "0": 2156,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "element_types": {
+        "EmptyElement": 1722,
+        "TitleElement": 10,
+        "TextElement": 8,
+        "TableElement": 419,
+        "PageHeaderElement": 6
+      },
+      "max_level": 7
+    },
+    "html_analysis": {
+      "length": 3043095,
+      "patterns": [],
+      "sample": "<html>\n <head>\n  <title>EX-10.77</title>\n </head>\n <body style=\"margin: auto!important;padding: 8px;\">\n  <div class=\"section-group\" style=\"margin:auto;width:7.25in;;\"><div style=\"min-height:0.44in;\"></div><p style=\"font-size:10pt;margin-top:3.9pt;font-family:Times New Roman;margin-bottom:0;margin-right:0.6798611111111111in;text-align:right;\"><font style=\"color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;\">Exhibit 10.77</font></p>..."
+    }
+  },
+  "054": {
+    "json_analysis": {
+      "total_elements": 92,
+      "orphan_elements": 46,
+      "trash_elements": 25,
+      "orphan_pct": 50.0,
+      "trash_pct": 27.2,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 46,
+        "1": 42,
+        "2": 4
+      },
+      "element_types": {
+        "TextElement": 41,
+        "TitleElement": 50,
+        "TableOfContentsElement": 1
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 221437,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers",
+        "TOC_structure"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right\"><B>Exhibit 10.5</B></P>\n\n<P STYLE=\"font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center\">&nbsp;</P>\n\n<P STYLE=\"font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center\">SECURITY AGREEMENT</P>\n\n<P STYLE=\"font: bold 10pt Times New Roman, Times, Serif; margin:..."
+    }
+  },
+  "055": {
+    "json_analysis": {
+      "total_elements": 1,
+      "orphan_elements": 0,
+      "trash_elements": 1,
+      "orphan_pct": 0.0,
+      "trash_pct": 100.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 1
+      },
+      "element_types": {
+        "TextElement": 1
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 71654,
+      "patterns": [],
+      "sample": "<html><head><meta charset=\"UTF-8\"><title></title></head><body><div style=\"margin-top:30pt;\"></div><div style=\"max-width:100%;padding-left:11.76%;padding-right:11.76%;position:relative;\"><div style=\"margin-top:30pt;min-height:36pt;width:100%;\"><p style=\"font-family:'Times New Roman','Times','serif';font-size:12pt;text-align:right;margin:0pt;\">Exhibit 10.81</p><p style=\"font-family:'Times New Roman','Times','serif';font-size:12pt;text-align:right;margin:0pt;\"><b style=\"font-weight:bold;\">EXECUTION..."
+    }
+  },
+  "056": {
+    "json_analysis": {
+      "total_elements": 45,
+      "orphan_elements": 1,
+      "trash_elements": 3,
+      "orphan_pct": 2.2,
+      "trash_pct": 6.7,
+      "status": "Good",
+      "hierarchy_levels": {
+        "0": 44,
+        "1": 1
+      },
+      "element_types": {
+        "TextElement": 16,
+        "TitleElement": 29
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 119633,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"margin: 0; text-align: right\"><B>Exhibit 10.1</B></P>\n\n<P STYLE=\"margin: 0\">&nbsp;</P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center\"><B>2024 EQUITY INCENTIVE PLAN OF</B></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center\"><B>HIGH ROLLER TECHNOLOGIES, INC.</B></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times..."
+    }
+  },
+  "057": {
+    "json_analysis": {
+      "total_elements": 11,
+      "orphan_elements": 2,
+      "trash_elements": 3,
+      "orphan_pct": 18.2,
+      "trash_pct": 27.3,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 9,
+        "1": 2
+      },
+      "element_types": {
+        "TextElement": 6,
+        "TitleElement": 4,
+        "TableElement": 1
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 46520,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\">&nbsp;</FONT></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: right\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\"><B>Exhibit\n10.4</B></FONT></P>\n\n<P STYLE..."
+    }
+  },
+  "058": {
+    "json_analysis": {
+      "total_elements": 29,
+      "orphan_elements": 14,
+      "trash_elements": 0,
+      "orphan_pct": 48.3,
+      "trash_pct": 0.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 15,
+        "1": 13,
+        "2": 1
+      },
+      "element_types": {
+        "TitleElement": 15,
+        "TextElement": 13,
+        "TableElement": 1
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 46109,
+      "patterns": [],
+      "sample": "<html>\n\n<head>\n    <title>SunOpta Inc.: Exhibit 10.20 - Filed by newsfilecorp.com</title>\n</head>\n\n<body style=\"font-size:10pt; font-family:'Times New Roman';\">\n    <hr width=\"100%\" size=\"3\" color=\"black\" noshade=\"noshade\"><a name=\"page_1\"></a>\n    <p style=\"text-align: center;\"><b>EMPLOYMENT AGREEMENT</b></p>\n    <p style=\"text-align: justify;\"><font style=\"width: 36pt; display: inline-block;\">&#160;</font>This Employment Agreement (\"Agreement\") is between SunOpta Inc. (such entity together wit..."
+    }
+  },
+  "059": {
+    "json_analysis": {
+      "total_elements": 1,
+      "orphan_elements": 0,
+      "trash_elements": 1,
+      "orphan_pct": 0.0,
+      "trash_pct": 100.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 1
+      },
+      "element_types": {
+        "TextElement": 1
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 36822,
+      "patterns": [],
+      "sample": "<html>\n <head>\n  <title>EX-10.36</title>\n </head>\n <body style=\"margin: auto!important;padding: 8px;\">\n  <div class=\"section-group\" style=\"margin:auto;width:6.6899999999999995in;;\"><div style=\"min-height:0.46in;\"><p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;\"><font style=\"white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;\">&#160;</font></p></div><p style=\"font-size:10pt;margin-top:3pt;font-family:Times New R..."
+    }
+  },
+  "060": {
+    "json_analysis": {
+      "total_elements": 44,
+      "orphan_elements": 24,
+      "trash_elements": 9,
+      "orphan_pct": 54.5,
+      "trash_pct": 20.5,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 20,
+        "1": 10,
+        "2": 3,
+        "3": 4,
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "element_types": {
+        "TextElement": 14,
+        "TitleElement": 27,
+        "SupplementaryText": 2,
+        "TableElement": 1
+      },
+      "max_level": 6
+    },
+    "html_analysis": {
+      "length": 115143,
+      "patterns": [],
+      "sample": "<html>\n <head>\n  <title>EX-10.4</title>\n </head>\n <body style=\"margin: auto!important;padding: 8px;\">\n  <div style=\"min-height:0.46in;\"></div>\n  <p style=\"font-size:10pt;margin-top:3pt;font-family:Times New Roman;margin-bottom:0;margin-right:1.083%;text-align:right;\"><font style=\"color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;min-width:fit-content;\">Exhibit 10.4</font></p>\n  <p style=\"font-size:10pt;margin-top:8.4pt;font-family:Times New Roman;margin-bottom:0;text-..."
+    }
+  },
+  "061": {
+    "json_analysis": {
+      "total_elements": 15,
+      "orphan_elements": 6,
+      "trash_elements": 1,
+      "orphan_pct": 40.0,
+      "trash_pct": 6.7,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 9,
+        "1": 1,
+        "2": 1,
+        "3": 4
+      },
+      "element_types": {
+        "TitleElement": 7,
+        "TextElement": 7,
+        "TableElement": 1
+      },
+      "max_level": 3
+    },
+    "html_analysis": {
+      "length": 68832,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i5f214306f1d74ab085d14a649ba9b2a0_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%\">Exhibit 10.40</font></div><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;fon..."
+    }
+  },
+  "062": {
+    "json_analysis": {
+      "total_elements": 7,
+      "orphan_elements": 0,
+      "trash_elements": 4,
+      "orphan_pct": 0.0,
+      "trash_pct": 57.1,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 7
+      },
+      "element_types": {
+        "TextElement": 4,
+        "TitleElement": 1,
+        "SupplementaryText": 2
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 37120,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\">&nbsp;</FONT></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\"><B>Exhibit\n10.15</B></FONT></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Se..."
+    }
+  },
+  "063": {
+    "json_analysis": {
+      "total_elements": 217,
+      "orphan_elements": 104,
+      "trash_elements": 1,
+      "orphan_pct": 47.9,
+      "trash_pct": 0.5,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 113,
+        "1": 4,
+        "2": 1,
+        "3": 21,
+        "4": 21,
+        "5": 2,
+        "6": 3,
+        "7": 46,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 2,
+        "12": 1
+      },
+      "element_types": {
+        "TitleElement": 117,
+        "ImageElement": 1,
+        "TextElement": 92,
+        "SupplementaryText": 7
+      },
+      "max_level": 12
+    },
+    "html_analysis": {
+      "length": 280399,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i6c8e2964d1864b4d823c44811d7b5d39_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%\">EXHIBIT 10ee</font></div></div><div style=\"text-align:center\"><img alt=\"image_0e.jpg\" src=\"image_0e.jpg\" style=\"height:63px;margin-bottom:5pt;..."
+    }
+  },
+  "064": {
+    "json_analysis": {
+      "total_elements": 9,
+      "orphan_elements": 3,
+      "trash_elements": 7,
+      "orphan_pct": 33.3,
+      "trash_pct": 77.8,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 6,
+        "1": 3
+      },
+      "element_types": {
+        "TextElement": 5,
+        "TitleElement": 4
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 17881,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"text-align: right; margin: 0\"><B>Exhibit 10.1</B></P>\n\n<P STYLE=\"margin: 0\">&nbsp;</P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center\"><B>AMENDMENT NO. 2<BR>\nTO<BR>\nINVESTMENT MANAGEMENT TRUST AGREEMENT</B></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 42.45pt\">&nbsp;</P>\n\n<P STYLE=\"text-align: jus..."
+    }
+  },
+  "065": {
+    "json_analysis": {
+      "total_elements": 34,
+      "orphan_elements": 19,
+      "trash_elements": 2,
+      "orphan_pct": 55.9,
+      "trash_pct": 5.9,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 15,
+        "1": 1,
+        "2": 8,
+        "3": 4,
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "element_types": {
+        "TitleElement": 20,
+        "TextElement": 14
+      },
+      "max_level": 7
+    },
+    "html_analysis": {
+      "length": 150441,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"ib3939ac52ba74f10976116261b993770_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-style:italic;font-weight:400;line-height:100%\">Execution Version</font></div></div><div style=\"margin-bottom:12pt;text-align:center\"><font style=\"color:#000000;font-family..."
+    }
+  },
+  "066": {
+    "json_analysis": {
+      "total_elements": 8,
+      "orphan_elements": 4,
+      "trash_elements": 1,
+      "orphan_pct": 50.0,
+      "trash_pct": 12.5,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 4,
+        "1": 2,
+        "2": 2
+      },
+      "element_types": {
+        "TitleElement": 5,
+        "TextElement": 3
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 141231,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i0f20a25436454d14883a1d35c2a3bed3_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"margin-top:12pt;text-align:right\"><font style=\"background-color:#ffffff;color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:120%\">Exhibit 10.7</font></div></div><div style=\"text-align:center\"><font style=\"color:#000000;font-family:..."
+    }
+  },
+  "067": {
+    "json_analysis": {
+      "total_elements": 51,
+      "orphan_elements": 16,
+      "trash_elements": 3,
+      "orphan_pct": 31.4,
+      "trash_pct": 5.9,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 35,
+        "1": 1,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 10
+      },
+      "element_types": {
+        "TitleElement": 28,
+        "TextElement": 23
+      },
+      "max_level": 5
+    },
+    "html_analysis": {
+      "length": 49794,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i7379bdcb426348d082246a2d9be95398_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:11pt;font-weight:700;line-height:100%\">EXHIBIT 10.69</font></div></div><div style=\"margin-bottom:12pt;text-align:center\"><font style=\"color:#000000;font-family:'Times New Roman',san..."
+    }
+  },
+  "068": {
+    "json_analysis": {
+      "total_elements": 66,
+      "orphan_elements": 20,
+      "trash_elements": 18,
+      "orphan_pct": 30.3,
+      "trash_pct": 27.3,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 46,
+        "1": 15,
+        "2": 5
+      },
+      "element_types": {
+        "TextElement": 20,
+        "TitleElement": 26,
+        "SupplementaryText": 2,
+        "TableElement": 18
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 215565,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"text-align: center; margin-top: 0; margin-bottom: 0\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\">&nbsp;</FONT></P>\n\n<P STYLE=\"font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: right\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\">Exhibit\n10.12</FONT></P>\n\n<P STYLE=\"font: bold 10pt Times..."
+    }
+  },
+  "069": {
+    "json_analysis": {
+      "total_elements": 5,
+      "orphan_elements": 3,
+      "trash_elements": 1,
+      "orphan_pct": 60.0,
+      "trash_pct": 20.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 2,
+        "1": 3
+      },
+      "element_types": {
+        "TitleElement": 4,
+        "TextElement": 1
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 4262,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i9652e680f65f413595659876b6eab1b7_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%\">EXHIBIT 10.3</font></div></div><div><font><br></font></div><div style=\"margin-bottom:6pt;text-align:center\"><font style=\"color:#000000;font-fa..."
+    }
+  },
+  "070": {
+    "json_analysis": {
+      "total_elements": 18,
+      "orphan_elements": 5,
+      "trash_elements": 1,
+      "orphan_pct": 27.8,
+      "trash_pct": 5.6,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 13,
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 1
+      },
+      "element_types": {
+        "TitleElement": 6,
+        "TextElement": 7,
+        "ImageElement": 5
+      },
+      "max_level": 4
+    },
+    "html_analysis": {
+      "length": 34211,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"id04ef48b863f4f82847d5c97f4818941_1\"></div><div style=\"min-height:14.4pt;width:100%\"><div><font><br></font></div></div><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:8.5pt;font-weight:700;line-height:100%\">Exhibit 10.11</font></div><div><font><br></font></div><div style=\"text-align:center\"><font style=\"color:#..."
+    }
+  },
+  "071": {
+    "json_analysis": {
+      "total_elements": 19,
+      "orphan_elements": 11,
+      "trash_elements": 2,
+      "orphan_pct": 57.9,
+      "trash_pct": 10.5,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 8,
+        "1": 4,
+        "2": 2,
+        "3": 2,
+        "4": 3
+      },
+      "element_types": {
+        "TitleElement": 15,
+        "SupplementaryText": 1,
+        "TextElement": 3
+      },
+      "max_level": 4
+    },
+    "html_analysis": {
+      "length": 9179,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i72ce5413cd1a4bd2a61e4d37ffa876e2_1\"></div><div style=\"min-height:58.32pt;width:100%\"><div><font><br></font></div></div><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:700;line-height:100%\">Exhibit 10(a)11</font></div><div style=\"text-align:center\"><font><br></font></div><div style=\"text-align:..."
+    }
+  },
+  "072": {
+    "json_analysis": {
+      "total_elements": 9,
+      "orphan_elements": 4,
+      "trash_elements": 2,
+      "orphan_pct": 44.4,
+      "trash_pct": 22.2,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 5,
+        "1": 2,
+        "2": 1,
+        "3": 1
+      },
+      "element_types": {
+        "TitleElement": 5,
+        "TextElement": 3,
+        "ImageElement": 1
+      },
+      "max_level": 3
+    },
+    "html_analysis": {
+      "length": 98537,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i1381f43434904109a6ab4f45064a837b_1\"></div><div style=\"min-height:72pt;width:100%\"><div><font><br></font></div><div style=\"text-align:right\"><font><br></font></div></div><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:700;line-height:100%\">Exhibit 10.15</font></div><div style=\"text-align:right\"..."
+    }
+  },
+  "073": {
+    "json_analysis": {
+      "total_elements": 20,
+      "orphan_elements": 10,
+      "trash_elements": 1,
+      "orphan_pct": 50.0,
+      "trash_pct": 5.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 10,
+        "1": 9,
+        "2": 1
+      },
+      "element_types": {
+        "TitleElement": 11,
+        "SupplementaryText": 1,
+        "TextElement": 5,
+        "TableElement": 3
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 76125,
+      "patterns": [],
+      "sample": "<html>\n <head>\n  <title>EX-10.5</title>\n </head>\n <body style=\"margin: auto!important;padding: 8px;\">\n  <div style=\"padding-top:0.5in;min-height:1in;box-sizing:border-box;\"><p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:11pt;text-align:right;\"><font style=\"white-space:pre-wrap;font-size:10pt;font-family:Arial;min-width:fit-content;\">&#160;</font></p></div>\n  <p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:11pt;text-align:right;\"><f..."
+    }
+  },
+  "074": {
+    "json_analysis": {
+      "total_elements": 67,
+      "orphan_elements": 33,
+      "trash_elements": 5,
+      "orphan_pct": 49.3,
+      "trash_pct": 7.5,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 34,
+        "1": 11,
+        "2": 11,
+        "3": 1,
+        "4": 2,
+        "5": 6,
+        "6": 1,
+        "7": 1
+      },
+      "element_types": {
+        "TitleElement": 37,
+        "TextElement": 19,
+        "TableElement": 3,
+        "SupplementaryText": 8
+      },
+      "max_level": 7
+    },
+    "html_analysis": {
+      "length": 161118,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i110094af470d4d02891bb53c71b4b056_1\"></div><div style=\"min-height:45.36pt;width:100%\"><div style=\"text-align:right\"><font><br></font></div></div><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:700;line-height:100%\">Exhibit 10.29</font></div><div style=\"text-align:center\"><font><br></font></div><div style..."
+    }
+  },
+  "075": {
+    "json_analysis": {
+      "total_elements": 35,
+      "orphan_elements": 14,
+      "trash_elements": 5,
+      "orphan_pct": 40.0,
+      "trash_pct": 14.3,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 21,
+        "1": 6,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "element_types": {
+        "TextElement": 14,
+        "TitleElement": 20,
+        "SupplementaryText": 1
+      },
+      "max_level": 6
+    },
+    "html_analysis": {
+      "length": 85942,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i285926af6c1a4717b61fddeeedfc2b70_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"margin-bottom:12pt\"><font><br></font></div></div><div style=\"margin-bottom:12pt;text-align:right\"><font style=\"color:#000000;font-family:'Garamond',serif;font-size:8pt;font-weight:400;line-height:100%\">Exhibit 10.101</font></div><div style=\"margin-bottom:6pt;padding-left:18pt;..."
+    }
+  },
+  "076": {
+    "json_analysis": {
+      "total_elements": 181,
+      "orphan_elements": 106,
+      "trash_elements": 24,
+      "orphan_pct": 58.6,
+      "trash_pct": 13.3,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 75,
+        "1": 30,
+        "2": 38,
+        "3": 2,
+        "4": 3,
+        "5": 15,
+        "6": 8,
+        "7": 8,
+        "8": 2
+      },
+      "element_types": {
+        "TitleElement": 108,
+        "TableOfContentsElement": 1,
+        "TableElement": 8,
+        "TextElement": 40,
+        "ImageElement": 19,
+        "SupplementaryText": 5
+      },
+      "max_level": 8
+    },
+    "html_analysis": {
+      "length": 1163167,
+      "patterns": [
+        "TOC_structure"
+      ],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i6c1eae285d1e4c56bddca6412acfed3e_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:700;line-height:100%\">EXECUTION VERSION</font></div></div><div><font><br></font></div><div style=\"margin-bottom:12pt;text-align:center\"><font style=\"color:#000000;f..."
+    }
+  },
+  "077": {
+    "json_analysis": {
+      "total_elements": 56,
+      "orphan_elements": 12,
+      "trash_elements": 12,
+      "orphan_pct": 21.4,
+      "trash_pct": 21.4,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 44,
+        "1": 3,
+        "2": 9
+      },
+      "element_types": {
+        "TextElement": 22,
+        "TitleElement": 31,
+        "SupplementaryText": 2,
+        "TableElement": 1
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 348401,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"text-align: center; margin-top: 0; margin-bottom: 0\">&nbsp;</P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: right\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\"><B>Exhibit\n10.8</B></FONT></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center\"><FONT STYLE=\"font-family: ..."
+    }
+  },
+  "078": {
+    "json_analysis": {
+      "total_elements": 32,
+      "orphan_elements": 0,
+      "trash_elements": 4,
+      "orphan_pct": 0.0,
+      "trash_pct": 12.5,
+      "status": "Issues",
+      "hierarchy_levels": {
+        "0": 32
+      },
+      "element_types": {
+        "TextElement": 10,
+        "TitleElement": 6,
+        "EmptyElement": 12,
+        "TableElement": 3,
+        "SupplementaryText": 1
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 55833,
+      "patterns": [],
+      "sample": "<HTML><HEAD>\n<TITLE>EX-10.11</TITLE>\n</HEAD>\n <BODY BGCOLOR=\"WHITE\" STYLE=\"line-height:Normal\">\n\n\n<Center><DIV STYLE=\"width:8.5in\" align=\"left\">\n <P STYLE=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"right\"><B>Exhibit 10.11 </B></P>\n<P STYLE=\"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\">THIS WARRANT AND THE SHARES ISSUABLE HEREUNDER HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE &#147;<B><U..."
+    }
+  },
+  "079": {
+    "json_analysis": {
+      "total_elements": 90,
+      "orphan_elements": 39,
+      "trash_elements": 1,
+      "orphan_pct": 43.3,
+      "trash_pct": 1.1,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 51,
+        "1": 2,
+        "2": 4,
+        "3": 1,
+        "4": 1,
+        "5": 30,
+        "6": 1
+      },
+      "element_types": {
+        "TextElement": 40,
+        "TitleElement": 43,
+        "SupplementaryText": 6,
+        "TableElement": 1
+      },
+      "max_level": 6
+    },
+    "html_analysis": {
+      "length": 276416,
+      "patterns": [],
+      "sample": "<HTML><HEAD>\n<TITLE>EX-10.3</TITLE>\n</HEAD>\n\n\n <body><div id=\"i3777eb61015b4e429e4690d3e65f1b49_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"text-align:right\"><font\nstyle=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%\">Exhibit 10.3</font></div></div><div style=\"text-align:center\"><font\nstyle=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%\">JABIL INC.</font></div><div s..."
+    }
+  },
+  "080": {
+    "json_analysis": {
+      "total_elements": 212,
+      "orphan_elements": 121,
+      "trash_elements": 17,
+      "orphan_pct": 57.1,
+      "trash_pct": 8.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 91,
+        "1": 16,
+        "2": 1,
+        "3": 5,
+        "4": 13,
+        "5": 5,
+        "6": 28,
+        "7": 6,
+        "8": 4,
+        "9": 10,
+        "10": 2,
+        "11": 31
+      },
+      "element_types": {
+        "TextElement": 85,
+        "TitleElement": 125,
+        "SupplementaryText": 2
+      },
+      "max_level": 11
+    },
+    "html_analysis": {
+      "length": 1477685,
+      "patterns": [
+        "TOC_structure"
+      ],
+      "sample": "<html>\n <head>\n  <title>EX-10.1</title>\n </head>\n <body style=\"margin: auto!important;padding: 8px;\">\n  <div style=\"padding-top:0.5in;min-height:0.97in;box-sizing:border-box;\"><p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:right;\"><font style=\"color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;\">Exhibit 10.1</font></p></div>\n  <p style=\"font-size:10pt;margin-top:1.95pt;font-family:Times New Roman;margi..."
+    }
+  },
+  "081": {
+    "json_analysis": {
+      "total_elements": 17,
+      "orphan_elements": 8,
+      "trash_elements": 5,
+      "orphan_pct": 47.1,
+      "trash_pct": 29.4,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 9,
+        "1": 2,
+        "2": 3,
+        "3": 1,
+        "4": 1,
+        "5": 1
+      },
+      "element_types": {
+        "TitleElement": 9,
+        "TextElement": 6,
+        "TableElement": 1,
+        "SupplementaryText": 1
+      },
+      "max_level": 5
+    },
+    "html_analysis": {
+      "length": 34491,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"ic259533776124b4eb4c47ae4ef7457e1_1\"></div><div style=\"min-height:49.68pt;width:100%\"><div><font><br></font></div></div><div style=\"text-align:center\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:11pt;font-weight:700;line-height:136%\">HORMEL FOODS CORPORATION</font></div><div style=\"text-align:center\"><font><br></font></div><div style=\"t..."
+    }
+  },
+  "082": {
+    "json_analysis": {
+      "total_elements": 19,
+      "orphan_elements": 0,
+      "trash_elements": 6,
+      "orphan_pct": 0.0,
+      "trash_pct": 31.6,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 19
+      },
+      "element_types": {
+        "TextElement": 7,
+        "TitleElement": 2,
+        "EmptyElement": 6,
+        "TableOfContentsElement": 2,
+        "SupplementaryText": 1,
+        "TableElement": 1
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 130670,
+      "patterns": [
+        "TOC_structure"
+      ],
+      "sample": "<HTML><HEAD>\n<TITLE>EX-10.5</TITLE>\n</HEAD>\n <BODY BGCOLOR=\"WHITE\" STYLE=\"line-height:Normal\">\n\n\n<Center><DIV STYLE=\"width:8.5in\" align=\"left\">\n <P STYLE=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"right\"><B>Exhibit 10.5 </B></P>\n<P STYLE=\"margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"center\"><B>FORM OF </B></P> <P STYLE=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"cen..."
+    }
+  },
+  "083": {
+    "json_analysis": {
+      "total_elements": 18,
+      "orphan_elements": 5,
+      "trash_elements": 9,
+      "orphan_pct": 27.8,
+      "trash_pct": 50.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 13,
+        "1": 3,
+        "2": 2
+      },
+      "element_types": {
+        "TextElement": 8,
+        "TitleElement": 8,
+        "TableElement": 2
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 108853,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right\"><B>Exhibit 10.1</B></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right\"><B>&nbsp;</B></P>\n\n<P STYLE=\"font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center\">CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED\nFROM THE EXHIBIT BECA..."
+    }
+  },
+  "084": {
+    "json_analysis": {
+      "total_elements": 8,
+      "orphan_elements": 0,
+      "trash_elements": 2,
+      "orphan_pct": 0.0,
+      "trash_pct": 25.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 8
+      },
+      "element_types": {
+        "TextElement": 2,
+        "TitleElement": 2,
+        "EmptyElement": 2,
+        "TableElement": 2
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 7827,
+      "patterns": [],
+      "sample": "<HTML><HEAD>\n<TITLE>EX-10.1</TITLE>\n</HEAD>\n <BODY BGCOLOR=\"WHITE\" STYLE=\"line-height:Normal\">\n\n<Center><DIV STYLE=\"width:8.5in\" align=\"left\">\n <P STYLE=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"right\"><B>Exhibit 10.1 </B></P>\n<P STYLE=\"margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"center\"><B>AMENDMENT TO THE </B></P>\n<P STYLE=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" AL..."
+    }
+  },
+  "085": {
+    "json_analysis": {
+      "total_elements": 17,
+      "orphan_elements": 0,
+      "trash_elements": 3,
+      "orphan_pct": 0.0,
+      "trash_pct": 17.6,
+      "status": "Issues",
+      "hierarchy_levels": {
+        "0": 17
+      },
+      "element_types": {
+        "TextElement": 3,
+        "TitleElement": 1,
+        "ImageElement": 13
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 9304,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"margin: 0\"></P>\n\n<!-- Field: Rule-Page --><DIV STYLE=\"margin-top: 12pt; margin-bottom: 3pt; width: 100%\"><DIV STYLE=\"font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid\">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->\n\n<P STYLE=\"text-align: center; margin-top: 0; margin-bottom: 0\">&nbsp;</P>\n\n<P STYLE=\"text-align: right; margin-top: 0; margin-bottom: 0\"><FONT STYLE=\"..."
+    }
+  },
+  "086": {
+    "json_analysis": {
+      "total_elements": 57,
+      "orphan_elements": 19,
+      "trash_elements": 18,
+      "orphan_pct": 33.3,
+      "trash_pct": 31.6,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 38,
+        "1": 4,
+        "2": 15
+      },
+      "element_types": {
+        "TextElement": 23,
+        "TitleElement": 31,
+        "TableElement": 3
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 481185,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center\">&nbsp;</P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right\"><FONT STYLE=\"background-color: White\"><B>Exhibit&nbsp;10.2</B></FONT></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0\"><FONT STYLE=\"font-size: 10pt; background-color: White\">&nbsp;</FONT></P>\n..."
+    }
+  },
+  "087": {
+    "json_analysis": {
+      "total_elements": 18,
+      "orphan_elements": 8,
+      "trash_elements": 1,
+      "orphan_pct": 44.4,
+      "trash_pct": 5.6,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 10,
+        "1": 4,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1
+      },
+      "element_types": {
+        "TitleElement": 9,
+        "TextElement": 5,
+        "TableElement": 4
+      },
+      "max_level": 5
+    },
+    "html_analysis": {
+      "length": 89059,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i29e8baf088c74e79a3d76cd1db7dc4f5_35\"></div><div style=\"min-height:72pt;width:100%\"><div><font><br></font></div></div><div style=\"margin-top:4pt;padding-right:4.5pt;text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:9pt;font-weight:700;line-height:100%\">Exhibit 10.35</font></div><div style=\"margin-top:4pt;padding-right:4.5pt;..."
+    }
+  },
+  "088": {
+    "json_analysis": {
+      "total_elements": 12,
+      "orphan_elements": 9,
+      "trash_elements": 3,
+      "orphan_pct": 75.0,
+      "trash_pct": 25.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 4
+      },
+      "element_types": {
+        "TitleElement": 10,
+        "TextElement": 2
+      },
+      "max_level": 4
+    },
+    "html_analysis": {
+      "length": 22180,
+      "patterns": [],
+      "sample": "<html>\n <head>\n  <title>EX-10.19</title>\n </head>\n <body style=\"margin: auto!important;padding: 8px;\">\n  <div style=\"padding-top:0.31in;min-height:1in;box-sizing:border-box;\"><p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:right;\"><font style=\"color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;\">Exhibit 10.19</font></p><p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;ma..."
+    }
+  },
+  "089": {
+    "json_analysis": {
+      "total_elements": 75,
+      "orphan_elements": 0,
+      "trash_elements": 1,
+      "orphan_pct": 0.0,
+      "trash_pct": 1.3,
+      "status": "Good",
+      "hierarchy_levels": {
+        "0": 75
+      },
+      "element_types": {
+        "TextElement": 2,
+        "ImageElement": 73
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 60309,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\">&nbsp;</FONT></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; text-align: right; margin-top: 0pt; margin-bottom: 0pt\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\"><B>Exhibit\n10.5 ..."
+    }
+  },
+  "090": {
+    "json_analysis": {
+      "total_elements": 18,
+      "orphan_elements": 1,
+      "trash_elements": 1,
+      "orphan_pct": 5.6,
+      "trash_pct": 5.6,
+      "status": "Issues",
+      "hierarchy_levels": {
+        "0": 17,
+        "1": 1
+      },
+      "element_types": {
+        "TitleElement": 2,
+        "EmptyElement": 12,
+        "ImageElement": 1,
+        "TextElement": 2,
+        "TableElement": 1
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 8772,
+      "patterns": [],
+      "sample": "<html><head><meta charset=\"UTF-8\"><title></title></head><body><div style=\"margin-top:30pt;\"></div><div style=\"max-width:100%;padding-left:5.88%;padding-right:5.88%;position:relative;\"><div style=\"clear:both;max-width:100%;position:relative;\"><p style=\"font-family:'Times New Roman','Times','serif';font-size:10pt;text-align:right;margin:0pt;\"><b style=\"font-size:11pt;font-weight:bold;\">Exhibit 10.1</b></p><p style=\"font-family:'Times New Roman','Times','serif';font-size:10pt;margin:0pt;\"><font sty..."
+    }
+  },
+  "091": {
+    "json_analysis": {
+      "total_elements": 15,
+      "orphan_elements": 5,
+      "trash_elements": 1,
+      "orphan_pct": 33.3,
+      "trash_pct": 6.7,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 10,
+        "1": 2,
+        "2": 3
+      },
+      "element_types": {
+        "TitleElement": 8,
+        "SupplementaryText": 1,
+        "TextElement": 6
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 19912,
+      "patterns": [],
+      "sample": "<html>\n <head>\n  <title>EX-10.17</title>\n </head>\n <body style=\"margin: auto!important;padding: 8px;\">\n  <div style=\"min-height:1in;\"></div>\n  <p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:right;\"><font style=\"color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;\">Exhibit 10.17</font></p>\n  <p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:cent..."
+    }
+  },
+  "092": {
+    "json_analysis": {
+      "total_elements": 385,
+      "orphan_elements": 1,
+      "trash_elements": 28,
+      "orphan_pct": 0.3,
+      "trash_pct": 7.3,
+      "status": "Good",
+      "hierarchy_levels": {
+        "0": 384,
+        "1": 1
+      },
+      "element_types": {
+        "TextElement": 115,
+        "TitleElement": 42,
+        "EmptyElement": 160,
+        "TableElement": 19,
+        "SupplementaryText": 2,
+        "PageNumberElement": 46,
+        "TopSectionTitle": 1
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 608798,
+      "patterns": [
+        "TOC_structure"
+      ],
+      "sample": "<HTML><HEAD>\n<TITLE>EX-10.2</TITLE>\n</HEAD>\n <BODY BGCOLOR=\"WHITE\" STYLE=\"line-height:Normal\">\n\n<Center><DIV STYLE=\"width:8.5in\" align=\"left\">\n <P STYLE=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"right\"><B>Exhibit 10.2 </B></P>\n<P STYLE=\"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"center\"><B>SALE AND SERVICING AGREEMENT </B></P>\n<P STYLE=\"margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times ..."
+    }
+  },
+  "093": {
+    "json_analysis": {
+      "total_elements": 20,
+      "orphan_elements": 10,
+      "trash_elements": 3,
+      "orphan_pct": 50.0,
+      "trash_pct": 15.0,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 10,
+        "1": 3,
+        "2": 4,
+        "3": 1,
+        "4": 2
+      },
+      "element_types": {
+        "TitleElement": 11,
+        "TableElement": 1,
+        "TextElement": 8
+      },
+      "max_level": 4
+    },
+    "html_analysis": {
+      "length": 84084,
+      "patterns": [],
+      "sample": "<html>\n <head>\n  <title>EX-10.18</title>\n </head>\n <body style=\"margin: auto!important;padding: 8px;\">\n  <div style=\"padding-top:0.5in;min-height:1in;box-sizing:border-box;\"><p style=\"margin-left:18pt;text-indent:-18pt;padding-left:18pt;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;\"><font style=\"white-space:pre-wrap;font-size:11pt;font-family:'Calibri',sans-serif;min-width:fit-content;\">&#160;</font></p><p style=\"margin-left:18pt;text-indent:-18pt;paddi..."
+    }
+  },
+  "094": {
+    "json_analysis": {
+      "total_elements": 368,
+      "orphan_elements": 0,
+      "trash_elements": 11,
+      "orphan_pct": 0.0,
+      "trash_pct": 3.0,
+      "status": "Good",
+      "hierarchy_levels": {
+        "0": 368
+      },
+      "element_types": {
+        "TextElement": 53,
+        "TitleElement": 25,
+        "EmptyElement": 173,
+        "TableOfContentsElement": 3,
+        "SupplementaryText": 2,
+        "PageNumberElement": 20,
+        "TableElement": 3,
+        "ImageElement": 17,
+        "PageHeaderElement": 72
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 259999,
+      "patterns": [
+        "TOC_structure"
+      ],
+      "sample": "<HTML><HEAD>\n<TITLE>EX-10.5</TITLE>\n</HEAD>\n <BODY BGCOLOR=\"WHITE\" STYLE=\"line-height:Normal\">\n\n<Center><DIV STYLE=\"width:8.5in\" align=\"left\">\n <P STYLE=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman\" ALIGN=\"right\"><B>Exhibit 10.5 </B></P> <P STYLE=\"font-size:12pt;margin-top:0pt;margin-bottom:0pt\">&nbsp;</P>\n<P STYLE=\"line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000\">&nbsp;</P> <P STYLE=\"line-height:3.0pt;margin-top:0pt;margin-bo..."
+    }
+  },
+  "095": {
+    "json_analysis": {
+      "total_elements": 145,
+      "orphan_elements": 78,
+      "trash_elements": 8,
+      "orphan_pct": 53.8,
+      "trash_pct": 5.5,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 67,
+        "1": 1,
+        "2": 3,
+        "3": 1,
+        "4": 17,
+        "5": 2,
+        "6": 4,
+        "7": 29,
+        "8": 19,
+        "9": 2
+      },
+      "element_types": {
+        "TitleElement": 80,
+        "TextElement": 53,
+        "ImageElement": 5,
+        "EmptyElement": 4,
+        "SupplementaryText": 3
+      },
+      "max_level": 9
+    },
+    "html_analysis": {
+      "length": 589151,
+      "patterns": [],
+      "sample": "<html><head>\n<!-- Document created using Wdesk -->\n<!-- Copyright 2024 Workiva -->\n<title>Document</title></head><body><div id=\"i58f47a63d332404abb1b5d4ea3ad4aa9_1\"></div><div style=\"min-height:72pt;width:100%\"><div style=\"text-align:right\"><font><br></font></div></div><div style=\"margin-bottom:12pt;text-align:right\"><font style=\"color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:700;line-height:112%\">Exhibit 10.18-7</font></div><div style=\"text-align:right\"><font ..."
+    }
+  },
+  "096": {
+    "json_analysis": {
+      "total_elements": 12,
+      "orphan_elements": 2,
+      "trash_elements": 5,
+      "orphan_pct": 16.7,
+      "trash_pct": 41.7,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 10,
+        "1": 2
+      },
+      "element_types": {
+        "TextElement": 6,
+        "TitleElement": 4,
+        "TableElement": 1,
+        "SupplementaryText": 1
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 14538,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\"></FONT></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\"><B>&nbsp;</B></FONT></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times..."
+    }
+  },
+  "097": {
+    "json_analysis": {
+      "total_elements": 13,
+      "orphan_elements": 4,
+      "trash_elements": 4,
+      "orphan_pct": 30.8,
+      "trash_pct": 30.8,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 9,
+        "1": 3,
+        "2": 1
+      },
+      "element_types": {
+        "TextElement": 6,
+        "TitleElement": 5,
+        "TableElement": 2
+      },
+      "max_level": 2
+    },
+    "html_analysis": {
+      "length": 51466,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"margin: 0\">&nbsp;</P>\n\n<P STYLE=\"text-align: right; margin: 0\"><B>Exhibit 10.3</B></P>\n\n<P STYLE=\"margin: 0\">&nbsp;</P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center\"><B>PRIVATE WARRANT UNDERTAKING AGREEMENT</B></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0\">&nbsp;</P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; m..."
+    }
+  },
+  "098": {
+    "json_analysis": {
+      "total_elements": 62,
+      "orphan_elements": 0,
+      "trash_elements": 1,
+      "orphan_pct": 0.0,
+      "trash_pct": 1.6,
+      "status": "Good",
+      "hierarchy_levels": {
+        "0": 62
+      },
+      "element_types": {
+        "TextElement": 2,
+        "ImageElement": 60
+      },
+      "max_level": 0
+    },
+    "html_analysis": {
+      "length": 67681,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\">&nbsp;</FONT></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; text-align: right; margin-top: 0pt; margin-bottom: 0pt\"><FONT STYLE=\"font-family: Times New Roman, Times, Serif; font-size: 10pt\"><B>Exhibit\n10.1<..."
+    }
+  },
+  "099": {
+    "json_analysis": {
+      "total_elements": 14,
+      "orphan_elements": 4,
+      "trash_elements": 6,
+      "orphan_pct": 28.6,
+      "trash_pct": 42.9,
+      "status": "Failed",
+      "hierarchy_levels": {
+        "0": 10,
+        "1": 4
+      },
+      "element_types": {
+        "TextElement": 6,
+        "TitleElement": 6,
+        "TableElement": 2
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 18508,
+      "patterns": [
+        "Field_Page_markers",
+        "Sequence_markers"
+      ],
+      "sample": "<HTML>\n<HEAD>\n     <TITLE></TITLE>\n</HEAD>\n<BODY STYLE=\"font: 10pt Times New Roman, Times, Serif\">\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right\"><B>Exhibit 10.10</B></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center\">&nbsp;</P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center\"><B>VOCODIA HOLDINGS CORP.</B></P>\n\n<P STYLE=\"font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; ..."
+    }
+  },
+  "100": {
+    "json_analysis": {
+      "total_elements": 19,
+      "orphan_elements": 2,
+      "trash_elements": 1,
+      "orphan_pct": 10.5,
+      "trash_pct": 5.3,
+      "status": "Issues",
+      "hierarchy_levels": {
+        "0": 17,
+        "1": 2
+      },
+      "element_types": {
+        "EmptyElement": 7,
+        "TextElement": 6,
+        "TitleElement": 3,
+        "TableElement": 3
+      },
+      "max_level": 1
+    },
+    "html_analysis": {
+      "length": 54709,
+      "patterns": [],
+      "sample": "<html><head><meta charset=\"UTF-8\"><title></title></head><body><div style=\"margin-top:30pt;\"></div><div style=\"max-width:100%;padding-left:11.76%;padding-right:11.76%;position:relative;\"><div style=\"margin-top:30pt;width:100%;\"><p style=\"font-family:'Times New Roman','Times','serif';font-size:12pt;margin:0pt;\"><font style=\"visibility:hidden;\">&#8203;</font></p></div><div style=\"clear:both;max-width:100%;position:relative;\"><p style=\"font-family:'Times New Roman','Times','serif';font-size:12pt;tex..."
+    }
+  }
+}

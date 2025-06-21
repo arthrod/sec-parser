@@ -1,0 +1,80 @@
+{
+  "agreement_info": {
+    "number": 3,
+    "filename": "agreement_03.html",
+    "total_elements": 10,
+    "element_types": {
+      "TextElement": 4,
+      "TableElement": 2,
+      "ContentTextElement": 4
+    }
+  },
+  "elements": [
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Exhibit 10(a)1ALLETE Executive Annual Incentive PlanForm of AwardEffective 2018"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Target Award Opportunity"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "Base Salary$  Times   Award Opportunity (percent of base salary)%  Equals   Target Award $"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Performance Levels and Award Amounts"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "Goal Performance LevelPayout as Percent of Target AwardAward Amount Superior200% $Target100% $Threshold45% $Below Threshold0% $"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Goals"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "[Eligible Executive Employees, except CEO and CFO]",
+      "id": "ContentTextElement_45",
+      "parent_id": null,
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Goal       Weighting Financial Goals       Net Income 50%  Cash from Operating Activities 25%         Strategic & Operational Positioning Goals     25%        100%",
+      "id": "ContentTextElement_46",
+      "parent_id": null,
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Compensation Subject to Compensation Recovery Policy",
+      "id": "ContentTextElement_47",
+      "parent_id": null,
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Annual Incentive Plan Compensation is subject to recoupment as defined in the Compensation Recovery policy.",
+      "id": "ContentTextElement_48",
+      "parent_id": null,
+      "children": [],
+      "level": 4
+    }
+  ]
+}

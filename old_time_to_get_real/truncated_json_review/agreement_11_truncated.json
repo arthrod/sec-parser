@@ -1,0 +1,1626 @@
+{
+  "agreement_summary": {
+    "number": 11,
+    "filename": "agreement_11.html",
+    "title": "FORWARD PURCHASE AGREEMENT",
+    "total_elements": 140,
+    "hierarchical_elements": 131,
+    "total_text_chars": 65391,
+    "element_type_counts": {
+      "TextElement": 5,
+      "TableElement": 4,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 49,
+      "ContentTextElement": 53,
+      "DefinitionElement": 1,
+      "HeadingElement": 4,
+      "PartyElement": 1,
+      "RecitalElement": 8,
+      "SectionElement": 14
+    },
+    "max_hierarchy_level": 5
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "Agreement",
+      "text_length": 9
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Section 9(a).",
+      "text_length": 13
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signature page follows]",
+      "text_length": 24
+    },
+    {
+      "class_name": "TableElement",
+      "text": "PURCHASER:\n\n\n\nCLOUDBREAK AGGREGATOR LP\n\n\n\n\nBy:\n \nTHIRD POINT LLC, its investm...",
+      "text_length": 207
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signature Page to Forward Purchase Agreement]",
+      "text_length": 46
+    },
+    {
+      "class_name": "TableElement",
+      "text": "[                   \n                                         \n              ...",
+      "text_length": 177
+    },
+    {
+      "class_name": "TableElement",
+      "text": "By:\n \n /s/\n\n\n \nName:\n\n\n \nTitle:\n\n\n\nFAR POINT ACQUISITION CORPORATION\n\n\n\n\nBy:\n...",
+      "text_length": 104
+    },
+    {
+      "class_name": "TextElement",
+      "text": "TO BE EXECUTED UPON ANY ASSIGNMENT OR FINAL DETERMINATION OF FORWARD PURCHASE...",
+      "text_length": 85
+    },
+    {
+      "class_name": "TableElement",
+      "text": "[                                    \n                                       ...",
+      "text_length": 227
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "FORWARD PURCHASE AGREEMENT",
+      "text_length": 26,
+      "id": "AgreementTitleElement_733",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 22,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) Forward Purchase Shares.",
+      "text_length": 28,
+      "id": "ClauseElement_758",
+      "parent_id": "SectionElement_734",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "Forward Purchase Shares.",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i) The Company shall issue and sell to the Purchaser, and the Purchaser shal...",
+      "text_length": 301,
+      "id": "ClauseElement_759",
+      "parent_id": "SectionElement_734",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(i)",
+      "clause_text": "The Company shall issue and sell to the Purchaser, and the Purchaser shall pu...",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) Legends. Each book entry for the Forward Purchase Shares shall contain a ...",
+      "text_length": 247,
+      "id": "ClauseElement_760",
+      "parent_id": "SectionElement_734",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(b)",
+      "clause_text": "Legends. Each book entry for the Forward Purchase Shares shall contain a nota...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) Organization and Power. The Purchaser is duly organized, validly existing...",
+      "text_length": 274,
+      "id": "ClauseElement_761",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(a)",
+      "clause_text": "Organization and Power. The Purchaser is duly organized, validly existing, an...",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c) Governmental Consents and Filings. No consent, approval, order or authori...",
+      "text_length": 340,
+      "id": "ClauseElement_762",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(c)",
+      "clause_text": "Governmental Consents and Filings. No consent, approval, order or authorizati...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(f) Disclosure of Information. The Purchaser has had an opportunity to discus...",
+      "text_length": 292,
+      "id": "ClauseElement_763",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(f)",
+      "clause_text": "Disclosure of Information. The Purchaser has had an opportunity to discuss th...",
+      "normalized_id": "f"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(h) No Public Market. The Purchaser understands that no public market now exi...",
+      "text_length": 227,
+      "id": "ClauseElement_764",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(h)",
+      "clause_text": "No Public Market. The Purchaser understands that no public market now exists ...",
+      "normalized_id": "h"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i) High Degree of\nRisk. The Purchaser understands that its agreement to purc...",
+      "text_length": 211,
+      "id": "ClauseElement_765",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(i)",
+      "clause_text": "High Degree of",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(j) Accredited Investor. The Purchaser is an accredited investor as defined i...",
+      "text_length": 144,
+      "id": "ClauseElement_766",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(j)",
+      "clause_text": "Accredited Investor. The Purchaser is an accredited investor as defined in Ru...",
+      "normalized_id": "j"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(k) No General Solicitation. Neither the Purchaser, nor, to its knowledge, an...",
+      "text_length": 370,
+      "id": "ClauseElement_767",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(k)",
+      "clause_text": "No General Solicitation. Neither the Purchaser, nor, to its knowledge, any of...",
+      "normalized_id": "k"
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "Agreement",
+      "text_length": 9
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Section 9(a).",
+      "text_length": 13
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signature page follows]",
+      "text_length": 24
+    },
+    {
+      "class_name": "TableElement",
+      "text": "PURCHASER:\n\n\n\nCLOUDBREAK AGGREGATOR LP\n\n\n\n\nBy:\n \nTHIRD POINT LLC, its investm...",
+      "text_length": 207
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signature Page to Forward Purchase Agreement]",
+      "text_length": 46
+    },
+    {
+      "class_name": "TableElement",
+      "text": "[                   \n                                         \n              ...",
+      "text_length": 177
+    },
+    {
+      "class_name": "TableElement",
+      "text": "By:\n \n /s/\n\n\n \nName:\n\n\n \nTitle:\n\n\n\nFAR POINT ACQUISITION CORPORATION\n\n\n\n\nBy:\n...",
+      "text_length": 104
+    },
+    {
+      "class_name": "TextElement",
+      "text": "TO BE EXECUTED UPON ANY ASSIGNMENT OR FINAL DETERMINATION OF FORWARD PURCHASE...",
+      "text_length": 85
+    },
+    {
+      "class_name": "TableElement",
+      "text": "[                                    \n                                       ...",
+      "text_length": 227
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "FORWARD PURCHASE AGREEMENT",
+      "text_length": 26,
+      "id": "AgreementTitleElement_733",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 22,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) Forward Purchase Shares.",
+      "text_length": 28,
+      "id": "ClauseElement_758",
+      "parent_id": "SectionElement_734",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "Forward Purchase Shares.",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i) The Company shall issue and sell to the Purchaser, and the Purchaser shal...",
+      "text_length": 301,
+      "id": "ClauseElement_759",
+      "parent_id": "SectionElement_734",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(i)",
+      "clause_text": "The Company shall issue and sell to the Purchaser, and the Purchaser shall pu...",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) Legends. Each book entry for the Forward Purchase Shares shall contain a ...",
+      "text_length": 247,
+      "id": "ClauseElement_760",
+      "parent_id": "SectionElement_734",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(b)",
+      "clause_text": "Legends. Each book entry for the Forward Purchase Shares shall contain a nota...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) Organization and Power. The Purchaser is duly organized, validly existing...",
+      "text_length": 274,
+      "id": "ClauseElement_761",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(a)",
+      "clause_text": "Organization and Power. The Purchaser is duly organized, validly existing, an...",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c) Governmental Consents and Filings. No consent, approval, order or authori...",
+      "text_length": 340,
+      "id": "ClauseElement_762",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(c)",
+      "clause_text": "Governmental Consents and Filings. No consent, approval, order or authorizati...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(f) Disclosure of Information. The Purchaser has had an opportunity to discus...",
+      "text_length": 292,
+      "id": "ClauseElement_763",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(f)",
+      "clause_text": "Disclosure of Information. The Purchaser has had an opportunity to discuss th...",
+      "normalized_id": "f"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(h) No Public Market. The Purchaser understands that no public market now exi...",
+      "text_length": 227,
+      "id": "ClauseElement_764",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(h)",
+      "clause_text": "No Public Market. The Purchaser understands that no public market now exists ...",
+      "normalized_id": "h"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i) High Degree of\nRisk. The Purchaser understands that its agreement to purc...",
+      "text_length": 211,
+      "id": "ClauseElement_765",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(i)",
+      "clause_text": "High Degree of",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(j) Accredited Investor. The Purchaser is an accredited investor as defined i...",
+      "text_length": 144,
+      "id": "ClauseElement_766",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(j)",
+      "clause_text": "Accredited Investor. The Purchaser is an accredited investor as defined in Ru...",
+      "normalized_id": "j"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(k) No General Solicitation. Neither the Purchaser, nor, to its knowledge, an...",
+      "text_length": 370,
+      "id": "ClauseElement_767",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(k)",
+      "clause_text": "No General Solicitation. Neither the Purchaser, nor, to its knowledge, any of...",
+      "normalized_id": "k"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(l) Residence. The Purchasers principal place of business is the office or o...",
+      "text_length": 163,
+      "id": "ClauseElement_768",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(l)",
+      "clause_text": "Residence. The Purchasers principal place of business is the office or offices",
+      "normalized_id": "l"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(m) Adequacy of Financing. The Purchaser\nhas available to it sufficient funds...",
+      "text_length": 126,
+      "id": "ClauseElement_769",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(m)",
+      "clause_text": "Adequacy of Financing. The Purchaser",
+      "normalized_id": "m"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(n) Affiliation of Certain FINRA\nMembers. The Purchaser is neither a person a...",
+      "text_length": 332,
+      "id": "ClauseElement_770",
+      "parent_id": "SectionElement_735",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(n)",
+      "clause_text": "Affiliation of Certain FINRA",
+      "normalized_id": "n"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) Organization and Corporate Power. The Company is a corporation duly incor...",
+      "text_length": 349,
+      "id": "ClauseElement_771",
+      "parent_id": "SectionElement_736",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "Organization and Corporate Power. The Company is a corporation duly incorpora...",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) Capitalization. On the date hereof, the authorized share capital of the C...",
+      "text_length": 96,
+      "id": "ClauseElement_772",
+      "parent_id": "SectionElement_736",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "Capitalization. On the date hereof, the authorized share capital of the Compa...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i) 200,000,000 Class A Shares, none of which are issued and outstanding.",
+      "text_length": 73,
+      "id": "ClauseElement_773",
+      "parent_id": "SectionElement_736",
+      "level": 3,
+      "children_count": 3,
+      "clause_id": "(i)",
+      "clause_text": "200,000,000 Class A Shares, none of which are issued and outstanding.",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(ii) 20,000,000 Class B Shares, 11,500,000 of which are issued and outstandin...",
+      "text_length": 366,
+      "id": "ClauseElement_774",
+      "parent_id": "ClauseElement_773",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(ii)",
+      "clause_text": "20,000,000 Class B Shares, 11,500,000 of which are issued and outstanding as ...",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(iii) 1,000,000 preferred shares, none of which are issued and outstanding.",
+      "text_length": 75,
+      "id": "ClauseElement_775",
+      "parent_id": "ClauseElement_773",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(iii)",
+      "clause_text": "1,000,000 preferred shares, none of which are issued and outstanding.",
+      "normalized_id": "iii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i)\n400,000,000 Class A Shares.",
+      "text_length": 31,
+      "id": "ClauseElement_776",
+      "parent_id": "SectionElement_736",
+      "level": 3,
+      "children_count": 5,
+      "clause_id": "(i)",
+      "clause_text": "400,000,000 Class A Shares.",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(ii)\n50,000,000 Class B Shares.",
+      "text_length": 31,
+      "id": "ClauseElement_777",
+      "parent_id": "ClauseElement_776",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(ii)",
+      "clause_text": "50,000,000 Class B Shares.",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(iii)\n1,000,000 preferred shares.",
+      "text_length": 33,
+      "id": "ClauseElement_778",
+      "parent_id": "ClauseElement_776",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(iii)",
+      "clause_text": "1,000,000 preferred shares.",
+      "normalized_id": "iii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(f) Compliance with Other Instruments. The execution, delivery and performanc...",
+      "text_length": 212,
+      "id": "ClauseElement_779",
+      "parent_id": "SectionElement_736",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(f)",
+      "clause_text": "Compliance with Other Instruments. The execution, delivery and performance of...",
+      "normalized_id": "f"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(g) Operations. As of the date hereof, the Company has not conducted, and pri...",
+      "text_length": 243,
+      "id": "ClauseElement_780",
+      "parent_id": "SectionElement_736",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(g)",
+      "clause_text": "Operations. As of the date hereof, the Company has not conducted, and prior t...",
+      "normalized_id": "g"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(h) No General Solicitation. Neither the Company, nor any of its officers, di...",
+      "text_length": 339,
+      "id": "ClauseElement_781",
+      "parent_id": "SectionElement_736",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(h)",
+      "clause_text": "No General Solicitation. Neither the Company, nor any of its officers, direct...",
+      "normalized_id": "h"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) Registration. The Company agrees that the Purchaser shall have the regist...",
+      "text_length": 114,
+      "id": "ClauseElement_782",
+      "parent_id": "SectionElement_737",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "Registration. The Company agrees that the Purchaser shall have the registrati...",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) Indemnification.",
+      "text_length": 20,
+      "id": "ClauseElement_783",
+      "parent_id": "SectionElement_737",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(b)",
+      "clause_text": "Indemnification.",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c) Transfer. This Agreement and all of the Purchasers rights and obligation...",
+      "text_length": 329,
+      "id": "ClauseElement_784",
+      "parent_id": "SectionElement_737",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(c)",
+      "clause_text": "Transfer. This Agreement and all of the Purchasers rights and obligations",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) Trust Account.",
+      "text_length": 18,
+      "id": "ClauseElement_785",
+      "parent_id": "SectionElement_738",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(a)",
+      "clause_text": "Trust Account.",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(ii) The Purchaser hereby agrees that it shall have no right of set-off or an...",
+      "text_length": 320,
+      "id": "ClauseElement_786",
+      "parent_id": "ContentTextElement_840",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(ii)",
+      "clause_text": "The Purchaser hereby agrees that it shall have no right of set-off or any rig...",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) Voting. The Purchaser hereby agrees that if the Company seeks stockholder...",
+      "text_length": 285,
+      "id": "ClauseElement_787",
+      "parent_id": "SectionElement_738",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(b)",
+      "clause_text": "Voting. The Purchaser hereby agrees that if the Company seeks stockholder",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) The obligation of the Purchaser to purchase the Forward Purchase Shares a...",
+      "text_length": 318,
+      "id": "ClauseElement_788",
+      "parent_id": "SectionElement_740",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "The obligation of the Purchaser to purchase the Forward Purchase Shares at th...",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i) The Business Combination shall be consummated substantially concurrently ...",
+      "text_length": 126,
+      "id": "ClauseElement_789",
+      "parent_id": "SectionElement_740",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(i)",
+      "clause_text": "The Business Combination shall be consummated substantially concurrently with...",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(ii) The Company shall have delivered to the Purchaser a certificate evidenci...",
+      "text_length": 134,
+      "id": "ClauseElement_790",
+      "parent_id": "ClauseElement_789",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(ii)",
+      "clause_text": "The Company shall have delivered to the Purchaser a certificate evidencing th...",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(iv) The Company shall have performed, satisfied and complied in all material...",
+      "text_length": 258,
+      "id": "ClauseElement_791",
+      "parent_id": "ContentTextElement_843",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(iv)",
+      "clause_text": "The Company shall have performed, satisfied and complied in all material resp...",
+      "normalized_id": "iv"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(v) No order, writ, judgment, injunction, decree, determination, or award sha...",
+      "text_length": 358,
+      "id": "ClauseElement_792",
+      "parent_id": "SectionElement_740",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(v)",
+      "clause_text": "No order, writ, judgment, injunction, decree, determination, or award shall h...",
+      "normalized_id": "v"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) The obligation of the Company to sell the Forward Purchase Shares at the ...",
+      "text_length": 310,
+      "id": "ClauseElement_793",
+      "parent_id": "SectionElement_740",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "The obligation of the Company to sell the Forward Purchase Shares at the Forw...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i) The Business Combination shall be consummated substantially concurrently ...",
+      "text_length": 126,
+      "id": "ClauseElement_794",
+      "parent_id": "SectionElement_740",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(i)",
+      "clause_text": "The Business Combination shall be consummated substantially concurrently with...",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(iii) The Purchaser shall have performed,\nsatisfied and complied in all mater...",
+      "text_length": 263,
+      "id": "ClauseElement_795",
+      "parent_id": "ContentTextElement_844",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(iii)",
+      "clause_text": "The Purchaser shall have performed,",
+      "normalized_id": "iii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(iv) No order, writ, judgment, injunction, decree, determination, or award sh...",
+      "text_length": 359,
+      "id": "ClauseElement_796",
+      "parent_id": "ContentTextElement_844",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(iv)",
+      "clause_text": "No order, writ, judgment, injunction, decree, determination, or award shall h...",
+      "normalized_id": "iv"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) by mutual written consent of the Company and the Purchaser;",
+      "text_length": 63,
+      "id": "ClauseElement_797",
+      "parent_id": "SectionElement_741",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "by mutual written consent of the Company and the Purchaser;",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) automatically:",
+      "text_length": 18,
+      "id": "ClauseElement_798",
+      "parent_id": "SectionElement_741",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "automatically:",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i) if the\nIPO is not consummated on or prior to September 30, 2018; or",
+      "text_length": 71,
+      "id": "ClauseElement_799",
+      "parent_id": "SectionElement_741",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(i)",
+      "clause_text": "if the",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(ii) if the Business Combination is not consummated within 24 months\nfrom the...",
+      "text_length": 398,
+      "id": "ClauseElement_800",
+      "parent_id": "ClauseElement_799",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(ii)",
+      "clause_text": "if the Business Combination is not consummated within 24 months",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c) Survival of Representations and Warranties. All of the representations an...",
+      "text_length": 141,
+      "id": "ClauseElement_801",
+      "parent_id": "SectionElement_742",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(c)",
+      "clause_text": "Survival of Representations and Warranties. All of the representations and wa...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(d) Entire Agreement. This Agreement, together with any documents, instrument...",
+      "text_length": 481,
+      "id": "ClauseElement_802",
+      "parent_id": "SectionElement_742",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(d)",
+      "clause_text": "Entire Agreement. This Agreement, together with any documents, instruments an...",
+      "normalized_id": "d"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(f) Assignments. Except as otherwise specifically provided herein,\nno party h...",
+      "text_length": 228,
+      "id": "ClauseElement_803",
+      "parent_id": "SectionElement_742",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(f)",
+      "clause_text": "Assignments. Except as otherwise specifically provided herein,",
+      "normalized_id": "f"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(i) Governing\nLaw. This Agreement, the entire relationship of the parties her...",
+      "text_length": 352,
+      "id": "ClauseElement_804",
+      "parent_id": "SectionElement_742",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(i)",
+      "clause_text": "Governing",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(l) Amendments. This Agreement may not be amended, modified or waived as to a...",
+      "text_length": 173,
+      "id": "ClauseElement_805",
+      "parent_id": "SectionElement_742",
+      "level": 3,
+      "children_count": 4,
+      "clause_id": "(l)",
+      "clause_text": "Amendments. This Agreement may not be amended, modified or waived as to any",
+      "normalized_id": "l"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(q) Specific Performance. The Purchaser agrees that irreparable damage may oc...",
+      "text_length": 335,
+      "id": "ClauseElement_806",
+      "parent_id": "SectionElement_742",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(q)",
+      "clause_text": "Specific Performance. The Purchaser agrees that irreparable damage may occur ...",
+      "normalized_id": "q"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(ii) Notwithstanding the foregoing, the Purchaser shall have no obligation he...",
+      "text_length": 1008,
+      "id": "ContentTextElement_821",
+      "parent_id": "ClauseElement_759",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(iii) The Company shall require the Purchaser to purchase the Forward Purchas...",
+      "text_length": 2213,
+      "id": "ContentTextElement_822",
+      "parent_id": "ClauseElement_759",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "THE\nSECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURIT...",
+      "text_length": 525,
+      "id": "ContentTextElement_823",
+      "parent_id": "ClauseElement_760",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c) Legend Removal. If the Forward Purchase Shares are eligible to be sold wi...",
+      "text_length": 799,
+      "id": "ContentTextElement_824",
+      "parent_id": "ClauseElement_760",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) Authorization. The Purchaser has full power and authority to enter into t...",
+      "text_length": 796,
+      "id": "ContentTextElement_825",
+      "parent_id": "ClauseElement_761",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(d) Compliance with Other Instruments. The execution, delivery and performanc...",
+      "text_length": 881,
+      "id": "ContentTextElement_826",
+      "parent_id": "ClauseElement_762",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(e) Purchase Entirely for Own Account. This Agreement is made with the Purcha...",
+      "text_length": 1214,
+      "id": "ContentTextElement_827",
+      "parent_id": "ClauseElement_762",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(g) Restricted Securities. The Purchaser understands that the offer and sale ...",
+      "text_length": 1679,
+      "id": "ContentTextElement_828",
+      "parent_id": "ClauseElement_763",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(o) No Other Representations and\nWarranties; Non-Reliance. Except for the spe...",
+      "text_length": 999,
+      "id": "ContentTextElement_829",
+      "parent_id": "ClauseElement_770",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Prior to the closing of the IPO, the Company expects to amend and restate its...",
+      "text_length": 165,
+      "id": "ContentTextElement_830",
+      "parent_id": "ClauseElement_773",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c) Authorization. All corporate action required to\nbe taken by the Companys...",
+      "text_length": 1378,
+      "id": "ContentTextElement_831",
+      "parent_id": "ClauseElement_776",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(d)\nValid Issuance of Securities. The Forward Purchase Shares, when issued, s...",
+      "text_length": 825,
+      "id": "ContentTextElement_832",
+      "parent_id": "ClauseElement_776",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(e) Governmental Consents\nand Filings. Assuming the accuracy of the represent...",
+      "text_length": 538,
+      "id": "ContentTextElement_833",
+      "parent_id": "ClauseElement_776",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(i) of any provisions of the Charter, bylaws or other governing documents of ...",
+      "text_length": 691,
+      "id": "ContentTextElement_834",
+      "parent_id": "ClauseElement_779",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(i) No Other Representations and Warranties; Non-Reliance. Except for the spe...",
+      "text_length": 839,
+      "id": "ContentTextElement_835",
+      "parent_id": "ClauseElement_781",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(i) The Company shall, notwithstanding any termination of this Agreement, ind...",
+      "text_length": 2526,
+      "id": "ContentTextElement_836",
+      "parent_id": "ClauseElement_783",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(ii) The Purchaser shall, severally and not jointly with any other selling st...",
+      "text_length": 1593,
+      "id": "ContentTextElement_837",
+      "parent_id": "ClauseElement_783",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(i) the applicable Transferee shall execute a signature page to this\nAgreemen...",
+      "text_length": 868,
+      "id": "ContentTextElement_838",
+      "parent_id": "ClauseElement_784",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(ii) upon a\nTransferees execution and delivery of a Joinder Agreement, the n...",
+      "text_length": 1090,
+      "id": "ContentTextElement_839",
+      "parent_id": "ClauseElement_784",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(i)\nThe Purchaser hereby acknowledges that it is aware that the Company will ...",
+      "text_length": 537,
+      "id": "ContentTextElement_840",
+      "parent_id": "ClauseElement_785",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "and liquidation rights, if any, the Purchaser may have in respect of any Publ...",
+      "text_length": 473,
+      "id": "ContentTextElement_841",
+      "parent_id": "ClauseElement_785",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c) No Short Sales. The Purchaser hereby agrees that neither it, nor any pers...",
+      "text_length": 802,
+      "id": "ContentTextElement_842",
+      "parent_id": "ClauseElement_787",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(iii) The representations and warranties of the Company set forth in Section ...",
+      "text_length": 675,
+      "id": "ContentTextElement_843",
+      "parent_id": "ClauseElement_789",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(ii) The representations and warranties of the Purchaser set forth in Section...",
+      "text_length": 678,
+      "id": "ContentTextElement_844",
+      "parent_id": "ClauseElement_794",
+      "level": 4,
+      "children_count": 2
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In the event of any termination of this Agreement\npursuant to this Section 8,...",
+      "text_length": 832,
+      "id": "ContentTextElement_845",
+      "parent_id": "ClauseElement_799",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a) Notices. All notices and other communications given or made pursuant to t...",
+      "text_length": 1084,
+      "id": "ContentTextElement_846",
+      "parent_id": "SectionElement_742",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "All communications to the Purchaser shall be sent to the Purchasers address ...",
+      "text_length": 256,
+      "id": "ContentTextElement_847",
+      "parent_id": "SectionElement_742",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) No Finders\nFees. Each party represents that it neither is nor will be ob...",
+      "text_length": 905,
+      "id": "ContentTextElement_848",
+      "parent_id": "SectionElement_742",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(e)\nSuccessors. All of the terms, agreements, covenants, representations, war...",
+      "text_length": 532,
+      "id": "ContentTextElement_849",
+      "parent_id": "ClauseElement_802",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(g) Counterparts. This Agreement may be executed in two or more counterparts,...",
+      "text_length": 189,
+      "id": "ContentTextElement_850",
+      "parent_id": "ClauseElement_803",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(h) Headings. The section headings contained in this Agreement\nare inserted f...",
+      "text_length": 176,
+      "id": "ContentTextElement_851",
+      "parent_id": "ClauseElement_803",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(j) Jurisdiction. The\nparties (i) hereby irrevocably and unconditionally subm...",
+      "text_length": 1066,
+      "id": "ContentTextElement_852",
+      "parent_id": "ClauseElement_804",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(k) Waiver of Jury Trial. The parties hereto hereby waive\nany right to a jury...",
+      "text_length": 186,
+      "id": "ContentTextElement_853",
+      "parent_id": "ClauseElement_804",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(m) Severability. The\nprovisions of this Agreement will be deemed severable a...",
+      "text_length": 787,
+      "id": "ContentTextElement_854",
+      "parent_id": "ClauseElement_805",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(n) Expenses. Each of the Company and the Purchaser will bear its own costs\na...",
+      "text_length": 534,
+      "id": "ContentTextElement_855",
+      "parent_id": "ClauseElement_805",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(o) Construction. The parties hereto have participated jointly in the negotia...",
+      "text_length": 1702,
+      "id": "ContentTextElement_856",
+      "parent_id": "ClauseElement_805",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(p) Waiver. No waiver by any party hereto of any default, misrepresentation,\n...",
+      "text_length": 359,
+      "id": "ContentTextElement_857",
+      "parent_id": "ClauseElement_805",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the undersigned have executed this Agreement to be effect...",
+      "text_length": 118,
+      "id": "ContentTextElement_858",
+      "parent_id": "ClauseElement_806",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Address for      Notices:\n \n 390 Park Avenue\nNew York, NY 10022",
+      "text_length": 63,
+      "id": "ContentTextElement_859",
+      "parent_id": "ClauseElement_806",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "By:\n \n /s/ David Bonanno\n\n\n \nName: David Bonanno\n\n\n \nTitle: Chief Financial O...",
+      "text_length": 83,
+      "id": "ContentTextElement_860",
+      "parent_id": "HeadingElement_819",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "TO BE EXECUTED UPON ANY ASSIGNMENT AND/OR REVISION IN ACCORDANCE WITH THIS AG...",
+      "text_length": 189,
+      "id": "ContentTextElement_861",
+      "parent_id": "HeadingElement_819",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Number of Forward Purchase Shares and\nPurchase Price for Forward Purchase Sha...",
+      "text_length": 174,
+      "id": "ContentTextElement_862",
+      "parent_id": "HeadingElement_819",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The following transfers of a portion of the original number of Forward Purcha...",
+      "text_length": 102,
+      "id": "ContentTextElement_863",
+      "parent_id": "HeadingElement_819",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Date ofTransfer\n  \n Transferee\n  \n\nNumber ofForwardPurchaseSharesTransferred\n...",
+      "text_length": 123,
+      "id": "ContentTextElement_864",
+      "parent_id": "HeadingElement_819",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "By:\n \n  \n  \nBy:\n \n  \n\n\n \nName:\n  \n\n \nName:\n\n\n \nTitle:\n  \n\n \nTitle:",
+      "text_length": 66,
+      "id": "ContentTextElement_865",
+      "parent_id": "HeadingElement_819",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "1.\nWithin thirty (30) days after the Business Combination Closing, the Compan...",
+      "text_length": 1738,
+      "id": "ContentTextElement_866",
+      "parent_id": "HeadingElement_820",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2. In the event the Company is prohibited by applicable rule, regulation or i...",
+      "text_length": 1137,
+      "id": "ContentTextElement_867",
+      "parent_id": "HeadingElement_820",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "3. If at any time the Company proposes to file a\nregistration statement (a R...",
+      "text_length": 2932,
+      "id": "ContentTextElement_868",
+      "parent_id": "HeadingElement_820",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4. Within three (3) Business Days after receiving notice from the Sponsor of ...",
+      "text_length": 2536,
+      "id": "ContentTextElement_869",
+      "parent_id": "HeadingElement_820",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5. The determination of whether any\noffering of Registrable Securities pursua...",
+      "text_length": 987,
+      "id": "ContentTextElement_870",
+      "parent_id": "HeadingElement_820",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "6. In connection with any underwritten offering, the Company shall enter into...",
+      "text_length": 499,
+      "id": "ContentTextElement_871",
+      "parent_id": "HeadingElement_820",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "8. The Company may suspend the use of a prospectus included in a Forward Regi...",
+      "text_length": 1743,
+      "id": "ContentTextElement_872",
+      "parent_id": "DefinitionElement_816",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "9. The Purchaser agrees that, except as\nrequired by applicable law, the Purch...",
+      "text_length": 583,
+      "id": "ContentTextElement_873",
+      "parent_id": "DefinitionElement_816",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "DefinitionElement",
+      "text": "7. The Company\nshall pay all fees and expenses incident to the performance of...",
+      "text_length": 1403,
+      "id": "DefinitionElement_816",
+      "parent_id": "HeadingElement_820",
+      "level": 3,
+      "children_count": 2,
+      "term": "shall",
+      "definition": "the out-of-pocket expenses of a Company Offering or",
+      "normalized_id": "def_shall"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Recitals",
+      "text_length": 8,
+      "id": "HeadingElement_817",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0,
+      "heading_text": "Recitals"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "COMPANY:",
+      "text_length": 8,
+      "id": "HeadingElement_818",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "COMPANY:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "FAR POINT ACQUISITION CORPORATION",
+      "text_length": 33,
+      "id": "HeadingElement_819",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 1,
+      "children_count": 6,
+      "heading_text": "FAR POINT ACQUISITION CORPORATION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "REGISTRATION RIGHTS",
+      "text_length": 19,
+      "id": "HeadingElement_820",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 1,
+      "children_count": 12,
+      "heading_text": "REGISTRATION RIGHTS"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "This Forward Purchase Agreement (this Agreement) is entered into as of May ...",
+      "text_length": 264,
+      "id": "PartyElement_807",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "Far Point Acquisition\nCorporation",
+      "party_type": "Delaware corporation (the Company)",
+      "normalized_id": "party_far_point_acquisition_corporation"
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS,\nthe Company was formed for the purpose of effecting a merger, capita...",
+      "text_length": 232,
+      "id": "RecitalElement_808",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Company intends to file with the U.S. Securities and Exchange Co...",
+      "text_length": 836,
+      "id": "RecitalElement_809",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, following the closing of the IPO (the IPO Closing), the Company wi...",
+      "text_length": 135,
+      "id": "RecitalElement_810",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the parties wish to enter into this Agreement, pursuant to which imm...",
+      "text_length": 465,
+      "id": "RecitalElement_811",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Companys Class B common stock, par value $0.0001 per share (the...",
+      "text_length": 273,
+      "id": "RecitalElement_812",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, in connection with the IPO, the Sponsor will purchase an aggregate o...",
+      "text_length": 394,
+      "id": "RecitalElement_813",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, proceeds from the IPO and the sale of the Private Placement Warrants...",
+      "text_length": 299,
+      "id": "RecitalElement_814",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW, THEREFORE, in consideration of the premises, representations, warranties...",
+      "text_length": 287,
+      "id": "RecitalElement_815",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.\nSale and Purchase.",
+      "text_length": 21,
+      "id": "SectionElement_734",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "1",
+      "section_title": "Sale and Purchase.",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2. Representations and Warranties of the Purchaser. The Purchaser represents ...",
+      "text_length": 139,
+      "id": "SectionElement_735",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 10,
+      "section_number": "2",
+      "section_title": "Representations and Warranties of the Purchaser. The Purc...",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3. Representations and Warranties of the Company. The Company represents and ...",
+      "text_length": 114,
+      "id": "SectionElement_736",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 7,
+      "section_number": "3",
+      "section_title": "Representations and Warranties of the Company. The Compan...",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4. Registration Rights; Transfer",
+      "text_length": 32,
+      "id": "SectionElement_737",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "4",
+      "section_title": "Registration Rights; Transfer",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "5. Additional Agreements and Acknowledgements of the Purchaser.",
+      "text_length": 63,
+      "id": "SectionElement_738",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "5",
+      "section_title": "Additional Agreements and Acknowledgements of the Purchaser.",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "6. Listing. The Company will use commercially reasonable efforts to effect an...",
+      "text_length": 215,
+      "id": "SectionElement_739",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "6",
+      "section_title": "Listing. The Company will use commercially reasonable eff...",
+      "normalized_id": "6"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "7. Forward Closing\nConditions.",
+      "text_length": 30,
+      "id": "SectionElement_740",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 5,
+      "section_number": "7",
+      "section_title": "Forward Closing",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "8. Termination. This Agreement may be terminated at any time prior to the For...",
+      "text_length": 90,
+      "id": "SectionElement_741",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "8",
+      "section_title": "Termination. This Agreement may be terminated at any time...",
+      "normalized_id": "8"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "9. General Provisions.",
+      "text_length": 22,
+      "id": "SectionElement_742",
+      "parent_id": "AgreementTitleElement_733",
+      "level": 2,
+      "children_count": 9,
+      "section_number": "9",
+      "section_title": "General Provisions.",
+      "normalized_id": "9"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "10. The Companys obligation under paragraph 1 of this Exhibit A is subject t...",
+      "text_length": 308,
+      "id": "SectionElement_753",
+      "parent_id": "HeadingElement_820",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "10",
+      "section_title": "The Companys obligation under paragraph 1 of this Exhibi...",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "12. The Company shall cooperate with the Purchaser, to the extent the Registr...",
+      "text_length": 506,
+      "id": "SectionElement_754",
+      "parent_id": "HeadingElement_820",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "12",
+      "section_title": "The Company shall cooperate with the Purchaser, to the ex...",
+      "normalized_id": "12"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "13. If requested by\nthe Purchaser, the Company shall as soon as practicable, ...",
+      "text_length": 926,
+      "id": "SectionElement_755",
+      "parent_id": "HeadingElement_820",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "13",
+      "section_title": "If requested by",
+      "normalized_id": "13"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "14. As long as the Purchaser shall own Registrable Securities, the Company, a...",
+      "text_length": 1093,
+      "id": "SectionElement_756",
+      "parent_id": "HeadingElement_820",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "14",
+      "section_title": "As long as the Purchaser shall own Registrable Securities...",
+      "normalized_id": "14"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "15. The rights, duties and obligations of the Purchaser under this Exhibit A ...",
+      "text_length": 284,
+      "id": "SectionElement_757",
+      "parent_id": "HeadingElement_820",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "15",
+      "section_title": "The rights, duties and obligations of the Purchaser under...",
+      "normalized_id": "15"
+    }
+  ]
+}

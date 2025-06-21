@@ -1,0 +1,96 @@
+{
+  "graph": {
+    "ClauseElement_1752": [
+      {
+        "target_id": "ClauseElement_1760",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      }
+    ],
+    "ClauseElement_1753": [
+      {
+        "target_id": "ClauseElement_1757",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ClauseElement_1754": [
+      {
+        "target_id": "ClauseElement_1758",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(c)"
+      }
+    ],
+    "ClauseElement_1756": [
+      {
+        "target_id": "ClauseElement_1760",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      }
+    ],
+    "ContentTextElement_1781": [
+      {
+        "target_id": "ClauseElement_1760",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      }
+    ],
+    "ContentTextElement_1782": [
+      {
+        "target_id": "ClauseElement_1757",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "ClauseElement_1759": [
+      {
+        "target_id": "ClauseElement_1760",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      }
+    ],
+    "ContentTextElement_1784": [
+      {
+        "target_id": "ClauseElement_1757",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(b)"
+      }
+    ],
+    "SectionElement_1748": [
+      {
+        "target_id": "ClauseElement_1760",
+        "type": "explicit",
+        "confidence": 0.9,
+        "text_snippet": "(a)"
+      }
+    ]
+  },
+  "index": {
+    "title": "AgreementTitleElement_1747",
+    "party_llc": "PartyElement_1761",
+    "b": "ClauseElement_1757",
+    "c": "ClauseElement_1758",
+    "a": "ClauseElement_1760",
+    "d": "ClauseElement_1755",
+    "party_inc_": "PartyElement_1762",
+    "1": "SectionElement_1748",
+    "2": "SectionElement_1749"
+  },
+  "statistics": {
+    "total_references": 9,
+    "explicit_references": 9,
+    "implicit_references": 0,
+    "validated_references": 0,
+    "average_confidence": 0.9000000000000001,
+    "elements_with_references": 9,
+    "total_indexed_elements": 9
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TextElement",
+    "text": "Exhibit\n10.1"
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "AMENDMENT",
+    "level": 0
+  },
+  {
+    "id": "element_0002",
+    "cls": "TextElement",
+    "text": "THIS\nAMENDMENT to the Note (as defined below) (the “Amendment”) is entered into as of February 9, 2024 (the “Effective\nDate”), by and between Clearday, Inc., a Delaware corporation (the “Company”), and Mast Hill Fund, L.P., a Delaware\nlimited partnership (the “Holder”) (collectively the “Parties”)."
+  },
+  {
+    "id": "element_0003",
+    "cls": "TitleElement",
+    "text": "BACKGROUND",
+    "level": 0
+  },
+  {
+    "id": "element_0004",
+    "cls": "TextElement",
+    "text": "A.\nThe Company and Holder are the parties to that certain promissory note in the original principal amount of $756,000.00 dated\non or around January 12, 2023 (as amended from time to time, the “Note”); andB.\nThe Parties desire to amend the Note as set forth expressly below.NOW\nTHEREFORE, in consideration of the execution and delivery of the Amendment and other good and valuable consideration, the receipt and\nsufficiency of which are hereby acknowledged, the Parties agree as follows:1.\nThe Parties hereby agree that the Holder shall fund an additional $100,000.00 to the Company under the Note, which shall result in an\nincrease of $111,111.11 of principal to the Note (the “Note Additional Funding”).2.\nIn connection with the Note Additional Funding, the Company shall issue a common stock purchase warrant to the Holder on the Effective\nDate, a copy of which is attached hereto as Exhibit “A”, which shall be earned in full as of the Effective Date.3.\nSection 4.6 of the Note shall apply to this Amendment.4.\nThis Amendment may be executed in two or more counterparts, each of which when so executed and delivered to the other party shall be\ndeemed an original. The executed page(s) from each original may be joined together and attached to one such original and shall thereupon\nconstitute one and the same instrument. Such counterparts may be delivered via facsimile, electronic mail (including pdf or any electronic\nsignature complying with the U.S. federal ESIGN Act of 2000, e.g., www.docusign.com) or other transmission method and any counterpart\nso delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.5.\nThis Amendment shall be deemed part of, but shall take precedence over and supersede any provisions to the contrary contained in the\nNote. Except as specifically modified hereby, all of the provisions of the Note, which are not in conflict with the terms of this Amendment,\nshall remain in full force and effect."
+  },
+  {
+    "id": "element_0005",
+    "cls": "TitleElement",
+    "text": "[Signature\npage to follow]",
+    "level": 1
+  },
+  {
+    "id": "element_0006",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 1  Field: /Page IN\nWITNESS WHEREOF, the parties hereto have executed this Amendment as of the date first above written."
+  },
+  {
+    "id": "element_0007",
+    "cls": "TableElement",
+    "text": "Clearday,\n    Inc.\n \nMast Hill Fund, L.P.\n\n \n \n \n \n \n\nBy:\n/s/\n    James Walesa\n \nBy:\n/s/ Patrick\n    Hassani\n\nName:\nJames\n    Walesa\n \nName:\nPatrick\n    Hassani\n\nTitle:\nChief\n    Executive Officer\n \nTitle:\nChief\n    Investment Officer"
+  },
+  {
+    "id": "element_0008",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 2  Field: /Page"
+  },
+  {
+    "id": "element_0009",
+    "cls": "TitleElement",
+    "text": "Exhibit\nA",
+    "level": 1
+  },
+  {
+    "id": "element_0010",
+    "cls": "SupplementaryText",
+    "text": "(see attached)"
+  },
+  {
+    "id": "element_0011",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 3; Options: Last  Field: /Page"
+  }
+]

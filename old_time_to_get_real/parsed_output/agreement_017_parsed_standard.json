@@ -1,0 +1,41 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TitleElement",
+    "text": "Exhibit 10.21.16",
+    "level": 0
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "AMENDMENT NUMBER 12 TO THE",
+    "level": 1
+  },
+  {
+    "id": "element_0002",
+    "cls": "TitleElement",
+    "text": "METLIFE AUXILIARY RETIREMENT PLAN",
+    "level": 1
+  },
+  {
+    "id": "element_0003",
+    "cls": "SupplementaryText",
+    "text": "(As amended and restated effective January 1, 2008)"
+  },
+  {
+    "id": "element_0004",
+    "cls": "TextElement",
+    "text": "The MetLife Auxiliary Retirement Plan (the “Plan”) is hereby amended, effective as of December 1, 2023, as follows:Section 4.9 shall be added with the following language:4.9    Dodd-Frank Recoupment/Clawback: Notwithstanding anything contained herein to the contrary, a Participant’s Plan benefit shall be and remain subject to any incentive compensation clawback or recoupment policy currently in effect or as may be adopted by MetLife, Inc. or any of its Affiliates and, in each case, as may be amended from time to time. No such policy adoption or amendment shall in any event require the prior consent from a Participant. No recovery of compensation under such a clawback or recoupment policy will be an event giving rise to a right to resign for “good reason” or “constructive termination” (or similar term) under any agreement with MetLife, Inc. or any of its Affiliates.IN WITNESS WHEREOF, the Company has caused this Amendment to be adopted in its name and behalf this __20th__ day of __November______, 2023, by its officer thereunto duly authorized."
+  },
+  {
+    "id": "element_0005",
+    "cls": "TitleElement",
+    "text": "METROPOLITAN LIFE INSURANCE COMPANY",
+    "level": 2
+  },
+  {
+    "id": "element_0006",
+    "cls": "TextElement",
+    "text": "By: __/s/ Andrew J. Bernstein______________________________Andrew J. Bernstein, Plan AdministratorATTEST: ___/s/ Danielle Hodorowski___________________________________"
+  }
+]

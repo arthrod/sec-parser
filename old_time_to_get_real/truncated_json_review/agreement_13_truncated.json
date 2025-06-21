@@ -1,0 +1,1726 @@
+{
+  "agreement_summary": {
+    "number": 13,
+    "filename": "agreement_13.html",
+    "title": "NINTH AMENDMENT",
+    "total_elements": 178,
+    "hierarchical_elements": 148,
+    "total_text_chars": 72161,
+    "element_type_counts": {
+      "TextElement": 9,
+      "TableOfContentsElement": 1,
+      "TableElement": 20,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 12,
+      "ContentTextElement": 84,
+      "DefinitionElement": 2,
+      "HeadingElement": 31,
+      "PartyElement": 4,
+      "RecitalElement": 1,
+      "SectionElement": 13
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "TO",
+      "text_length": 2
+    },
+    {
+      "class_name": "TextElement",
+      "text": "AMONG",
+      "text_length": 5
+    },
+    {
+      "class_name": "TextElement",
+      "text": "as Borrower,",
+      "text_length": 12
+    },
+    {
+      "class_name": "TextElement",
+      "text": "as Administrative Agent, and",
+      "text_length": 28
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Sole Lead Arranger and Sole Book Runner Wells Fargo Securities, LLC Syndicati...",
+      "text_length": 145
+    },
+    {
+      "class_name": "TableOfContentsElement",
+      "text": "Page\n \n\n ARTICLE I DEFINITIONS AND ACCOUNTING MATTERS\n  \n \n1\n \n\n Section 1.01...",
+      "text_length": 2215
+    },
+    {
+      "class_name": "TextElement",
+      "text": "i",
+      "text_length": 1
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Section 7.08\n    \n Investment Company Act\n  \n \n46\n \n\n Section 7.09\n    \n Taxe...",
+      "text_length": 2571
+    },
+    {
+      "class_name": "TextElement",
+      "text": "ii",
+      "text_length": 2
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Section 9.10\n    \n [Reserved]\n  \n \n69\n \n\n Section 9.11\n    \n Mergers, Etc.\n  ...",
+      "text_length": 2672
+    },
+    {
+      "class_name": "TextElement",
+      "text": "iii",
+      "text_length": 3
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Section 12.19\n \n General Partner Liability\n  \n \n96\n \n\n Section 12.20\n \n [Rese...",
+      "text_length": 241
+    },
+    {
+      "class_name": "TableElement",
+      "text": "ANNEXES:\n  \n\n\n\n\n\nAnnex 1\n  \nCommitments\n\n\n\n\nSCHEDULES:\n  \n\n\n\n\n\nSchedule 1.02\n...",
+      "text_length": 592
+    },
+    {
+      "class_name": "TextElement",
+      "text": "iv",
+      "text_length": 2
+    },
+    {
+      "class_name": "TableElement",
+      "text": "BORROWER:\n \n\n \nLEGACY RESERVES LP\n\n\n\n\n\n\n\n \n\n \nBy:\n \nLegacy Reserves GP, LLC,\n...",
+      "text_length": 945
+    },
+    {
+      "class_name": "TableElement",
+      "text": "LEGACY RESERVES SERVICES, INC.\n\n\n\nDEW GATHERING LLC\n\n\n\nPINNACLE GAS TREATING ...",
+      "text_length": 301
+    },
+    {
+      "class_name": "TableElement",
+      "text": "UBS AG, STAMFORD BRANCH\n\n\n\n\nBy:\n \n /s/ Darlene Arias\n\nName:\n \nDarlene Arias\n\n...",
+      "text_length": 175
+    },
+    {
+      "class_name": "TableElement",
+      "text": "BANK OF AMERICA, N.A.\n\n\n\n\nBy:\n \n /s/ Kevin M. Behan\n\nName:\n \nKevin M. Behan\n\n...",
+      "text_length": 103
+    },
+    {
+      "class_name": "TableElement",
+      "text": "ROYAL BANK OF CANADA\n\n\n\n\nBy:\n \n /s/ Jay T. Sartain\n\nName:\n \nJay T. Sartain\n\nT...",
+      "text_length": 105
+    },
+    {
+      "class_name": "TableElement",
+      "text": "AG ENERGY FUNDING, LLC\n\n\n\n\nBy:\n \n /s/ Todd Dittman\n\nName:\n \nTodd Dittman\n\nTit...",
+      "text_length": 103
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "TO",
+      "text_length": 2
+    },
+    {
+      "class_name": "TextElement",
+      "text": "AMONG",
+      "text_length": 5
+    },
+    {
+      "class_name": "TextElement",
+      "text": "as Borrower,",
+      "text_length": 12
+    },
+    {
+      "class_name": "TextElement",
+      "text": "as Administrative Agent, and",
+      "text_length": 28
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Sole Lead Arranger and Sole Book Runner Wells Fargo Securities, LLC Syndicati...",
+      "text_length": 145
+    },
+    {
+      "class_name": "TableOfContentsElement",
+      "text": "Page\n \n\n ARTICLE I DEFINITIONS AND ACCOUNTING MATTERS\n  \n \n1\n \n\n Section 1.01...",
+      "text_length": 2215
+    },
+    {
+      "class_name": "TextElement",
+      "text": "i",
+      "text_length": 1
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Section 7.08\n    \n Investment Company Act\n  \n \n46\n \n\n Section 7.09\n    \n Taxe...",
+      "text_length": 2571
+    },
+    {
+      "class_name": "TextElement",
+      "text": "ii",
+      "text_length": 2
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Section 9.10\n    \n [Reserved]\n  \n \n69\n \n\n Section 9.11\n    \n Mergers, Etc.\n  ...",
+      "text_length": 2672
+    },
+    {
+      "class_name": "TextElement",
+      "text": "iii",
+      "text_length": 3
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Section 12.19\n \n General Partner Liability\n  \n \n96\n \n\n Section 12.20\n \n [Rese...",
+      "text_length": 241
+    },
+    {
+      "class_name": "TableElement",
+      "text": "ANNEXES:\n  \n\n\n\n\n\nAnnex 1\n  \nCommitments\n\n\n\n\nSCHEDULES:\n  \n\n\n\n\n\nSchedule 1.02\n...",
+      "text_length": 592
+    },
+    {
+      "class_name": "TextElement",
+      "text": "iv",
+      "text_length": 2
+    },
+    {
+      "class_name": "TableElement",
+      "text": "BORROWER:\n \n\n \nLEGACY RESERVES LP\n\n\n\n\n\n\n\n \n\n \nBy:\n \nLegacy Reserves GP, LLC,\n...",
+      "text_length": 945
+    },
+    {
+      "class_name": "TableElement",
+      "text": "LEGACY RESERVES SERVICES, INC.\n\n\n\nDEW GATHERING LLC\n\n\n\nPINNACLE GAS TREATING ...",
+      "text_length": 301
+    },
+    {
+      "class_name": "TableElement",
+      "text": "UBS AG, STAMFORD BRANCH\n\n\n\n\nBy:\n \n /s/ Darlene Arias\n\nName:\n \nDarlene Arias\n\n...",
+      "text_length": 175
+    },
+    {
+      "class_name": "TableElement",
+      "text": "BANK OF AMERICA, N.A.\n\n\n\n\nBy:\n \n /s/ Kevin M. Behan\n\nName:\n \nKevin M. Behan\n\n...",
+      "text_length": 103
+    },
+    {
+      "class_name": "TableElement",
+      "text": "ROYAL BANK OF CANADA\n\n\n\n\nBy:\n \n /s/ Jay T. Sartain\n\nName:\n \nJay T. Sartain\n\nT...",
+      "text_length": 105
+    },
+    {
+      "class_name": "TableElement",
+      "text": "AG ENERGY FUNDING, LLC\n\n\n\n\nBy:\n \n /s/ Todd Dittman\n\nName:\n \nTodd Dittman\n\nTit...",
+      "text_length": 103
+    },
+    {
+      "class_name": "TableElement",
+      "text": "JPMORGAN CHASE BANK, N.A.\n\n\n\n\nBy:\n \n /s/ Stephanie Balette\n\nName:\n \nStephanie...",
+      "text_length": 114
+    },
+    {
+      "class_name": "TableElement",
+      "text": "BMO HARRIS FINANCING, INC.\n\n\n\n\nBy:\n \n /s/ Melissa Guzmann\n\nName:\n \nMelissa Gu...",
+      "text_length": 101
+    },
+    {
+      "class_name": "TableElement",
+      "text": "BARCLAYS BANK PLC\n\n\n\n\nBy:\n \n /s/ Sydney G. Dennis\n\nName:\n \nSydney G. Dennis\n\n...",
+      "text_length": 94
+    },
+    {
+      "class_name": "TableElement",
+      "text": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK\n\n\n\n\nBy:\n \n /s/ Michael Willis\n\n...",
+      "text_length": 209
+    },
+    {
+      "class_name": "TableElement",
+      "text": "CITIBANK, N.A.\n\n\n\n\nBy:\n \n /s/ Cliff Vaz\n\nName:\n \nCliff Vaz\n\nTitle:\n \nVice Pre...",
+      "text_length": 83
+    },
+    {
+      "class_name": "TableElement",
+      "text": "SOCIETE GENERALE\n\n\n\n\nBy:\n \n /s/ Max Sonnonstine\n\nName:\n \nMax Sonnonstine\n\nTit...",
+      "text_length": 91
+    },
+    {
+      "class_name": "TableElement",
+      "text": "BRANCH BANKING AND TRUST\nCOMPANY\n\n\n\n\nBy:\n \n /s/ Greg Krablin\n\nName:\n \nGreg Kr...",
+      "text_length": 107
+    },
+    {
+      "class_name": "TableElement",
+      "text": "WEST TEXAS NATIONAL BANK\n\n\n\n\nBy:\n \n /s/ C. Scott Wilson\n\nName:\n \nC. Scott Wil...",
+      "text_length": 112
+    },
+    {
+      "class_name": "TableElement",
+      "text": "FIFTH THIRD BANK\n\n\n\n\nBy:\n \n /s/ Justin Bellamy\n\nName:\n \nJustin Bellamy\n\nTitle...",
+      "text_length": 89
+    },
+    {
+      "class_name": "TableElement",
+      "text": "BP ENERGY COMPANY\n\n\n\n\nBy:\n \n /s/ Timothy Yee\n\nName:\n \nTimothy Yee\n\nTitle:\n \nA...",
+      "text_length": 92
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "NINTH AMENDMENT",
+      "text_length": 15,
+      "id": "AgreementTitleElement_930",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 28,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(e) The definition of Indebtedness is hereby amended by replacing the phras...",
+      "text_length": 220,
+      "id": "ClauseElement_1000",
+      "parent_id": "PartyElement_1011",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(e)",
+      "clause_text": "The definition of Indebtedness is hereby amended by replacing the phrase r...",
+      "normalized_id": "e"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(f) The definition of\nSecond Lien Loan Documents is hereby amended by repla...",
+      "text_length": 210,
+      "id": "ClauseElement_1001",
+      "parent_id": "PartyElement_1011",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(f)",
+      "clause_text": "The definition of",
+      "normalized_id": "f"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(g) Each of the definitions Consolidated Cash Balance, First Lien Debt,\n...",
+      "text_length": 219,
+      "id": "ClauseElement_1002",
+      "parent_id": "PartyElement_1011",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(g)",
+      "clause_text": "Each of the definitions Consolidated Cash Balance, First Lien Debt,",
+      "normalized_id": "g"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(h) Each of the definitions Available Cash and Legacy Reserves GP, LLC is...",
+      "text_length": 109,
+      "id": "ClauseElement_1003",
+      "parent_id": "PartyElement_1011",
+      "level": 3,
+      "children_count": 5,
+      "clause_id": "(h)",
+      "clause_text": "Each of the definitions Available Cash and Legacy Reserves GP, LLC is her...",
+      "normalized_id": "h"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(h) Other Accounting Reports. Promptly upon receipt\nthereof, a copy of each o...",
+      "text_length": 428,
+      "id": "ClauseElement_1004",
+      "parent_id": "PartyElement_1011",
+      "level": 3,
+      "children_count": 5,
+      "clause_id": "(h)",
+      "clause_text": "Other Accounting Reports. Promptly upon receipt",
+      "normalized_id": "h"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(m) loans and advances made by the Borrower to the Parent to the extent any s...",
+      "text_length": 330,
+      "id": "ClauseElement_1005",
+      "parent_id": "HeadingElement_1024",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(m)",
+      "clause_text": "loans and advances made by the Borrower to the Parent to the extent any such ...",
+      "normalized_id": "m"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "U.S. Bank National Association",
+      "text_length": 30,
+      "id": "ClauseElement_994",
+      "parent_id": "HeadingElement_1018",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(U)",
+      "normalized_id": "u"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "C. The Borrower, the Guarantors, the Administrative Agent and the Lenders hav...",
+      "text_length": 178,
+      "id": "ClauseElement_995",
+      "parent_id": "HeadingElement_1022",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(C)",
+      "clause_text": "The Borrower, the Guarantors, the Administrative Agent and the Lenders have a...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) The following definitions are hereby amended and restated in their entire...",
+      "text_length": 99,
+      "id": "ClauseElement_996",
+      "parent_id": "HeadingElement_1023",
+      "level": 3,
+      "children_count": 11,
+      "clause_id": "(a)",
+      "clause_text": "The following definitions are hereby amended and restated in their entirety t...",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) The following definitions are hereby added where alphabetically appropria...",
+      "text_length": 99,
+      "id": "ClauseElement_997",
+      "parent_id": "HeadingElement_1023",
+      "level": 3,
+      "children_count": 3,
+      "clause_id": "(b)",
+      "clause_text": "The following definitions are hereby added where alphabetically appropriate t...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c) Clause (e) of the definition of Excepted Liens is hereby amended by rep...",
+      "text_length": 167,
+      "id": "ClauseElement_998",
+      "parent_id": "PartyElement_1011",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(c)",
+      "clause_text": "Clause (e) of the definition of Excepted Liens is hereby amended by replaci...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(d) Clause (i) of the definition of Excluded\nAccounts is hereby amended by ...",
+      "text_length": 170,
+      "id": "ClauseElement_999",
+      "parent_id": "PartyElement_1011",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(d)",
+      "clause_text": "Clause (i) of the definition of Excluded",
+      "normalized_id": "d"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "A. The Borrower, the\nAdministrative Agent and the Lenders are parties to that...",
+      "text_length": 1281,
+      "id": "ContentTextElement_1044",
+      "parent_id": "HeadingElement_1022",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "B. The Guarantors are parties to that\ncertain Third Amended and Restated Guar...",
+      "text_length": 224,
+      "id": "ContentTextElement_1045",
+      "parent_id": "HeadingElement_1022",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Agreement means this Third Amended and Restated Credit Agreement, as amende...",
+      "text_length": 360,
+      "id": "ContentTextElement_1046",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Change in Control means (a) the Parent ceases to (i) be the Beneficial Owne...",
+      "text_length": 1446,
+      "id": "ContentTextElement_1047",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Consolidated Net Income means with respect to the Parent and the Consolidat...",
+      "text_length": 914,
+      "id": "ContentTextElement_1048",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Subsidiary), as the case may be; (b) the net income (but not loss) during suc...",
+      "text_length": 1052,
+      "id": "ContentTextElement_1049",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Consolidated Subsidiaries means, (a) with respect to the Borrower, each Sub...",
+      "text_length": 573,
+      "id": "ContentTextElement_1050",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Continuing Directors means, as of any date of determination, any member of ...",
+      "text_length": 419,
+      "id": "ContentTextElement_1051",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "EBITDA means, for any\nperiod, Consolidated Net Income for such period plus,...",
+      "text_length": 1243,
+      "id": "ContentTextElement_1052",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "writeups or writedowns of assets, including ceiling test writedowns, and asse...",
+      "text_length": 1386,
+      "id": "ContentTextElement_1053",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Guarantors means (a) Legacy Reserves Operating LP, (b) Legacy Reserves Oper...",
+      "text_length": 734,
+      "id": "ContentTextElement_1054",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Pledge Agreement means the Third Amended and Restated Pledge Agreement of e...",
+      "text_length": 286,
+      "id": "ContentTextElement_1055",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Subsidiary means, with respect to any Person (the parent), (a) any other ...",
+      "text_length": 959,
+      "id": "ContentTextElement_1056",
+      "parent_id": "ClauseElement_996",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "GP Purchase means the acquisition by the Parent from the GP Sellers of 100%...",
+      "text_length": 270,
+      "id": "ContentTextElement_1057",
+      "parent_id": "ClauseElement_997",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "GP Purchase Agreement means that certain GP Purchase Agreement, dated as of...",
+      "text_length": 847,
+      "id": "ContentTextElement_1058",
+      "parent_id": "ClauseElement_997",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "GP Sellers means, collectively, Brothers Production Properties, Ltd., Broth...",
+      "text_length": 237,
+      "id": "ContentTextElement_1059",
+      "parent_id": "ClauseElement_997",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "otherwise modified from time to time (without giving effect to any amendments...",
+      "text_length": 365,
+      "id": "ContentTextElement_1060",
+      "parent_id": "PartyElement_1010",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Ninth Amendment means that certain Ninth Amendment to Third Amended and Res...",
+      "text_length": 220,
+      "id": "ContentTextElement_1061",
+      "parent_id": "PartyElement_1010",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Ninth Amendment Effective Date has the meaning ascribed to such term in the...",
+      "text_length": 94,
+      "id": "ContentTextElement_1062",
+      "parent_id": "PartyElement_1010",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Parent Guarantors means, collectively, the Parent and Legacy GP.",
+      "text_length": 66,
+      "id": "ContentTextElement_1063",
+      "parent_id": "PartyElement_1011",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Reorganization Transactions means the corporate reorganization of the Borro...",
+      "text_length": 816,
+      "id": "ContentTextElement_1064",
+      "parent_id": "PartyElement_1011",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Subsidiary Guarantor means any Subsidiary of the Borrower that is a Guarantor.",
+      "text_length": 80,
+      "id": "ContentTextElement_1065",
+      "parent_id": "PartyElement_1011",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.2 Amendment to Section 2.08(j). Section 2.08(j) is hereby amended by replac...",
+      "text_length": 209,
+      "id": "ContentTextElement_1066",
+      "parent_id": "ClauseElement_1003",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.3 Amendment to\nSection 3.04(d). Section 3.04(d) is hereby amended by (a) re...",
+      "text_length": 343,
+      "id": "ContentTextElement_1067",
+      "parent_id": "ClauseElement_1003",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.4 Amendment to Section 7.14. Section 7.14 is hereby amended by adding a new...",
+      "text_length": 370,
+      "id": "ContentTextElement_1068",
+      "parent_id": "ClauseElement_1003",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.5 Amendment to Section 7.21. Clause (b) of Section 7.21 is hereby amended a...",
+      "text_length": 186,
+      "id": "ContentTextElement_1069",
+      "parent_id": "ClauseElement_1003",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.6 Amendment\nto Article VII. Article VII is hereby amended by (a) replacing ...",
+      "text_length": 374,
+      "id": "ContentTextElement_1070",
+      "parent_id": "ClauseElement_1003",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.7 Amendment to Section 8.01(a)-(c). Each of Sections 8.01(a), (b) and\n(c) i...",
+      "text_length": 142,
+      "id": "ContentTextElement_1071",
+      "parent_id": "SectionElement_939",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a) Annual Financial Statements. As\nsoon as available, but in any event not l...",
+      "text_length": 1077,
+      "id": "ContentTextElement_1072",
+      "parent_id": "SectionElement_939",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) Quarterly Financial\nStatements. As soon as available, but in any event no...",
+      "text_length": 1069,
+      "id": "ContentTextElement_1073",
+      "parent_id": "SectionElement_939",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c)\nCertificate of Financial Officer  Compliance. Concurrently with any deli...",
+      "text_length": 837,
+      "id": "ContentTextElement_1074",
+      "parent_id": "SectionElement_939",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.8 Amendment to Section 8.01(h). Section 8.01(h) is hereby\namended and resta...",
+      "text_length": 116,
+      "id": "ContentTextElement_1075",
+      "parent_id": "SectionElement_939",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.9\nAmendment to Section 8.01(i). Section 8.01(i) is hereby amended by replac...",
+      "text_length": 175,
+      "id": "ContentTextElement_1076",
+      "parent_id": "ClauseElement_1004",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.10 Amendment to Section 8.01(p). Section 8.01(p) is hereby amended by repla...",
+      "text_length": 204,
+      "id": "ContentTextElement_1077",
+      "parent_id": "ClauseElement_1004",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.11 Amendment to\nSection 8.01(q). Section 8.01(q) is hereby amended by repla...",
+      "text_length": 204,
+      "id": "ContentTextElement_1078",
+      "parent_id": "ClauseElement_1004",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.12 Amendment to Section 8.02(b). Section 8.02(b) is hereby amended by repla...",
+      "text_length": 221,
+      "id": "ContentTextElement_1079",
+      "parent_id": "ClauseElement_1004",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.13 Amendment to Article VIII. Article VIII is hereby amended by (a) replaci...",
+      "text_length": 398,
+      "id": "ContentTextElement_1080",
+      "parent_id": "ClauseElement_1004",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.14 Amendment to Section 9.01. Section 9.01 is hereby amended by replacing e...",
+      "text_length": 136,
+      "id": "ContentTextElement_1081",
+      "parent_id": "SectionElement_947",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.15 Amendment to Section 9.04(a). Section 9.04(a) is hereby\namended and rest...",
+      "text_length": 117,
+      "id": "ContentTextElement_1082",
+      "parent_id": "SectionElement_947",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a) Restricted Payments. The Borrower and the Parent\nGuarantors will not, and...",
+      "text_length": 2685,
+      "id": "ContentTextElement_1083",
+      "parent_id": "SectionElement_947",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.16 Amendment to Section 9.04(b)(i). Section 9.04(b)(i) is hereby amended by...",
+      "text_length": 462,
+      "id": "ContentTextElement_1084",
+      "parent_id": "SectionElement_947",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a) Section 9.05(g) is hereby amended and restated in its entirety to read as...",
+      "text_length": 86,
+      "id": "ContentTextElement_1085",
+      "parent_id": "HeadingElement_1024",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(g) Investments (i) made by the Borrower in or to the Subsidiary Guarantors, ...",
+      "text_length": 583,
+      "id": "ContentTextElement_1086",
+      "parent_id": "HeadingElement_1024",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) Section 9.05(m) is hereby added to Section 9.05 to read as follows:",
+      "text_length": 71,
+      "id": "ContentTextElement_1087",
+      "parent_id": "HeadingElement_1024",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.18 Amendment to Section 9.11. Section 9.11 is hereby amended by deleting th...",
+      "text_length": 118,
+      "id": "ContentTextElement_1088",
+      "parent_id": "ClauseElement_1005",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.19 Amendment to Section 9.14. Section 9.14 is hereby amended and restated i...",
+      "text_length": 111,
+      "id": "ContentTextElement_1089",
+      "parent_id": "ClauseElement_1005",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.20 Amendment to Section 9.21(a). The final proviso of\nSection 9.21(a) is he...",
+      "text_length": 545,
+      "id": "ContentTextElement_1090",
+      "parent_id": "SectionElement_954",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.21 Amendments to Article IX. Article IX is hereby amended by (a) replacing ...",
+      "text_length": 493,
+      "id": "ContentTextElement_1091",
+      "parent_id": "SectionElement_954",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Refinancing Debt of the foregoing to which it is a party or (C) pursuant to S...",
+      "text_length": 1219,
+      "id": "ContentTextElement_1092",
+      "parent_id": "SectionElement_957",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "agreement (any such payment, an LTIP Payment) on account of or in connectio...",
+      "text_length": 387,
+      "id": "ContentTextElement_1093",
+      "parent_id": "SectionElement_960",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.22 Amendment to Section 10.01. Section 10.01 is hereby amended by replacing...",
+      "text_length": 309,
+      "id": "ContentTextElement_1094",
+      "parent_id": "SectionElement_960",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.23 Amendment to Section 12.03(b)(ii). Section 12.03(b)(ii) is hereby amende...",
+      "text_length": 209,
+      "id": "ContentTextElement_1095",
+      "parent_id": "SectionElement_960",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.24 Amendment to\nSection 12.08. Section 12.08 is hereby amended by replacing...",
+      "text_length": 206,
+      "id": "ContentTextElement_1096",
+      "parent_id": "SectionElement_960",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "2.25 Amendment to Section 12.19. Section 12.19 is hereby amended and restated...",
+      "text_length": 113,
+      "id": "ContentTextElement_1097",
+      "parent_id": "SectionElement_960",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "3.1 So long as the Ninth Amendment Effective Date has occurred by December 31...",
+      "text_length": 546,
+      "id": "ContentTextElement_1098",
+      "parent_id": "SectionElement_966",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "to the Borrowers payment of cash in lieu of fractional shares held by its li...",
+      "text_length": 552,
+      "id": "ContentTextElement_1099",
+      "parent_id": "SectionElement_966",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "3.2 Except as\nexpressly waived herein, all covenants, obligations and agreeme...",
+      "text_length": 1495,
+      "id": "ContentTextElement_1100",
+      "parent_id": "SectionElement_966",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.1 The Administrative Agent shall have received from the Majority Lenders, t...",
+      "text_length": 243,
+      "id": "ContentTextElement_1101",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.2 The Administrative Agent shall\nhave received from the Borrower and each G...",
+      "text_length": 562,
+      "id": "ContentTextElement_1102",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.3 The Administrative Agent shall be reasonably satisfied that the Security ...",
+      "text_length": 450,
+      "id": "ContentTextElement_1103",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.4 The Administrative Agent shall have received a certificate (which may be ...",
+      "text_length": 1110,
+      "id": "ContentTextElement_1104",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.5 The Administrative Agent shall have received certificates of the\nappropri...",
+      "text_length": 192,
+      "id": "ContentTextElement_1105",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.6 The\nAdministrative Agent shall have received an opinion of Kirkland & Ell...",
+      "text_length": 264,
+      "id": "ContentTextElement_1106",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.7 The Administrative Agent shall have received an executed copy of an amend...",
+      "text_length": 478,
+      "id": "ContentTextElement_1107",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.8 The Administrative\nAgent shall have received a certificate (which may be ...",
+      "text_length": 1026,
+      "id": "ContentTextElement_1108",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.9 The Administrative Agent and the Lenders shall have\nreceived all fees and...",
+      "text_length": 546,
+      "id": "ContentTextElement_1109",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "executed this Ninth Amendment (each such Lender, a Consenting Lender), in a...",
+      "text_length": 450,
+      "id": "ContentTextElement_1110",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.10 The Administrative Agent shall have received a certificate (which may be...",
+      "text_length": 2198,
+      "id": "ContentTextElement_1111",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.11 No Default shall have occurred and be continuing as of the Ninth Amendme...",
+      "text_length": 95,
+      "id": "ContentTextElement_1112",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "4.12 The Administrative Agent shall have received such other documents as the...",
+      "text_length": 137,
+      "id": "ContentTextElement_1113",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Administrative Agent is hereby authorized and directed to declare this Ni...",
+      "text_length": 542,
+      "id": "ContentTextElement_1114",
+      "parent_id": "SectionElement_969",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.1 Confirmation. The provisions of the Credit Agreement, as amended by this ...",
+      "text_length": 184,
+      "id": "ContentTextElement_1115",
+      "parent_id": "SectionElement_982",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.2 Ratification and Affirmation; Representations and Warranties. Each\nObligo...",
+      "text_length": 1591,
+      "id": "ContentTextElement_1116",
+      "parent_id": "SectionElement_982",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.4 No Oral\nAgreement. This Ninth Amendment, the Credit Agreement and the oth...",
+      "text_length": 363,
+      "id": "ContentTextElement_1117",
+      "parent_id": "DefinitionElement_1012",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.5\nGOVERNING LAW. THIS NINTH AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED I...",
+      "text_length": 127,
+      "id": "ContentTextElement_1118",
+      "parent_id": "DefinitionElement_1012",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.6 Payment of Expenses. In accordance with Section 12.03 of the Credit Agree...",
+      "text_length": 470,
+      "id": "ContentTextElement_1119",
+      "parent_id": "DefinitionElement_1012",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.7 Severability. Any provision of this Ninth Amendment which is prohibited o...",
+      "text_length": 419,
+      "id": "ContentTextElement_1120",
+      "parent_id": "DefinitionElement_1012",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.8 Successors and\nAssigns. This Ninth Amendment shall be binding upon and in...",
+      "text_length": 162,
+      "id": "ContentTextElement_1121",
+      "parent_id": "DefinitionElement_1012",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.9 Loan Document. This Ninth Amendment is a Loan Document as defined and d...",
+      "text_length": 217,
+      "id": "ContentTextElement_1122",
+      "parent_id": "DefinitionElement_1012",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.10 RELEASE. FOR GOOD AND\nVALUABLE CONSIDERATION, THE RECEIPT AND SUFFICIENC...",
+      "text_length": 1765,
+      "id": "ContentTextElement_1123",
+      "parent_id": "DefinitionElement_1012",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "5.11\nTermination. Notwithstanding anything herein to the contrary, to the ext...",
+      "text_length": 629,
+      "id": "ContentTextElement_1124",
+      "parent_id": "DefinitionElement_1012",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the parties hereto have caused this Ninth Amendment to be...",
+      "text_length": 127,
+      "id": "ContentTextElement_1125",
+      "parent_id": "HeadingElement_1025",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ADMINISTRATIVE AGENT:\n \n\n \nWELLS FARGO BANK, NATIONAL\n\n\n \n\n \nASSOCIATION, as ...",
+      "text_length": 215,
+      "id": "ContentTextElement_1126",
+      "parent_id": "HeadingElement_1027",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "LENDERS:\n \n\n \nCOMPASS BANK\n\n\n\n\n\n\n\n \n\n \nBy:\n \n /s/ Rachel Festervand\n\n\n \n\n \nNa...",
+      "text_length": 138,
+      "id": "ContentTextElement_1127",
+      "parent_id": "HeadingElement_1028",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "DefinitionElement",
+      "text": "Unless otherwise indicated herein, each reference to the term Subsidiary sh...",
+      "text_length": 859,
+      "id": "DefinitionElement_1008",
+      "parent_id": "HeadingElement_1023",
+      "level": 3,
+      "children_count": 0,
+      "term": "shall",
+      "definition": "a Subsidiary of the Borrower. Notwithstanding the foregoing, until such time as the Borrower",
+      "normalized_id": "def_shall"
+    },
+    {
+      "class_name": "DefinitionElement",
+      "text": "5.3 Counterparts. This Ninth Amendment may be\nexecuted by one or more of the ...",
+      "text_length": 397,
+      "id": "DefinitionElement_1012",
+      "parent_id": "SectionElement_982",
+      "level": 3,
+      "children_count": 8,
+      "term": "email or other electronic",
+      "definition": "shall be effective as delivery of a manually executed counterpart hereof.",
+      "normalized_id": "def_email_or_other_electronic"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "THIRD AMENDED AND RESTATED CREDIT AGREEMENT",
+      "text_length": 43,
+      "id": "HeadingElement_1013",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "THIRD AMENDED AND RESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "LEGACY RESERVES LP,",
+      "text_length": 19,
+      "id": "HeadingElement_1014",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "LEGACY RESERVES LP,"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "THE\nGUARANTORS,",
+      "text_length": 15,
+      "id": "HeadingElement_1015",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "THE\nGUARANTORS,"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "WELLS FARGO BANK, NATIONAL\nASSOCIATION,",
+      "text_length": 39,
+      "id": "HeadingElement_1016",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "WELLS FARGO BANK, NATIONAL\nASSOCIATION,"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "THE\nLENDERS SIGNATORY HERETO",
+      "text_length": 28,
+      "id": "HeadingElement_1017",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "THE\nLENDERS SIGNATORY HERETO"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "DATED AS OF\nMARCH 23, 2018",
+      "text_length": 26,
+      "id": "HeadingElement_1018",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "DATED AS OF\nMARCH 23, 2018"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "TABLE OF CONTENTS",
+      "text_length": 17,
+      "id": "HeadingElement_1019",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "TABLE OF CONTENTS"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "NINTH AMENDMENT TO",
+      "text_length": 18,
+      "id": "HeadingElement_1020",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "NINTH AMENDMENT TO"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "THIRD AMENDED AND RESTATED CREDIT AGREEMENT",
+      "text_length": 43,
+      "id": "HeadingElement_1021",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 13,
+      "heading_text": "THIRD AMENDED AND RESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Recitals",
+      "text_length": 8,
+      "id": "HeadingElement_1022",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 3,
+      "heading_text": "Recitals"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "2.1 Amendments to Section 1.02.",
+      "text_length": 31,
+      "id": "HeadingElement_1023",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 3,
+      "heading_text": "2.1 Amendments to Section 1.02."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "2.17 Amendments to Section 9.05.",
+      "text_length": 32,
+      "id": "HeadingElement_1024",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 10,
+      "heading_text": "2.17 Amendments to Section 9.05."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "[SIGNATURES BEGIN NEXT PAGE]",
+      "text_length": 28,
+      "id": "HeadingElement_1025",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "[SIGNATURES BEGIN NEXT PAGE]"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1026",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1027",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1028",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1029",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1030",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1031",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1032",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1033",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1034",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1035",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1036",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1037",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1038",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1039",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1040",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1041",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1042",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "text_length": 77,
+      "id": "HeadingElement_1043",
+      "parent_id": "AgreementTitleElement_930",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTA..."
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "This NINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT (this Ni...",
+      "text_length": 533,
+      "id": "PartyElement_1006",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "LEGACY RESERVES LP",
+      "party_type": "limited partnership duly formed under th",
+      "normalized_id": "party_legacy_reserves_lp"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "Legacy GP means Legacy Reserves GP, LLC, a Delaware limited liability company.",
+      "text_length": 80,
+      "id": "PartyElement_1009",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "LLC",
+      "party_type": "Delaware limited liability company.",
+      "normalized_id": "party_llc"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "Merger Agreement means that certain Agreement and Plan of Merger, dated as ...",
+      "text_length": 536,
+      "id": "PartyElement_1010",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 3,
+      "party_name": "Parent and Legacy Reserves Merger Sub LLC",
+      "party_type": "Delaware limited liability company",
+      "normalized_id": "party_parent_and_legacy_reserves_merger_sub_llc"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "Parent means Legacy Reserves Inc., a Delaware corporation.",
+      "text_length": 60,
+      "id": "PartyElement_1011",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 12,
+      "party_name": "Parent means Legacy Reserves Inc.",
+      "party_type": "Delaware corporation.",
+      "normalized_id": "party_parent__means_legacy_reserves_inc_"
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW, THEREFORE, in consideration of the premises and the mutual covenants her...",
+      "text_length": 227,
+      "id": "RecitalElement_1007",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 1.\nDefined Terms. Each capitalized term which is defined in the Credi...",
+      "text_length": 368,
+      "id": "SectionElement_931",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "1",
+      "section_title": "Defined Terms. Each capitalized term which is defined in ...",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 2. Amendments to Credit Agreement. Effective as of (a) in the case of...",
+      "text_length": 268,
+      "id": "SectionElement_932",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "2",
+      "section_title": "Amendments to Credit Agreement. Effective as of (a) in th...",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 7.27 Representations and Warranties of the Parent Guarantors. Each of...",
+      "text_length": 730,
+      "id": "SectionElement_939",
+      "parent_id": "PartyElement_1011",
+      "level": 3,
+      "children_count": 5,
+      "section_number": "7.27",
+      "normalized_id": "7.27"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 8.21 Affirmative Covenants of\nthe Parent Guarantors. Each of the Pare...",
+      "text_length": 844,
+      "id": "SectionElement_947",
+      "parent_id": "PartyElement_1011",
+      "level": 3,
+      "children_count": 4,
+      "section_number": "8.21",
+      "normalized_id": "8.21"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 9.14 Transactions with Affiliates. The Borrower will not, and will no...",
+      "text_length": 1732,
+      "id": "SectionElement_954",
+      "parent_id": "HeadingElement_1024",
+      "level": 3,
+      "children_count": 2,
+      "section_number": "9.14",
+      "normalized_id": "9.14"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 9.24 Passive Holding Company Status of Parent Guarantors. Neither of ...",
+      "text_length": 2016,
+      "id": "SectionElement_957",
+      "parent_id": "HeadingElement_1024",
+      "level": 3,
+      "children_count": 1,
+      "section_number": "9.24",
+      "normalized_id": "9.24"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 9.25 Negative Covenants of the Parent Guarantors. Each of the Parent ...",
+      "text_length": 791,
+      "id": "SectionElement_958",
+      "parent_id": "HeadingElement_1024",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "9.25",
+      "normalized_id": "9.25"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 9.26 Certain Settlements. Each of the Borrower and the Parent Guarant...",
+      "text_length": 525,
+      "id": "SectionElement_959",
+      "parent_id": "HeadingElement_1024",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "9.26",
+      "normalized_id": "9.26"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 9.27 LTIP. Each of the Borrower and the Parent Guarantors will not, a...",
+      "text_length": 549,
+      "id": "SectionElement_960",
+      "parent_id": "HeadingElement_1024",
+      "level": 3,
+      "children_count": 5,
+      "section_number": "9.27",
+      "normalized_id": "9.27"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 12.19 Joinder of Parent Guarantors. By executing and delivering the N...",
+      "text_length": 1050,
+      "id": "SectionElement_965",
+      "parent_id": "HeadingElement_1024",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "12.19",
+      "normalized_id": "12.19"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 3. Consent to Reorganization Transactions.",
+      "text_length": 50,
+      "id": "SectionElement_966",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "3",
+      "section_title": "Consent to Reorganization Transactions.",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 4. Conditions Precedent. This Ninth Amendment shall not become effect...",
+      "text_length": 259,
+      "id": "SectionElement_969",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 14,
+      "section_number": "4",
+      "section_title": "Conditions Precedent. This Ninth Amendment shall not beco...",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 5. Miscellaneous.",
+      "text_length": 25,
+      "id": "SectionElement_982",
+      "parent_id": "HeadingElement_1021",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "5",
+      "section_title": "Miscellaneous.",
+      "normalized_id": "5"
+    }
+  ]
+}

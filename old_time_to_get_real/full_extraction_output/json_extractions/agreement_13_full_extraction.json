@@ -1,0 +1,1792 @@
+{
+  "agreement_info": {
+    "number": 13,
+    "filename": "agreement_13.html",
+    "total_elements": 178,
+    "element_types": {
+      "TextElement": 9,
+      "TableOfContentsElement": 1,
+      "TableElement": 20,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 12,
+      "ContentTextElement": 84,
+      "DefinitionElement": 2,
+      "HeadingElement": 31,
+      "PartyElement": 4,
+      "RecitalElement": 1,
+      "SectionElement": 13
+    }
+  },
+  "elements": [
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "TO"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "AMONG"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "as Borrower,"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "as Administrative Agent, and"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Sole Lead Arranger and Sole Book Runner Wells Fargo Securities, LLC Syndication Agent Compass\nBank Co-Documentation Agents UBS Securities LLC and"
+    },
+    {
+      "class_name": "TableOfContentsElement",
+      "module": "sec_parser.semantic_elements.table_element.table_of_contents_element",
+      "text": "Page\n \n\n ARTICLE I DEFINITIONS AND ACCOUNTING MATTERS\n  \n \n1\n \n\n Section 1.01\n    \n Terms Defined Above\n  \n \n1\n \n\n Section 1.02\n    \n Certain Defined Terms\n  \n \n1\n \n\n Section 1.03\n    \n [Reserved]\n  \n \n24\n \n\n Section 1.04\n    \n Terms Generally\n  \n \n24\n \n\n Section 1.05\n    \n Accounting Terms and Determinations; GAAP\n  \n \n24\n \n\n Section 1.06\n    \n Designation and Conversion of E&P Subsidiaries\n  \n \n24\n \n\n\n\n\n ARTICLE II THE CREDITS\n  \n \n25\n \n\n Section 2.01\n    \n Loans\n  \n \n25\n \n\n Section 2.02\n    \n Loans and Borrowings\n  \n \n26\n \n\n Section 2.03\n    \n Requests for Borrowings\n  \n \n26\n \n\n Section 2.04\n    \n [Reserved]\n  \n \n27\n \n\n Section 2.05\n    \n Funding of Borrowings\n  \n \n27\n \n\n\n\n\n ARTICLE III PAYMENTS; PREPAYMENTS; FEES\n  \n \n28\n \n\n Section 3.01\n    \n Repayment of Loans\n  \n \n28\n \n\n Section 3.02\n    \n Interest\n  \n \n28\n \n\n Section 3.03\n    \n [Reserved]\n  \n \n29\n \n\n Section 3.04\n    \n Prepayments\n  \n \n29\n \n\n Section 3.05\n    \n Fees\n  \n \n33\n \n\n\n\n\n ARTICLE IV PAYMENTS; PRO RATA TREATMENT; SHARING OF\nSET-OFFS.\n  \n \n33\n \n\n Section 4.01\n    \n Payments Generally; Pro Rata Treatment; Sharing of\nSet-offs\n  \n \n33\n \n\n Section 4.02\n    \n Presumption of Payment by the Borrower\n  \n \n35\n \n\n Section 4.03\n    \n [Reserved]\n  \n \n35\n \n\n\n\n\n ARTICLE V INCREASED COSTS; TAXES\n  \n \n35\n \n\n Section 5.01\n    \n Increased Costs\n  \n \n35\n \n\n Section 5.02\n    \n [Reserved]\n  \n \n35\n \n\n Section 5.03\n    \n Taxes\n  \n \n35\n \n\n Section 5.04\n    \n Designation of Different Lending Office\n  \n \n39\n \n\n Section 5.05\n    \n [Reserved]\n  \n \n40\n \n\n Section 5.06\n    \n Replacement of Lenders Under Certain Circumstances\n  \n \n40\n \n\n\n\n\n ARTICLE VI CONDITIONS PRECEDENT\n  \n \n40\n \n\n Section 6.01\n    \n Effective Date\n  \n \n40\n \n\n Section 6.02\n    \n Each Credit Event\n  \n \n42\n \n\n\n\n\n ARTICLE VII REPRESENTATIONS AND WARRANTIES\n  \n \n43\n \n\n Section 7.01\n    \n Organization; Powers\n  \n \n43\n \n\n Section 7.02\n    \n Authority; Enforceability\n  \n \n44\n \n\n Section 7.03\n    \n Approvals; No Conflicts\n  \n \n44\n \n\n Section 7.04\n    \n Financial Position; No Material Adverse Change\n  \n \n44\n \n\n Section 7.05\n    \n Litigation\n  \n \n45\n \n\n Section 7.06\n    \n Environmental Matters\n  \n \n45\n \n\n Section 7.07\n    \n Compliance with the Laws and Agreements; No Defaults\n  \n \n46"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "i"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "Section 7.08\n    \n Investment Company Act\n  \n \n46\n \n\n Section 7.09\n    \n Taxes\n  \n \n46\n \n\n Section 7.10\n    \n ERISA\n  \n \n46\n \n\n Section 7.11\n    \n Disclosure; No Material Misstatements\n  \n \n47\n \n\n Section 7.12\n    \n Insurance\n  \n \n48\n \n\n Section 7.13\n    \n Restriction on Liens\n  \n \n48\n \n\n Section 7.14\n    \n Subsidiaries\n  \n \n48\n \n\n Section 7.15\n    \n Location of Business and Offices\n  \n \n48\n \n\n Section 7.16\n    \n Properties; Titles, Etc.\n  \n \n48\n \n\n Section 7.17\n    \n Maintenance of Properties\n  \n \n49\n \n\n Section 7.18\n    \n [Reserved]\n  \n \n49\n \n\n Section 7.19\n    \n East Texas Acreage\n  \n \n50\n \n\n Section 7.20\n    \n Swap Agreements\n  \n \n50\n \n\n Section 7.21\n    \n Use of Loans\n  \n \n50\n \n\n Section 7.22\n    \n Solvency\n  \n \n50\n \n\n Section 7.23\n    \n USA PATRIOT; AML Laws; Anti-Corruption Laws and Sanctions\n  \n \n50\n \n\n Section 7.24\n    \n International Operations\n  \n \n51\n \n\n\n\n\n ARTICLE VIII AFFIRMATIVE COVENANTS\n  \n \n51\n \n\n Section 8.01\n    \n Financial Statements; Other Information\n  \n \n51\n \n\n Section 8.02\n    \n Notices of Material Events\n  \n \n54\n \n\n Section 8.03\n    \n Existence; Conduct of Business\n  \n \n55\n \n\n Section 8.04\n    \n Payment of Obligations\n  \n \n55\n \n\n Section 8.05\n    \n Performance of Obligations under Term Loan Documents\n  \n \n55\n \n\n Section 8.06\n    \n Operation and Maintenance of Properties\n  \n \n55\n \n\n Section 8.07\n    \n Insurance\n  \n \n56\n \n\n Section 8.08\n    \n Books and Records; Inspection Rights\n  \n \n56\n \n\n Section 8.09\n    \n Compliance with Laws\n  \n \n56\n \n\n Section 8.10\n    \n Environmental Matters\n  \n \n56\n \n\n Section 8.11\n    \n Further Assurances\n  \n \n57\n \n\n Section 8.12\n    \n Reserve Reports\n  \n \n58\n \n\n Section 8.13\n    \n [Reserved]\n  \n \n58\n \n\n Section 8.14\n    \n Additional Collateral; Additional Guarantors\n  \n \n58\n \n\n Section 8.15\n    \n ERISA Compliance\n  \n \n60\n \n\n Section 8.16\n    \n Marketing Activities\n  \n \n60\n \n\n Section 8.17\n    \n E&P Subsidiaries\n  \n \n60\n \n\n Section 8.18\n    \n [Reserved]\n  \n \n61\n \n\n Section 8.19\n    \n Accounts\n  \n \n61\n \n\n Section 8.20\n    \n Hedging\n  \n \n61\n \n\n\n\n\n ARTICLE IX NEGATIVE COVENANTS\n  \n \n62\n \n\n Section 9.01\n    \n Financial Covenants\n  \n \n62\n \n\n Section 9.02\n    \n Debt\n  \n \n62\n \n\n Section 9.03\n    \n Liens\n  \n \n64\n \n\n Section 9.04\n    \n Dividends, Distributions and Redemptions; Repayment of Senior Notes and Priority Lien\nDebt\n  \n \n64\n \n\n Section 9.05\n    \n Investments, Loans and Advances\n  \n \n66\n \n\n Section 9.06\n    \n Nature of Business\n  \n \n67\n \n\n Section 9.07\n    \n [Reserved]\n  \n \n67\n \n\n Section 9.08\n    \n Proceeds of Loans; OFAC\n  \n \n67\n \n\n Section 9.09\n    \n ERISA Compliance\n  \n \n68"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "ii"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "Section 9.10\n    \n [Reserved]\n  \n \n69\n \n\n Section 9.11\n    \n Mergers, Etc.\n  \n \n69\n \n\n Section 9.12\n    \n Sale of Properties\n  \n \n70\n \n\n Section 9.13\n    \n Environmental Matters\n  \n \n71\n \n\n Section 9.14\n    \n Transactions with Affiliates\n  \n \n72\n \n\n Section 9.15\n    \n Subsidiaries\n  \n \n72\n \n\n Section 9.16\n    \n Negative Pledge Agreements; Dividend Restrictions\n  \n \n72\n \n\n Section 9.17\n    \n Gas Imbalances,\nTake-or-Pay or Other Prepayments\n  \n \n73\n \n\n Section 9.18\n    \n Swap Agreements\n  \n \n73\n \n\n Section 9.19\n    \n New Accounts\n  \n \n73\n \n\n Section 9.20\n    \n Volumetric Production Payment\n  \n \n73\n \n\n\n\n\n ARTICLE X EVENTS OF DEFAULT; REMEDIES\n  \n \n74\n \n\n Section 10.01\n    \n Events of Default\n  \n \n74\n \n\n Section 10.02\n    \n Remedies\n  \n \n76\n \n\n Section 10.03\n    \n Disposition of Proceeds\n  \n \n77\n \n\n\n\n\n ARTICLE XI THE ADMINISTRATIVE AGENT\n  \n \n77\n \n\n Section 11.01\n    \n Appointment; Powers\n  \n \n77\n \n\n Section 11.02\n    \n Duties and Obligations of Administrative Agent\n  \n \n77\n \n\n Section 11.03\n    \n Action by Administrative Agent\n  \n \n78\n \n\n Section 11.04\n    \n Reliance by Administrative Agent\n  \n \n79\n \n\n Section 11.05\n    \n Subagents\n  \n \n79\n \n\n Section 11.06\n    \n Resignation or Removal of Administrative Agent\n  \n \n79\n \n\n Section 11.07\n    \n Administrative Agent and Lenders\n  \n \n80\n \n\n Section 11.08\n    \n No Reliance\n  \n \n80\n \n\n Section 11.09\n    \n Administrative Agent May File Proofs of Claim\n  \n \n80\n \n\n Section 11.10\n    \n Authority of Administrative Agent to Release Collateral and Liens\n  \n \n81\n \n\n Section 11.11\n    \n [Reserved]\n  \n \n81\n \n\n Section 11.12\n    \n Right to Realize on Collateral and Enforce Guarantee\n  \n \n81\n \n\n\n\n\n ARTICLE XII MISCELLANEOUS\n  \n \n82\n \n\n Section 12.01\n    \n Notices\n  \n \n82\n \n\n Section 12.02\n    \n Waivers; Amendments\n  \n \n84\n \n\n Section 12.03\n    \n Expenses; Indemnity; Damage Waiver\n  \n \n86\n \n\n Section 12.04\n    \n Successors and Assigns\n  \n \n88\n \n\n Section 12.05\n    \n Survival; Revival; Reinstatement\n  \n \n91\n \n\n Section 12.06\n    \n Counterparts; Integration; Effectiveness\n  \n \n92\n \n\n Section 12.07\n    \n Severability\n  \n \n92\n \n\n Section 12.08\n    \n Right of Setoff\n  \n \n92\n \n\n Section 12.09\n    \n GOVERNING LAW; JURISDICTION; CONSENT TO SERVICE OF PROCESS\n  \n \n93\n \n\n Section 12.10\n    \n Headings\n  \n \n94\n \n\n Section 12.11\n    \n Confidentiality\n  \n \n94\n \n\n Section 12.12\n    \n Interest Rate Limitation\n  \n \n94\n \n\n Section 12.13\n    \n EXCULPATION PROVISIONS\n  \n \n95\n \n\n Section 12.14\n    \n [Reserved]\n  \n \n95\n \n\n Section 12.15\n    \n No Third Party Beneficiaries\n  \n \n95\n \n\n Section 12.16\n    \n USA PATRIOT Act\n  \n \n96\n \n\n Section 12.17\n    \n Non-Fiduciary Status\n  \n \n96\n \n\n Section 12.18\n    \n [Reserved]\n  \n \n96"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "iii"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "Section 12.19\n \n General Partner Liability\n  \n \n96\n \n\n Section 12.20\n \n [Reserved]\n  \n \n97\n \n\n Section 12.21\n \n INTERCREDITOR AGREEMENT\n  \n \n97\n \n\n Section 12.22\n \n Acknowledgement and Consent to Bail-In of EEA Financial\nInstitutions\n  \n \n97"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "ANNEXES:\n  \n\n\n\n\n\nAnnex 1\n  \nCommitments\n\n\n\n\nSCHEDULES:\n  \n\n\n\n\n\nSchedule 1.02\n  \nEast Texas Acreage\n\nSchedule 7.05\n  \nLitigation\n\nSchedule 7.14\n  \nSubsidiaries\n\nSchedule 7.15\n  \nLocation of Business and Office\n\nSchedule 7.20\n  \nSwap Agreements\n\n\n\n\nEXHIBITS:\n  \n\n\n\n\n\nExhibit A\n  \nForm of Term Loan Note\n\nExhibit B\n  \nForm of Compliance Certificate\n\nExhibit C\n  \nForm of Term Loan Security Instruments\n\nExhibit D\n  \nForm of Assignment and Assumption\n\nExhibit E-1E-4\n  \nForm of U.S. Tax Compliance Certificate\n\nExhibit F\n  \nForm of Intercreditor Agreement\n\nExhibit G\n  \nForm of Borrowing Request"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "iv"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "BORROWER:\n \n\n \nLEGACY RESERVES LP\n\n\n\n\n\n\n\n \n\n \nBy:\n \nLegacy Reserves GP, LLC,\n\n\n \n\n \n\n \nits general partner\n\n\n\n\n\n\n\n \n\n \nBy:\n \n /s/ James Daniel Westcott\n\n\n \n\n \nName:\n \nJames Daniel Westcott\n\n\n \n\n \nTitle:\n \nExecutive Vice President and Chief Financial Officer\n\n\n\n\n\nGUARANTORS:\n \n\n \nLEGACY RESERVES OPERATING LP\n\n\n\n\n\n\n\n \n\n \nBy:\n \nLegacy Reserves Operating GP LLC, its general partner\n\n\n \n\n \nBy:\n \nLegacy Reserves LP, its sole member\n\n\n \n\n \nBy:\n \nLegacy Reserves GP, LLC, its general partner\n\n\n\n\n\n\n\n \n\n \nBy:\n \n /s/ James Daniel Westcott\n\n\n \n\n \nName:\n \nJames Daniel Westcott\n\n\n \n\n \nTitle:\n \nExecutive Vice President and Chief Financial Officer\n\n\n\n\n\n\n \n\n \nLEGACY RESERVES OPERATING GP LLC\n\n\n\n\n\n\n\n \n\n \nBy:\n \nLegacy Reserves LP, its sole member\n\n\n \n\n \nBy:\n \nLegacy Reserves GP, LLC, its general partner\n\n\n\n\n\n\n\n \n\n \nBy:\n \n /s/ James Daniel Westcott\n\n\n \n\n \nName:\n \nJames Daniel Westcott\n\n\n \n\n \nTitle:\n \nExecutive Vice President and Chief Financial Officer"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "LEGACY RESERVES SERVICES, INC.\n\n\n\nDEW GATHERING LLC\n\n\n\nPINNACLE GAS TREATING LLC\n\n\n\nLEGACY RESERVES ENERGY SERVICES LLC\n\n\n\nLEGACY RESERVES GP, LLC\n\n\n\nLEGACY RESERVES INC.\n\n\n\n\nBy:\n \n /s/ James Daniel Westcott\n\nName:\n \nJames Daniel Westcott\n\nTitle:\n \nExecutive Vice President and Chief Financial Officer"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "UBS AG, STAMFORD BRANCH\n\n\n\n\nBy:\n \n /s/ Darlene Arias\n\nName:\n \nDarlene Arias\n\nTitle:\n \nDirector\n\n\n\n\nBy:\n \n /s/ Craig Pearson\n\nName:\n \nCraig Pearson\n\nTitle:\n \nAssociate Director"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "BANK OF AMERICA, N.A.\n\n\n\n\nBy:\n \n /s/ Kevin M. Behan\n\nName:\n \nKevin M. Behan\n\nTitle:\n \nManaging Director"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "ROYAL BANK OF CANADA\n\n\n\n\nBy:\n \n /s/ Jay T. Sartain\n\nName:\n \nJay T. Sartain\n\nTitle:\n \nAuthorized Signatory"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "AG ENERGY FUNDING, LLC\n\n\n\n\nBy:\n \n /s/ Todd Dittman\n\nName:\n \nTodd Dittman\n\nTitle:\n \nAuthorized Signatory"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "JPMORGAN CHASE BANK, N.A.\n\n\n\n\nBy:\n \n /s/ Stephanie Balette\n\nName:\n \nStephanie Balette\n\nTitle:\n \nAuthorized Officer"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "BMO HARRIS FINANCING, INC.\n\n\n\n\nBy:\n \n /s/ Melissa Guzmann\n\nName:\n \nMelissa Guzmann\n\nTitle:\n \nDirector"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "BARCLAYS BANK PLC\n\n\n\n\nBy:\n \n /s/ Sydney G. Dennis\n\nName:\n \nSydney G. Dennis\n\nTitle:\n \nDirector"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK\n\n\n\n\nBy:\n \n /s/ Michael Willis\n\nName:\n \nMichael Willis\n\nTitle:\n \nManaging Director\n\n\n\n\nBy:\n \n /s/ Page Dillehunt\n\nName:\n \nPage Dillehunt\n\nTitle:\n \nManaging Director"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "CITIBANK, N.A.\n\n\n\n\nBy:\n \n /s/ Cliff Vaz\n\nName:\n \nCliff Vaz\n\nTitle:\n \nVice President"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "SOCIETE GENERALE\n\n\n\n\nBy:\n \n /s/ Max Sonnonstine\n\nName:\n \nMax Sonnonstine\n\nTitle:\n \nDirector"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "BRANCH BANKING AND TRUST\nCOMPANY\n\n\n\n\nBy:\n \n /s/ Greg Krablin\n\nName:\n \nGreg Krablin\n\nTitle:\n \nVice President"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "WEST TEXAS NATIONAL BANK\n\n\n\n\nBy:\n \n /s/ C. Scott Wilson\n\nName:\n \nC. Scott Wilson\n\nTitle:\n \nSenior Vice President"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "FIFTH THIRD BANK\n\n\n\n\nBy:\n \n /s/ Justin Bellamy\n\nName:\n \nJustin Bellamy\n\nTitle:\n \nDirector"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "BP ENERGY COMPANY\n\n\n\n\nBy:\n \n /s/ Timothy Yee\n\nName:\n \nTimothy Yee\n\nTitle:\n \nAttorney-in-Fact"
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "module": "agreement_parser_v6",
+      "text": "NINTH AMENDMENT",
+      "id": "AgreementTitleElement_930",
+      "parent_id": null,
+      "children": [
+        "HeadingElement_1013",
+        "HeadingElement_1014",
+        "HeadingElement_1015",
+        "HeadingElement_1016",
+        "HeadingElement_1017",
+        "HeadingElement_1018",
+        "HeadingElement_1019",
+        "HeadingElement_1020",
+        "HeadingElement_1021",
+        "HeadingElement_1025",
+        "HeadingElement_1026",
+        "HeadingElement_1027",
+        "HeadingElement_1028",
+        "HeadingElement_1029",
+        "HeadingElement_1030",
+        "HeadingElement_1031",
+        "HeadingElement_1032",
+        "HeadingElement_1033",
+        "HeadingElement_1034",
+        "HeadingElement_1035",
+        "HeadingElement_1036",
+        "HeadingElement_1037",
+        "HeadingElement_1038",
+        "HeadingElement_1039",
+        "HeadingElement_1040",
+        "HeadingElement_1041",
+        "HeadingElement_1042",
+        "HeadingElement_1043"
+      ],
+      "level": 0,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(e) The definition of Indebtedness is hereby amended by replacing the phrase relating to the Borrower or any of its\nSubsidiaries with the phrase relating to the Borrower or any of its Subsidiaries or any Guarantor.",
+      "id": "ClauseElement_1000",
+      "parent_id": "PartyElement_1011",
+      "children": [],
+      "level": 3,
+      "clause_id": "(e)",
+      "clause_text": "The definition of Indebtedness is hereby amended by replacing the phrase relating to the Borrower or any of its",
+      "normalized_id": "e"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(f) The definition of\nSecond Lien Loan Documents is hereby amended by replacing the phrase the Borrower or any of its Subsidiaries with the phrase the Borrower or any of its Subsidiaries or any Guarantor.",
+      "id": "ClauseElement_1001",
+      "parent_id": "PartyElement_1011",
+      "children": [],
+      "level": 3,
+      "clause_id": "(f)",
+      "clause_text": "The definition of",
+      "normalized_id": "f"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(g) Each of the definitions Consolidated Cash Balance, First Lien Debt,\nInterest Expense, Secured Debt and Total Debt is hereby amended by replacing each instance of the word Borrower with the word Parent.",
+      "id": "ClauseElement_1002",
+      "parent_id": "PartyElement_1011",
+      "children": [],
+      "level": 3,
+      "clause_id": "(g)",
+      "clause_text": "Each of the definitions Consolidated Cash Balance, First Lien Debt,",
+      "normalized_id": "g"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(h) Each of the definitions Available Cash and Legacy Reserves GP, LLC is hereby deleted in its entirety.",
+      "id": "ClauseElement_1003",
+      "parent_id": "PartyElement_1011",
+      "children": [
+        "ContentTextElement_1066",
+        "ContentTextElement_1067",
+        "ContentTextElement_1068",
+        "ContentTextElement_1069",
+        "ContentTextElement_1070"
+      ],
+      "level": 3,
+      "clause_id": "(h)",
+      "clause_text": "Each of the definitions Available Cash and Legacy Reserves GP, LLC is hereby deleted in its entirety.",
+      "normalized_id": "h"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(h) Other Accounting Reports. Promptly upon receipt\nthereof, a copy of each other report or letter submitted to the Parent, the Borrower or any of its Subsidiaries by independent accountants in connection with any annual, interim or special audit made by them of the books of the Parent, the Borrower\nor any such Subsidiary, and a copy of any response by the Parent, the Borrower or any such Subsidiary to such letter or report.",
+      "id": "ClauseElement_1004",
+      "parent_id": "PartyElement_1011",
+      "children": [
+        "ContentTextElement_1076",
+        "ContentTextElement_1077",
+        "ContentTextElement_1078",
+        "ContentTextElement_1079",
+        "ContentTextElement_1080"
+      ],
+      "level": 3,
+      "clause_id": "(h)",
+      "clause_text": "Other Accounting Reports. Promptly upon receipt",
+      "normalized_id": "h"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(m) loans and advances made by the Borrower to the Parent to the extent any such loan or advance (i) is made in lieu of a\nRestricted Payment permitted pursuant to Section 9.04 or otherwise under this Agreement and (ii) if made as a Restricted Payment, would be permitted pursuant to Section 9.04 or otherwise under this Agreement.",
+      "id": "ClauseElement_1005",
+      "parent_id": "HeadingElement_1024",
+      "children": [
+        "ContentTextElement_1088",
+        "ContentTextElement_1089"
+      ],
+      "level": 3,
+      "clause_id": "(m)",
+      "clause_text": "loans and advances made by the Borrower to the Parent to the extent any such loan or advance (i) is made in lieu of a",
+      "normalized_id": "m"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "U.S. Bank National Association",
+      "id": "ClauseElement_994",
+      "parent_id": "HeadingElement_1018",
+      "children": [],
+      "level": 4,
+      "clause_id": "(U)",
+      "normalized_id": "u"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "C. The Borrower, the Guarantors, the Administrative Agent and the Lenders have agreed to amend certain provisions of the Existing Credit\nAgreement as more fully set forth herein.",
+      "id": "ClauseElement_995",
+      "parent_id": "HeadingElement_1022",
+      "children": [],
+      "level": 4,
+      "clause_id": "(C)",
+      "clause_text": "The Borrower, the Guarantors, the Administrative Agent and the Lenders have agreed to amend certain provisions of the Existing Credit",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(a) The following definitions are hereby amended and restated in their entirety to read as follows:",
+      "id": "ClauseElement_996",
+      "parent_id": "HeadingElement_1023",
+      "children": [
+        "ContentTextElement_1046",
+        "ContentTextElement_1047",
+        "ContentTextElement_1048",
+        "ContentTextElement_1049",
+        "ContentTextElement_1050",
+        "ContentTextElement_1051",
+        "ContentTextElement_1052",
+        "ContentTextElement_1053",
+        "ContentTextElement_1054",
+        "ContentTextElement_1055",
+        "ContentTextElement_1056"
+      ],
+      "level": 3,
+      "clause_id": "(a)",
+      "clause_text": "The following definitions are hereby amended and restated in their entirety to read as follows:",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(b) The following definitions are hereby added where alphabetically appropriate to read as\nfollows:",
+      "id": "ClauseElement_997",
+      "parent_id": "HeadingElement_1023",
+      "children": [
+        "ContentTextElement_1057",
+        "ContentTextElement_1058",
+        "ContentTextElement_1059"
+      ],
+      "level": 3,
+      "clause_id": "(b)",
+      "clause_text": "The following definitions are hereby added where alphabetically appropriate to read as",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(c) Clause (e) of the definition of Excepted Liens is hereby amended by replacing the reference therein to the\nBorrower with the Parent Guarantors, the Borrower.",
+      "id": "ClauseElement_998",
+      "parent_id": "PartyElement_1011",
+      "children": [],
+      "level": 3,
+      "clause_id": "(c)",
+      "clause_text": "Clause (e) of the definition of Excepted Liens is hereby amended by replacing the reference therein to the",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "(d) Clause (i) of the definition of Excluded\nAccounts is hereby amended by replacing the reference therein to the Borrower with the Parent Guarantors, the Borrower.",
+      "id": "ClauseElement_999",
+      "parent_id": "PartyElement_1011",
+      "children": [],
+      "level": 3,
+      "clause_id": "(d)",
+      "clause_text": "Clause (i) of the definition of Excluded",
+      "normalized_id": "d"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "A. The Borrower, the\nAdministrative Agent and the Lenders are parties to that certain Third Amended and Restated Credit Agreement dated as of April 1, 2014 (as amended by the First Amendment to Third Amended and Restated Credit Agreement dated as of April 17,\n2014, that certain Second Amendment to Third Amended and Restated Credit Agreement dated as of May 22, 2014, that certain Third Amendment to Third Amended and Restated Credit Agreement dated as of December 29, 2014, that certain Fourth\nAmendment to Third Amended and Restated Credit Agreement dated as of February 23, 2015, that certain Fifth Amendment to Third Amended and Restated Credit Agreement dated as of August 5, 2015, that certain Sixth Amendment to Third Amended\nand Restated Credit Agreement dated as of November 13, 2015, that certain Seventh Amendment to Third Amended and Restated Credit Agreement dated as of February 19, 2016 and that certain Eighth Amendment to Third Amended and Restated Credit\nAgreement dated as of October 25, 2016 (as so amended prior to the date hereof, the Existing Credit Agreement, and the Existing Credit Agreement, as amended by this Ninth Amendment, the Credit Agreement),\npursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.",
+      "id": "ContentTextElement_1044",
+      "parent_id": "HeadingElement_1022",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "B. The Guarantors are parties to that\ncertain Third Amended and Restated Guaranty Agreement dated as of April 1, 2014 made by each of the Guarantors (as defined therein) in favor of the Administrative Agent (the Guaranty).",
+      "id": "ContentTextElement_1045",
+      "parent_id": "HeadingElement_1022",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Agreement means this Third Amended and Restated Credit Agreement, as amended by the First Amendment, the\nSecond Amendment, the Third Amendment, the Fourth Amendment, the Fifth Amendment, the Sixth Amendment, the Seventh Amendment, the Eighth Amendment and the Ninth Amendment, as the same may from time to time be amended, modified, supplemented or\nrestated.",
+      "id": "ContentTextElement_1046",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Change in Control means (a) the Parent ceases to (i) be the Beneficial Owner of\n100% of the Equity Interests of Legacy GP, (ii) Control Legacy GP or (iii) be the Beneficial Owner of 100% of the limited partner Equity Interests in the Borrower; (b) Legacy GP ceases to be the sole general partner of the Borrower;\n(c) the direct or indirect sale, lease, transfer, conveyance or other disposition (other than by way of merger or consolidation), in one or a series of related transactions, of all or greater than 50% of the properties or assets (determined by\nreference to fair market value of such properties and assets at the time of such sale, lease, transfer, conveyance or other disposition) of the Borrower and its Subsidiaries taken as a whole, to any person (as that term is used in\nSection 13(d)(3) of the Exchange Act); (d) the adoption of a plan relating to the liquidation or dissolution of the Parent or the Borrower; (e) the consummation of any transaction (including, without limitation, any merger or\nconsolidation) the result of which is that any person (as that term is used in Section 13(d)(3) of the Exchange Act) becomes the Beneficial Owner, directly or indirectly, of more than 50% of the Equity Interests of the Parent,\nmeasured by voting power rather than number of shares, units or the like; or (f) the first day on which a majority of the members of the Board of Directors of the Parent are not Continuing Directors.",
+      "id": "ContentTextElement_1047",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Consolidated Net Income means with respect to the Parent and the Consolidated Subsidiaries, for any period,\nthe aggregate of the net income (or loss) of the Parent and the Consolidated Subsidiaries after allowances for taxes for such period determined on a consolidated basis in accordance with GAAP; provided that there shall be excluded from such\nnet income (to the extent otherwise included therein) the following: (a) the net income of any Person in which the Parent or a Consolidated Subsidiary has an interest (which interest does not cause the net income of such other Person to be\nconsolidated with the net income of the Parent and the Consolidated Subsidiaries in accordance with GAAP), except to the extent of the amount of dividends or distributions actually paid in cash during such period by such other Person to the Parent\nor to a Consolidated Subsidiary (including any such payments made by an E&P",
+      "id": "ContentTextElement_1048",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Subsidiary), as the case may be; (b) the net income (but not loss) during such period of any Consolidated Subsidiary to the extent that the declaration or payment of dividends or similar\ndistributions or transfers or loans by that Consolidated Subsidiary is not at the time permitted by operation of the terms of its charter or any agreement, instrument or Governmental Requirement applicable to such Consolidated Subsidiary or is\notherwise restricted or prohibited, in each case determined in accordance with GAAP; (c) the net income (or loss) of any Person acquired in a pooling-of-interests\ntransaction for any period prior to the date of such transaction; and (d) any extraordinary gains or losses during such period; and provided further that if the Parent or any Consolidated Subsidiary shall acquire or dispose of any Property\nduring such period, then Consolidated Net Income shall be calculated after giving pro forma effect to such acquisition or disposition, as if such acquisition or disposition had occurred on the first day of such period.",
+      "id": "ContentTextElement_1049",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Consolidated Subsidiaries means, (a) with respect to the Borrower, each Subsidiary of the Borrower\n(whether now existing or hereafter created or acquired) the financial statements of which shall be (or should have been) consolidated with the financial statements of the Borrower in accordance with GAAP and (b) with respect to the Parent, each\nSubsidiary of the Parent (whether now existing or hereafter created or acquired) the financial statements of which shall be (or should have been) consolidated with the financial statements of the Parent in accordance with GAAP.",
+      "id": "ContentTextElement_1050",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Continuing Directors means, as of any date of determination, any member of the board of directors of the\nParent who (a) was a member of such board of directors on the Ninth Amendment Effective Date or (b) was nominated for election or elected to such board of directors with the approval of a majority of the Continuing Directors who were\nmembers of such board of directors at the time of such nomination or election.",
+      "id": "ContentTextElement_1051",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "EBITDA means, for any\nperiod, Consolidated Net Income for such period plus, to the extent deducted from revenues in determining Consolidated Net Income, (i) Consolidated Interest Expense, (ii) expense for income and income based taxes paid or accrued,\n(iii) depreciation, depletion, amortization, accretion and impairment, including without limitation, impairment of goodwill, (iv) reasonable transaction expenses and fees in connection with financing, acquisition and divestiture activities\npermitted under this Agreement, in an aggregate amount not to exceed $5,000,000 in any four fiscal quarter period, (v) minimum payments earned in excess of overriding royalty interests, (vi) any\nnon-cash items associated with (a) mark to market accounting related to derivatives or investments, (b) stock based compensation arising from the grant of or issuance or replacement of stock, stock\noptions or other equity-based awards or any amendment, modification, substitution or change of any such stock, stock options or other equity-based awards, in each case in connection with employee plans or other compensation arrangements, and/or\n(c) any losses (or to the extent increasing the Consolidated Net Income, subtracting any gains) attributable to",
+      "id": "ContentTextElement_1052",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "writeups or writedowns of assets, including ceiling test writedowns, and asset sales and (vii) (i) reasonable and customary one-time investment\nbanking, legal, accounting and other reasonable and customary advisory transaction expenses and fees in connection with the Reorganization Transactions and (ii) cash consideration paid to the equityholders of Legacy GP in connection with the\nReorganization Transactions; provided that the aggregate amount under this clause (vii) shall not exceed $4,000,000; less, all non-cash items increasing Consolidated Net Income, all\ncalculated for the Borrower and its Subsidiaries on a consolidated basis. For the purposes of calculating EBITDA for any period of four consecutive fiscal quarters (each, a Reference Period), (x) if during such Reference Period\nthe Borrower shall have designated any Subsidiary as an E&P Subsidiary or designated an E&P Subsidiary to no longer be an E&P Subsidiary, EBITDA for such Reference Period shall be calculated on a pro forma basis as if such designation\nhad occurred on the first day of such Reference Period, and (y) if the Borrower or any Consolidated Subsidiary shall acquire or dispose of any Property during such period, then EBITDA shall be calculated after giving pro forma effect to such\nacquisition or disposition, as if such acquisition or disposition had occurred on the first day of such period.",
+      "id": "ContentTextElement_1053",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Guarantors means (a) Legacy Reserves Operating LP, (b) Legacy Reserves Operating GP LLC,\n(c) Legacy Reserves Services, Inc., (d) Legacy Reserves Energy Services LLC, (e) Dew Gathering LLC, (f) Pinnacle Gas Treating LLC, (g) the Parent Guarantors and (h) each Material Domestic Subsidiary formed or acquired during\nthe term of this Agreement or other Domestic Subsidiary that is a party to the Guaranty Agreement and the Security Agreement as a Guarantor and a Grantor (as such terms are defined in the Guaranty Agreement and the Security\nAgreement, respectively) and guarantees the Indebtedness pursuant to Section 8.14(b). For the avoidance of doubt, it is understood and agreed that an E&P Subsidiary shall not be a Guarantor.",
+      "id": "ContentTextElement_1054",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Pledge Agreement means the Third Amended and Restated Pledge Agreement of even date herewith executed by the\nGuarantors in favor of the Administrative Agent (as amended, supplemented or otherwise modified from time to time) with respect to the Pledged Securities as defined therein.",
+      "id": "ContentTextElement_1055",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Subsidiary means, with respect to any Person (the parent), (a) any other Person\n(i) of which at least a majority of the outstanding Equity Interests is at the time directly or indirectly owned by the parent or one or more of its Subsidiaries or by the parent and one or more of its Subsidiaries or (ii) of which at\nleast a majority of the outstanding Equity Interests having by the terms thereof ordinary voting power to elect a majority of the board of directors, manager or other governing body of such Person (irrespective of whether or not at the time Equity\nInterests of any other class or classes of such Person shall have or might have voting power by reason of the happening of any contingency) is at the time directly or indirectly owned or controlled by the parent or one or more of its Subsidiaries or\nby the parent and one or more of its Subsidiaries and (b) any partnership of which the parent or any of its Subsidiaries is a general partner.",
+      "id": "ContentTextElement_1056",
+      "parent_id": "ClauseElement_996",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "GP Purchase means the acquisition by the Parent from the GP Sellers of 100% of the limited\nliability company Equity Interests in Legacy GP and the admission of the Parent as the sole member of Legacy GP, in each case pursuant to the terms of the GP Purchase Agreement.",
+      "id": "ContentTextElement_1057",
+      "parent_id": "ClauseElement_997",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "GP Purchase Agreement means that certain GP Purchase Agreement, dated as of March 23, 2018, by and\namong Parent and the GP Sellers, in form and substance reasonably satisfactory to the Administrative Agent (it being agreed and understood that the GP Purchase Agreement delivered to the Administrative Agent on or prior to the date of the Ninth\nAmendment is reasonably satisfactory to the Administrative Agent), as it may be amended, supplemented, restated or otherwise modified from time to time (without giving effect to any amendments, supplements, restatements or other modifications that\nare materially adverse to the Lenders without the prior written consent of the Administrative Agent, it being acknowledged that any increase in any amounts beyond $3,500,000 payable to the GP Sellers thereunder shall be deemed to be materially\nadverse).",
+      "id": "ContentTextElement_1058",
+      "parent_id": "ClauseElement_997",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "GP Sellers means, collectively, Brothers Production Properties, Ltd., Brothers Production\nCompany, Inc., Brothers Operating Company, Inc., J&W McGraw Properties, Ltd., Moriah Properties, Ltd., DAB Resources, Ltd. and H2K Holdings, Ltd.",
+      "id": "ContentTextElement_1059",
+      "parent_id": "ClauseElement_997",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "otherwise modified from time to time (without giving effect to any amendments, supplements, restatements or other modifications that are materially adverse to the Lenders without the prior\nwritten consent of the Administrative Agent, it being acknowledged that any increase in any amounts beyond $50,000 payable thereunder shall be deemed to be materially adverse).",
+      "id": "ContentTextElement_1060",
+      "parent_id": "PartyElement_1010",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Ninth Amendment means that certain Ninth Amendment to Third Amended and Restated Credit Agreement, dated as\nof March 23, 2018, among the Borrower, the Guarantors, the Administrative Agent and the Lenders party thereto.",
+      "id": "ContentTextElement_1061",
+      "parent_id": "PartyElement_1010",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Ninth Amendment Effective Date has the meaning ascribed to such term in the Ninth Amendment.",
+      "id": "ContentTextElement_1062",
+      "parent_id": "PartyElement_1010",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Parent Guarantors means, collectively, the Parent and Legacy GP.",
+      "id": "ContentTextElement_1063",
+      "parent_id": "PartyElement_1011",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Reorganization Transactions means the corporate reorganization of the Borrower and its Subsidiaries, as\ndescribed in the Merger Agreement and the GP Purchase Agreement, which transactions include, without limitation: (A) the formation by Legacy GP of the Parent and the formation by the Parent of Legacy Reserves Merger Sub, LLC a Delaware limited\nliability company (Merger Sub), (B) the GP Purchase on the terms set forth in the GP Purchase Agreement, (C) the merger of Merger Sub with and into the Borrower, with the Borrower surviving such merger and the Borrowers\nlimited partner interests being 100% owned by the Parent as a result thereof and (D) the exchange of the Borrowers common and preferred Equity Interests for common Equity Interests in the Parent on the terms set forth in the Merger\nAgreement.",
+      "id": "ContentTextElement_1064",
+      "parent_id": "PartyElement_1011",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Subsidiary Guarantor means any Subsidiary of the Borrower that is a Guarantor.",
+      "id": "ContentTextElement_1065",
+      "parent_id": "PartyElement_1011",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.2 Amendment to Section 2.08(j). Section 2.08(j) is hereby amended by replacing the phrase the Borrower\nor any of its Subsidiaries with the phrase the Borrower or any of its Subsidiaries or any Guarantor.",
+      "id": "ContentTextElement_1066",
+      "parent_id": "ClauseElement_1003",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.3 Amendment to\nSection 3.04(d). Section 3.04(d) is hereby amended by (a) replacing each instance of the phrase the Borrower or any Subsidiary with the phrase the Borrower or any Subsidiary or any Guarantor\nand (b) replacing the phrase the Borrower or such Subsidiary with the phrase the Borrower or such Subsidiary or such Guarantor.",
+      "id": "ContentTextElement_1067",
+      "parent_id": "ClauseElement_1003",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.4 Amendment to Section 7.14. Section 7.14 is hereby amended by adding a new sentence at the end thereof to read as\nfollows: The Parent does not directly own any Equity Interests in any Person other than Equity Interests in the Borrower and Legacy GP, and Legacy GP does not directly own any Equity Interests in any Person other than Equity Interests in the\nBorrower.",
+      "id": "ContentTextElement_1068",
+      "parent_id": "ClauseElement_1003",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.5 Amendment to Section 7.21. Clause (b) of Section 7.21 is hereby amended and\nrestated in its entirety to read as follows: (b) to make Restricted Payments permitted by Section 9.04,.",
+      "id": "ContentTextElement_1069",
+      "parent_id": "ClauseElement_1003",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.6 Amendment\nto Article VII. Article VII is hereby amended by (a) replacing the phrase The Borrower represents and warrants to the Lenders that: immediately before Section 7.01 with the phrase The Borrower (and each Parent\nGuarantor, in the case of Section 7.27) represents and warrants to the Lenders that: and (b) adding a new Section 7.27 thereto to read as follows:",
+      "id": "ContentTextElement_1070",
+      "parent_id": "ClauseElement_1003",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.7 Amendment to Section 8.01(a)-(c). Each of Sections 8.01(a), (b) and\n(c) is hereby amended and restated in its entirety to read as follows:",
+      "id": "ContentTextElement_1071",
+      "parent_id": "SectionElement_939",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(a) Annual Financial Statements. As\nsoon as available, but in any event not later than 90 days after the end of each fiscal year, the Parents audited consolidated balance sheet and related statements of operations, shareholders equity and cash flows as of the end of and\nfor such year, setting forth in each case in comparative form the figures for the previous fiscal year (which, for the avoidance of doubt, may be against the financial statements of the Borrower for any period prior to the closing of the\nReorganization Transactions), all reported on by independent public accountants of recognized national standing and reasonably acceptable to the Administrative Agent (without a going concern or like qualification or exception and without\nany qualification or exception as to the scope of such audit) to the effect that such consolidated financial statements present fairly in all material respects the financial position and results of operations of the Parent and its Consolidated\nSubsidiaries on a consolidated basis in accordance with GAAP consistently applied.",
+      "id": "ContentTextElement_1072",
+      "parent_id": "SectionElement_939",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(b) Quarterly Financial\nStatements. As soon as available, but in any event not later than 45 days after the end of each of the first three fiscal quarters of each fiscal year of the Parent, its consolidated balance sheet and related statements of operations,\nshareholders equity and cash flows as of the end of and for such quarter and the then elapsed portion of the fiscal year, setting forth in each case in comparative form the figures for the corresponding period or periods of (or, in the case of\nthe balance sheet, as of the end of) the previous fiscal year (which, for the avoidance of doubt, may be against the financial statements of the Borrower for any period prior to the closing of the Reorganization Transactions), all certified by a\nFinancial Officer of the Parent as presenting fairly in all material respects the financial position and results of operations of the Parent and its Consolidated Subsidiaries on a consolidated basis in accordance with GAAP consistently applied,\nsubject to normal year-end audit adjustments and the absence of footnotes.",
+      "id": "ContentTextElement_1073",
+      "parent_id": "SectionElement_939",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(c)\nCertificate of Financial Officer  Compliance. Concurrently with any delivery of financial statements under Section 8.01(a) or Section 8.01(b), a certificate of a Financial Officer of the Parent and the Borrower in\nsubstantially the form of Exhibit B hereto (i) certifying as to whether a Default has occurred and, if a Default has occurred, specifying the details thereof and any action taken or proposed to be taken with respect thereto, (ii) setting\nforth reasonably detailed calculations demonstrating compliance with Section 9.01, (iii) stating whether any change in GAAP or in the application thereof has occurred since the Effective Date and, if any such change has occurred, specifying the\neffect of such change on the financial statements accompanying such certificate and (iv) specifying each Subsidiary and E&P Subsidiary.",
+      "id": "ContentTextElement_1074",
+      "parent_id": "SectionElement_939",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.8 Amendment to Section 8.01(h). Section 8.01(h) is hereby\namended and restated in its entirety to read as follows:",
+      "id": "ContentTextElement_1075",
+      "parent_id": "SectionElement_939",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.9\nAmendment to Section 8.01(i). Section 8.01(i) is hereby amended by replacing the phrase the Borrower or any Subsidiary with the Parent, the Borrower or any Subsidiary.",
+      "id": "ContentTextElement_1076",
+      "parent_id": "ClauseElement_1004",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.10 Amendment to Section 8.01(p). Section 8.01(p) is hereby amended by replacing the phrase the Borrower\nor any of its Subsidiaries with any Parent Guarantor, the Borrower or any of its Subsidiaries.",
+      "id": "ContentTextElement_1077",
+      "parent_id": "ClauseElement_1004",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.11 Amendment to\nSection 8.01(q). Section 8.01(q) is hereby amended by replacing the phrase the Borrower or any of its Subsidiaries with any Parent Guarantor, the Borrower or any of its Subsidiaries.",
+      "id": "ContentTextElement_1078",
+      "parent_id": "ClauseElement_1004",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.12 Amendment to Section 8.02(b). Section 8.02(b) is hereby amended by replacing the\nphrase the Borrower or any Subsidiary thereof therein with the phrase any Parent Guarantor, the Borrower or any Subsidiary thereof.",
+      "id": "ContentTextElement_1079",
+      "parent_id": "ClauseElement_1004",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.13 Amendment to Article VIII. Article VIII is hereby amended by (a) replacing the phrase the Borrower covenants and agrees\nwith the Lenders that: immediately before Section 8.01 with the phrase The Borrower (and each Parent Guarantor, in the case of Section 8.01, Section 8.02 and Section 8.21) covenants and agrees with the Lenders\nthat: and (b) adding a new Section 8.21 to read as follows:",
+      "id": "ContentTextElement_1080",
+      "parent_id": "ClauseElement_1004",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.14 Amendment to Section 9.01. Section 9.01 is hereby amended by replacing each instance of the word\nBorrower with the word Parent.",
+      "id": "ContentTextElement_1081",
+      "parent_id": "SectionElement_947",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.15 Amendment to Section 9.04(a). Section 9.04(a) is hereby\namended and restated in its entirety to read as follows:",
+      "id": "ContentTextElement_1082",
+      "parent_id": "SectionElement_947",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(a) Restricted Payments. The Borrower and the Parent\nGuarantors will not, and will not permit any of their respective Subsidiaries to, declare or make, or agree to pay or make, directly or indirectly, any Restricted Payment, return any capital to its stockholders or make any distribution of their\nProperty to their respective Equity Interest holders, except (i) the Parent may declare and pay dividends or distributions with respect to its Equity Interests payable solely in additional shares of its Equity Interests (other than Disqualified\nCapital Stock); (ii) Subsidiaries of the Borrower may declare and pay dividends or distributions ratably with respect to their Equity Interests; (iii) so long as both before and immediately after giving effect to such Restricted Payment,\n(A) no Default or Event of Default has occurred and is continuing or would result therefrom, (B) the Borrower has unused Commitments of not less than 20% of the total Commitments then in effect and (C) the ratio of Total Debt as of\nsuch time (including the effect of any Borrowings or other Debt used to make such Restricted Payment) to EBITDA for the four fiscal quarters ending on the last day of the fiscal quarter immediately preceding the date of determination for which\nfinancial statements are available is equal to or less than 3.00 to 1.00, the Borrower may declare and pay cash dividends to the Parent, and the Parent may declare and pay cash dividends to its Equity Interest holders; (iv) if no Default or\nEvent of Default has occurred and is continuing or would exist after giving effect thereto, the repurchase or other acquisition of equity securities, limited partnership interest or units of the Parent not to exceed $2,500,000 in the aggregate since\nthe Eighth Amendment Effective Date, from employees, former employees, directors or former directors of the Parent or its Subsidiaries (or permitted transferees of such employees, former employees, directors or former directors), pursuant to the\nterms of the agreements (including employment agreements) or plans (or amendments thereto) or other arrangements approved by the board of directors of the Parent under which such equity securities, limited partnership interest or units were granted,\nissued or sold; and (v) the Borrower may declare and pay dividends or distributions to the Parent in an amount equal to (A) Taxes then due and owing by the Parent and (B) reasonable and customary accounting, public company and other\noverhead and administrative costs and expenses (exclusive of any markup or premium), including reasonable and customary directors fees and expenses, incurred by the Parent in the ordinary course of business.",
+      "id": "ContentTextElement_1083",
+      "parent_id": "SectionElement_947",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.16 Amendment to Section 9.04(b)(i). Section 9.04(b)(i) is hereby amended by (a) replacing the word\nand at the end of clause (A) with a comma, (b) adding the word or at the end of clause (B) and (c) adding the following as a new clause (C): (C) with the Net Cash Proceeds of any sale of Equity Interests\n(other than Disqualified Capital Stock) of the Parent or in exchange solely for Equity Interests (other than Disqualified Capital Stock) of the Parent.",
+      "id": "ContentTextElement_1084",
+      "parent_id": "SectionElement_947",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(a) Section 9.05(g) is hereby amended and restated in its entirety to read as follows:",
+      "id": "ContentTextElement_1085",
+      "parent_id": "HeadingElement_1024",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(g) Investments (i) made by the Borrower in or to the Subsidiary Guarantors, (ii) made by any Subsidiary in or to the\nBorrower or any Subsidiary Guarantor, and (iii) made by the Borrower or any Subsidiary Guarantor in Subsidiaries that are not Guarantors, provided that the aggregate of all Investments made by the Borrower and the Subsidiary Guarantors\nin or to all Subsidiaries that are not Guarantors shall not exceed $20,000,000 at any time, and only to the extent an Event of Default or Borrowing Base Deficiency does not exist and would not result from making such Investments.",
+      "id": "ContentTextElement_1086",
+      "parent_id": "HeadingElement_1024",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "(b) Section 9.05(m) is hereby added to Section 9.05 to read as follows:",
+      "id": "ContentTextElement_1087",
+      "parent_id": "HeadingElement_1024",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.18 Amendment to Section 9.11. Section 9.11 is hereby amended by deleting the last paragraph thereof in its\nentirety.",
+      "id": "ContentTextElement_1088",
+      "parent_id": "ClauseElement_1005",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.19 Amendment to Section 9.14. Section 9.14 is hereby amended and restated in its entirety to\nread as follows:",
+      "id": "ContentTextElement_1089",
+      "parent_id": "ClauseElement_1005",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.20 Amendment to Section 9.21(a). The final proviso of\nSection 9.21(a) is hereby amended and restated in its entirety to read as follows: provided, further the Borrower and its Subsidiaries shall be permitted to make an optional or voluntary Redemption of the Second Lien Loans\nwith (1) the proceeds of Permitted Refinancing Debt or (2) the Net Cash Proceeds of any sale of Equity Interests (other than Disqualified Capital Stock) of the Parent or in exchange solely for Equity Interests (other than Disqualified\nCapital Stock) of the Parent.",
+      "id": "ContentTextElement_1090",
+      "parent_id": "SectionElement_954",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.21 Amendments to Article IX. Article IX is hereby amended by (a) replacing the phrase\nthe Borrower covenants and agrees with the Lenders that: immediately before Section 9.01 with the phrase The Borrower (and each Parent Guarantor, in the case of Section 9.01, Section 9.04(a), Section 9.24,\nSection 9.25, Section 9.26 and Section 9.27) covenants and agrees with the Lenders that: and (b) adding a new Section 9.24, Section 9.25, Section 9.26 and Section 9.27 thereto to read as follows:",
+      "id": "ContentTextElement_1091",
+      "parent_id": "SectionElement_954",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Refinancing Debt of the foregoing to which it is a party or (C) pursuant to Section 9.05(h); (ii) incur, assume or permit to exist any Lien on any of its Properties (now owned or\nhereafter acquired), except (A) pursuant to any Loan Documents or any Second Lien Loan Documents or any Permitted Refinancing Debt of the foregoing to which it is a party and (B) for Excepted Liens; (iii) make or permit to remain\noutstanding any Investment in any Person other than (A) Investments of the type described in Section 9.05(c) through (f), (B) loans and advances to the Borrower and the Subsidiary Guarantors and (C) capital contributions to the\nBorrower; (iv) Redeem any Senior Notes, Second Lien Loans or any Permitted Refinancing Debt in respect of the foregoing, or any Debt of any other Person; (v) merge into or with or consolidate with any other Person, or sell, lease or\notherwise dispose of (whether in one transaction or in a series of transactions) all or substantially all of its Property to any other Person; or (vi) sell, assign, convey or otherwise transfer any Property except for (A) Restricted\nPayments permitted by Section 9.04(a) and (B) transfers of any Property to the Borrower or any Subsidiary Guarantor.",
+      "id": "ContentTextElement_1092",
+      "parent_id": "SectionElement_957",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "agreement (any such payment, an LTIP Payment) on account of or in connection with the Reorganization Transactions and any other LTIP Payments on or after the date of the Ninth\nAmendment in respect of grant years 2018 and prior, other than (i) cash LTIP Payments up to $30,000,000 in the aggregate and (ii) any such LTIP Payment taking the form of common Equity Interests in the Parent.",
+      "id": "ContentTextElement_1093",
+      "parent_id": "SectionElement_960",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.22 Amendment to Section 10.01. Section 10.01 is hereby amended by replacing the phrase the Borrower or\nany of its Subsidiaries, the phrase the Borrower, any of its Subsidiaries and the phrase the Borrower and its Subsidiaries with the phrase the Borrower or any of its Subsidiaries or any Guarantor.",
+      "id": "ContentTextElement_1094",
+      "parent_id": "SectionElement_960",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.23 Amendment to Section 12.03(b)(ii). Section 12.03(b)(ii) is hereby amended by replacing the phrase THE\nBORROWER OR ANY OF ITS SUBSIDIARIES with THE BORROWER OR ANY OF ITS SUBSIDIARIES OR ANY GUARANTOR.",
+      "id": "ContentTextElement_1095",
+      "parent_id": "SectionElement_960",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.24 Amendment to\nSection 12.08. Section 12.08 is hereby amended by replacing the phrase the Borrower or any of its Subsidiaries with the phrase the Borrower or any of its Subsidiaries or any Guarantor.",
+      "id": "ContentTextElement_1096",
+      "parent_id": "SectionElement_960",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "2.25 Amendment to Section 12.19. Section 12.19 is hereby amended and restated in its entirety to read as\nfollows:",
+      "id": "ContentTextElement_1097",
+      "parent_id": "SectionElement_960",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "3.1 So long as the Ninth Amendment Effective Date has occurred by December 31, 2018 (as may be extended with the consent of the\nAdministrative Agent), the Lenders hereby (a) agree that (i) none of the Reorganization Transactions shall constitute (A) a merger or consolidation in violation of Section 9.11 or (B) a transaction with an Affiliate in\nviolation of Section 9.14 and (ii) the Change in Control that results on account of the Reorganization Transactions is hereby waived in its entirety and is deemed not to have occurred and (b) consent",
+      "id": "ContentTextElement_1098",
+      "parent_id": "SectionElement_966",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "to the Borrowers payment of cash in lieu of fractional shares held by its limited partner Equity Interest holders pursuant to the terms of the Merger Agreement in an amount up to $50,000\n(or such greater amount as the Administrative Agent may agree to in its sole discretion) and the Borrowers payment to Parent of the cash consideration to be paid by Parent to the equityholders of Legacy GP pursuant to the GP Purchase Agreement\nin an amount up to $3,500,000 (or such greater amount as the Administrative Agent may agree to in its sole discretion).",
+      "id": "ContentTextElement_1099",
+      "parent_id": "SectionElement_966",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "3.2 Except as\nexpressly waived herein, all covenants, obligations and agreements of the Borrower and each Guarantor contained in the Credit Agreement (as amended hereby) and the other Loan Documents shall remain in full force and effect in accordance with their\nterms. Without limitation of the foregoing, the foregoing waiver is hereby granted to the extent and only to the extent specifically stated herein and for no other purpose and shall not be deemed to (a) be a consent or agreement to, or waiver\nor modification of, or amendment to, any other term or condition of the Credit Agreement (as amended hereby), any other Loan Document or any of the documents referred to therein, (b) except as expressly set forth herein, prejudice any right or\nrights which the Administrative Agent or the Lenders may now have or may have in the future under or in connection with the Credit Agreement (as amended hereby), any other Loan Document or any of the documents referred to therein, or\n(c) constitute any course of dealing or other basis for altering any obligation of the Borrower or any right, privilege or remedy of the Administrative Agent or the Lenders under the Credit Agreement (as amended hereby), the other Loan\nDocuments, or any other contract or instrument. Granting the waiver set forth herein does not and should not be construed to be an assurance or promise that consents or waivers will be granted in the future, whether for the matters herein stated or\non other unrelated matters.",
+      "id": "ContentTextElement_1100",
+      "parent_id": "SectionElement_966",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.1 The Administrative Agent shall have received from the Majority Lenders, the Borrower and the Guarantors, counterparts (in such number as\nmay be requested by the Administrative Agent) of this Ninth Amendment signed on behalf of such Person.",
+      "id": "ContentTextElement_1101",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.2 The Administrative Agent shall\nhave received from the Borrower and each Guarantor (including the Parent Guarantors) counterparts (in such number as may be requested by the Administrative Agent), signed on behalf of such Person, of amendments, joinders and/or assumption agreements\nwith respect to each of this Agreement, the Guaranty Agreement, the Pledge Agreement and the Security Agreement, in each case with respect to the joinder of the Parent Guarantors, each of which shall be in form and substance reasonably satisfactory\nto the Administrative Agent.",
+      "id": "ContentTextElement_1102",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.3 The Administrative Agent shall be reasonably satisfied that the Security Instruments create first\npriority, perfected Liens on all of the Property of the Parent Guarantors, and the Administrative Agent shall have received certificates, if any, together with undated, blank stock powers for such certificates, representing all of the issued and\noutstanding certificated Equity Interests in each subsidiary pledged pursuant to the Pledge Agreement.",
+      "id": "ContentTextElement_1103",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.4 The Administrative Agent shall have received a certificate (which may be the same certificate\ndelivered pursuant to Section 4.8 and 4.10) of each Parent Guarantor setting forth (i) resolutions of the board of directors or other managing body with respect to the authorization of each Parent Guarantor to execute and deliver the Loan\nDocuments to which it is a party and to enter into the transactions contemplated in those documents, (ii) the individuals (A) who are authorized to sign the Loan Documents to which such Parent Guarantor is a party and (B) who will,\nuntil replaced by another individual duly authorized for that purpose, act as its representative for the purposes of signing documents and giving notices and other communications in connection with this Agreement and the other Loan Documents to\nwhich it is a party, (iii) specimen signatures of such authorized individuals, and (iv) the articles or certificate of incorporation or formation and bylaws, operating agreement or partnership agreement, as applicable, of each Parent\nGuarantor, in each case, certified as being true and complete.",
+      "id": "ContentTextElement_1104",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.5 The Administrative Agent shall have received certificates of the\nappropriate State agencies with respect to the existence, qualification and good standing of each Parent Guarantor, if any.",
+      "id": "ContentTextElement_1105",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.6 The\nAdministrative Agent shall have received an opinion of Kirkland & Ellis, LLP, special counsel to the Borrower, in form and substance reasonably satisfactory to the Administrative Agent, as to such matters as the Administrative Agent may\nreasonably request.",
+      "id": "ContentTextElement_1106",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.7 The Administrative Agent shall have received an executed copy of an amendment to the Second Lien Intercreditor\nAgreement, by and among the Administrative Agent, the Second Lien Administrative Agent, the Borrower and the Guarantors (including the Parent Guarantors), in form and substance reasonably satisfactory to the Administrative Agent. Each of the Lenders\nparty hereto hereby instructs and authorizes the Administrative Agent to enter into such amendment on its behalf.",
+      "id": "ContentTextElement_1107",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.8 The Administrative\nAgent shall have received a certificate (which may be the same certificate delivered pursuant to Section 4.4 and 4.10) of a Responsible Officer of the Borrower certifying (a) that attached thereto is a true, correct and complete copy of\nthe Fourth Amendment to the Second Lien Credit Agreement, which shall be in form and substance reasonably satisfactory to the Administrative Agent, and shall in any event amend the Second Lien Credit Agreement in the same manner as the Credit\nAgreement is to be amended by this Ninth Amendment (the Second Lien Amendment) and (b) as to the aggregate amount of all consent, amendment and other fees payable to the holders of the Second Lien Loans in connection with the\nSecond Lien Amendment and/or the Reorganization Transactions (the Second Lien Amendment Fee). The Fourth Amendment Effective Date under and as defined in the Second Lien Credit Agreement shall have occurred (or shall\noccur substantially concurrently with the Ninth Amendment Effective Date).",
+      "id": "ContentTextElement_1108",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.9 The Administrative Agent and the Lenders shall have\nreceived all fees and other amounts due and payable pursuant to the Credit Agreement on or prior to the Ninth Amendment Effective Date, including (a) fees and expenses invoiced by Paul Hastings LLP prior to the Ninth Amendment Effective Date\nand (b) to the extent any Second Lien Amendment Fee or any Senior Notes Amendment Fee (as defined below) is paid by the Obligors or any Affiliate thereof, an amendment fee payable to the Administrative Agent, for the account of each Lender that\nhas",
+      "id": "ContentTextElement_1109",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "executed this Ninth Amendment (each such Lender, a Consenting Lender), in an amount equal to the greater of (i) the product of such Consenting Lenders Applicable\nPercentage of the Commitments on the Ninth Amendment Effective Date multiplied by the Second Lien Amendment Fee and (ii) the product of such Consenting Lenders Applicable Percentage of the Commitments on the Ninth Amendment Effective Date\nmultiplied by the Senior Notes Amendment Fee.",
+      "id": "ContentTextElement_1110",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.10 The Administrative Agent shall have received a certificate (which may be the same\ncertificate delivered pursuant to Section 4.4 and 4.8) of a Responsible Officer certifying (a) that attached thereto is a true and complete copy of the amendment with respect to the Borrowers Senior Indentures with respect to the\nReorganization Transactions (the Senior Notes Amendment), (b) as to the aggregate amount of all consent, amendment and other fees payable to the holders of the Senior Notes in connection with the Senior Notes Amendment and/or the\nReorganization Transactions (the Senior Notes Amendment Fee), (c) that the Merger Agreement and the transactions described therein have been approved by at least a majority of the votes cast of the Borrowers limited partner\nunitholders entitled to vote on the matter; (d) that the consummation of the Reorganization Transactions will not violate or result in a default under any indenture, agreement, preferred stock designation or other instrument binding upon the\nBorrower or any of its Subsidiaries or their Properties, or give rise to a right thereunder to require any payment to be made by the Borrower or such Subsidiary and will not result in the creation or imposition of any Lien on any Property of the\nBorrower or any of its Subsidiaries; (e) that the Reorganization Transactions have been consummated (or will be consummated substantially simultaneously with the Ninth Amendment Effective Date) pursuant to the terms and conditions set forth in\nthe Merger Agreement and GP Purchase Agreement and (f) neither the Merger Agreement nor the GP Purchase Agreement nor any provision thereof shall have been modified, amended, restated or waived by the Borrower or any of its Affiliates, and\nneither the Borrower nor any of its Affiliates shall have granted any consent thereunder, in each case in a manner that is materially adverse to the Lenders, without the prior written consent of the Administrative Agent (it being acknowledged that\nany increase in any amounts payable beyond, in the case of the GP Purchase Agreement, $3,500,000 and, in the case of the Merger Agreement, $50,000, thereunder shall be deemed to be materially adverse).",
+      "id": "ContentTextElement_1111",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.11 No Default shall have occurred and be continuing as of the Ninth Amendment Effective Date.",
+      "id": "ContentTextElement_1112",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "4.12 The Administrative Agent shall have received such other documents as the Administrative Agent or its counsel may reasonably require.",
+      "id": "ContentTextElement_1113",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The Administrative Agent is hereby authorized and directed to declare this Ninth Amendment to be effective and to declare the occurrence of\nthe Ninth Amendment Effective Date when it has received documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section 4 or the waiver of such conditions as\npermitted in Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes.",
+      "id": "ContentTextElement_1114",
+      "parent_id": "SectionElement_969",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.1 Confirmation. The provisions of the Credit Agreement, as amended by this Ninth Amendment, shall remain in full force and effect\nfollowing the effectiveness of this Ninth Amendment.",
+      "id": "ContentTextElement_1115",
+      "parent_id": "SectionElement_982",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.2 Ratification and Affirmation; Representations and Warranties. Each\nObligor hereby (a) acknowledges the terms of this Ninth Amendment; (b) ratifies and affirms its obligations under, and acknowledges its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document\nto which it is a party remains in full force and effect as expressly amended hereby; (c) represents and warrants to the Lenders that as of the date hereof, after giving effect to the terms of this Ninth Amendment: (i) all of the\nrepresentations and warranties contained in each Loan Document to which it is a party are true and correct, except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations\nand warranties shall continue to be true and correct as of such specified earlier date, (ii) no Default or Event of Default has occurred and is continuing, (iii) no event or events have occurred which individually or in the aggregate could\nreasonably be expected to have a Material Adverse Effect and (iv) the Parent Guarantors, the Borrower and each of the other Guarantors reasonably expect in good faith that no additional Taxes are payable by the Parent Guarantors, the Borrower\nand their respective Subsidiaries in cash as a result of the Reorganization Transactions; and (d) agrees that from and after the Ninth Amendment Effective Date each reference to the Credit Agreement in the other Loan Documents shall be deemed\nto be a reference to the Credit Agreement, as amended by this Ninth Amendment.",
+      "id": "ContentTextElement_1116",
+      "parent_id": "SectionElement_982",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.4 No Oral\nAgreement. This Ninth Amendment, the Credit Agreement and the other Loan Documents executed in connection herewith and therewith represent the final agreement between the parties and may not be contradicted by evidence of prior,\ncontemporaneous, or unwritten oral agreements of the parties. There are no subsequent oral agreements between the parties.",
+      "id": "ContentTextElement_1117",
+      "parent_id": "DefinitionElement_1012",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.5\nGOVERNING LAW. THIS NINTH AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.",
+      "id": "ContentTextElement_1118",
+      "parent_id": "DefinitionElement_1012",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.6 Payment of Expenses. In accordance with Section 12.03 of the Credit Agreement, the Borrower agrees to pay or reimburse the\nAdministrative Agent for all of its reasonable out-of-pocket costs and reasonable expenses incurred in connection with this Ninth Amendment, any other documents prepared\nin connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.",
+      "id": "ContentTextElement_1119",
+      "parent_id": "DefinitionElement_1012",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.7 Severability. Any provision of this Ninth Amendment which is prohibited or\nunenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any\njurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.",
+      "id": "ContentTextElement_1120",
+      "parent_id": "DefinitionElement_1012",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.8 Successors and\nAssigns. This Ninth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.",
+      "id": "ContentTextElement_1121",
+      "parent_id": "DefinitionElement_1012",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.9 Loan Document. This Ninth Amendment is a Loan Document as defined and described in the Credit Agreement, and all of the\nterms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.",
+      "id": "ContentTextElement_1122",
+      "parent_id": "DefinitionElement_1012",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.10 RELEASE. FOR GOOD AND\nVALUABLE CONSIDERATION, THE RECEIPT AND SUFFICIENCY OF WHICH ARE HEREBY ACKNOWLEDGED, THE BORROWER AND EACH OTHER OBLIGOR HEREBY, FOR ITSELF AND ITS SUCCESSORS AND ASSIGNS, FULLY AND WITHOUT RESERVE, RELEASES AND FOREVER DISCHARGES EACH LENDER, EACH\nAGENT, THE ARRANGER, THE ISSUING BANK, AND EACH OF THEIR RESPECTIVE SUCCESSORS AND ASSIGNS, OFFICERS, DIRECTORS, EMPLOYEES, REPRESENTATIVES, TRUSTEES, ATTORNEYS, AGENTS, ADVISORS (INCLUDING ATTORNEYS, ACCOUNTANTS AND EXPERTS) AND AFFILIATES\n(COLLECTIVELY THE RELEASED PARTIES AND INDIVIDUALLY A RELEASED PARTY) FROM ANY AND ALL ACTIONS, CLAIMS, DEMANDS, CAUSES OF ACTION, JUDGMENTS, EXECUTIONS, SUITS, DEBTS, LIABILITIES,\nCOSTS, DAMAGES, EXPENSES OR OTHER OBLIGATIONS OF ANY KIND AND NATURE WHATSOEVER, KNOWN OR UNKNOWN, DIRECT AND/OR INDIRECT, AT LAW OR IN EQUITY, WHETHER NOW EXISTING OR HEREAFTER ASSERTED (INCLUDING, WITHOUT LIMITATION, ANY OFFSETS, REDUCTIONS,\nREBATEMENT, CLAIMS OF USURY OR CLAIMS WITH RESPECT TO THE NEGLIGENCE OF ANY RELEASED PARTY), FOR OR BECAUSE OF ANY MATTERS OR THINGS OCCURRING, EXISTING OR ACTIONS DONE, OMITTED TO BE DONE, OR SUFFERED TO BE DONE BY ANY OF THE RELEASED\nPARTIES, IN EACH CASE, ON OR PRIOR TO THE DATE HEREOF AND ARE IN ANY WAY DIRECTLY OR INDIRECTLY ARISING OUT OF OR IN ANY WAY CONNECTED TO ANY OF THIS NINTH AMENDMENT, THE CREDIT AGREEMENT, ANY OTHER LOAN DOCUMENT OR ANY OF THE TRANSACTIONS\nCONTEMPLATED HEREBY OR THEREBY (COLLECTIVELY, THE RELEASED MATTERS). THE BORROWER AND EACH OTHER OBLIGOR, BY EXECUTION HEREOF, HEREBY ACKNOWLEDGES AND AGREES THAT THE AGREEMENTS IN THIS SECTION 5.10 ARE INTENDED TO\nCOVER AND BE IN FULL SATISFACTION FOR ALL OR ANY ALLEGED INJURIES OR DAMAGES ARISING IN CONNECTION WITH THE RELEASED MATTERS.",
+      "id": "ContentTextElement_1123",
+      "parent_id": "DefinitionElement_1012",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "5.11\nTermination. Notwithstanding anything herein to the contrary, to the extent the Ninth Amendment Effective Date has not occurred by December 31, 2018, then, except as stated in the immediately following sentence, (a) this Amendment\nshall be null and void and (b) the Existing Credit Agreement shall continue in full force and effect without giving effect to any amendments, waivers or other provisions contained herein shall be reinstated. Notwithstanding the foregoing, the\naddition of Section 9.26 to the Existing Credit Agreement specified in Section 2.21 above shall survive any termination pursuant to this Section 5.11.",
+      "id": "ContentTextElement_1124",
+      "parent_id": "DefinitionElement_1012",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "IN WITNESS WHEREOF, the parties hereto have caused this Ninth Amendment to be duly executed as of\nthe date first written above.",
+      "id": "ContentTextElement_1125",
+      "parent_id": "HeadingElement_1025",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "ADMINISTRATIVE AGENT:\n \n\n \nWELLS FARGO BANK, NATIONAL\n\n\n \n\n \nASSOCIATION, as Administrative Agent and a Lender\n\n\n\n\n\n\n\n \n\n \nBy:\n \n /s/ Stephanie Harrell\n\n\n \n\n \nName:\n \nStephanie Harrell\n\n\n \n\n \nTitle:\n \nVice President",
+      "id": "ContentTextElement_1126",
+      "parent_id": "HeadingElement_1027",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "LENDERS:\n \n\n \nCOMPASS BANK\n\n\n\n\n\n\n\n \n\n \nBy:\n \n /s/ Rachel Festervand\n\n\n \n\n \nName:\n \nRachel Festervand\n\n\n \n\n \nTitle:\n \nSenior Vice President",
+      "id": "ContentTextElement_1127",
+      "parent_id": "HeadingElement_1028",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "DefinitionElement",
+      "module": "agreement_parser_v6",
+      "text": "Unless otherwise indicated herein, each reference to the term Subsidiary shall mean a Subsidiary of the Borrower. Notwithstanding the foregoing, until such time as the Borrower\nnotifies the Administrative Agent that the Person constituting an E&P Subsidiary is no longer designated an E&P Subsidiary hereunder, it is understood and agreed that neither such E&P Subsidiary nor any subsidiary of such\nE&P Subsidiary shall be a Subsidiary of the Borrower for purposes of this Agreement and the other Loan Documents other than, to the extent such E&P Subsidiary would otherwise constitute a Subsidiary within the meaning of such\ndefinition, such E&P Subsidiary and its subsidiaries shall each be a Subsidiary for purposes of Section 7.06, Section 7.09, Section 7.10, Section 7.23, Section 8.10, Section 8.15, Section 9.09,\nSection 9.13 and Section 12.03(b).",
+      "id": "DefinitionElement_1008",
+      "parent_id": "HeadingElement_1023",
+      "children": [],
+      "level": 3,
+      "term": "shall",
+      "definition": "a Subsidiary of the Borrower. Notwithstanding the foregoing, until such time as the Borrower",
+      "normalized_id": "def_shall"
+    },
+    {
+      "class_name": "DefinitionElement",
+      "module": "agreement_parser_v6",
+      "text": "5.3 Counterparts. This Ninth Amendment may be\nexecuted by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this Ninth Amendment by telecopy, facsimile,\nemail or other electronic means shall be effective as delivery of a manually executed counterpart hereof.",
+      "id": "DefinitionElement_1012",
+      "parent_id": "SectionElement_982",
+      "children": [
+        "ContentTextElement_1117",
+        "ContentTextElement_1118",
+        "ContentTextElement_1119",
+        "ContentTextElement_1120",
+        "ContentTextElement_1121",
+        "ContentTextElement_1122",
+        "ContentTextElement_1123",
+        "ContentTextElement_1124"
+      ],
+      "level": 3,
+      "term": "email or other electronic",
+      "definition": "shall be effective as delivery of a manually executed counterpart hereof.",
+      "normalized_id": "def_email_or_other_electronic"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "THIRD AMENDED AND RESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1013",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "THIRD AMENDED AND RESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "LEGACY RESERVES LP,",
+      "id": "HeadingElement_1014",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "LEGACY RESERVES LP,"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "THE\nGUARANTORS,",
+      "id": "HeadingElement_1015",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "THE\nGUARANTORS,"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "WELLS FARGO BANK, NATIONAL\nASSOCIATION,",
+      "id": "HeadingElement_1016",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "WELLS FARGO BANK, NATIONAL\nASSOCIATION,"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "THE\nLENDERS SIGNATORY HERETO",
+      "id": "HeadingElement_1017",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "THE\nLENDERS SIGNATORY HERETO"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "DATED AS OF\nMARCH 23, 2018",
+      "id": "HeadingElement_1018",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [
+        "ClauseElement_994"
+      ],
+      "level": 1,
+      "heading_text": "DATED AS OF\nMARCH 23, 2018"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "TABLE OF CONTENTS",
+      "id": "HeadingElement_1019",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "TABLE OF CONTENTS"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "NINTH AMENDMENT TO",
+      "id": "HeadingElement_1020",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "NINTH AMENDMENT TO"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "THIRD AMENDED AND RESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1021",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [
+        "PartyElement_1006",
+        "HeadingElement_1022",
+        "RecitalElement_1007",
+        "SectionElement_931",
+        "SectionElement_932",
+        "HeadingElement_1023",
+        "PartyElement_1009",
+        "PartyElement_1010",
+        "PartyElement_1011",
+        "HeadingElement_1024",
+        "SectionElement_966",
+        "SectionElement_969",
+        "SectionElement_982"
+      ],
+      "level": 1,
+      "heading_text": "THIRD AMENDED AND RESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "Recitals",
+      "id": "HeadingElement_1022",
+      "parent_id": "HeadingElement_1021",
+      "children": [
+        "ContentTextElement_1044",
+        "ContentTextElement_1045",
+        "ClauseElement_995"
+      ],
+      "level": 2,
+      "heading_text": "Recitals"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "2.1 Amendments to Section 1.02.",
+      "id": "HeadingElement_1023",
+      "parent_id": "HeadingElement_1021",
+      "children": [
+        "ClauseElement_996",
+        "DefinitionElement_1008",
+        "ClauseElement_997"
+      ],
+      "level": 2,
+      "heading_text": "2.1 Amendments to Section 1.02."
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "2.17 Amendments to Section 9.05.",
+      "id": "HeadingElement_1024",
+      "parent_id": "HeadingElement_1021",
+      "children": [
+        "ContentTextElement_1085",
+        "ContentTextElement_1086",
+        "ContentTextElement_1087",
+        "ClauseElement_1005",
+        "SectionElement_954",
+        "SectionElement_957",
+        "SectionElement_958",
+        "SectionElement_959",
+        "SectionElement_960",
+        "SectionElement_965"
+      ],
+      "level": 2,
+      "heading_text": "2.17 Amendments to Section 9.05."
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "[SIGNATURES BEGIN NEXT PAGE]",
+      "id": "HeadingElement_1025",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [
+        "ContentTextElement_1125"
+      ],
+      "level": 1,
+      "heading_text": "[SIGNATURES BEGIN NEXT PAGE]"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1026",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1027",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [
+        "ContentTextElement_1126"
+      ],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1028",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [
+        "ContentTextElement_1127"
+      ],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1029",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1030",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1031",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1032",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1033",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1034",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1035",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1036",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1037",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1038",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1039",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1040",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1041",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1042",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT",
+      "id": "HeadingElement_1043",
+      "parent_id": "AgreementTitleElement_930",
+      "children": [],
+      "level": 1,
+      "heading_text": "SIGNATURE PAGE\nNINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT"
+    },
+    {
+      "class_name": "PartyElement",
+      "module": "agreement_parser_v6",
+      "text": "This NINTH AMENDMENT TO THIRD AMENDED AND\nRESTATED CREDIT AGREEMENT (this Ninth Amendment) dated as of March 23, 2018, among LEGACY RESERVES LP, a limited partnership duly formed under the\nlaws of the State of Delaware (the Borrower); each of the undersigned guarantors (the Guarantors, and together with the Borrower, the Obligors); WELLS FARGO\nBANK, NATIONAL ASSOCIATION, as administrative agent for the Lenders (in such capacity, together with its successors, the Administrative Agent); and the Lenders signatory hereto.",
+      "id": "PartyElement_1006",
+      "parent_id": "HeadingElement_1021",
+      "children": [],
+      "level": 2,
+      "party_name": "LEGACY RESERVES LP",
+      "party_type": "limited partnership duly formed under th",
+      "normalized_id": "party_legacy_reserves_lp"
+    },
+    {
+      "class_name": "PartyElement",
+      "module": "agreement_parser_v6",
+      "text": "Legacy GP means Legacy Reserves GP, LLC, a Delaware limited liability company.",
+      "id": "PartyElement_1009",
+      "parent_id": "HeadingElement_1021",
+      "children": [],
+      "level": 2,
+      "party_name": "LLC",
+      "party_type": "Delaware limited liability company.",
+      "normalized_id": "party_llc"
+    },
+    {
+      "class_name": "PartyElement",
+      "module": "agreement_parser_v6",
+      "text": "Merger Agreement means that certain Agreement and Plan of Merger, dated as of March 23, 2018, by and\namong the Borrower, Legacy GP, Parent and Legacy Reserves Merger Sub LLC, a Delaware limited liability company, in form and substance reasonably satisfactory to the Administrative Agent (it being agreed and understood that the Merger Agreement\ndelivered to the Administrative Agent on or prior to the date of the Ninth Amendment is reasonably satisfactory to the Administrative Agent), as it may be amended, supplemented, restated or",
+      "id": "PartyElement_1010",
+      "parent_id": "HeadingElement_1021",
+      "children": [
+        "ContentTextElement_1060",
+        "ContentTextElement_1061",
+        "ContentTextElement_1062"
+      ],
+      "level": 2,
+      "party_name": "Parent and Legacy Reserves Merger Sub LLC",
+      "party_type": "Delaware limited liability company",
+      "normalized_id": "party_parent_and_legacy_reserves_merger_sub_llc"
+    },
+    {
+      "class_name": "PartyElement",
+      "module": "agreement_parser_v6",
+      "text": "Parent means Legacy Reserves Inc., a Delaware corporation.",
+      "id": "PartyElement_1011",
+      "parent_id": "HeadingElement_1021",
+      "children": [
+        "ContentTextElement_1063",
+        "ContentTextElement_1064",
+        "ContentTextElement_1065",
+        "ClauseElement_998",
+        "ClauseElement_999",
+        "ClauseElement_1000",
+        "ClauseElement_1001",
+        "ClauseElement_1002",
+        "ClauseElement_1003",
+        "SectionElement_939",
+        "ClauseElement_1004",
+        "SectionElement_947"
+      ],
+      "level": 2,
+      "party_name": "Parent means Legacy Reserves Inc.",
+      "party_type": "Delaware corporation.",
+      "normalized_id": "party_parent__means_legacy_reserves_inc_"
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for\ngood and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:",
+      "id": "RecitalElement_1007",
+      "parent_id": "HeadingElement_1021",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 1.\nDefined Terms. Each capitalized term which is defined in the Credit Agreement, but which is not defined in this Ninth Amendment, shall have the meaning ascribed such term in the Credit Agreement. Unless otherwise indicated, all article,\nsection and exhibit references in this Ninth Amendment refer to articles, sections and exhibits of the Credit Agreement.",
+      "id": "SectionElement_931",
+      "parent_id": "HeadingElement_1021",
+      "children": [],
+      "level": 2,
+      "section_number": "1",
+      "section_title": "Defined Terms. Each capitalized term which is defined in the Credit Agreement, but which is not defined in this Ninth Amendment, shall have the meaning ascribed such term in the Credit Agreement. Unless otherwise indicated, all article,",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 2. Amendments to Credit Agreement. Effective as of (a) in the case of the additions of\nSections 9.26 and 9.27 to the Existing Credit Agreement specified in Section 2.21 below, the date hereof and (b) in any other case, as of the Ninth Amendment Effective Date:",
+      "id": "SectionElement_932",
+      "parent_id": "HeadingElement_1021",
+      "children": [],
+      "level": 2,
+      "section_number": "2",
+      "section_title": "Amendments to Credit Agreement. Effective as of (a) in the case of the additions of",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 7.27 Representations and Warranties of the Parent Guarantors. Each of the Parent Guarantors hereby makes\neach of the representations and warranties to the Lenders set forth in Section 7.01, Section 7.02, Section 7.03, Section 7.04, Section 7.05, Section 7.06, Section 7.07, Section 7.08, Section 7.09,\nSection 7.10, Section 7.11, Section 7.12, Section 7.13, Section 7.14, Section 7.21, Section 7.22 and Section 7.23, as if each reference to the Borrower therein were a reference to such Parent\nGuarantor, and provided that each reference in each such representation and warranty to the Borrowers knowledge shall, for the purposes of this Section 7.27, be deemed to be a reference to such Parent Guarantors knowledge.",
+      "id": "SectionElement_939",
+      "parent_id": "PartyElement_1011",
+      "children": [
+        "ContentTextElement_1071",
+        "ContentTextElement_1072",
+        "ContentTextElement_1073",
+        "ContentTextElement_1074",
+        "ContentTextElement_1075"
+      ],
+      "level": 3,
+      "section_number": "7.27",
+      "normalized_id": "7.27"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 8.21 Affirmative Covenants of\nthe Parent Guarantors. Each of the Parent Guarantors hereby covenants and agrees to comply with each of the covenants set forth in Section 8.03, Section 8.04, Section 8.05, Section 8.07, Section 8.08, Section 8.09,\nSection 8.10, Section 8.11, Section 8.15, Section 8.19 and Section 8.20, as if each reference to the Borrower therein were a reference to such Parent Guarantor; provided, however, that, so long\nas the aggregate balance held in all Deposit Accounts, Securities Accounts and Commodity Accounts of the Parent Guarantors does not at any time exceed $500,000, the Parent Guarantors shall be under no obligation with respect to Section 8.20\nprior to the 30th day following the Ninth Amendment Effective Date (or such later date as the Administrative Agent may agree to in its sole discretion).",
+      "id": "SectionElement_947",
+      "parent_id": "PartyElement_1011",
+      "children": [
+        "ContentTextElement_1081",
+        "ContentTextElement_1082",
+        "ContentTextElement_1083",
+        "ContentTextElement_1084"
+      ],
+      "level": 3,
+      "section_number": "8.21",
+      "normalized_id": "8.21"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 9.14 Transactions with Affiliates. The Borrower will not, and will not permit any\nSubsidiary to, enter into any transaction, including, without limitation, any purchase, sale, lease or exchange of Property or the rendering of any service, with any Affiliate (other than the Guarantors and Wholly-Owned Subsidiaries of the Borrower)\n(each, an Affiliate Transaction) unless (a) such transactions are otherwise permitted under this Agreement and are upon fair and reasonable terms no less favorable to it than it would obtain in a comparable arms length\ntransaction with a Person not an Affiliate and (b) the Borrower delivers to the Administrative Agent and Lenders: (i) with respect to any Affiliate Transaction or series of related Affiliate Transactions involving aggregate consideration\nin excess of $25.0 million but less than or equal to $50.0 million, an officers certificate of a Responsible Officer certifying that such Affiliate Transaction or series of related Affiliate Transactions complies with this\nSection 9.14; or (ii) with respect to any Affiliate Transaction or series of related Affiliate Transactions involving aggregate consideration in excess of $50.0 million, an officers certificate of a Responsible Officer\ncertifying that such Affiliate Transaction or series of related Affiliate Transactions complies with this Section 9.14 and that such Affiliate Transaction or series of related Affiliate Transactions has been approved by the board of directors\nof the Parent (so long as the members of the board of directors are disinterested) or a majority of the disinterested members of the board of directors of the Parent, in each case pursuant to a resolution set forth in such officers\ncertificate.",
+      "id": "SectionElement_954",
+      "parent_id": "HeadingElement_1024",
+      "children": [
+        "ContentTextElement_1090",
+        "ContentTextElement_1091"
+      ],
+      "level": 3,
+      "section_number": "9.14",
+      "normalized_id": "9.14"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 9.24 Passive Holding Company Status of Parent Guarantors. Neither of the Parent Guarantors shall engage in\nany operating or business activities or other transactions and shall not directly hold Equity Interests of any Subsidiary except the Borrower or Legacy GP; provided that the following shall be permitted in any event: (a) the maintenance\nof its legal existence (including the ability to incur fees, costs and expenses relating to such maintenance), (b) the performance of its obligations with respect to the Loan Documents, the Second Lien Loan Documents, the Senior Notes and any\nPermitted Refinancing Debt of the foregoing, (c) any public offering of the Parents common stock or any other issuance or sale of the Parents Equity Interests and, in each case, the redemption thereof, (d) payment of taxes and\ndividends to its Equity Interest holders and making contributions to the capital of the Borrower and its Subsidiaries, (e) participating in tax, accounting and other administrative matters as a member of the consolidated group of the Parent and\nits Subsidiaries or the making and filing of any reports required by any Governmental Authority, (f) holding any cash or cash equivalents incidental to any activities permitted under this Section 9.24, (g) providing indemnification to\nofficers, managers and directors, (h) managing, through its board of directors, directors, officers and managers, the business of the Borrower and its Subsidiaries and (i) any other activities incidental to the foregoing. Notwithstanding\nthe foregoing, no Parent Guarantor shall (i) incur, create, assume or suffer to exist any Debt or other material liabilities or material obligations (including any obligations (whether contingent or otherwise) under Swap Agreements or\nguarantees of any obligations under Swap Agreements), except (A) nonconsensual obligations (other than Debt) imposed by operation of law, (B) pursuant to any Loan Documents, any Second Lien Loan Documents, any Senior Notes or any Permitted",
+      "id": "SectionElement_957",
+      "parent_id": "HeadingElement_1024",
+      "children": [
+        "ContentTextElement_1092"
+      ],
+      "level": 3,
+      "section_number": "9.24",
+      "normalized_id": "9.24"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 9.25 Negative Covenants of the Parent Guarantors. Each of the Parent Guarantors hereby covenants and\nagrees to comply with each of the covenants set forth in Section 9.04(b)(ii), Section 9.04(c), Section 9.09, Section 9.14, Section 9.16, Section 9.21(b), and Section 9.22, as if each reference to the\nBorrower were a reference to such Parent Guarantor; provided, however, that, so long as the aggregate balance held in all Deposit Accounts, Securities Accounts and Commodity Accounts of the Parent Guarantors does not at any\ntime exceed $500,000, the Parent Guarantors shall be under no obligation with respect to Section 9.22 prior to the 30th day following the Ninth Amendment Effective Date (or such later date as the Administrative Agent may agree to in its sole\ndiscretion).",
+      "id": "SectionElement_958",
+      "parent_id": "HeadingElement_1024",
+      "children": [],
+      "level": 3,
+      "section_number": "9.25",
+      "normalized_id": "9.25"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 9.26 Certain Settlements. Each of the Borrower and the Parent Guarantors will not, and\nwill not permit their Subsidiaries or the Parent to, at any time, without the prior written approval of the Administrative Agent, make any payment in any form (including cash, securities or other Property, but excluding any payments made with the\nproceeds of insurance) in respect of any settlement of any action, suit, proceeding, investigation or arbitration relating to the Reorganization Transactions in excess of $10,000,000.",
+      "id": "SectionElement_959",
+      "parent_id": "HeadingElement_1024",
+      "children": [],
+      "level": 3,
+      "section_number": "9.26",
+      "normalized_id": "9.26"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 9.27 LTIP. Each of the Borrower and the Parent Guarantors will not, and will not permit their Subsidiaries\nto, declare or make, or agree to pay or make, directly or indirectly, any payment in any form (including cash, securities or other Property) pursuant to the Amended and Restated Long-Term Incentive Plan of the Borrower, dated August 17, 2007,\nas amended by the First Amendment, dated June 12, 2015, as it may be further amended, restated, amended and restated or otherwise modified from time to time or any related employment or other",
+      "id": "SectionElement_960",
+      "parent_id": "HeadingElement_1024",
+      "children": [
+        "ContentTextElement_1093",
+        "ContentTextElement_1094",
+        "ContentTextElement_1095",
+        "ContentTextElement_1096",
+        "ContentTextElement_1097"
+      ],
+      "level": 3,
+      "section_number": "9.27",
+      "normalized_id": "9.27"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 12.19 Joinder of Parent Guarantors. By executing and delivering the Ninth Amendment, effective as of the\nNinth Amendment Effective Date, each of the Parent and Legacy GP hereby becomes a party to this Agreement with the same force and effect as if originally named herein and hereby agrees to be bound by the terms of this Agreement. In furtherance of\nthe foregoing, on the Ninth Amendment Effective Date, each of the Parent and Legacy GP shall execute and deliver to the Administrative Agent a joinder with respect to its obligations under this Agreement, which shall be in form and substance\nreasonably satisfactory to the Administrative Agent. Each of the Parent and Legacy GP hereby represents and warrants that each of the representations and warranties applicable to it in this Agreement are true and correct, except to the extent any\nsuch representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct as of such specified earlier date.",
+      "id": "SectionElement_965",
+      "parent_id": "HeadingElement_1024",
+      "children": [],
+      "level": 3,
+      "section_number": "12.19",
+      "normalized_id": "12.19"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 3. Consent to Reorganization Transactions.",
+      "id": "SectionElement_966",
+      "parent_id": "HeadingElement_1021",
+      "children": [
+        "ContentTextElement_1098",
+        "ContentTextElement_1099",
+        "ContentTextElement_1100"
+      ],
+      "level": 2,
+      "section_number": "3",
+      "section_title": "Consent to Reorganization Transactions.",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 4. Conditions Precedent. This Ninth Amendment shall not become effective until the date on which each of\nthe following conditions is satisfied (or waived in accordance with Section 12.02 of the Credit Agreement) (the Ninth Amendment Effective Date):",
+      "id": "SectionElement_969",
+      "parent_id": "HeadingElement_1021",
+      "children": [
+        "ContentTextElement_1101",
+        "ContentTextElement_1102",
+        "ContentTextElement_1103",
+        "ContentTextElement_1104",
+        "ContentTextElement_1105",
+        "ContentTextElement_1106",
+        "ContentTextElement_1107",
+        "ContentTextElement_1108",
+        "ContentTextElement_1109",
+        "ContentTextElement_1110",
+        "ContentTextElement_1111",
+        "ContentTextElement_1112",
+        "ContentTextElement_1113",
+        "ContentTextElement_1114"
+      ],
+      "level": 2,
+      "section_number": "4",
+      "section_title": "Conditions Precedent. This Ninth Amendment shall not become effective until the date on which each of",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "Section 5. Miscellaneous.",
+      "id": "SectionElement_982",
+      "parent_id": "HeadingElement_1021",
+      "children": [
+        "ContentTextElement_1115",
+        "ContentTextElement_1116",
+        "DefinitionElement_1012"
+      ],
+      "level": 2,
+      "section_number": "5",
+      "section_title": "Miscellaneous.",
+      "normalized_id": "5"
+    }
+  ]
+}

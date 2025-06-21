@@ -1,0 +1,45 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TextElement",
+    "text": "Exhibit\n10.7Execution Version"
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "Administration\nService Agreement",
+    "level": 0
+  },
+  {
+    "id": "element_0002",
+    "cls": "TextElement",
+    "text": "This\nAdministration Service Agreement (the “Agreement”) dated this 20th day of February, 2024 is between DT Cloud Capital Corp.,\nherein referred to as “Service Provider” and DT Cloud Acquisition Corporation, herein referred to as “Customer”.Service\nProvider has agreed to provide services to the Customer on the terms and conditions set out in this Agreement, while Customer is of the\nopinion that Service Provider has the proper and necessary qualifications, experience and abilities to provide services to Customer.Therefore\nin consideration of the matters described above, the receipt and sufficiency of which consideration is hereby acknowledged, the Customer\nand the Service Provider agree as follows:1.\nScope of WorkThe\nService Provider is to provide the Customer with the following services (the “Services”): Company Administration, office\nspace, utilities, secretarial and administrative support services provided to members of the Customer’s management team.The\nservices will include any other tasks which the Customer and the Service Provider may agree on.2.\nTerm of AgreementThis\nAgreement will begin on February 20, 2024 and will remain in full force and effect for up to 9 months (or up to 21 months, as applicable).\nIf the Company enters into a business combination agreement within 9 months after the IPO, it is entitled to an automatic 3-month extension.\nAs a result, it will have 12 (or up to 24) months from the closing of the IPO to consummate an initial Business Combination. This Agreement\nmay be extended by mutual written agreement of the parties.3.\nTerminationIf\neither party seeks termination of this Agreement, the terminating party must provide a 30 days written notice to the other party.4.\nCompensationThe\nCustomer will provide compensation to the Service Provider of US$10,000 per month for the services rendered by the Service Provider as\nrequired by this Agreement. Compensation is payable at the completion of services; provided, however, that the Company may delay payment\nof such monthly fee upon a determination by the audit committee of the board of directors of the Company that the Company lacks sufficient\nfunds held outside of the Trust Account (as defined below) to pay actual or anticipated expenses in connection with an initial business\ncombination. Any such unpaid amount shall accrue without interest and either be due and payable no later than the date of the Company’s\ninitial business combination. If the Company does not consummate an initial business combination, any accrued and unpaid amounts hereunder\nshall be forgiven. The Sponsor hereby agrees that it does not have any right, title, interest or claim of any kind in or to any monies\nthat may be set aside in a trust account (the “Trust Account”) to be established upon the consummation of the IPO (the “Claim”)\nand hereby waives any Claim it may have in the future as a result of, or arising out of, any negotiations, contracts or agreements with\nthe Company and will not seek recourse against the Trust Account for any reason whatsoever."
+  },
+  {
+    "id": "element_0003",
+    "cls": "TitleElement",
+    "text": "[signature\npage follows]",
+    "level": 0
+  },
+  {
+    "id": "element_0004",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 1  Field: /Page IN\nWITNESS WHEREOF the parties have duly affixed their signatures under hand on this day of 2024"
+  },
+  {
+    "id": "element_0005",
+    "cls": "TableElement",
+    "text": "DT\n    Cloud Acquisition Corporation\n \n\n \n \n \n\nBy:\n/s/ Shaoke\n    Li \n \n\nName:\nShaoke\n    Li \n \n\nTitle:\nCEO\n \n\n \n \n \n\nDT\n    Cloud Capital Corp.\n \n\n \n \n \n\nBy:\n/s/\n    Guojian Chen \n \n\nName:\nGuojian\n    Chen \n \n\nTitle:\nDirector"
+  },
+  {
+    "id": "element_0006",
+    "cls": "TitleElement",
+    "text": "[Signature\nPage to Administration Service Agreement]",
+    "level": 0
+  },
+  {
+    "id": "element_0007",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 2; Options: Last  Field: /Page"
+  }
+]

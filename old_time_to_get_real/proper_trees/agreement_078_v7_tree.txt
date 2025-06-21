@@ -1,0 +1,16 @@
+AGREEMENT 078 - PARSER V7
+==================================================
+Total Elements: 9
+Root Elements: 1
+Orphan Elements: 2
+Orphan Rate: 22.2%
+
+ELEMENT DETAILS:
+ROOT ELEMENTS WITH FULL HIERARCHY:
+============================================================
+[TableElement] IN WITNESS WHEREOF, the parties have caused this Warrant to Purchase Common Stock to be executed by their duly authorized representatives effective as...
+
+ORPHAN ELEMENTS (No Valid Parent):
+==================================================
+ORPHAN: [SectionElement | ID:SectionElement_29 | L2 | Parent:None] 1.2 Cashless Exercise. On any exercise of this Warrant, in lieu of payment of the aggregate Warrant Price in the manner as specified in Section 1.1 ab...
+ORPHAN: [ExhibitElement | ID:ExhibitElement_33 | L1 | Parent:None] SECTION 3.REPRESENTATIONS AND COVENANTS OF THE COMPANY. 3.1 Representations and Warranties. The Company represents and warrants to, and agrees with, t...

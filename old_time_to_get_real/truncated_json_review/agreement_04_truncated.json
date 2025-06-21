@@ -1,0 +1,797 @@
+{
+  "agreement_summary": {
+    "number": 4,
+    "filename": "agreement_04.html",
+    "title": "CONSULTING AGREEMENT",
+    "total_elements": 61,
+    "hierarchical_elements": 54,
+    "total_text_chars": 14538,
+    "element_type_counts": {
+      "TextElement": 7,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 8,
+      "ContentTextElement": 8,
+      "DefinitionElement": 1,
+      "HeadingElement": 6,
+      "PartyElement": 1,
+      "RecitalElement": 3,
+      "SectionElement": 26
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "Field: /Page",
+      "text_length": 12
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 2; Value: 1  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 3; Value: 1  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 4; Value: 1  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 5; Value: 1  Field: /Page Statement of Work under Cons...",
+      "text_length": 150
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 6; Value: 1  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 7; Options: Last  Field: /Page",
+      "text_length": 53
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "CONSULTING AGREEMENT",
+      "text_length": 20,
+      "id": "AgreementTitleElement_49",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 17,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a)as evidenced by Consultant's written records, was lawfully known to Consul...",
+      "text_length": 253,
+      "id": "ClauseElement_76",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b)as evidenced by Consultant's written records, is independently developed b...",
+      "text_length": 150,
+      "id": "ClauseElement_77",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(b)",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(d)becomes known to Consultant by the action of a third party not in breach o...",
+      "text_length": 111,
+      "id": "ClauseElement_78",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(d)",
+      "normalized_id": "d"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(e)is required to be disclosed or made available by Consultant to a third par...",
+      "text_length": 389,
+      "id": "ClauseElement_79",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(e)",
+      "normalized_id": "e"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(1)a Change in Control (as defined in the Plan);",
+      "text_length": 48,
+      "id": "ClauseElement_80",
+      "parent_id": "HeadingElement_93",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(1)",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(2)the date of any underwriting agreement between the Company and the\nunderwr...",
+      "text_length": 237,
+      "id": "ClauseElement_81",
+      "parent_id": "HeadingElement_93",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(2)",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(3)the date of closing of any Company financing in excess of $10,000,000\n(\"Su...",
+      "text_length": 101,
+      "id": "ClauseElement_82",
+      "parent_id": "HeadingElement_93",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(3)",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(4)immediately prior to the one year anniversary of the date of grant\nof the ...",
+      "text_length": 152,
+      "id": "ClauseElement_83",
+      "parent_id": "HeadingElement_93",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(4)",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Upon or shortly following\ncommencement of Consultant's Services to the Compan...",
+      "text_length": 471,
+      "id": "ContentTextElement_100",
+      "parent_id": "HeadingElement_92",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Consultant understands\nthat that the receipt of the Shares hereunder will tri...",
+      "text_length": 397,
+      "id": "ContentTextElement_101",
+      "parent_id": "DefinitionElement_88",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Consultant commenced providing Services to the Company on April\n26, 2017 and ...",
+      "text_length": 362,
+      "id": "ContentTextElement_102",
+      "parent_id": "HeadingElement_94",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Field: Page; Sequence: 1; Options: NewSection; Value: 1",
+      "text_length": 55,
+      "id": "ContentTextElement_95",
+      "parent_id": "SectionElement_58",
+      "level": 4,
+      "children_count": 0
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "Field: /Page",
+      "text_length": 12
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 2; Value: 1  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 3; Value: 1  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 4; Value: 1  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 5; Value: 1  Field: /Page Statement of Work under Cons...",
+      "text_length": 150
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 6; Value: 1  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 7; Options: Last  Field: /Page",
+      "text_length": 53
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "CONSULTING AGREEMENT",
+      "text_length": 20,
+      "id": "AgreementTitleElement_49",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 17,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a)as evidenced by Consultant's written records, was lawfully known to Consul...",
+      "text_length": 253,
+      "id": "ClauseElement_76",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b)as evidenced by Consultant's written records, is independently developed b...",
+      "text_length": 150,
+      "id": "ClauseElement_77",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(b)",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(d)becomes known to Consultant by the action of a third party not in breach o...",
+      "text_length": 111,
+      "id": "ClauseElement_78",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(d)",
+      "normalized_id": "d"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(e)is required to be disclosed or made available by Consultant to a third par...",
+      "text_length": 389,
+      "id": "ClauseElement_79",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(e)",
+      "normalized_id": "e"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(1)a Change in Control (as defined in the Plan);",
+      "text_length": 48,
+      "id": "ClauseElement_80",
+      "parent_id": "HeadingElement_93",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(1)",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(2)the date of any underwriting agreement between the Company and the\nunderwr...",
+      "text_length": 237,
+      "id": "ClauseElement_81",
+      "parent_id": "HeadingElement_93",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(2)",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(3)the date of closing of any Company financing in excess of $10,000,000\n(\"Su...",
+      "text_length": 101,
+      "id": "ClauseElement_82",
+      "parent_id": "HeadingElement_93",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(3)",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(4)immediately prior to the one year anniversary of the date of grant\nof the ...",
+      "text_length": 152,
+      "id": "ClauseElement_83",
+      "parent_id": "HeadingElement_93",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(4)",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Upon or shortly following\ncommencement of Consultant's Services to the Compan...",
+      "text_length": 471,
+      "id": "ContentTextElement_100",
+      "parent_id": "HeadingElement_92",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Consultant understands\nthat that the receipt of the Shares hereunder will tri...",
+      "text_length": 397,
+      "id": "ContentTextElement_101",
+      "parent_id": "DefinitionElement_88",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Consultant commenced providing Services to the Company on April\n26, 2017 and ...",
+      "text_length": 362,
+      "id": "ContentTextElement_102",
+      "parent_id": "HeadingElement_94",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Field: Page; Sequence: 1; Options: NewSection; Value: 1",
+      "text_length": 55,
+      "id": "ContentTextElement_95",
+      "parent_id": "SectionElement_58",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c)is or becomes a part of the public domain other than by a breach of this A...",
+      "text_length": 100,
+      "id": "ContentTextElement_96",
+      "parent_id": "ClauseElement_77",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the parties hereto\nhave executed this Consulting Agreemen...",
+      "text_length": 114,
+      "id": "ContentTextElement_97",
+      "parent_id": "HeadingElement_90",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "CONSULTANT:\n\n \n \n\n \nMARK L. BAUM\n\n \n \n\n \nBy:\n/s/ Mark L. Baum\n\n \nName: Mark L...",
+      "text_length": 280,
+      "id": "ContentTextElement_98",
+      "parent_id": "HeadingElement_90",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Consultant shall provide\nsenior management advisory services to the Company r...",
+      "text_length": 229,
+      "id": "ContentTextElement_99",
+      "parent_id": "HeadingElement_91",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "DefinitionElement",
+      "text": "and in any case of\n(1), (2), (3) and (4), which occurs following the Bridge F...",
+      "text_length": 680,
+      "id": "DefinitionElement_88",
+      "parent_id": "HeadingElement_93",
+      "level": 3,
+      "children_count": 1,
+      "term": "Bridge Financing",
+      "definition": "closin",
+      "normalized_id": "def_bridge_financing"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "***SIGNATURE PAGE FOLLOWS***",
+      "text_length": 28,
+      "id": "HeadingElement_89",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "***SIGNATURE PAGE FOLLOWS***"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "SIGNATURE PAGE",
+      "text_length": 14,
+      "id": "HeadingElement_90",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 1,
+      "children_count": 6,
+      "heading_text": "SIGNATURE PAGE"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Services:",
+      "text_length": 9,
+      "id": "HeadingElement_91",
+      "parent_id": "HeadingElement_90",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "Services:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Compensation:",
+      "text_length": 13,
+      "id": "HeadingElement_92",
+      "parent_id": "HeadingElement_90",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "Compensation:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "The Shares shall vest upon the earlier\nof:",
+      "text_length": 42,
+      "id": "HeadingElement_93",
+      "parent_id": "HeadingElement_90",
+      "level": 2,
+      "children_count": 5,
+      "heading_text": "The Shares shall vest upon the earlier\nof:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Term:",
+      "text_length": 5,
+      "id": "HeadingElement_94",
+      "parent_id": "HeadingElement_90",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "Term:"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "THIS CONSULTING AGREEMENT\n(the \"Agreement\") is effective as the last date pro...",
+      "text_length": 349,
+      "id": "PartyElement_84",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "Inc.",
+      "party_type": "Delaware corporation with its principal",
+      "normalized_id": "party_inc_"
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Company wishes to retain Consultant\nas an advisor to the Company...",
+      "text_length": 82,
+      "id": "RecitalElement_85",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, Consultant wishes to provide advisory\nservices to the Company as set...",
+      "text_length": 90,
+      "id": "RecitalElement_86",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW THEREFORE, in\nconsideration of the mutual promises contained herein and o...",
+      "text_length": 253,
+      "id": "RecitalElement_87",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.Consulting Services.",
+      "text_length": 22,
+      "id": "SectionElement_50",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "1",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.1.Consultant will provide consulting services to the Company during the Ter...",
+      "text_length": 410,
+      "id": "SectionElement_51",
+      "parent_id": "SectionElement_50",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "1.1",
+      "normalized_id": "1.1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.Effective Date; Term and Termination.",
+      "text_length": 39,
+      "id": "SectionElement_52",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "2",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.1.This Agreement shall be effective on the later of the dates that it is ex...",
+      "text_length": 426,
+      "id": "SectionElement_53",
+      "parent_id": "SectionElement_52",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "2.1",
+      "normalized_id": "2.1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.2.The Agreement and the Services provided by Consultant may be terminated b...",
+      "text_length": 200,
+      "id": "SectionElement_54",
+      "parent_id": "SectionElement_52",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "2.2",
+      "normalized_id": "2.2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.Consulting Fees.",
+      "text_length": 18,
+      "id": "SectionElement_55",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "3",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.1.In consideration of the Services provided hereunder, the Company shall pr...",
+      "text_length": 165,
+      "id": "SectionElement_56",
+      "parent_id": "SectionElement_55",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "3.1",
+      "normalized_id": "3.1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.2.Consultant shall be responsible for all expenses incurred in association ...",
+      "text_length": 168,
+      "id": "SectionElement_57",
+      "parent_id": "SectionElement_55",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "3.2",
+      "normalized_id": "3.2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.Confidentiality. Consultant acknowledges that Consultant will receive confi...",
+      "text_length": 745,
+      "id": "SectionElement_58",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 15,
+      "section_number": "4",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.1.to hold the Confidential Information in strict confidence and not to disc...",
+      "text_length": 209,
+      "id": "SectionElement_59",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.1",
+      "normalized_id": "4.1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.2.to use the Confidential Information only for the benefit of the Company a...",
+      "text_length": 127,
+      "id": "SectionElement_60",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.2",
+      "normalized_id": "4.2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.3.to take at least the same degree of care to prevent disclosure of Confide...",
+      "text_length": 259,
+      "id": "SectionElement_61",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.3",
+      "normalized_id": "4.3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.4.not to make copies of the Confidential Information except to the extent t...",
+      "text_length": 144,
+      "id": "SectionElement_62",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.4",
+      "normalized_id": "4.4"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.5.to return or destroy (as the Company may direct) any Confidential Informa...",
+      "text_length": 319,
+      "id": "SectionElement_63",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.5",
+      "normalized_id": "4.5"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.6.that Confidential Information excludes information that:",
+      "text_length": 60,
+      "id": "SectionElement_64",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.6",
+      "normalized_id": "4.6"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.7.that no representation or warranty, express or implied, is made by the Co...",
+      "text_length": 315,
+      "id": "SectionElement_65",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.7",
+      "normalized_id": "4.7"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.8.that money damages may not be sufficient remedy for any breach of this Se...",
+      "text_length": 217,
+      "id": "SectionElement_66",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.8",
+      "normalized_id": "4.8"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.9.Nothing in this Section is intended to limit any remedy of the Company un...",
+      "text_length": 194,
+      "id": "SectionElement_67",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.9",
+      "normalized_id": "4.9"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4.10.Notwithstanding the other provisions of this Agreement, pursuant to 18 U...",
+      "text_length": 572,
+      "id": "SectionElement_68",
+      "parent_id": "SectionElement_58",
+      "level": 3,
+      "children_count": 0,
+      "section_number": "4.10",
+      "normalized_id": "4.10"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "5.Independent Contractor. The relationship of Consultant to the Company shall...",
+      "text_length": 1825,
+      "id": "SectionElement_69",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "5",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "6.Waiver. No waiver of this Agreement or any of its provisions shall be bindi...",
+      "text_length": 394,
+      "id": "SectionElement_70",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "6",
+      "normalized_id": "6"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "7.Severability. If any provision of this Agreement is held by a court of comp...",
+      "text_length": 456,
+      "id": "SectionElement_71",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "7",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "8.Survival. The provisions of Sections 2.2, 3, 4, 6-11 and any other obligati...",
+      "text_length": 270,
+      "id": "SectionElement_72",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "8",
+      "normalized_id": "8"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "9.Notices. Any notice or other communication required or permitted to be made...",
+      "text_length": 671,
+      "id": "SectionElement_73",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "9",
+      "normalized_id": "9"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "10.Governing Law. This Agreement shall be governed by and construed in accord...",
+      "text_length": 467,
+      "id": "SectionElement_74",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "10",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "11.Entire Agreement; Amendments. This Agreement, including any applicable SOW...",
+      "text_length": 405,
+      "id": "SectionElement_75",
+      "parent_id": "AgreementTitleElement_49",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "11",
+      "normalized_id": "11"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_01.html
+====================================================================================================
+📊 Quality Score: 0.80
+📄 Format: html
+🔢 Total Elements: 48
+🔗 Cross-References: 40
+📋 Title: Consulting Agreement...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 8
+  paragraph           : 19
+  party               : 1
+  section             : 1
+  signature           : 6
+  table               : 12
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 10
+  Document Self Ref   : 20
+  Exhibit Ref         : 1
+  Positional Ref      : 7
+  Section Ref         : 2
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.1
+[TITLE] Consulting Agreement
+[PARAGRAPH] This Consulting Agreement (this “Agreement”) is entered into as of June 19, 2017...
+[TABLE] Scope of Work; Independent Contractor.
+[PARAGRAPH] BetterSea will act as an independent contractor at all times in the performance ...
+[PARAGRAPH] In connection with BetterSea’s services, Aura agrees to cooperate with BetterSea...
+[TABLE] Acknowledgment of Existing Debt.
+[PARAGRAPH] Aura herby acknowledges and agrees that a past due principal balance of $331,492...
+[METADATA] BetterSea LLC Agreement (Aura Systems) June 19, 2017 Page 2 of 6
+[PARAGRAPH] In addition to the Past Due Balance (and any interest accrued thereon), Aura fur...
+... and 38 more elements
+
+====================================================================================================

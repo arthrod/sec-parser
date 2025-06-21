@@ -1,0 +1,180 @@
+{
+  "agreement_summary": {
+    "number": 2,
+    "filename": "agreement_02.html",
+    "title": "FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT",
+    "total_elements": 10,
+    "hierarchical_elements": 7,
+    "total_text_chars": 1824,
+    "element_type_counts": {
+      "TextElement": 1,
+      "TableElement": 2,
+      "AgreementTitleElement": 1,
+      "ContentTextElement": 3,
+      "RecitalElement": 3
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "Schedule A",
+      "text_length": 11
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Fund\n  \nRate\n \n\n SPDR® Long Dollar Gold Trust\n  \n \n0.33\n% \n\n SPDR® Gold MiniS...",
+      "text_length": 101
+    },
+    {
+      "class_name": "TableElement",
+      "text": "World Gold Trust\n\n\n\nBy: Delaware Trust Company, its Trustee\n\n\n\nBy: __________...",
+      "text_length": 303
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT",
+      "text_length": 66,
+      "id": "AgreementTitleElement_38",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 3,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Schedule A. Schedule A is hereby amended by listing a new series thereon, wit...",
+      "text_length": 143,
+      "id": "ContentTextElement_42",
+      "parent_id": "RecitalElement_41",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Trust will pay to the Sponsor as compensation for the Sponsors services ...",
+      "text_length": 237,
+      "id": "ContentTextElement_43",
+      "parent_id": "RecitalElement_41",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly ...",
+      "text_length": 116,
+      "id": "ContentTextElement_44",
+      "parent_id": "RecitalElement_41",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, WGC USA Asset Management Company, LLC, a Delaware limited liability ...",
+      "text_length": 376,
+      "id": "RecitalElement_39",
+      "parent_id": "AgreementTitleElement_38",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the parties hereto desire to amend the Agreement\n(Amendment) to li...",
+      "text_length": 128,
+      "id": "RecitalElement_40",
+      "parent_id": "AgreementTitleElement_38",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW, THEREFORE, in consideration of the agreements and\nobligations set forth ...",
+      "text_length": 343,
+      "id": "RecitalElement_41",
+      "parent_id": "AgreementTitleElement_38",
+      "level": 2,
+      "children_count": 3
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "Schedule A",
+      "text_length": 11
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Fund\n  \nRate\n \n\n SPDR® Long Dollar Gold Trust\n  \n \n0.33\n% \n\n SPDR® Gold MiniS...",
+      "text_length": 101
+    },
+    {
+      "class_name": "TableElement",
+      "text": "World Gold Trust\n\n\n\nBy: Delaware Trust Company, its Trustee\n\n\n\nBy: __________...",
+      "text_length": 303
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT",
+      "text_length": 66,
+      "id": "AgreementTitleElement_38",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 3,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Schedule A. Schedule A is hereby amended by listing a new series thereon, wit...",
+      "text_length": 143,
+      "id": "ContentTextElement_42",
+      "parent_id": "RecitalElement_41",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Trust will pay to the Sponsor as compensation for the Sponsors services ...",
+      "text_length": 237,
+      "id": "ContentTextElement_43",
+      "parent_id": "RecitalElement_41",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly ...",
+      "text_length": 116,
+      "id": "ContentTextElement_44",
+      "parent_id": "RecitalElement_41",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, WGC USA Asset Management Company, LLC, a Delaware limited liability ...",
+      "text_length": 376,
+      "id": "RecitalElement_39",
+      "parent_id": "AgreementTitleElement_38",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the parties hereto desire to amend the Agreement\n(Amendment) to li...",
+      "text_length": 128,
+      "id": "RecitalElement_40",
+      "parent_id": "AgreementTitleElement_38",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW, THEREFORE, in consideration of the agreements and\nobligations set forth ...",
+      "text_length": 343,
+      "id": "RecitalElement_41",
+      "parent_id": "AgreementTitleElement_38",
+      "level": 2,
+      "children_count": 3
+    }
+  ]
+}

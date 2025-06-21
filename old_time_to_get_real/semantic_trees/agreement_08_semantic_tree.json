@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "source_file": "html_files/agreement_08.html",
+    "parsed_at": "2025-06-14T01:21:05.045410",
+    "parser_version": "simple_parser_v1",
+    "file_size": 12808
+  },
+  "elements": [
+    {
+      "type": "title",
+      "content": "EX-10.1",
+      "level": 0,
+      "id": "title_0"
+    },
+    {
+      "type": "paragraph",
+      "content": "Exhibit 10.1",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_0",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Execution Version",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_1",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "FIRST AMENDMENT",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_2",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "to",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_3",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Management Agreement",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_4",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "May 16, 2018",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_5",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "This\nFirst Amendment (this “Amendment”) to the Management Agreement (as defined below) is entered into by and among InfraREIT, Inc. (the “Company”), InfraREIT Partners, LP (the “Operating Partnership”)\nand Hunt Utility Services, LLC (the “Manager” and, together with the Company and the Operating Partnership, the “Parties”) effective as of May 16, 2018. Capitalized terms used herein that are not otherwise\ndefined herein will have the meanings assigned to such terms in the Management Agreement.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_6",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, the Parties entered into that certain\nManagement Agreement, dated January 29, 2015 (the “Management Agreement”), pursuant to which the Manager manages the Company Entities’day-to-dayoperations, subject to the oversight of the Company’s Board of Directors;",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_7",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, the Initial Term of the Management Agreement will expire on December 31, 2019, and, unless otherwise terminated in accordance\nwith its terms, the Management Agreement will automatically renew for a Renewal Term at such time;",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_8",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, prior to the expiration of\nthe Initial Term, a Party may request changes to the Management Agreement or the Development Agreement, to be incorporated upon renewal, subject to the provisions, including notice periods, contained in Section 16(a) of the Management\nAgreement;",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_9",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, notwithstanding the automatic renewal provisions of Section 16(a) of the Management Agreement, the Independent\nDirectors may elect not to renew the Management Agreement upon the expiration of the Initial Term, subject to the provisions, including notice periods, contained in Section 16(b) of the Management Agreement; and",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_10",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, pursuant to Section 22 of the Management Agreement, the Parties desire to amend the notice periods required by Sections 16(a)\nand (b) of the Management Agreement as set forth herein.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_11",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "NOW THEREFORE, in consideration of the premises and for other good and\nvaluable consideration, the receipt of which is hereby acknowledged, the Parties hereby agree as follows:",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_12",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "1.Amendment of Management Agreement.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_13",
+      "attributes": {
+        "style": "margin-top:18pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.Continuing Effect. Except as expressly amended by this\nAmendment, the provisions of the Management Agreement are and shall remain in full force and effect. From and after the date hereof, each reference to “hereof,” “hereunder,” “herein,” “hereto” and\n“hereby” and each reference to “this Agreement” and each other reference of like import in the Management Agreement shall be deemed to refer to the Management Agreement, as amended pursuant to Section 1 hereof.3.Miscellaneous. The following provisions of the Management Agreement are hereby incorporated into and\nspecifically made applicable to this Amendment (provided,that, in construing such incorporated provisions, any reference to “this Agreement” shall be deemed to refer to this Amendment):Section 23Governing LawSection 24ArbitrationSection 27Cure of Invalid ProvisionsSection 28Construction of AgreementSection 29Multiple Counterparts[Signatures on Following Page]The Parties have executed this First Amendment as of the date first set forth above.HUNT UTILITY SERVICES, LLCBy:/s/ David CampbellName:David CampbellTitle:President and Chief Executive OfficerINFRAREIT, INC.By:/s/ Brant MeleskiName:Brant MeleskiTitle:Senior Vice President and Chief Financial OfficerINFRAREIT PARTNERS, LPBy: InfraREIT, Inc., its general partnerBy:/s/ Brant MeleskiName:Brant MeleskiTitle:Senior Vice President and Chief Financial OfficerFIRSTAMENDMENTTOMANAGEMENTAGREEMENT",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_16",
+      "attributes": {
+        "style": "page-break-before:always"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.Continuing Effect. Except as expressly amended by this\nAmendment, the provisions of the Management Agreement are and shall remain in full force and effect. From and after the date hereof, each reference to “hereof,” “hereunder,” “herein,” “hereto” and\n“hereby” and each reference to “this Agreement” and each other reference of like import in the Management Agreement shall be deemed to refer to the Management Agreement, as amended pursuant to Section 1 hereof.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_17",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "3.Miscellaneous. The following provisions of the Management Agreement are hereby incorporated into and\nspecifically made applicable to this Amendment (provided,that, in construing such incorporated provisions, any reference to “this Agreement” shall be deemed to refer to this Amendment):",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_18",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "[Signatures on Following Page]",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_20",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The Parties have executed this First Amendment as of the date first set forth above.HUNT UTILITY SERVICES, LLCBy:/s/ David CampbellName:David CampbellTitle:President and Chief Executive OfficerINFRAREIT, INC.By:/s/ Brant MeleskiName:Brant MeleskiTitle:Senior Vice President and Chief Financial OfficerINFRAREIT PARTNERS, LPBy: InfraREIT, Inc., its general partnerBy:/s/ Brant MeleskiName:Brant MeleskiTitle:Senior Vice President and Chief Financial OfficerFIRSTAMENDMENTTOMANAGEMENTAGREEMENT",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_21",
+      "attributes": {
+        "style": "page-break-before:always"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The Parties have executed this First Amendment as of the date first set forth above.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_22",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "HUNT UTILITY SERVICES, LLCBy:/s/ David CampbellName:David CampbellTitle:President and Chief Executive OfficerINFRAREIT, INC.By:/s/ Brant MeleskiName:Brant MeleskiTitle:Senior Vice President and Chief Financial OfficerINFRAREIT PARTNERS, LPBy: InfraREIT, Inc., its general partnerBy:/s/ Brant MeleskiName:Brant MeleskiTitle:Senior Vice President and Chief Financial Officer",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_24",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "/s/ David Campbell",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_25",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "/s/ Brant Meleski",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_26",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "/s/ Brant Meleski",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_27",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "FIRSTAMENDMENTTOMANAGEMENTAGREEMENT",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_29",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "center"
+      }
+    }
+  ],
+  "cross_references": [
+    {
+      "source_id": "paragraph_0",
+      "target_ref": "10",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit 10",
+      "position": 0
+    },
+    {
+      "source_id": "paragraph_9",
+      "target_ref": "16",
+      "type": "section_ref",
+      "text_span": "Section 16",
+      "position": 239
+    },
+    {
+      "source_id": "paragraph_10",
+      "target_ref": "16",
+      "type": "section_ref",
+      "text_span": "Section 16",
+      "position": 61
+    },
+    {
+      "source_id": "paragraph_10",
+      "target_ref": "16",
+      "type": "section_ref",
+      "text_span": "Section 16",
+      "position": 285
+    },
+    {
+      "source_id": "paragraph_11",
+      "target_ref": "22",
+      "type": "section_ref",
+      "text_span": "Section 22",
+      "position": 21
+    },
+    {
+      "source_id": "paragraph_11",
+      "target_ref": "22",
+      "type": "legal_ref",
+      "text_span": "pursuant to Section 22",
+      "position": 9
+    },
+    {
+      "source_id": "paragraph_16",
+      "target_ref": "1",
+      "type": "section_ref",
+      "text_span": "Section 1",
+      "position": 447
+    },
+    {
+      "source_id": "paragraph_16",
+      "target_ref": "23",
+      "type": "section_ref",
+      "text_span": "Section 23",
+      "position": 752
+    },
+    {
+      "source_id": "paragraph_16",
+      "target_ref": "24",
+      "type": "section_ref",
+      "text_span": "Section 24",
+      "position": 775
+    },
+    {
+      "source_id": "paragraph_16",
+      "target_ref": "27",
+      "type": "section_ref",
+      "text_span": "Section 27",
+      "position": 796
+    },
+    {
+      "source_id": "paragraph_16",
+      "target_ref": "28",
+      "type": "section_ref",
+      "text_span": "Section 28",
+      "position": 832
+    },
+    {
+      "source_id": "paragraph_16",
+      "target_ref": "29",
+      "type": "section_ref",
+      "text_span": "Section 29",
+      "position": 867
+    },
+    {
+      "source_id": "paragraph_16",
+      "target_ref": "1",
+      "type": "legal_ref",
+      "text_span": "pursuant to Section 1",
+      "position": 435
+    },
+    {
+      "source_id": "paragraph_17",
+      "target_ref": "1",
+      "type": "section_ref",
+      "text_span": "Section 1",
+      "position": 447
+    },
+    {
+      "source_id": "paragraph_17",
+      "target_ref": "1",
+      "type": "legal_ref",
+      "text_span": "pursuant to Section 1",
+      "position": 435
+    }
+  ],
+  "statistics": {
+    "total_elements": 26,
+    "element_types": {
+      "title": 1,
+      "paragraph": 25
+    },
+    "total_cross_references": 15,
+    "reference_types": {
+      "exhibit_ref": 1,
+      "section_ref": 11,
+      "legal_ref": 3
+    },
+    "content_length": 12808
+  }
+}

@@ -1,0 +1,29 @@
+AGREEMENT 091 - PARSER V8
+==================================================
+Total Elements: 19
+Root Elements: 6
+Orphan Elements: 5
+Orphan Rate: 26.3%
+
+ELEMENT DETAILS:
+ROOT ELEMENTS WITH FULL HIERARCHY:
+============================================================
+[TextElement] Forte Biosciences, Inc.
+
+[TextElement] (March 14, 2024)
+
+[TextElement] Annual Cash Compensation
+
+[TextElement] Equity Compensation
+
+[TextElement] 1.
+
+[TextElement] 2.
+
+ORPHAN ELEMENTS (No Valid Parent):
+==================================================
+ORPHAN: [ContentTextElement | ID:ContentTextElement_67 | L4 | Parent:None] Amended and Restated Non-Employee Director Compensation Policy
+ORPHAN: [ContentTextElement | ID:ContentTextElement_68 | L4 | Parent:None] Each member of the Board of Directors (the “Board”) who is not also serving as an employee of or consultant to Forte Biosciences, Inc. (“Forte Bioscie...
+ORPHAN: [ContentTextElement | ID:ContentTextElement_69 | L4 | Parent:None] The annual cash compensation amount set forth below is payable in equal quarterly installments, payable in arrears on the last day of each fiscal quar...
+ORPHAN: [SectionElement | ID:SectionElement_62 | L2 | Parent:None] 1. Annual Board Service Retainer:
+ORPHAN: [SectionElement | ID:SectionElement_63 | L2 | Parent:None] 2. Annual Committee Member Service Retainer:

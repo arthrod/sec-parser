@@ -1,0 +1,358 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TextElement",
+    "text": "Exhibit\n10.12"
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "DATED\nTHIS DAY OF 2022",
+    "level": 0
+  },
+  {
+    "id": "element_0002",
+    "cls": "TitleElement",
+    "text": "BETWEEN",
+    "level": 0
+  },
+  {
+    "id": "element_0003",
+    "cls": "TitleElement",
+    "text": "MYISCO\nSDN BHD",
+    "level": 0
+  },
+  {
+    "id": "element_0004",
+    "cls": "SupplementaryText",
+    "text": "(Registration\nNo: 201901046119)(1355449-A)"
+  },
+  {
+    "id": "element_0005",
+    "cls": "TitleElement",
+    "text": "AND",
+    "level": 0
+  },
+  {
+    "id": "element_0006",
+    "cls": "TitleElement",
+    "text": "SUPER\nAPPS HOLDINGS SDN BHD",
+    "level": 0
+  },
+  {
+    "id": "element_0007",
+    "cls": "SupplementaryText",
+    "text": "(Registration\nNo: 202201014353)(1460050-W)"
+  },
+  {
+    "id": "element_0008",
+    "cls": "TextElement",
+    "text": "Field: Rule-Page  Field: /Rule-Page"
+  },
+  {
+    "id": "element_0009",
+    "cls": "TitleElement",
+    "text": "COLLABORATION\nAGREEMENT",
+    "level": 0
+  },
+  {
+    "id": "element_0010",
+    "cls": "TextElement",
+    "text": "Field: Rule-Page  Field: /Rule-Page  Field: Page; Sequence: 1 This\nCollaboration Agreement (the “Agreement”) is made and entered into on 19th day of October 2022 (the\n“Effective Date”)"
+  },
+  {
+    "id": "element_0011",
+    "cls": "TitleElement",
+    "text": "BETWEEN",
+    "level": 1
+  },
+  {
+    "id": "element_0012",
+    "cls": "TextElement",
+    "text": "MYISCO\nSDN BHD (Registration No: 201901046119 (1355449-A)), a company incorporated in Malaysia and having its place of business at Level\n6, Wisma Ungku A. Aziz, Jalan SS 6/1, Kelana Jaya, 47301 Petaling Jaya, Selangor (“MYISCO”) of the first part;"
+  },
+  {
+    "id": "element_0013",
+    "cls": "TitleElement",
+    "text": "AND",
+    "level": 1
+  },
+  {
+    "id": "element_0014",
+    "cls": "TextElement",
+    "text": "SUPER\nAPPS HOLDINGS SDN BHD (Registration No: 202201014353 (1460050-W)), a company incorporated in Malaysia and having its place of business\nat L5-07, Level 5, Wisma BU 8, No. 11, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor (“Financing Partner”)\nof the second part ;MYISCO\nand the Financing Partner may be referred to in this Agreement individually as a “Party” and collectively as the “Parties”."
+  },
+  {
+    "id": "element_0015",
+    "cls": "TitleElement",
+    "text": "RECITALS:",
+    "level": 1
+  },
+  {
+    "id": "element_0016",
+    "cls": "TableElement",
+    "text": "A.\n    \nMYISCO\n    is a digital Islamic financial services platform catering to the cooperative segment and wider population of Malaysia. MYISCO is\n    a wholly-owned subsidiary of MyAngkasa Digital Services Sdn Bhd, an associate company of ANGKASA. ANGKASA is the apex of cooperatives\n    in Malaysia with over ten thousand (10,000) cooperatives and more than eight million (8,000,000) members.\n\n \n \n\nB.\n    \nThe\n    Financing Partner is an investment holding company involved in a merger exercise with Technology & Telecommunication Corporation,\n    a Cayman Islands exempted company (SPAC) with its registered address at No. C3-2-23A, Jalan 1/52, Taman OUG Parklane, Off Jalan Kelang\n    Lama, 58200 Kuala Lumpur, Malaysia.\n\n \n \n\nC.\n    \nBoth\n    Parties have agreed to enter into a mutual understanding for a collaboration arrangement where the Financing Partner will provide\n    the funds required for MYISCO to provide Shariah compliant financial products to the customers of MYISCO’s digital Islamic\n    financial services platform (herein referred to as the “MYISCO Wallet”) (the “Customers”).\n    This Agreement does not constitute any agent-principal arrangement and it is to be made clear that MYISCO is not an agent to the\n    Financing Partner and vice versa."
+  },
+  {
+    "id": "element_0017",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 2; Options: NewSection; Value: 2 NOW\nIT IS HEREBY AGREED as follows:"
+  },
+  {
+    "id": "element_0018",
+    "cls": "TableElement",
+    "text": "1.\nDEFINITION AND INTERPRETATION\n\n \n \n\n1.1\nDefinition\n\n \n \n\n \nIn this Agreement, unless\n  the context otherwise requires, words and expressions hereinbefore defined shall have the same meanings wherever used or referred to\n  and in particular but without limiting the foregoing or for the avoidance of doubt (as the case may be) the following words and expressions\n  shall have the meanings respectively set out opposite them:"
+  },
+  {
+    "id": "element_0019",
+    "cls": "TextElement",
+    "text": "“Agreement”\nmeans\n    this collaboration agreement, including all of its schedules;\n\n \n \n \n\n \n“Applicable\n    Laws”\nmeans\n    with respect to any person, any and all applicable constitutions, treaties, statutes, laws, by- laws, regulations, ordinances, codes,\n    rules, rulings, judgments, rules of common law, orders, decrees, awards, injunctions or any form of decisions, determinations or\n    requirements of or made or issued by, governmental, statutory, regulatory, administrative, supervisory or judicial authorities or\n    bodies (including without limitation, any relevant stock exchange or securities commission) or any court, arbitrator, tribunal with\n    competent jurisdiction, whether in Malaysia or elsewhere, as amended or modified from time to time, and to which such person is subject;\n\n \n \n \n\n \n“APR”\nmeans\n    annual percentage rate;\n\n \n \n \n\n \n“Business\n    Day”\nmeans\n    a day other than a Saturday, Sunday or public holiday (gazetted or ungazetted and whether scheduled or unscheduled) on which banks\n    and financial institutions are open for business in Kuala Lumpur, Malaysia;\n\n \n \n \n\n \n“Confidential\n    Information”\nmeans\n    confidential information pursuant to Clause 6.4 herein;\n\n \n \n \n\n \n“Customer”\nmeans\n    any person from time to time to whom are users or former users of the MYISCO Wallet;\n\n \n \n \n\n \n“Customer\n    Data”\nmeans\n    any information or data obtained, made available, provided or arising in connection with or pursuant to this Agreement and relating\n    to Customers in their capacity as such and includes but is not limited to Customer transactional data, the results of any analytics\n    applied to such information or data, and any information which the Financing Partner obtains or has obtained directly from a Customer\n    as a result of its involvement in, or pursuant to its obligations under this Agreement;\n Field: Page; Sequence: 3; Value: 2 \n\n \n“Financing\nPartner\n                                            Content”\nmeans\n    the content as referred to in Clause 8.1 herein;\n\n \n \n \n\n \n “Intellectual \nProperty\n                                            Rights”\nmeans\n    any and all of the following in relation to each Party:\n\n \n \n \n\n \n \n(a)\n    \nthe\n    copyright in and to the computer programs (object and source code) and copyright in and to the images displayed on screen and the\n    sound produced, including all possible combination and sequences thereof and the underlying script for the same;\n\n \n \n \n\n \n \n(b)\nthe\n    trademark for the artwork, including without limitation, all pictorial, graphic, visual, audio, audio-visual, digital, literary,\n    animated, sculptural, or any type of creations and applications, whether finished or not;\n\n \n \n \n\n \n \n(c)\n    \nall\n    trade secrets and know-how; and\n\n \n \n \n\n \n \n(d)\n    \npatents\n    and patent applications,\n\n \n \n \n\n \n \nwhether\n    or not, now existing and whether or not registered or registrable and includes any right to apply for the registration of such rights\n    and includes all renewals and extensions;\n\n \n \n \n\n \n“KYC”\nmeans\n    Know Your Client procedures;\n\n \n \n \n\n \n“MYISCO\n    Wallet”\nmeans\n    the digital Islamic financial services platform operated by MYISCO;\n\n \n \n \n\n \n“MYISCO Trust\n    Account”\nmeans\n    the trust account operated by MyAngkasa Amanah Sdn Bhd on behalf of MYISCO for the purposes of the Personal Financings;\n\n \n \n \n\n \n“Personal\nFinancings”\nmeans\n    the personal financings to be provided by the Financing Partner pursuant to Clause 2.1 herein; and\n\n \n \n \n\n \n“RM”\nmeans\n    Ringgit Malaysia, the lawful currency of Malaysia.\n\n \n \n \n\n \n“SPAC”\nmeans\n    Technology and Telecommunications Corporation\n Field: Page; Sequence: 4; Value: 2 \n\n2.\nPERSONAL FINANCING PROGRAMME\n\n \n \n\n \nThe\n  Financing Partner and MYISCO shall establish a personal financing programme (the “Programme”) whereby the Financing Partner\n  shall provide the funds required for MYISCO to provide Shariah compliant financial products to the Customers of MYISCO’s\n  digital Islamic financial services platform in accordance with the terms and conditions set forth herein."
+  },
+  {
+    "id": "element_0020",
+    "cls": "TableElement",
+    "text": "2.1\n    \nThe\n    Financing Partner shall make available an initial sum of Ringgit Malaysia Ten Million (RM10,000,000.00) (the “Financing\n    Funds”) into the MYISCO Trust Account, as per the trust deed between MYISCO and MyAngkasa Amanah Berhad as per Schedule\n    1 herein, for the purpose of the provision of personal financings to the Customers of the MYISCO Wallet (“Personal Financings”).\n\n \n \n\n2.2\n    \nMYISCO\n    shall provide and shall cause ANGKASA to provide the Customers for the Programme and make available the Personal Financings to the\n    Customers as per the details setout in Schedule 2 herein. MYISCO shall cause OneShop Retail Sdn. Bhd. To serve as an authorized bill\n    payment collection and credit lending agency that will operate its payment collection system through ANGKASA’s authorized dealers,\n    merchants and other distribution channels for the collection and remission of any payment of bills via cash payment, credit card,\n    debit card or cheque.\n\n \n \n\n2.3\n    \nThe\n    Financing Partner may deposit more Financing Funds into the MYISCO Trust Account as and when it requires provided it provides written\n    notice to MYISCO.\n\n \n \n\n2.4\n    \nMYISCO\n    and Financing Partner shall share the profit that is generated from this collaboration on a 50:50 basis, in return of the provisions\n    of the Financing Funds to MYISCO (“Financing Partner Returns:).\n\n \n \n\n2.5\n    \nBoth\n    Parties agree that the Financing Partner Returns shall only be provided for Financing Funds that have been successfully disbursed\n    to Customers who have applied for the Personal Financings through the MYISCO Wallet.\n\n \n \n\n2.6\n    \nReturns\n    Statements, Payment Amount and Dates\n\n \n \n \n\n \n2.6.1\nMYISCO\n    shall within seven (7) Business Days of the end of each calendar month prepare and deliver to the Financing Partner a statement in\n    respect of each calendar month and in the form agreed between the Parties from time to time (“Returns Statement”)\n    which will include (initially) the following information in relation to the Financing Partner Returns:\n\n \n \n \n\n \n \n(a)\nthe\n    total Financing Partner Returns due to the Financing Partner during that calendar month, payment of which shall be made on the same\n    date as the relevant statement is delivered; and\n\n \n \n \n\n \n \n(b)\n    \nany\n    outstanding Financing Partner Returns which are payable to the Financing Partner.\n\n \n \n \n\n2.7\n    \nThe\n    Financing Partner shall provide written confirmation to MYISCO in respect of the Returns Statement within seven (7) Business Days\n    from the date of receipt of the Returns Statement."
+  },
+  {
+    "id": "element_0021",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 5; Value: 2 \n\n2.8\nUpon\n    written confirmation of the Returns Statement by the Financing Partner, MYISCO shall make payment of the Financing Partner Returns\n    to the Financing Partner by way of bank transfer to the following account:\n\n \n \n\n \nBank\n    Account Name: [●] Bank\n\n \n \n\n \nAccount\n    No.: [●]\n\n \n \n\n \nBank\n    Name: [●]"
+  },
+  {
+    "id": "element_0022",
+    "cls": "TitleElement",
+    "text": "3.\nFINANCING PARTNER’S\n  OBLIGATIONS",
+    "level": 1
+  },
+  {
+    "id": "element_0023",
+    "cls": "TableElement",
+    "text": "3.1\n    \nThe\n    Financing Partner shall be deemed aware of and shall comply with all Applicable Laws, including but not limited to the statutory\n    rules and regulations in effect at the time this Agreement is to be executed and hereby acknowledges that these laws, rules and regulations\n    shall apply to the provision of the Financing Funds and shall be well informed of and abide by future laws, statutory rules and regulations\n    which may affect the Financing Funds.\n\n \n \n\n3.2\n    \nThe\n    Financing Partner warrants that it has the necessary approvals, licenses, experience, capability, including sufficient and\n    competent personnel to effectively, efficiently, and expeditiously provide the Financing Funds to MYISCO.\n\n \n \n\n3.3\n    \nThe\n    Financing Partner shall provide financing parameters, such as but not limited to application financing limit, financing tenure ship,\n    credit rating requirement and salary deduction requirements to be used by MYISCO as part of identifying qualified financing application\n    to be approved by the Financing Partner."
+  },
+  {
+    "id": "element_0024",
+    "cls": "TitleElement",
+    "text": "4.\nOBLIGATIONS OF MYISCO",
+    "level": 1
+  },
+  {
+    "id": "element_0025",
+    "cls": "TableElement",
+    "text": "4.1\nMYISCO\n    shall provide the Personal Financings with due diligence and efficiency and in accordance with good practices and accepted professional\n    standards and meet the intents, specifications and obligations in order to provide such Personal Financings.\n\n \n \n\n4.2\n    \nMYISCO\n    shall be responsible for gathering all information and data necessary for the purpose of providing the Personal Financings except\n    for information and data to be provided by the Financing Partner.\n\n \n \n\n4.3\n    \nMYISCO\n    shall provide and ensure that the Financing Partner has relevant access to all related information necessary for the Financing Partner\n    to provide the Personal Financings subject to the Financing Partner to observe the confidentiality provisions under Clause 6 hereof.\n\n \n \n\n4.4\n    \nMYISCO\n    shall ensure that the MYISCO Wallet operates as intended within the parameter of Applicable Laws and is subjected to frequently conducted\n    internal reviews and audit.\n\n \n \n\n4.5\n    \nMYISCO\n    shall cooperate with the Financing Partner in relation to the provision of the Personal Financings."
+  },
+  {
+    "id": "element_0026",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 6; Value: 2"
+  },
+  {
+    "id": "element_0027",
+    "cls": "TableElement",
+    "text": "4.6\n    \nMYISCO\n    shall ensure the approved Personal Financing is being provided within the approved parameters set by the Financing Partner.\n\n \n \n\n4.7\n    \nMYISCO\n    shall ensure that the Personal Financings provided shall be Shariah compliant.\n\n \n \n\n4.8\n    \nMYISCO\n    shall commit to work with all related parties to address any system performance issues and concerns (if applicable).\n\n \n \n\n4.9\n    \nThe\n    Financing Partner shall only allow its personnel access to Customer Data strictly for the purpose of carrying out their functions.\n\n \n \n\n4.10\n    \nMYISCO\n    at all times, provide the Personal Financings in a manner that will always safeguard and protect MYISCO and MYISCO’s interest\n    and take all necessary and proper steps to prevent abuse or uneconomical use of facilities.\n\n \n \n\n4.11\n    \nMYISCO\n    shall be responsible for the collection and recovery of the Personal Financings from the Customers via Sistem Potongan Gaji ANGKASA\n    and shall notify the Financing Partner for any default of repayment by the Customers.\n\n \n \n\n4.12\n    \nMYISCO\n    shall be responsible to make good and pay to the Financing Partner the amount of defaulted repayments by the Customers which have\n    been outstanding for six (6) months or more within fourteen (14) days of receipt of notice from the Financing Partner."
+  },
+  {
+    "id": "element_0028",
+    "cls": "TitleElement",
+    "text": "5.\nMUTUAL OBLIGATIONS",
+    "level": 1
+  },
+  {
+    "id": "element_0029",
+    "cls": "TextElement",
+    "text": "5.1\nBoth Parties shall:\n\n\n \n(a)\n    \nprovide\n    the other with reasonable information and other support, advise, consultation, process of negotiation that may be requested and mutually\n    agreed upon in order to enable the Parties to comply with their respective obligations pursuant to this Agreement;\n\n \n \n \n\n \n(b)\n    \nshall\n    ensure that no undue disruption is caused to each Party operations when pursuant to this Agreement; and\n\n \n \n \n\n \n(c)\n    \nshall\n    at all times safeguard and protect each other interest in, and take all necessary and proper steps to prevent abuse or uneconomical\n    or inefficient use of, the facilities or resources made available, if any.\n Field: Page; Sequence: 7; Value: 2"
+  },
+  {
+    "id": "element_0030",
+    "cls": "TitleElement",
+    "text": "6.\nCONFIDENTIALITY",
+    "level": 1
+  },
+  {
+    "id": "element_0031",
+    "cls": "TableElement",
+    "text": "6.1\n    \nNeither\n    the Financing Partner nor MYISCO shall, without the prior written approval of the other party, disclose to any person any Confidential\n    Information concerning this Agreement and disclosed pursuant to this Agreement that is not required to be disclosed to affect the\n    performance of the Agreement by either party. In giving written approval, either party may impose such terms and conditions as it\n    thinks fit. Confidential Information is defined as means all information of the either party, including without limitation, information\n    relating to the research, development, business plans, marketing, operations, finances, Customer Data, personal data of any such\n    entity, which is disclosed by one party directly or indirectly to the other party hereunder whether in writing (physically or electronically),\n    visually or orally and which is designated as proprietary or confidential or which, under the circumstances, should reasonably be\n    considered confidential.\n\n \n \n\n6.2\n    \nThe\n    Financing Partner and MYISCO shall take all reasonable steps to ensure that each employee, agent or contractor/consultant engaged\n    for the purposes of the Agreement does not make public or disclose Confidential Information referred to in Clauses 6.1 or\n\n \n \n\n6.4\n    \nand\n    that such employees, agents or contractors/consultants are made aware of the confidential nature of the information referred to in\n    Clauses 6.1 or 6.4 herein and shall abide thereto. The receiving party of Confidential Information disclosed under this Agreement\n    shall promptly notify the disclosing party of any disclosure of such Confidential Information in violation of this Agreement or of\n    any subpoena or other legal process requiring production or disclosure of said Confidential Information.\n\n \n \n\n6.3\n    \nThe\n    Financing Partner and MYISCO may at any time require the other to give and arrange for its employees/agents/contractors or consultants\n    engaged in the performance of the Agreement to execute written undertakings relating to the non- disclosure of Confidential Information.\n    The other party shall promptly arrange for all such undertakings to be executed.\n\n \n \n\n6.4\n    \nThe\n    Financing Partner and MYISCO hereby agree and undertake to hold in the strictest confidence all material, which the other party might\n    reasonably consider to be its Confidential Information. For the purposes of this clause, “Confidential Information” does\n    not include information which is in the public domain (otherwise than through a breach of this provision) and includes without limitation\n    any information the disclosure of which may confer a commercial advantage upon a recipient thereof (whether or not that recipient\n    was the person to whom the information was initially disclosed) or the disclosure of which may prejudice MYISCO’s or the Financing\n    Partner’s dealings with any other person or organization. \n\n \n \n\n6.\n5\n    Both Parties undertake not to and shall ensure that none of its employee’s agents or contractors shall delete any proprietary\n    information or any trade mark notice (if any) appearing on any documentation or media/publication supplied by either Party without\n    the prior consent of the other Party.\n\n \n \n\n6.6\n    \nThe\n    receiving party of any Confidential Information shall honor any request from the disclosing party to promptly return or destroy all\n    copies of Confidential Information disclosed under this Agreement and all notes related to such Confidential Information.\n\n \n \n\n6.7\n    \nThe\n    obligation on confidentiality as stipulated above for MYISCO and the Financing Partner shall survive termination of this Agreement."
+  },
+  {
+    "id": "element_0032",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 8; Value: 2"
+  },
+  {
+    "id": "element_0033",
+    "cls": "TitleElement",
+    "text": "7.\nDATA PROTECTION",
+    "level": 1
+  },
+  {
+    "id": "element_0034",
+    "cls": "TableElement",
+    "text": "7.1\n    \nIn\n    relation to Personal Data obtained by MYISCO in connection with this Agreement, MYISCO warrants and represents to the Financing Partner\n    that MYISCO has obtained or has procured sufficient informed consent from each relevant individual in order for the Financing Partner\n    to collect, use, handle, store, disclose, transfer (collectively known as “Process”) the Personal Data in accordance\n    with this Clause 7. The Parties identified in Clauses 7 shall be referred to as the “Relevant Parties” for the purposes\n    of this Clause 7.\n\n \n \n\n7.2\n    \nTo\n    the extent that any of the data/information extended by MYISCO to the Financing Partner and/or collected/processed by the Financing\n    Partner on behalf of MYISCO consists of “Personal Data” as defined in the Personal Data Protection Act 2010 (“PDPA”),\n    the Financing Partner agrees not to conduct itself, and to procure that its employees shall not conduct themselves, in such manner\n    as to cause MYISCO to be in breach of its obligations as a “Data User” as stated in the PDPA.\n\n \n \n\n7.3\nThe\n    Financing Partner warrants to MYISCO that it has sufficient technical and organizational security measures in place for the purpose\n    of protecting access to MYISCO’s Personal Data or systems or database containing MYISCO’s Personal Data or from any loss,\n    misuse, modification, unauthorized or accidental access or disclosure, alteration or destruction.\n\n \n \n\n7.4\n    \nInformation\n    required for invoicing or audit purposes relating to this Agreement may be retained in accordance with any requirements of Applicable\n    Laws."
+  },
+  {
+    "id": "element_0035",
+    "cls": "TitleElement",
+    "text": "8.\nINTELLECTUAL PROPERTY RIGHTS",
+    "level": 1
+  },
+  {
+    "id": "element_0036",
+    "cls": "TableElement",
+    "text": "8.1\n    \nThe\n    Financing Partner acknowledges that the MYISCO Wallet contains confidential proprietary know-how of MYISCO. The Financing Partner\n    will not disclose, permit access to or otherwise make available the MYISCO Wallet directly or indirectly to any third party except\n    to the extent (if any) permitted by this Agreement and for the purpose required by the Applicable Laws.\n\n \n \n\n8.2\nExcept\n    as required by mandatory operation of Applicable Laws, the Financing Partner shall not attempt to create or recreate any source program\n    of the MYISCO Wallet nor shall it attempt or permit the breaking of any encryption or similar data or files in the MYISCO Wallet\n    the reverse compilation or assembly of any part of the MYSCO Wallet.\n\n \n \n\n8.3\n    \nThe\n    Financing Partner shall ensure that use of and access to the MYISCO Wallet shall not exceed the limitations of this Agreement and\n    that the know-how of the MYISCO Wallet disclosed hereunder shall not be disclosed or used other than for the purpose of this Agreement."
+  },
+  {
+    "id": "element_0037",
+    "cls": "TitleElement",
+    "text": "9.\nEXCLUSIVITY",
+    "level": 1
+  },
+  {
+    "id": "element_0038",
+    "cls": "TextElement",
+    "text": "This\nAgreement is non-exclusive in nature and this agreement will not prohibit either parties from entering into such business arrangement\nwith other parties. Field: Page; Sequence: 9; Value: 2"
+  },
+  {
+    "id": "element_0039",
+    "cls": "TitleElement",
+    "text": "10.\nTERMINATION",
+    "level": 1
+  },
+  {
+    "id": "element_0040",
+    "cls": "TableElement",
+    "text": "10.1\n    \nNotwithstanding\n    the provisions hereinabove, this Agreement may be terminated by the occurrence of:\n\n \n \n \n\n \n(a)\nthe\n    total depletion of the Financing Funds deposited by the Financing Partner;\n\n \n \n \n\n \n(b)\n    \neither\n    Party if it is required by Applicable Laws; or\n\n \n \n \n\n \n(c)\nupon\n    occurrence of a Force Majeure event in accordance with Clause 13 herein; or\n\n \n \n \n\n \n(d)\neither\n    Party upon the expiry of [ninety (90) days’] written notice of termination given by one Party to the other Party with assigning\n    the relevant reasons thereto; or\n\n \n \n \n\n \n(e)\none\n    Party if the other breaches any of its obligations under this Agreement and fails to rectify such breach to the notifying Party’s\n    satisfaction within such period stipulated in this Agreement or fourteen (14) days where no such period has been stipulated, after\n    it receives a notice in writing demanding that the breach be rectified; or\n\n \n \n \n\n \n(f)\none\n    Party if the other Party becomes insolvent or bankrupt, assigns all or a substantial part of its business or assets for the benefit\n    of its creditor(s), permits the appointment of a receiver or a receiver and manager for its business or assets, or becomes subject\n    to any legal proceedings relating to insolvency, reorganization or the protection of creditors’ rights or otherwise\n    ceases to conduct business in the normal course.\n\n \n \n \n\n10.2\n    \nTermination\n    of this Agreement shall be without prejudice to any other rights, remedies or claims either Party may have against each other under\n    this Agreement or at law in respect of any antecedent breach by the Parties of any provisions of this Agreement."
+  },
+  {
+    "id": "element_0041",
+    "cls": "TitleElement",
+    "text": "11.\nINDEMNITIES AND LIABILITIES",
+    "level": 1
+  },
+  {
+    "id": "element_0042",
+    "cls": "TableElement",
+    "text": "11.1\n    \nThe\n    Financing Partner releases and indemnifies MYISCO, its’ employees, servants and agents against all actions, claims, and demands\n    (including the cost of defending or settling any action, claim, or demand) which may be instituted against MYISCO arising out of\n    the negligence or willful misconduct of the Financing Partner, its’ agents, employees, or any sub-contractor or any\n    other person for whose negligence the Financing Partner is vicariously liable and also against any action, claim, or demand by the\n    Financing Partner’s servants, employees or agents, or their personal representative or dependents arising out of the performance\n    of this Agreement.\n\n \n \n\n11.2\n    \nThe\n    Financing Partner indemnifies MYISCO against all costs and liability arising out of the presence of the Financing Partner’s\n    representatives on MYISCO’s premises and against all liability for the injury or death whilst carrying out their duties pursuant\n    to this Agreement and in respect of all loss or damages to their personal effects.\n\n \n \n\n11.3\n    \nThe\n    Financing Partner shall fully indemnify, save and hold harmless, and defend, at its own expense, MYISCO, its officials, agents, servants\n    and employees from and against all suits, claims, demands, litigation and liability of any nature or kind, including the costs, expenses,\n    and legal fees, arising out of negligence, willful misconduct, acts or omissions of the Financing Partner, or the Financing\n    Partner’s employees, officers, agents or sub- contractors, under statue or common law, in the performance of this Agreement.\n\n \n \n\n11.4\nThe\n    Financing Partner shall fully indemnify, save and hold harmless, and defend, at its own expense, MYISCO, its officials, agents, servants\n    and employees from and against any risks associated with the Personal Financings provided by MYISCO to the Customers which include\n    but are not limited to the non-performing loan payment by the Customer, bad debt, among others."
+  },
+  {
+    "id": "element_0043",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 10; Value: 2"
+  },
+  {
+    "id": "element_0044",
+    "cls": "TableElement",
+    "text": "11.5\nThis\n    provision shall extend inter-alia to claims and liabilities in the nature of workmen’s compensation, product liability, and\n    liability arising out of the infringement or alleged infringement of any patented inventions or devices, copyright material or other\n    intellectual property and / or breach of confidentiality obligations as stipulated under Clause 11 of this Agreement by the Financing\n    Partner, its employees, officers, agents, servants, or sub-contractors. The obligations under this Clause shall survive the termination\n    or expiration of this Agreement.\n\n \n \n\n11.6\nNeither\n    party is liable to the other for any consequential, incidental, indirect, punitive or special damages, including commercial loss\n    and lost profits, however caused which indirectly arises under this Agreement. Notwithstanding the foregoing, this limitation shall\n    not apply to the Financial Partner’s liability set out in Clause 11 herein."
+  },
+  {
+    "id": "element_0045",
+    "cls": "TitleElement",
+    "text": "12.\nNOTICES",
+    "level": 1
+  },
+  {
+    "id": "element_0046",
+    "cls": "TextElement",
+    "text": "12.1\n    \nService\n    of notice\n\n \n \n\n \nA\n    notice or other communication required or permitted under this Agreement, to be served on a person must be in writing and may be\n    served:\n\n \n \n \n\n \n(a)\n    \nby\n    personal delivery;\n\n \n \n \n\n \n(b)\n    \nby\n    leaving it at the person’s current address for service;\n\n \n \n \n\n \n(c)\n    \nby\n    post or prepaid registered postage; and\n\n \n \n \n\n \n(d)\n    \nby\n    electronic mail and other electronic means.\n\n\n12.2\n    \nParticulars\n    for Service\n\n \n \n\n \n12.2.1\nThe\n    particulars for service of MYISCO are:\n\n \n \n \n\n \n \nAddress\n:\nLevel\n    6, Wisma Ungku A. Aziz\n\n \n \n \n \nJalan\n    SS 6/1,\n\n \n \n \n \n47301\n    Petaling Jaya,\n\n \n \n \n \nSelangor.\n\n \n \n \n \n \n\n \n \nEmail\n:\nhudhaifa@myangkasadigital.com\n\n \n \n \n \n \n\n \n \nAttention\n:\nMuhammad\n    Hudhaifa Ahmad, \n    Chief Executive Officer\n Field: Page; Sequence: 11; Value: 2 \n\n \n12.2.2\nThe\n    particulars for service of the Financing Partner are:\n\n \n \n \n\n \n \nAddress\n:\nL5-07,\n    Level 5, Wisma BU 8\n\n \n \n \n \nNo.\n                                            11, Lebuh Bandar Utama,\n \n\n \n \n \n \nBandar\n    Utama, 47800 Petaling Jaya\n\n \n \n \n \nSelangor\n\n \n \n \n \n \n\n \n \nEmail\n:\naaron@ica-my.com\n\n \n \n \n \n \n\n \n \nAttention\n:\nWan\n    Heng Chee\n\n \n \n \n \n(Chairman)\n\n\n12.3\nEither\n    Party may change its particulars for service by way of written notice to the other Party."
+  },
+  {
+    "id": "element_0047",
+    "cls": "TableElement",
+    "text": "13.\nFORCE\n    MAJEURE\n\n \n \n\n13.1\nIf\n    either Party to this Agreement is temporarily unable by reason of Force Majeure to meet any of its obligations under this Agreement,\n    and if such Party gives to the other Party written notice of the event within fourteen (14) days after such occurrence the obligations\n    of the Party as it is unable to perform by reason of the event shall be suspended for as long as the disabling situation continues.\n    If Force Majeure event prevents either Party from performing its obligations for a period of ninety (90) days, either Party may terminate\n    this Agreement. Neither Party shall be liable to the other Party for any loss or damage sustained by other Party arising from any\n    event referred to in this clause or delays arising from such event. \n\n \n \n\n13.2\n    \nThe\n    term “Force Majeure” as employed herein shall mean acts of any event arising from natural disaster, strike, lockouts\n    or other civil and/or industrial disturbances, insurrections, rebellion, civil commotion, war, military operation, Acts of God, power\n    surge, emergency, Government’s action, action, epidemics, criminal damage to or destruction of equipment, disruption to any\n    network service caused by any software virus, the inability of any equipment to operate optimally due to any unauthorized action\n    such as spamming, sabotage, fire, lightning, explosion, flood, heavy and inclement weather or other causes of its kind or otherwise\n    beyond the reasonable control or power of either Party but without the fault or negligence of the Party claiming it as a Force Majeure\n    Event and provided that reasonable efforts have been taken by that Party to prevent it or mitigate its effects."
+  },
+  {
+    "id": "element_0048",
+    "cls": "TableElement",
+    "text": "14.\nDURATION\n    OF AGREEMENT\n\n \n \n\n14.1\n    \nThis\n    Agreement shall commence immediately upon the successful merger between the Financing Partner and SPAC and continue for a period\n    of five (5) years.\n\n \n \n\n14.2\n    \nThe\n    duration of this Agreement shall be extended by a further period of five (5) years from the expiry date subject to the mutual agreement\n    of the parties in writing."
+  },
+  {
+    "id": "element_0049",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 12; Value: 2"
+  },
+  {
+    "id": "element_0050",
+    "cls": "TableElement",
+    "text": "15.\nMISCELLANEOUS\n\n \n \n\n15.1\n    \nSeverability.\n    If any provision of this Agreement shall be found by any court or administrative body of competent jurisdiction to be invalid or\n    unenforceable, the invalidity or unenforceability of such provision shall not affect the other provisions of this Agreement and all\n    provisions not affected by such invalidity or unenforceability shall remain in full force and effect. The parties hereby agree to\n    attempt to substitute for any invalid or unenforceable provision a valid or enforceable provision that achieves to the greatest extent\n    possible the economic, legal and commercial objectives of the invalid or unenforceable provision.\n\n \n \n\n15.2\nEntire\n    Agreement. This Agreement (including the appendices and Schedules attached, each of which is incorporated into this Agreement\n    by this reference) constitutes the full and complete statement of the agreement of the Parties with respect to the subject matter\n    hereof and supersedes any previous agreements, proposals, understandings or communications, whether written or oral, relating to\n    such subject matter. Nothing contained herein shall be construed to imply a partnership, joint venture, principal/agent or an employer/employee\n    relationship between the Parties and neither Party shall have any right, power or authority to create any obligation, express or\n    implied on behalf of the other.\n\n \n \n\n15.3\nSurvival.\n    The expiration or termination of this Agreement for any reason will not release either Party from any liabilities or obligations\n    set out in this Agreement which (a) the Parties have expressly agreed will survive any such expiration or termination; or (b) remain\n    to be performed or by their nature would be intended to be applicable following any such expiration or termination.\n\n \n \n\n15.4\nAmendments;\n    Waiver. Changes or modifications to this Agreement may not be made orally, but only by a written amendment or revision signed\n    by the Parties. Any terms and conditions varying from this Agreement on any order, invoice or other notification from either Party\n    are not binding on the other unless specifically accepted by the other Party in writing. Unless otherwise expressly provided in this\n    Agreement, a delay or omission by either Party to exercise any right or power under this Agreement will not be construed to be a\n    waiver. No waiver of any breach of any provision of this Agreement will constitute a waiver of any prior, concurrent or subsequent\n    breach of the same or any other provision of this Agreement.\n\n \n \n\n15.5\nAssignment.\n    This Agreement will be binding on the Parties and their successors and permitted assigns (it being understood and agreed that nothing\n    contained in this Agreement is intended to confer upon any other person any rights, benefits or remedies of any kind or character\n    whatsoever under or by reason of this Agreement). Neither Party may, nor will it have the power to, assign this Agreement, or any\n    part, without the prior written consent of the other.\n\n \n \n\n15.6\nApprovals\n    and Similar Actions. Except as otherwise expressly provided in this Agreement, where agreement, approval, acceptance, consent\n    or similar action is required of either Party by any provision of this Agreement, such action will not be unreasonably withheld or\n    delayed. An approval or consent given by a Party under this Agreement will not relieve the other Party from responsibility for complying\n    with the requirements of this Agreement, nor will it be construed as a waiver of any rights under this Agreement, except as and to\n    the extent otherwise expressly provided in such approval or consent."
+  },
+  {
+    "id": "element_0051",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 13; Value: 2"
+  },
+  {
+    "id": "element_0052",
+    "cls": "TableElement",
+    "text": "15.7\nGoverning\n    Law. This Agreement will be governed by and construed in accordance with the laws of Malaysia and the Parties hereby agree to\n    submit to the non-exclusive jurisdiction of the Courts of Malaysia.\n\n \n \n\n15.8\nBest\n    Endeavour. Each Party undertakes and covenants with the other to act at all times in the best interests of the Parties in pursuing\n    and/or in performing their respective obligations hereunder and shall use utmost good faith and best endeavor not to act in\n    any manner which may be detrimental to the interests of the Parties hereunder and to provide the closest consultation, cooperation,\n    communication and coordination with each other in performing their respective obligations hereunder. Without prejudice to anything\n    contained herein, the Parties hereto agree to use their best endeavor to resolve any dispute arising in accordance with the\n    provisions of this Agreement.\n\n \n \n\n15.9\n    \nSchedules\n    and Inconsistency. The Schedules to this Agreement shall at all times be considered inseparable and integral parts of this Agreement.\n    However, in the event of any inconsistency between the terms in the Schedules and the terms in this Agreement, the terms in this\n    Agreement shall prevail.\n\n \n \n\n15.10\nStamp\n    Duty. The proper stamps duty, if any, on this Agreement, shall be borne by the Financing Partner. The Parties shall bear its\n    own costs and expenses for preparing, approving and completing this Agreement."
+  },
+  {
+    "id": "element_0053",
+    "cls": "TitleElement",
+    "text": "[The\nremainder of this page is intentionally left blank]",
+    "level": 2
+  },
+  {
+    "id": "element_0054",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 14; Value: 2 IN\nWITNESS WHEREOF the Parties have hereunto set their respective hands and seal on the day and year first above written"
+  },
+  {
+    "id": "element_0055",
+    "cls": "TitleElement",
+    "text": "MYISCO",
+    "level": 1
+  },
+  {
+    "id": "element_0056",
+    "cls": "TableElement",
+    "text": "Signed\n    by \n)\n \n \n\nfor\n    and behalf of \n)\n \n \n\nMYISCO\n    SDN BHD \n)\n \n \n\n(Registration\n    No.: 201901046119 \n)\n \n \n\n(1355449-A))\n    \n)\n \n \n\nin\n    the presence of: - )\n)\n/s\n    / Muhammad Hudhaifa Ahmad\n\n \n \nName\n:\n    Muhammad Hudhaifa Ahmad\n\n/s/\n    Nur Fakhira Hadirah\n \nNRIC\n    No.\n:\n    771031 - 71 - 5099\n\nName\n    \n:\n    Nur Fakhira Hadikah\n\n \n \n\nDesignation\n    \n:\n    Business Analyst"
+  },
+  {
+    "id": "element_0057",
+    "cls": "TitleElement",
+    "text": "THE\nFINANCING PARTNER",
+    "level": 1
+  },
+  {
+    "id": "element_0058",
+    "cls": "TableElement",
+    "text": "Signed\n    by \n)\n \n \n\nfor\n    and behalf of \n)\n \n \n\nSUPER\n    APPS SDN BHD \n)\n \n \n\n(Registration\n    No. 202201014353 \n)\n \n \n\n(1460050-W))\n    \n)\n \n \n\nin\n    the presence of: - \n)\n/s/\n    Wan Heng Chee\n\n \n \nName\n:\n    Wan Heng Chee\n\n/s/\n    Yap Oi Chin\n \nNRIC\n    No.\n:\n    610605 - 10- 6587\n\nName\n:\n    Yap Oi Chin\n\n \n \n\nDesignation\n:\n    Secretary"
+  },
+  {
+    "id": "element_0059",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 15; Value: 2"
+  },
+  {
+    "id": "element_0060",
+    "cls": "TitleElement",
+    "text": "Schedule\n1",
+    "level": 2
+  },
+  {
+    "id": "element_0061",
+    "cls": "TitleElement",
+    "text": "Trust\nDeed Between MYISCO and MyAngkasa Amanah Berhad",
+    "level": 2
+  },
+  {
+    "id": "element_0062",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 16; Value: 2"
+  },
+  {
+    "id": "element_0063",
+    "cls": "TitleElement",
+    "text": "Schedule\n2",
+    "level": 2
+  },
+  {
+    "id": "element_0064",
+    "cls": "TitleElement",
+    "text": "Details\nof Personal Financing",
+    "level": 2
+  },
+  {
+    "id": "element_0065",
+    "cls": "TextElement",
+    "text": "MYISCO\nshall provide the Customers with personal financings as per the following details:\n\n \n1.\n    \nName\n    of Financing Product\n\n \n \n \n\n \n \nRevolving\n    Credit Line\n\n \n \n \n\n \n2.\n    \nAnnual\n    Percentage Rate (APR)\n\n \n \n \n\n \n3.\n    \nFinancing\n    Term\n\n \n \n \n\n \n \nAccessible\n    to all ANGKASA staff, members and others with access to Sistem Potongan Gaji  ANGKASA.\n\n \n \n \n\n \n4.\nConditions\n    Precedent\n Field: Page; Sequence: 17; Options: Last"
+  }
+]

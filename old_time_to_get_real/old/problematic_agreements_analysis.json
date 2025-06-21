@@ -1,0 +1,1431 @@
+{
+  "summary": {
+    "total_problematic": 34,
+    "issues_count": 12,
+    "failed_count": 22,
+    "pattern_frequency": {
+      "Image filename references": 7,
+      "Table-heavy structure (16 tables)": 1,
+      "Table-heavy structure (19 tables)": 1,
+      "Heavy CSS styling": 18,
+      "Multiple page breaks (75)": 1,
+      "Multiple page breaks (30)": 1,
+      "Workiva-generated HTML": 8,
+      "Multiple page breaks (43)": 2,
+      "Multiple page breaks (6)": 2,
+      "Table-heavy structure (25 tables)": 1,
+      "Multiple page breaks (26)": 1,
+      "Table-heavy structure (55 tables)": 1,
+      "Multiple page breaks (218)": 1,
+      "Multiple page breaks (17)": 2,
+      "Table-heavy structure (11 tables)": 1,
+      "Multiple page breaks (18)": 2,
+      "Multiple page breaks (31)": 1,
+      "Table-heavy structure (20 tables)": 1,
+      "Multiple page breaks (36)": 1,
+      "Table-heavy structure (419 tables)": 1,
+      "Multiple page breaks (432)": 1,
+      "Table-heavy structure (56 tables)": 1,
+      "Multiple page breaks (32)": 1,
+      "Multiple page breaks (95)": 1,
+      "Multiple page breaks (7)": 1,
+      "Minimal text content (382 chars)": 1,
+      "Table-heavy structure (172 tables)": 1,
+      "Multiple page breaks (407)": 1,
+      "Table-heavy structure (143 tables)": 1,
+      "Multiple page breaks (257)": 1
+    },
+    "orphan_types": {
+      "ContentTextElement": 36,
+      "DefinitionElement": 2,
+      "SectionElement": 18,
+      "ExhibitElement": 8,
+      "HeadingElement": 22,
+      "ArticleElement": 6,
+      "PartyElement": 6
+    },
+    "size_categories": {
+      "Large (>100KB)": 11,
+      "Medium (10-100KB)": 21,
+      "Small (<10KB)": 2
+    }
+  },
+  "detailed_analyses": [
+    {
+      "agreement": 2,
+      "status": "Failed",
+      "html_size": 171938,
+      "total_elements": 16,
+      "orphan_count": 5,
+      "orphan_pct": 31.25,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 15,
+        "DefinitionElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "STANDARD  INDUSTRIAL/COMMERCIAL SINGLE - TENANT LEASE  - GROSS   (DO  NOT  USE THIS FORM  FOR MULTI"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "DocuSign Envelope ID: C8D04BAF - 4A20 - 4FB4 - BE00 - 5EA6B43C7032 2. Condition . Lessor shall deliv"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "DocuSign Envelope ID: C8D04BAF - 4A20 - 4FB4 - BE00 - 5EA6B43C7032 Commencement  Date.  If,  despite"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "DocuSign Envelope ID: C8D04BAF - 4A20 - 4FB4 - BE00 - 5EA6B43C7032 Lessor may condition its consent"
+        },
+        {
+          "type": "DefinitionElement",
+          "level": 3,
+          "text": "DocuSign Envelope ID: C8D04BAF - 4A20 - 4FB4 - BE00 - 5EA6B43C7032 (Lessor's Obligations), 9 (Damage"
+        }
+      ],
+      "patterns_found": [
+        "Image filename references",
+        "Table-heavy structure (16 tables)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 15,
+        "3": 1
+      }
+    },
+    {
+      "agreement": 4,
+      "status": "Issues",
+      "html_size": 156120,
+      "total_elements": 32,
+      "orphan_count": 4,
+      "orphan_pct": 12.903225806451612,
+      "metadata_count": 0,
+      "element_types": {
+        "SectionElement": 7,
+        "ContentTextElement": 20,
+        "DefinitionElement": 3,
+        "ExhibitElement": 1,
+        "TableElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "4. In the performance of his duties, Employee shall use his best efforts to adhere to the\nlegal requ"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "1. Vehicle Allowance and Other Perquisites. During 2019, Employer shall provide\nEmployee an annual v"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "5. If Employee\u0092s employment is terminated by Employer prior to the occurrence of a\nChange in Control"
+        },
+        {
+          "type": "ExhibitElement",
+          "level": 1,
+          "text": "For all purposes of this Agreement, Employee shall be considered to have terminated employment with"
+        }
+      ],
+      "patterns_found": [
+        "Table-heavy structure (19 tables)",
+        "Heavy CSS styling",
+        "Multiple page breaks (75)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "2": 7,
+        "4": 20,
+        "3": 3,
+        "1": 1
+      }
+    },
+    {
+      "agreement": 9,
+      "status": "Failed",
+      "html_size": 81902,
+      "total_elements": 13,
+      "orphan_count": 4,
+      "orphan_pct": 30.76923076923077,
+      "metadata_count": 0,
+      "element_types": {
+        "SectionElement": 4,
+        "ContentTextElement": 9
+      },
+      "orphan_details": [
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "1.2 Company Commitment Prior to the Retirement Date.\nSubject to the terms and conditions of this Agr"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "2.4 Cooperation. Until the Retirement Date, Executive\nagrees to comply with all Company rules, polic"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "3.3 Knowing and Voluntary Agreement. Executive hereby\nacknowledges and agrees that:  (a) he has a pe"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "4.3 Injunctive Relief; Survival. In the event of\na breach by Executive of any of the provisions of t"
+        }
+      ],
+      "patterns_found": [
+        "Multiple page breaks (30)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "2": 4,
+        "4": 9
+      }
+    },
+    {
+      "agreement": 10,
+      "status": "Issues",
+      "html_size": 34778,
+      "total_elements": 38,
+      "orphan_count": 3,
+      "orphan_pct": 8.571428571428571,
+      "metadata_count": 0,
+      "element_types": {
+        "HeadingElement": 3,
+        "ContentTextElement": 15,
+        "SectionElement": 12,
+        "TableElement": 2,
+        "AgreementTitleElement": 1,
+        "TextElement": 1,
+        "ClauseElement": 4
+      },
+      "orphan_details": [
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "GROUPON, INC. 2011 INCENTIVE PLAN"
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "NOTICE OF RESTRICTED SHARE UNIT AWARD"
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "GROUPON, INC. 2011 INCENTIVE PLAN"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling",
+        "Workiva-generated HTML"
+      ],
+      "max_level": 5,
+      "level_counts": {
+        "1": 3,
+        "4": 15,
+        "2": 12,
+        "0": 1,
+        "3": 2,
+        "5": 2
+      }
+    },
+    {
+      "agreement": 16,
+      "status": "Failed",
+      "html_size": 26234,
+      "total_elements": 1,
+      "orphan_count": 1,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "Exhibit\u00a010.8\u200bAxcelis Technologies,\u00a0Inc.Named Executive Officer Base Compensation at February 15, 202"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 1
+      }
+    },
+    {
+      "agreement": 18,
+      "status": "Issues",
+      "html_size": 20787,
+      "total_elements": 19,
+      "orphan_count": 2,
+      "orphan_pct": 10.526315789473683,
+      "metadata_count": 0,
+      "element_types": {
+        "HeadingElement": 2,
+        "ContentTextElement": 7,
+        "SectionElement": 2,
+        "ClauseElement": 8
+      },
+      "orphan_details": [
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "INARI MEDICAL, INC."
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "NON-EMPLOYEE DIRECTOR COMPENSATION PROGRAM"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling",
+        "Workiva-generated HTML"
+      ],
+      "max_level": 5,
+      "level_counts": {
+        "1": 2,
+        "4": 7,
+        "2": 2,
+        "3": 5,
+        "5": 3
+      }
+    },
+    {
+      "agreement": 20,
+      "status": "Failed",
+      "html_size": 65712,
+      "total_elements": 13,
+      "orphan_count": 4,
+      "orphan_pct": 36.36363636363637,
+      "metadata_count": 0,
+      "element_types": {
+        "ArticleElement": 4,
+        "SectionElement": 7,
+        "TableElement": 2
+      },
+      "orphan_details": [
+        {
+          "type": "ArticleElement",
+          "level": 1,
+          "text": "ARTICLE 1 \nVOTING AGREEMENT \nSection\u00a01.01 Voting Agreement. \n(a) Beginning on the date hereof until"
+        },
+        {
+          "type": "ArticleElement",
+          "level": 1,
+          "text": "ARTICLE 2 \nREPRESENTATIONS AND WARRANTIES OF THE \nSTOCKHOLDER  The Stockholder\nrepresents and warran"
+        },
+        {
+          "type": "ArticleElement",
+          "level": 1,
+          "text": "ARTICLE 4 \nCOVENANTS OF THE STOCKHOLDER  The\nStockholder hereby agrees that:  Section\u00a04.01 No Proxie"
+        },
+        {
+          "type": "ArticleElement",
+          "level": 1,
+          "text": "ARTICLE 5 \nMISCELLANEOUS  Section\u00a05.01\nOther Definitional and Interpretative Provisions.  The words"
+        }
+      ],
+      "patterns_found": [
+        "Image filename references",
+        "Multiple page breaks (43)"
+      ],
+      "max_level": 3,
+      "level_counts": {
+        "1": 4,
+        "3": 7
+      }
+    },
+    {
+      "agreement": 21,
+      "status": "Failed",
+      "html_size": 16566,
+      "total_elements": 2,
+      "orphan_count": 2,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "SectionElement": 2
+      },
+      "orphan_details": [
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "9. Events of Default. The following shall constitute an event of default\n(\u0093Event of Default\u0094):  (a)"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "13. Notices. All notices, statements or other documents which are required or\ncontemplated by this A"
+        }
+      ],
+      "patterns_found": [
+        "Multiple page breaks (6)"
+      ],
+      "max_level": 2,
+      "level_counts": {
+        "2": 2
+      }
+    },
+    {
+      "agreement": 24,
+      "status": "Failed",
+      "html_size": 61540,
+      "total_elements": 13,
+      "orphan_count": 5,
+      "orphan_pct": 38.46153846153847,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 9,
+        "SectionElement": 4
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "discretionary and may be subject to achievement of performance targets established by the Company fo"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "8.\u2003At-Will Employment; Date of Termination. At\nall times, your employment with the Company is \u0093at wi"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "12.\u2003Continuing Obligations. \n\u00a0\n\n\n\u00a0\n(a)\n EIACN Agreement. As a condition of your employment, you are"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "15.\u2003Withholding; Tax Effect. All forms of compensation referred to in this Agreement are\nsubject to"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "23.\u2003Other Terms. The provisions of this Agreement shall survive the termination of this\nAgreement an"
+        }
+      ],
+      "patterns_found": [
+        "Table-heavy structure (25 tables)",
+        "Multiple page breaks (43)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 9,
+        "2": 4
+      }
+    },
+    {
+      "agreement": 28,
+      "status": "Failed",
+      "html_size": 15567,
+      "total_elements": 5,
+      "orphan_count": 1,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 1,
+        "TableElement": 4
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "EXECUTION VERSION  \u00a0\nD. Governing Law. This Commitment Increase Agreement shall be construed in acco"
+        }
+      ],
+      "patterns_found": [
+        "Multiple page breaks (26)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 1
+      }
+    },
+    {
+      "agreement": 35,
+      "status": "Failed",
+      "html_size": 1537124,
+      "total_elements": 2,
+      "orphan_count": 2,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "HeadingElement": 1,
+        "ExhibitElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "EXECUTION VERSION"
+        },
+        {
+          "type": "ExhibitElement",
+          "level": 1,
+          "text": "$350,000,000\n\n\nCREDIT AND GUARANTY AGREEMENT\n\n\ndated as of January 18, 2024\n\n\nby and among\n\n\nARTIVIO"
+        }
+      ],
+      "patterns_found": [
+        "Table-heavy structure (55 tables)",
+        "Heavy CSS styling",
+        "Multiple page breaks (218)"
+      ],
+      "max_level": 1,
+      "level_counts": {
+        "1": 2
+      }
+    },
+    {
+      "agreement": 37,
+      "status": "Failed",
+      "html_size": 55175,
+      "total_elements": 1,
+      "orphan_count": 1,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "PartyElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "PartyElement",
+          "level": 2,
+          "text": "- 1 -      Business\u00a0Use\u00a0 Exhibit 10(s)    CHANGE IN CONTROL SEVERANCE PROTECTION AGREEMENT      THIS"
+        }
+      ],
+      "patterns_found": [
+        "Image filename references",
+        "Heavy CSS styling",
+        "Workiva-generated HTML",
+        "Multiple page breaks (17)"
+      ],
+      "max_level": 2,
+      "level_counts": {
+        "2": 1
+      }
+    },
+    {
+      "agreement": 39,
+      "status": "Failed",
+      "html_size": 38792,
+      "total_elements": 4,
+      "orphan_count": 3,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 3,
+        "TableElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "Exhibit 10.57THE USE OF THE FOLLOWING NOTATION IN THIS EXHIBIT INDICATES THAT THE CONFIDENTIAL PORTI"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "\"Short-Term Investments\" means:i.obligations of, or obligations the principal of and interest on whi"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "date of this Certificate the following are true and correct and were compiled from the books and rec"
+        }
+      ],
+      "patterns_found": [
+        "Image filename references",
+        "Table-heavy structure (11 tables)",
+        "Heavy CSS styling",
+        "Workiva-generated HTML"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 3
+      }
+    },
+    {
+      "agreement": 41,
+      "status": "Failed",
+      "html_size": 53127,
+      "total_elements": 1,
+      "orphan_count": 1,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "JBT \u2013 Change in Control Agreement \u2013 CEO  Exhibit 10.9        -1-  JOHN BEAN TECHNOLOGIES CORPORATION"
+        }
+      ],
+      "patterns_found": [
+        "Image filename references",
+        "Workiva-generated HTML"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 1
+      }
+    },
+    {
+      "agreement": 43,
+      "status": "Failed",
+      "html_size": 127081,
+      "total_elements": 18,
+      "orphan_count": 3,
+      "orphan_pct": 16.666666666666664,
+      "metadata_count": 0,
+      "element_types": {
+        "PartyElement": 1,
+        "ExhibitElement": 2,
+        "ContentTextElement": 14,
+        "DefinitionElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "PartyElement",
+          "level": 2,
+          "text": "Exhibit 10.51SOVOS BRANDS LIMITED PARTNERSHIP2017 EQUITY INCENTIVE PLAN\u200bINCENTIVE UNIT GRANT AGREEME"
+        },
+        {
+          "type": "ExhibitElement",
+          "level": 1,
+          "text": "\u200bbeen registered under the Securities Act, and, therefore, cannot be sold unless they are subsequent"
+        },
+        {
+          "type": "ExhibitElement",
+          "level": 1,
+          "text": "\u200bof employment, the Participant commits a Covenant Breach, then all Vested Units and any Class A Uni"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling",
+        "Multiple page breaks (18)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "2": 1,
+        "1": 2,
+        "4": 14,
+        "3": 1
+      }
+    },
+    {
+      "agreement": 48,
+      "status": "Failed",
+      "html_size": 88054,
+      "total_elements": 14,
+      "orphan_count": 9,
+      "orphan_pct": 69.23076923076923,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 8,
+        "SectionElement": 4,
+        "ArticleElement": 1,
+        "TableElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "\u0093Commission\u0094 means the Securities and Exchange Commission, or any other\nfederal agency then administ"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "\u0093Registration Expenses\u0094 means the out-of-pocket expenses of a Registration, including, without limit"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "shall be entitled to have their Registrable Securities included in a Registration pursuant to a Dema"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "(i)\u00a0and (ii), the Common Stock or other equity securities that the Company desires to sell, which ca"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "sold without exceeding the Maximum Number of Securities; (C)\u00a0third, to the extent that the Maximum N"
+        }
+      ],
+      "patterns_found": [
+        "Multiple page breaks (31)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 8,
+        "3": 4,
+        "1": 1
+      }
+    },
+    {
+      "agreement": 52,
+      "status": "Failed",
+      "html_size": 88464,
+      "total_elements": 16,
+      "orphan_count": 3,
+      "orphan_pct": 18.75,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 14,
+        "DefinitionElement": 1,
+        "SectionElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "\u0093Code\u0094 means the U.S. Internal Revenue Code of 1986, as amended, and any\nsuccessor Code, and related"
+        },
+        {
+          "type": "DefinitionElement",
+          "level": 3,
+          "text": "\u0093Sale Event\u0094 shall mean (i)\u00a0the sale of all or substantially all of\nthe assets of the Company on a c"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "Section\u00a0409A) to a grantee who is then considered a \u0093specified employee\u0094 (within the meaning of Sect"
+        }
+      ],
+      "patterns_found": [
+        "Table-heavy structure (20 tables)",
+        "Multiple page breaks (36)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 14,
+        "3": 1,
+        "2": 1
+      }
+    },
+    {
+      "agreement": 53,
+      "status": "Failed",
+      "html_size": 3043095,
+      "total_elements": 1,
+      "orphan_count": 1,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "PartyElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "PartyElement",
+          "level": 2,
+          "text": "Exhibit 10.77Execution VersionAMENDMENT NO. 2 TO TERM LOAN CREDIT AGREEMENTThis AMENDMENT NO. 2 TO T"
+        }
+      ],
+      "patterns_found": [
+        "Table-heavy structure (419 tables)",
+        "Heavy CSS styling",
+        "Multiple page breaks (432)"
+      ],
+      "max_level": 2,
+      "level_counts": {
+        "2": 1
+      }
+    },
+    {
+      "agreement": 55,
+      "status": "Failed",
+      "html_size": 71654,
+      "total_elements": 17,
+      "orphan_count": 17,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 17
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "Exhibit 10.81EXECUTION VERSIONAmericasActive:18505088.12[Information indicated with brackets has bee"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "\u200bmaterially and adversely affected by such amendment, by Act of said Noteholders delivered to the Is"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "\u200bAgreement, dated as of July 30, 2021, by and among the Atlas Administrative Agent, Nexera, as a Rep"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "\u200bNOW, THEREFORE, in consideration of the amendments, agreements and other provisions herein containe"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "\u200bAdvance Verification Report, whether conditions precedent to funding have been satisfied, and wheth"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling",
+        "Multiple page breaks (17)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 17
+      }
+    },
+    {
+      "agreement": 56,
+      "status": "Issues",
+      "html_size": 119633,
+      "total_elements": 173,
+      "orphan_count": 20,
+      "orphan_pct": 11.834319526627219,
+      "metadata_count": 0,
+      "element_types": {
+        "HeadingElement": 29,
+        "ContentTextElement": 114,
+        "SectionElement": 22,
+        "ClauseElement": 2,
+        "DefinitionElement": 1,
+        "TextElement": 4,
+        "AgreementTitleElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "2024 EQUITY INCENTIVE PLAN OF"
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "HIGH ROLLER TECHNOLOGIES, INC."
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "SECTION 1."
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "BACKGROUND AND PURPOSE"
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "SECTION 2."
+        }
+      ],
+      "patterns_found": [
+        "Multiple page breaks (18)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "1": 26,
+        "4": 116,
+        "2": 15,
+        "3": 11,
+        "0": 1
+      }
+    },
+    {
+      "agreement": 59,
+      "status": "Failed",
+      "html_size": 36822,
+      "total_elements": 1,
+      "orphan_count": 1,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "PartyElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "PartyElement",
+          "level": 2,
+          "text": "Exhibit 10.36Execution Version\u00a0SECOND AMENDMENT TO GUARANTYTHIS SECOND AMENDMENT TO GUARANTY, dated"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling"
+      ],
+      "max_level": 2,
+      "level_counts": {
+        "2": 1
+      }
+    },
+    {
+      "agreement": 66,
+      "status": "Issues",
+      "html_size": 141231,
+      "total_elements": 21,
+      "orphan_count": 2,
+      "orphan_pct": 9.523809523809524,
+      "metadata_count": 0,
+      "element_types": {
+        "HeadingElement": 2,
+        "ContentTextElement": 7,
+        "SectionElement": 4,
+        "ClauseElement": 8
+      },
+      "orphan_details": [
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "GOSSAMER BIO, INC."
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "NON-EMPLOYEE DIRECTOR COMPENSATION PROGRAM"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling",
+        "Workiva-generated HTML"
+      ],
+      "max_level": 5,
+      "level_counts": {
+        "1": 2,
+        "4": 7,
+        "2": 4,
+        "3": 5,
+        "5": 3
+      }
+    },
+    {
+      "agreement": 68,
+      "status": "Issues",
+      "html_size": 215565,
+      "total_elements": 78,
+      "orphan_count": 3,
+      "orphan_pct": 5.357142857142857,
+      "metadata_count": 0,
+      "element_types": {
+        "HeadingElement": 10,
+        "TextElement": 19,
+        "AgreementTitleElement": 1,
+        "ContentTextElement": 10,
+        "PartyElement": 2,
+        "TableElement": 3,
+        "SectionElement": 33
+      },
+      "orphan_details": [
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "DATED\nTHIS DAY OF 2022"
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "MYISCO\nSDN BHD"
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "SUPER\nAPPS HOLDINGS SDN BHD"
+        }
+      ],
+      "patterns_found": [
+        "Table-heavy structure (56 tables)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "1": 7,
+        "2": 37,
+        "0": 1,
+        "4": 10,
+        "3": 1
+      }
+    },
+    {
+      "agreement": 69,
+      "status": "Failed",
+      "html_size": 4262,
+      "total_elements": 4,
+      "orphan_count": 3,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "TextElement": 1,
+        "ContentTextElement": 3
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "For each calendar year, each non-employee member of the Board of Directors of Welltower Inc. (the \u201cC"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "Each of the non-employee directors will receive, in each calendar year, a grant of deferred stock un"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "Any cash compensation may be deferred into the Nonqualified Deferred Compensation Plan or may be tak"
+        }
+      ],
+      "patterns_found": [
+        "Workiva-generated HTML"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 3
+      }
+    },
+    {
+      "agreement": 70,
+      "status": "Issues",
+      "html_size": 34211,
+      "total_elements": 38,
+      "orphan_count": 2,
+      "orphan_pct": 5.405405405405405,
+      "metadata_count": 0,
+      "element_types": {
+        "HeadingElement": 3,
+        "AgreementTitleElement": 1,
+        "PartyElement": 1,
+        "RecitalElement": 2,
+        "TextElement": 1,
+        "SectionElement": 5,
+        "ContentTextElement": 16,
+        "ClauseElement": 9
+      },
+      "orphan_details": [
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "THE GETTY IMAGES HOLDINGS, INC."
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "EARN OUT PLAN"
+        }
+      ],
+      "patterns_found": [
+        "Image filename references",
+        "Heavy CSS styling",
+        "Workiva-generated HTML"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "1": 3,
+        "0": 1,
+        "2": 8,
+        "4": 16,
+        "3": 9
+      }
+    },
+    {
+      "agreement": 73,
+      "status": "Issues",
+      "html_size": 76125,
+      "total_elements": 37,
+      "orphan_count": 3,
+      "orphan_pct": 8.823529411764707,
+      "metadata_count": 0,
+      "element_types": {
+        "HeadingElement": 9,
+        "ContentTextElement": 12,
+        "TableElement": 3,
+        "AgreementTitleElement": 1,
+        "SectionElement": 11,
+        "ClauseElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "AN2 THERAPEUTICS, INC."
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "RSU AWARD GRANT NOTICE"
+        },
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "(2022 EQUITY INCENTIVE PLAN)"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "1": 8,
+        "4": 12,
+        "0": 1,
+        "2": 12,
+        "3": 1
+      }
+    },
+    {
+      "agreement": 78,
+      "status": "Failed",
+      "html_size": 55833,
+      "total_elements": 9,
+      "orphan_count": 2,
+      "orphan_pct": 25.0,
+      "metadata_count": 0,
+      "element_types": {
+        "SectionElement": 3,
+        "ContentTextElement": 4,
+        "ExhibitElement": 1,
+        "TableElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "1.2 Cashless Exercise. On any exercise of this Warrant, in lieu of payment of the\naggregate Warrant"
+        },
+        {
+          "type": "ExhibitElement",
+          "level": 1,
+          "text": "SECTION 3.REPRESENTATIONS AND COVENANTS OF THE COMPANY. \n3.1 Representations and Warranties. The Com"
+        }
+      ],
+      "patterns_found": [
+        "Multiple page breaks (32)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "2": 3,
+        "4": 4,
+        "1": 1
+      }
+    },
+    {
+      "agreement": 82,
+      "status": "Issues",
+      "html_size": 130670,
+      "total_elements": 22,
+      "orphan_count": 2,
+      "orphan_pct": 10.526315789473683,
+      "metadata_count": 0,
+      "element_types": {
+        "TableOfContentsElement": 2,
+        "PartyElement": 1,
+        "ContentTextElement": 12,
+        "SectionElement": 5,
+        "ArticleElement": 1,
+        "TableElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "PartyElement",
+          "level": 2,
+          "text": "ASSET REPRESENTATIONS REVIEW AGREEMENT, dated as of \u2003\u2003, 20[ ] (this\n\u0093Agreement\u0094), among PORSCHE FINA"
+        },
+        {
+          "type": "ArticleElement",
+          "level": 1,
+          "text": "ARTICLE IV \nASSET REPRESENTATIONS REVIEWER \nSection\u00a04.1. Representations and Warranties. The Asset R"
+        }
+      ],
+      "patterns_found": [
+        "Multiple page breaks (95)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "2": 1,
+        "4": 12,
+        "3": 5,
+        "1": 1
+      }
+    },
+    {
+      "agreement": 84,
+      "status": "Failed",
+      "html_size": 7827,
+      "total_elements": 1,
+      "orphan_count": 1,
+      "orphan_pct": 100.0,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 1
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "IN WITNESS WHEREOF, the parties have duly executed this Amendment to the Investment\nManagement Trust"
+        }
+      ],
+      "patterns_found": [
+        "Multiple page breaks (7)",
+        "Minimal text content (382 chars)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 1
+      }
+    },
+    {
+      "agreement": 91,
+      "status": "Failed",
+      "html_size": 19912,
+      "total_elements": 19,
+      "orphan_count": 6,
+      "orphan_pct": 46.15384615384615,
+      "metadata_count": 0,
+      "element_types": {
+        "TextElement": 6,
+        "ContentTextElement": 7,
+        "SectionElement": 3,
+        "ClauseElement": 3
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "Amended and Restated Non-Employee Director Compensation Policy"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "Each member of the Board of Directors (the \u201cBoard\u201d) who is not also serving as an employee of or con"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "The annual cash compensation amount set forth below is payable in equal quarterly installments, paya"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "1.\tAnnual Board Service Retainer:"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "2.\tAnnual Committee Member Service Retainer:"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 7,
+        "2": 3,
+        "3": 3
+      }
+    },
+    {
+      "agreement": 92,
+      "status": "Issues",
+      "html_size": 608798,
+      "total_elements": 92,
+      "orphan_count": 10,
+      "orphan_pct": 10.869565217391305,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 81,
+        "PartyElement": 2,
+        "DefinitionElement": 2,
+        "SectionElement": 2,
+        "ArticleElement": 1,
+        "ExhibitElement": 4
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "TABLE OF CONTENTS \nPage  \u00a0\n\n\n\n\n\n\n\n\n\n\nARTICLE I DEFINITIONS AND USAGE\n\u00a0\u00a0\n\u00a0\n1\n\u00a0\n\n\n\n\n\n SECTION 1.1\n\u00a0\nDe"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "TABLE OF CONTENTS \n(continued) \nPage  \u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\nARTICLE VI THE SERVICER\n\u00a0\u00a0\n\u00a0\n27\n\u00a0\n\n\n\n\n\n SECTION"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "TABLE OF CONTENTS \n(continued) \nPage  \u00a0\n\n\n\n\n\n\n\n\n\n\n SECTION 9.21\n\u00a0\nInformation to Be Provided by the"
+        },
+        {
+          "type": "PartyElement",
+          "level": 2,
+          "text": "THIS SALE AND SERVICING AGREEMENT, dated as of January\u00a024, 2024 (as amended, restated,\nsupplemented"
+        },
+        {
+          "type": "SectionElement",
+          "level": 2,
+          "text": "Section\u00a08-110(e) of the UCC, the State of New York shall be deemed to be the Trust Account Provider\u0092"
+        }
+      ],
+      "patterns_found": [
+        "Table-heavy structure (172 tables)",
+        "Heavy CSS styling",
+        "Multiple page breaks (407)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 81,
+        "2": 4,
+        "3": 2,
+        "1": 5
+      }
+    },
+    {
+      "agreement": 94,
+      "status": "Issues",
+      "html_size": 259999,
+      "total_elements": 42,
+      "orphan_count": 6,
+      "orphan_pct": 14.285714285714285,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 32,
+        "ExhibitElement": 1,
+        "DefinitionElement": 1,
+        "ArticleElement": 2,
+        "SectionElement": 6
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "TABLE OF CONTENTS \n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\u00a0\n\u00a0\n\u00a0\u00a0\nPage\n\u00a0\n\n ARTICLE I. DEFINITIONS\n\u00a0\u00a0\n\u00a0\n1\n\u00a0\n\n Section\u00a01.01\n\u00a0\nDe"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "TABLE OF CONTENTS \n(continued)  \u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\u00a0\n\u00a0\n\u00a0\u00a0\nPage\n\u00a0\n\n\n\n\n ARTICLE V. OTHER MATTERS PERTAINING"
+        },
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "TABLE OF CONTENTS \n(continued)  \u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\u00a0\n\u00a0\n\u00a0\u00a0\nPage\n\u00a0\n\n Section\u00a09.13\n\u00a0\nSubmission to Jurisdict"
+        },
+        {
+          "type": "ExhibitElement",
+          "level": 1,
+          "text": "ASSET REPRESENTATIONS REVIEW AGREEMENT \nThis ASSET REPRESENTATIONS REVIEW AGREEMENT is made and ente"
+        },
+        {
+          "type": "ArticleElement",
+          "level": 1,
+          "text": "ARTICLE II. \nENGAGEMENT; ACCEPTANCE \nSection\u00a02.01 Engagement; Acceptance. \nThe Issuer hereby engages"
+        }
+      ],
+      "patterns_found": [
+        "Image filename references",
+        "Table-heavy structure (143 tables)",
+        "Heavy CSS styling",
+        "Multiple page breaks (257)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 32,
+        "1": 3,
+        "3": 7
+      }
+    },
+    {
+      "agreement": 99,
+      "status": "Issues",
+      "html_size": 18508,
+      "total_elements": 19,
+      "orphan_count": 1,
+      "orphan_pct": 6.25,
+      "metadata_count": 0,
+      "element_types": {
+        "HeadingElement": 3,
+        "TextElement": 1,
+        "AgreementTitleElement": 1,
+        "TableElement": 2,
+        "PartyElement": 1,
+        "ContentTextElement": 3,
+        "SectionElement": 8
+      },
+      "orphan_details": [
+        {
+          "type": "HeadingElement",
+          "level": 1,
+          "text": "VOCODIA HOLDINGS CORP."
+        }
+      ],
+      "patterns_found": [],
+      "max_level": 4,
+      "level_counts": {
+        "1": 2,
+        "0": 1,
+        "2": 10,
+        "4": 3
+      }
+    },
+    {
+      "agreement": 100,
+      "status": "Failed",
+      "html_size": 54709,
+      "total_elements": 6,
+      "orphan_count": 3,
+      "orphan_pct": 50.0,
+      "metadata_count": 0,
+      "element_types": {
+        "ContentTextElement": 4,
+        "ExhibitElement": 2
+      },
+      "orphan_details": [
+        {
+          "type": "ContentTextElement",
+          "level": 4,
+          "text": "\u200bExhibit 10.12\u200bOCULAR THERAPEUTIX, INC.\u200bRestricted Stock Unit AgreementOcular Therapeutix, Inc. (the"
+        },
+        {
+          "type": "ExhibitElement",
+          "level": 1,
+          "text": "\u200bOcular Therapeutix, Inc.\u200bRestricted Stock Unit Agreement Incorporated Terms and Conditions\u200b1.Award"
+        },
+        {
+          "type": "ExhibitElement",
+          "level": 1,
+          "text": "\u200bthe RSUs until the issuance of the shares of Common Stock to the Participant following the vesting"
+        }
+      ],
+      "patterns_found": [
+        "Heavy CSS styling",
+        "Multiple page breaks (6)"
+      ],
+      "max_level": 4,
+      "level_counts": {
+        "4": 4,
+        "1": 2
+      }
+    }
+  ]
+}

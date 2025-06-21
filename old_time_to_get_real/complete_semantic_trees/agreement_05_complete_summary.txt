@@ -1,0 +1,46 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_05.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 410
+🔗 Cross-References: 798
+📋 Title: TRANSITION SERVICES AGREEMENT...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 19
+  paragraph           : 184
+  party               : 1
+  section             : 43
+  signature           : 18
+  subsection          : 10
+  table               : 134
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 144
+  Document Self Ref   : 442
+  Exhibit Ref         : 39
+  Legal Ref           : 13
+  Positional Ref      : 38
+  Section Ref         : 122
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.9
+[PARAGRAPH] EXECUTION VERSION
+[TITLE] TRANSITION SERVICES AGREEMENT
+[PARAGRAPH] THIS TRANSITION SERVICES AGREEMENT (this Agreement), dated as of June 1, 2018, i...
+[PARAGRAPH] RECITALS
+[PARAGRAPH] WHEREAS, on December 11, 2017, Covia, Sibelco, Fairmount Santrol Holdings Inc., ...
+[PARAGRAPH] WHEREAS, the Parties desire that Provider provides to Recipient certain transiti...
+[PARAGRAPH] NOW, THEREFORE, intending to be legally bound and in consideration of the mutual...
+[SECTION] ARTICLE 1
+[PARAGRAPH] As used in this Agreement and in the schedules attached hereto:
+... and 400 more elements
+
+====================================================================================================

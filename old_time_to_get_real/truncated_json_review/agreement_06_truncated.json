@@ -1,0 +1,2541 @@
+{
+  "agreement_summary": {
+    "number": 6,
+    "filename": "agreement_06.html",
+    "title": "No title found",
+    "total_elements": 262,
+    "hierarchical_elements": 257,
+    "total_text_chars": 409609,
+    "element_type_counts": {
+      "TableElement": 4,
+      "TextElement": 1,
+      "ClauseElement": 1,
+      "ContentTextElement": 250,
+      "ExhibitElement": 4,
+      "SectionElement": 2
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TableElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 970
+    },
+    {
+      "class_name": "TableElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 2148
+    },
+    {
+      "class_name": "TableElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1847
+    },
+    {
+      "class_name": "TableElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3098
+    },
+    {
+      "class_name": "TextElement",
+      "text": "TOCEXISTFLAG",
+      "text_length": 12
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "B.                                    Existing Core and Shell Services:\n \n1. ...",
+      "text_length": 449,
+      "id": "ClauseElement_243",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(B)",
+      "clause_text": "Existing Core and Shell Services:",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=1,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=499002,...",
+      "text_length": 182,
+      "id": "ContentTextElement_248",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4980,
+      "id": "ContentTextElement_249",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=2,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=1032295...",
+      "text_length": 183,
+      "id": "ContentTextElement_250",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5119,
+      "id": "ContentTextElement_251",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=3,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=814157,...",
+      "text_length": 182,
+      "id": "ContentTextElement_252",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5102,
+      "id": "ContentTextElement_253",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=4,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=202322,...",
+      "text_length": 182,
+      "id": "ContentTextElement_254",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4170,
+      "id": "ContentTextElement_255",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=5,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=392824,...",
+      "text_length": 182,
+      "id": "ContentTextElement_256",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3982,
+      "id": "ContentTextElement_257",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=6,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=698817,...",
+      "text_length": 182,
+      "id": "ContentTextElement_258",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5581,
+      "id": "ContentTextElement_259",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=7,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=410507,...",
+      "text_length": 182,
+      "id": "ContentTextElement_260",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5303,
+      "id": "ContentTextElement_261",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TableElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 970
+    },
+    {
+      "class_name": "TableElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 2148
+    },
+    {
+      "class_name": "TableElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1847
+    },
+    {
+      "class_name": "TableElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3098
+    },
+    {
+      "class_name": "TextElement",
+      "text": "TOCEXISTFLAG",
+      "text_length": 12
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "B.                                    Existing Core and Shell Services:\n \n1. ...",
+      "text_length": 449,
+      "id": "ClauseElement_243",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(B)",
+      "clause_text": "Existing Core and Shell Services:",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=1,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=499002,...",
+      "text_length": 182,
+      "id": "ContentTextElement_248",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4980,
+      "id": "ContentTextElement_249",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=2,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=1032295...",
+      "text_length": 183,
+      "id": "ContentTextElement_250",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5119,
+      "id": "ContentTextElement_251",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=3,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=814157,...",
+      "text_length": 182,
+      "id": "ContentTextElement_252",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5102,
+      "id": "ContentTextElement_253",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=4,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=202322,...",
+      "text_length": 182,
+      "id": "ContentTextElement_254",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4170,
+      "id": "ContentTextElement_255",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=5,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=392824,...",
+      "text_length": 182,
+      "id": "ContentTextElement_256",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3982,
+      "id": "ContentTextElement_257",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=6,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=698817,...",
+      "text_length": 182,
+      "id": "ContentTextElement_258",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5581,
+      "id": "ContentTextElement_259",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=7,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=410507,...",
+      "text_length": 182,
+      "id": "ContentTextElement_260",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5303,
+      "id": "ContentTextElement_261",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=8,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=171958,...",
+      "text_length": 182,
+      "id": "ContentTextElement_262",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5513,
+      "id": "ContentTextElement_263",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=9,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=953313,...",
+      "text_length": 182,
+      "id": "ContentTextElement_264",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5651,
+      "id": "ContentTextElement_265",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=10,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=78812,...",
+      "text_length": 183,
+      "id": "ContentTextElement_266",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5454,
+      "id": "ContentTextElement_267",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=11,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=318958...",
+      "text_length": 184,
+      "id": "ContentTextElement_268",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5512,
+      "id": "ContentTextElement_269",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=12,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=832529...",
+      "text_length": 184,
+      "id": "ContentTextElement_270",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5565,
+      "id": "ContentTextElement_271",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=13,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=544780...",
+      "text_length": 184,
+      "id": "ContentTextElement_272",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5755,
+      "id": "ContentTextElement_273",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=14,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=577124...",
+      "text_length": 184,
+      "id": "ContentTextElement_274",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5507,
+      "id": "ContentTextElement_275",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=15,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=515587...",
+      "text_length": 184,
+      "id": "ContentTextElement_276",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5602,
+      "id": "ContentTextElement_277",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=16,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=277136...",
+      "text_length": 184,
+      "id": "ContentTextElement_278",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5535,
+      "id": "ContentTextElement_279",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=17,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=387450...",
+      "text_length": 184,
+      "id": "ContentTextElement_280",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5344,
+      "id": "ContentTextElement_281",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=18,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=855015...",
+      "text_length": 184,
+      "id": "ContentTextElement_282",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5395,
+      "id": "ContentTextElement_283",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=19,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=420078...",
+      "text_length": 184,
+      "id": "ContentTextElement_284",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4861,
+      "id": "ContentTextElement_285",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=20,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=876002...",
+      "text_length": 184,
+      "id": "ContentTextElement_286",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4920,
+      "id": "ContentTextElement_287",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=21,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=468325...",
+      "text_length": 184,
+      "id": "ContentTextElement_288",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4680,
+      "id": "ContentTextElement_289",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=22,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=212486...",
+      "text_length": 184,
+      "id": "ContentTextElement_290",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4146,
+      "id": "ContentTextElement_291",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=23,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=590913...",
+      "text_length": 184,
+      "id": "ContentTextElement_292",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4388,
+      "id": "ContentTextElement_293",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=24,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=700326...",
+      "text_length": 184,
+      "id": "ContentTextElement_294",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4592,
+      "id": "ContentTextElement_295",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=25,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=167837...",
+      "text_length": 184,
+      "id": "ContentTextElement_296",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5655,
+      "id": "ContentTextElement_297",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=26,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=609900...",
+      "text_length": 184,
+      "id": "ContentTextElement_298",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4984,
+      "id": "ContentTextElement_299",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=27,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=104617...",
+      "text_length": 185,
+      "id": "ContentTextElement_300",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5259,
+      "id": "ContentTextElement_301",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=28,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=902221...",
+      "text_length": 184,
+      "id": "ContentTextElement_302",
+      "parent_id": null,
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=29,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=359095...",
+      "text_length": 184,
+      "id": "ContentTextElement_303",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4791,
+      "id": "ContentTextElement_304",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=30,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=8283,F...",
+      "text_length": 182,
+      "id": "ContentTextElement_305",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5138,
+      "id": "ContentTextElement_306",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=31,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=100232...",
+      "text_length": 185,
+      "id": "ContentTextElement_307",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5781,
+      "id": "ContentTextElement_308",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=32,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=35323,...",
+      "text_length": 183,
+      "id": "ContentTextElement_309",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5065,
+      "id": "ContentTextElement_310",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=33,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=313230...",
+      "text_length": 184,
+      "id": "ContentTextElement_311",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5482,
+      "id": "ContentTextElement_312",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=34,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=798972...",
+      "text_length": 184,
+      "id": "ContentTextElement_313",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4951,
+      "id": "ContentTextElement_314",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=35,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=111357...",
+      "text_length": 184,
+      "id": "ContentTextElement_315",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5129,
+      "id": "ContentTextElement_316",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=36,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=990846...",
+      "text_length": 184,
+      "id": "ContentTextElement_317",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5795,
+      "id": "ContentTextElement_318",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=37,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=243515...",
+      "text_length": 184,
+      "id": "ContentTextElement_319",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4160,
+      "id": "ContentTextElement_320",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=38,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=264834...",
+      "text_length": 184,
+      "id": "ContentTextElement_321",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4715,
+      "id": "ContentTextElement_322",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=39,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=546323...",
+      "text_length": 184,
+      "id": "ContentTextElement_323",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4086,
+      "id": "ContentTextElement_324",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=40,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=930696...",
+      "text_length": 184,
+      "id": "ContentTextElement_325",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5166,
+      "id": "ContentTextElement_326",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=41,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=519561...",
+      "text_length": 184,
+      "id": "ContentTextElement_327",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4670,
+      "id": "ContentTextElement_328",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=42,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=608948...",
+      "text_length": 184,
+      "id": "ContentTextElement_329",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4670,
+      "id": "ContentTextElement_330",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=43,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=135615...",
+      "text_length": 184,
+      "id": "ContentTextElement_331",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1616,
+      "id": "ContentTextElement_332",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=44,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=324465...",
+      "text_length": 184,
+      "id": "ContentTextElement_333",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1129,
+      "id": "ContentTextElement_334",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=45,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=663081...",
+      "text_length": 184,
+      "id": "ContentTextElement_335",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 263,
+      "id": "ContentTextElement_336",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=46,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=936553...",
+      "text_length": 182,
+      "id": "ContentTextElement_337",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 2728,
+      "id": "ContentTextElement_338",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=47,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=146910...",
+      "text_length": 183,
+      "id": "ContentTextElement_339",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3210,
+      "id": "ContentTextElement_340",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=48,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=48281,...",
+      "text_length": 182,
+      "id": "ContentTextElement_341",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3363,
+      "id": "ContentTextElement_342",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=49,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=125878...",
+      "text_length": 183,
+      "id": "ContentTextElement_343",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3092,
+      "id": "ContentTextElement_344",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=50,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=754837...",
+      "text_length": 183,
+      "id": "ContentTextElement_345",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 2544,
+      "id": "ContentTextElement_346",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=51,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=402694...",
+      "text_length": 183,
+      "id": "ContentTextElement_347",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 2618,
+      "id": "ContentTextElement_348",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=52,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=33363,...",
+      "text_length": 182,
+      "id": "ContentTextElement_349",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4220,
+      "id": "ContentTextElement_350",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=53,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=572550...",
+      "text_length": 183,
+      "id": "ContentTextElement_351",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5398,
+      "id": "ContentTextElement_352",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=54,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=447792...",
+      "text_length": 183,
+      "id": "ContentTextElement_353",
+      "parent_id": "ExhibitElement_244",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=55,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=840002...",
+      "text_length": 183,
+      "id": "ContentTextElement_354",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5108,
+      "id": "ContentTextElement_355",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=56,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=14614,...",
+      "text_length": 182,
+      "id": "ContentTextElement_356",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3879,
+      "id": "ContentTextElement_357",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=57,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=807789...",
+      "text_length": 183,
+      "id": "ContentTextElement_358",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5184,
+      "id": "ContentTextElement_359",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=58,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=618463...",
+      "text_length": 183,
+      "id": "ContentTextElement_360",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5303,
+      "id": "ContentTextElement_361",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=59,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=46883,...",
+      "text_length": 182,
+      "id": "ContentTextElement_362",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5425,
+      "id": "ContentTextElement_363",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=60,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=268624...",
+      "text_length": 183,
+      "id": "ContentTextElement_364",
+      "parent_id": "ExhibitElement_245",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=61,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=69127,...",
+      "text_length": 182,
+      "id": "ContentTextElement_365",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4581,
+      "id": "ContentTextElement_366",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=62,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=352308...",
+      "text_length": 184,
+      "id": "ContentTextElement_367",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 538,
+      "id": "ContentTextElement_368",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=63,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=699140...",
+      "text_length": 184,
+      "id": "ContentTextElement_369",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 290,
+      "id": "ContentTextElement_370",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=64,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=268217...",
+      "text_length": 182,
+      "id": "ContentTextElement_371",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_372",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=65,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=513506...",
+      "text_length": 184,
+      "id": "ContentTextElement_373",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_374",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=66,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=232695...",
+      "text_length": 184,
+      "id": "ContentTextElement_375",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_376",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=67,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=949365...",
+      "text_length": 184,
+      "id": "ContentTextElement_377",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_378",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=68,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=598772...",
+      "text_length": 184,
+      "id": "ContentTextElement_379",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_380",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=69,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=697421...",
+      "text_length": 184,
+      "id": "ContentTextElement_381",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_382",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=70,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=397385...",
+      "text_length": 184,
+      "id": "ContentTextElement_383",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_384",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=71,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=578625...",
+      "text_length": 184,
+      "id": "ContentTextElement_385",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 275,
+      "id": "ContentTextElement_386",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=72,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=737932...",
+      "text_length": 182,
+      "id": "ContentTextElement_387",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 256,
+      "id": "ContentTextElement_388",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=73,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=451430...",
+      "text_length": 182,
+      "id": "ContentTextElement_389",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Mechanical, Electrical, Plumbing and Fire Protection\n \nBasis of Design\n \nRUBU...",
+      "text_length": 265,
+      "id": "ContentTextElement_390",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=74,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=621526...",
+      "text_length": 184,
+      "id": "ContentTextElement_391",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "FIRE PROTECTION\n \nA.                                    System Description:\n ...",
+      "text_length": 1951,
+      "id": "ContentTextElement_392",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=75,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=59370,...",
+      "text_length": 183,
+      "id": "ContentTextElement_393",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=76,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=166188...",
+      "text_length": 184,
+      "id": "ContentTextElement_394",
+      "parent_id": "ExhibitElement_246",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=77,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=364713...",
+      "text_length": 184,
+      "id": "ContentTextElement_395",
+      "parent_id": "SectionElement_240",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "FIRE ALARM\n \nA.                                    General\n \n1.              ...",
+      "text_length": 524,
+      "id": "ContentTextElement_396",
+      "parent_id": "SectionElement_240",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=78,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=88012,...",
+      "text_length": 183,
+      "id": "ContentTextElement_397",
+      "parent_id": "SectionElement_240",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Mechanical, Electrical, Plumbing and Fire Protection\n \nBasis of Design\n \nRUBU...",
+      "text_length": 265,
+      "id": "ContentTextElement_398",
+      "parent_id": "SectionElement_240",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=79,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=959211...",
+      "text_length": 184,
+      "id": "ContentTextElement_399",
+      "parent_id": "SectionElement_240",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "FIRE PROTECTION\n \nA.                                    System Description:\n ...",
+      "text_length": 1393,
+      "id": "ContentTextElement_400",
+      "parent_id": "SectionElement_240",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=80,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=452598...",
+      "text_length": 184,
+      "id": "ContentTextElement_401",
+      "parent_id": "SectionElement_240",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "B.                                    Existing Core and Shell Services:\n \n1. ...",
+      "text_length": 1768,
+      "id": "ContentTextElement_402",
+      "parent_id": "SectionElement_240",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=81,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=576939...",
+      "text_length": 184,
+      "id": "ContentTextElement_403",
+      "parent_id": "SectionElement_240",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=82,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=102553...",
+      "text_length": 185,
+      "id": "ContentTextElement_404",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "·                  Bio-Safety Cabinet\n·                  Lighting\n \nHolding R...",
+      "text_length": 1212,
+      "id": "ContentTextElement_405",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=83,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=953236...",
+      "text_length": 184,
+      "id": "ContentTextElement_406",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Scope of Work  \n\n\n   \n\n\n    \n \n\n\n\nRubius Therapeutics \n\nProject # TBD  \n\n\n399...",
+      "text_length": 2455,
+      "id": "ContentTextElement_407",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=84,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=799084...",
+      "text_length": 184,
+      "id": "ContentTextElement_408",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "3.              Fire Protection\n·                  Existing sprinkler mains t...",
+      "text_length": 3294,
+      "id": "ContentTextElement_409",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=85,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=369205...",
+      "text_length": 184,
+      "id": "ContentTextElement_410",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "·                  Office portion general exhaust shall have an open end duct...",
+      "text_length": 1569,
+      "id": "ContentTextElement_411",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=86,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=783132...",
+      "text_length": 184,
+      "id": "ContentTextElement_412",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=87,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=240367...",
+      "text_length": 184,
+      "id": "ContentTextElement_413",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=88,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=256483...",
+      "text_length": 184,
+      "id": "ContentTextElement_414",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=89,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=933919...",
+      "text_length": 184,
+      "id": "ContentTextElement_415",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=90,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=613514...",
+      "text_length": 184,
+      "id": "ContentTextElement_416",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=91,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=859125...",
+      "text_length": 184,
+      "id": "ContentTextElement_417",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=92,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=254114...",
+      "text_length": 184,
+      "id": "ContentTextElement_418",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=93,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=363575...",
+      "text_length": 184,
+      "id": "ContentTextElement_419",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=94,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=165934...",
+      "text_length": 184,
+      "id": "ContentTextElement_420",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=95,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=238231...",
+      "text_length": 184,
+      "id": "ContentTextElement_421",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=96,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=884956...",
+      "text_length": 184,
+      "id": "ContentTextElement_422",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=97,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=8135,F...",
+      "text_length": 182,
+      "id": "ContentTextElement_423",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=98,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=237038...",
+      "text_length": 184,
+      "id": "ContentTextElement_424",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 2956,
+      "id": "ContentTextElement_425",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=99,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=641256...",
+      "text_length": 184,
+      "id": "ContentTextElement_426",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 323,
+      "id": "ContentTextElement_427",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=100,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=36078...",
+      "text_length": 185,
+      "id": "ContentTextElement_428",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=101,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=59464...",
+      "text_length": 184,
+      "id": "ContentTextElement_429",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4136,
+      "id": "ContentTextElement_430",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=102,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=10073...",
+      "text_length": 186,
+      "id": "ContentTextElement_431",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3098,
+      "id": "ContentTextElement_432",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=103,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=25958...",
+      "text_length": 185,
+      "id": "ContentTextElement_433",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3778,
+      "id": "ContentTextElement_434",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=104,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=33657...",
+      "text_length": 185,
+      "id": "ContentTextElement_435",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3604,
+      "id": "ContentTextElement_436",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=105,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=65417...",
+      "text_length": 185,
+      "id": "ContentTextElement_437",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4046,
+      "id": "ContentTextElement_438",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=106,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=98353...",
+      "text_length": 185,
+      "id": "ContentTextElement_439",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3226,
+      "id": "ContentTextElement_440",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=107,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=80986...",
+      "text_length": 185,
+      "id": "ContentTextElement_441",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3390,
+      "id": "ContentTextElement_442",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=108,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=21442...",
+      "text_length": 185,
+      "id": "ContentTextElement_443",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3495,
+      "id": "ContentTextElement_444",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=109,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=29428...",
+      "text_length": 185,
+      "id": "ContentTextElement_445",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1020,
+      "id": "ContentTextElement_446",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=110,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=75788...",
+      "text_length": 185,
+      "id": "ContentTextElement_447",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1005,
+      "id": "ContentTextElement_448",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=111,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=71261...",
+      "text_length": 184,
+      "id": "ContentTextElement_449",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1867,
+      "id": "ContentTextElement_450",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=112,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=99205...",
+      "text_length": 185,
+      "id": "ContentTextElement_451",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 512,
+      "id": "ContentTextElement_452",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=113,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=93720...",
+      "text_length": 185,
+      "id": "ContentTextElement_453",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 273,
+      "id": "ContentTextElement_454",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=114,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=67570...",
+      "text_length": 185,
+      "id": "ContentTextElement_455",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_456",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=115,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=87101...",
+      "text_length": 185,
+      "id": "ContentTextElement_457",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_458",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=116,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=55817...",
+      "text_length": 185,
+      "id": "ContentTextElement_459",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 214,
+      "id": "ContentTextElement_460",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=117,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=18018...",
+      "text_length": 185,
+      "id": "ContentTextElement_461",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 254,
+      "id": "ContentTextElement_462",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=118,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=13866...",
+      "text_length": 185,
+      "id": "ContentTextElement_463",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 2922,
+      "id": "ContentTextElement_464",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=119,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=42483...",
+      "text_length": 185,
+      "id": "ContentTextElement_465",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 2945,
+      "id": "ContentTextElement_466",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=120,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=51119...",
+      "text_length": 185,
+      "id": "ContentTextElement_467",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3219,
+      "id": "ContentTextElement_468",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=121,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=23158...",
+      "text_length": 185,
+      "id": "ContentTextElement_469",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 581,
+      "id": "ContentTextElement_470",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=122,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=49001...",
+      "text_length": 185,
+      "id": "ContentTextElement_471",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=123,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=53164...",
+      "text_length": 185,
+      "id": "ContentTextElement_472",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 261,
+      "id": "ContentTextElement_473",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=124,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=76470...",
+      "text_length": 185,
+      "id": "ContentTextElement_474",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=125,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=83835...",
+      "text_length": 184,
+      "id": "ContentTextElement_475",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 255,
+      "id": "ContentTextElement_476",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=126,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=26748...",
+      "text_length": 185,
+      "id": "ContentTextElement_477",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3873,
+      "id": "ContentTextElement_478",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=127,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=90530...",
+      "text_length": 185,
+      "id": "ContentTextElement_479",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3803,
+      "id": "ContentTextElement_480",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=128,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=77944...",
+      "text_length": 185,
+      "id": "ContentTextElement_481",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 2327,
+      "id": "ContentTextElement_482",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=129,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=39768...",
+      "text_length": 185,
+      "id": "ContentTextElement_483",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1682,
+      "id": "ContentTextElement_484",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=130,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=40206...",
+      "text_length": 185,
+      "id": "ContentTextElement_485",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1947,
+      "id": "ContentTextElement_486",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=131,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=41987...",
+      "text_length": 184,
+      "id": "ContentTextElement_487",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3662,
+      "id": "ContentTextElement_488",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=132,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=81581...",
+      "text_length": 184,
+      "id": "ContentTextElement_489",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 1712,
+      "id": "ContentTextElement_490",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=133,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=68092...",
+      "text_length": 184,
+      "id": "ContentTextElement_491",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 268,
+      "id": "ContentTextElement_492",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=134,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=23168...",
+      "text_length": 184,
+      "id": "ContentTextElement_493",
+      "parent_id": "SectionElement_241",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=135,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=31204...",
+      "text_length": 184,
+      "id": "ContentTextElement_494",
+      "parent_id": "ExhibitElement_247",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=136,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=37270...",
+      "text_length": 184,
+      "id": "ContentTextElement_495",
+      "parent_id": "ExhibitElement_247",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 258,
+      "id": "ContentTextElement_496",
+      "parent_id": "ExhibitElement_247",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "ZEQ.=1,SEQ=137,EFW=\"2236053\",CP=\"RUBIUS THERAPEUTICS, INC.\",DN=\"12\",CHK=25273...",
+      "text_length": 183,
+      "id": "ContentTextElement_497",
+      "parent_id": "ExhibitElement_247",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ExhibitElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5128,
+      "id": "ExhibitElement_244",
+      "parent_id": null,
+      "level": 1,
+      "children_count": 51,
+      "exhibit_id": "Exhibit E",
+      "normalized_id": "exhibit_e"
+    },
+    {
+      "class_name": "ExhibitElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 5028,
+      "id": "ExhibitElement_245",
+      "parent_id": null,
+      "level": 1,
+      "children_count": 11,
+      "exhibit_id": "Schedule 2",
+      "normalized_id": "exhibit_2"
+    },
+    {
+      "class_name": "ExhibitElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 4492,
+      "id": "ExhibitElement_246",
+      "parent_id": null,
+      "level": 1,
+      "children_count": 33,
+      "exhibit_id": "Schedule 8",
+      "normalized_id": "exhibit_8"
+    },
+    {
+      "class_name": "ExhibitElement",
+      "text": "***Text Omitted and Filed Separately with the Securities and Exchange Commiss...",
+      "text_length": 3530,
+      "id": "ExhibitElement_247",
+      "parent_id": null,
+      "level": 1,
+      "children_count": 4,
+      "exhibit_id": "Exhibit 1",
+      "normalized_id": "exhibit_1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1.                    Office spaces shall be served by four pipe fan coil uni...",
+      "text_length": 2632,
+      "id": "SectionElement_240",
+      "parent_id": "ExhibitElement_246",
+      "level": 2,
+      "children_count": 9,
+      "section_number": "1",
+      "section_title": "Office spaces shall be served by four pipe fan coil units...",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.                    RODI water will be used since these are Animal Labs. Wi...",
+      "text_length": 2381,
+      "id": "SectionElement_241",
+      "parent_id": "ExhibitElement_246",
+      "level": 2,
+      "children_count": 90,
+      "section_number": "3",
+      "section_title": "RODI water will be used since these are Animal Labs. With...",
+      "normalized_id": "3"
+    }
+  ]
+}

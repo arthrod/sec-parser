@@ -1,0 +1,125 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_11.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 205
+🔗 Cross-References: 138
+📋 Title: FORWARD PURCHASE AGREEMENT
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 18
+  paragraph           : 41
+  party               : 1
+  section             : 27
+  signature           : 17
+  subsection          : 63
+  table               : 37
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 38
+  Document Self Ref   : 62
+  Exhibit Ref         : 13
+  Legal Ref           : 2
+  Positional Ref      : 6
+  Section Ref         : 17
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.8
+   ⚠️  Confidence: 0.80
+
+[TITLE] FORWARD PURCHASE AGREEMENT
+   ⚠️  Confidence: 0.80
+
+[PARTY] This Forward Purchase Agreement (this “ Agreement ”) is entered into as of May 1...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Recitals
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the Company was formed for the purpose of effecting a merger, capital s...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the Company intends to file with the U.S. Securities and Exchange Commi...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, following the closing of the IPO (the “ IPO Closing ”), the Company wil...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the parties wish to enter into this Agreement, pursuant to which immedi...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, the Company’s Class B common stock, par value $0.0001 per share (the “ ...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, in connection with the IPO, the Sponsor will purchase an aggregate of 6...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, proceeds from the IPO and the sale of the Private Placement Warrants in...
+   ⚠️  Confidence: 0.80
+
+[METADATA] NOW, THEREFORE, in consideration of the premises, representations, warranties an...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] NOW, THEREFORE, in consideration of the premises, representations, warranties an...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Agreement
+   ⚠️  Confidence: 0.80
+
+[TABLE] Sale and Purchase.
+   ⚠️  Confidence: 0.80
+
+... and 34 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (38 references):
+   • "herein" → herein (confidence: 0.80)
+   • "hereunder" → hereunder (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   ... and 33 more document ref references
+
+📌 Document Self Ref (62 references):
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "This Agreement" → This Agreement (confidence: 0.80)
+   ... and 57 more document self ref references
+
+📌 Exhibit Ref (13 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "Exhibit A" → A (confidence: 0.80)
+   • "Schedule A" → A (confidence: 0.80)
+   • "SCHEDULE A" → A (confidence: 0.80)
+   • "SCHEDULE O" → O (confidence: 0.80)
+   ... and 8 more exhibit ref references
+
+📌 Legal Ref (2 references):
+   • "pursuant to Section 1" → 1 (confidence: 0.80)
+   • "pursuant to Section 5" → 5 (confidence: 0.80)
+
+📌 Positional Ref (6 references):
+   • "below" → below (confidence: 0.80)
+   • "foregoing" → foregoing (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+   • "ABOVE" → ABOVE (confidence: 0.80)
+   ... and 1 more positional ref references
+
+📌 Section Ref (17 references):
+   • "Section 1" → 1 (confidence: 0.80)
+   • "clause 1" → 1 (confidence: 0.80)
+   • "Section 1" → 1 (confidence: 0.80)
+   • "Section 2" → 2 (confidence: 0.80)
+   • "Section 5" → 5 (confidence: 0.80)
+   ... and 12 more section ref references
+
+====================================================================================================

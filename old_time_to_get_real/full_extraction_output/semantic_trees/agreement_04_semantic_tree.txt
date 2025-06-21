@@ -1,0 +1,97 @@
+AGREEMENT 04 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_04.html
+Total Elements: 61
+Hierarchical Elements: 54
+Status: ✅ EXCELLENT
+
+Title: CONSULTING AGREEMENT
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ClauseElement: 8
+  ContentTextElement: 8
+  DefinitionElement: 1
+  HeadingElement: 6
+  PartyElement: 1
+  RecitalElement: 3
+  SectionElement: 26
+  TextElement: 7
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: CONSULTING AGREEMENT
+  ├─ Heading: ***SIGNATURE PAGE FOLLOWS***
+  ├─ Heading: SIGNATURE PAGE
+    ├─ Heading: Services:
+      ├─ ContentText: Consultant shall provide
+senior management advisory services
+    ├─ Heading: Compensation:
+      ├─ ContentText: Upon or shortly following
+commencement of Consultant's Servi
+    ├─ Heading: The Shares shall vest upon the earlier
+of:
+      ├─ Definition: "Bridge Financing"
+        ├─ ContentText: Consultant understands
+that that the receipt of the Shares h
+      ├─ Clause: (1)
+      ├─ Clause: (2)
+      ├─ Clause: (3)
+      ├─ Clause: (4)
+    ├─ Heading: Term:
+      ├─ ContentText: Consultant commenced providing Services to the Company on Ap
+    ├─ ContentText: IN WITNESS WHEREOF, the parties hereto
+have executed this Co
+    ├─ ContentText: CONSULTANT:
+
+ 
+ 
+
+ 
+MARK L. BAUM
+
+ 
+ 
+
+ 
+By:
+/s/ Mark L. Bau
+  ├─ Party: Inc.
+  ├─ Recital: WHEREAS, the Company wishes to retain Consultant
+as an advis
+  ├─ Recital: WHEREAS, Consultant wishes to provide advisory
+services to t
+  ├─ Recital: NOW THEREFORE, in
+consideration of the mutual promises conta
+  ├─ Section: 1
+    ├─ Section: 1.1
+  ├─ Section: 2
+    ├─ Section: 2.1
+    ├─ Section: 2.2
+  ├─ Section: 3
+    ├─ Section: 3.1
+    ├─ Section: 3.2
+  ├─ Section: 4
+    ├─ Section: 4.1
+    ├─ Section: 4.2
+    ├─ Section: 4.3
+    ├─ Section: 4.4
+    ├─ Section: 4.5
+    ├─ Section: 4.6
+    ├─ Clause: (a)
+    ├─ Clause: (b)
+      ├─ ContentText: (c)is or becomes a part of the public domain other than by a
+    ├─ Clause: (d)
+    ├─ Clause: (e)
+    ├─ Section: 4.7
+    ├─ Section: 4.8
+    ├─ Section: 4.9
+    ├─ Section: 4.10
+    ├─ ContentText: Field: Page; Sequence: 1; Options: NewSection; Value: 1
+  ├─ Section: 5
+  ├─ Section: 6
+  ├─ Section: 7
+  ├─ Section: 8
+  ├─ Section: 9
+  ├─ Section: 10
+  ├─ Section: 11

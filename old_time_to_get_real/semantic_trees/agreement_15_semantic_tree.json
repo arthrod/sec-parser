@@ -1,0 +1,3814 @@
+{
+  "metadata": {
+    "source_file": "html_files/agreement_15.html",
+    "parsed_at": "2025-06-14T01:21:05.503364",
+    "parser_version": "simple_parser_v1",
+    "file_size": 295679
+  },
+  "elements": [
+    {
+      "type": "title",
+      "content": "",
+      "level": 0,
+      "id": "title_0"
+    },
+    {
+      "type": "paragraph",
+      "content": "Exhibit 10.1",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_0",
+      "attributes": {
+        "style": "TEXT-ALIGN: right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "MASTER SERVICE AGREEMENT AND",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_4",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.75pt; FONT-WEIGHT: bold; COLOR: #0f0f0f; TEXT-ALIGN: center; MARGIN-LEFT: 151.3pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 147.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LICENSE AGREEMENT",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_5",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; FONT-WEIGHT: bold; COLOR: #0f0f0f; TEXT-ALIGN: center; MARGIN-LEFT: 150.7pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 147.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "THIS AGREEMENT is made and enteredintoas of January 15, 2016, by and between Las Vegas Railway Express,Inc.,a Delaware corporation withitsprincipal offices at 9480 SouthEasternAve., Suite 205,LasVegas, NV 89123(\"LVRE\"or\"Licensor\")and X RailEnterprises.Inc. a Wyoming corporation(\"XREE\"or\"Licensee\").Whereby, thereafter LVRE and/or Licensor and XREE and/or Licensee are attimesreferred to collectively asthe\"Parties\".",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_8",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 8.4pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 5.45pt; TEXT-INDENT: 34.55pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, beginning on or about January16,2016 LVREintendsto have XREE be licensed to exclusively operate various components oftheLVRE charter business (\"Service\");and",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_10",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 8.4pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.45pt; TEXT-INDENT: 33.6pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS,LVRE has established various services and has engaged other companies orindividualsto provide ancillary services in conjunction with providing said Service, including but not limited to,foodand beverage service, ground transportation andlodgingservices; and",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_12",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 7.9pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.8pt; TEXT-INDENT: 34.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS,LVREhasnegotiatedor enteredintocertain contingent agreements to procure andleaseall required railcarstosupport aninitialoperation betweenLasVegas,NevadaandLosAngeles. California.(\"LVREEquipment\"); and",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_14",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 7.4pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.3pt; TEXT-INDENT: 34.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS,LVREhasenteredintodiscussions and/or agreements with National Railroad Passenger Corporation aka Amtrak (\"Host Railroad\") in ordertoobtain access to their  raillines foroperation of the Service where required;and",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_16",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 6.95pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.15pt; TEXT-INDENT: 34.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS,LVRE represents that it has obtained all necessaryinsuranceto support Service; and",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_18",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 6.45pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 9pt; TEXT-INDENT: 34.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, LVRE requests certain services to beprovidedby XREE to support LVRE's mobilization and operation of the Service,as further describedinSection 3 below(\"MobilizationServices\"),andLVRE isprepared tolicenseand compensate XREE for such services;and",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_20",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 6.45pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 8.65pt; TEXT-INDENT: 33.6pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS,XREE shall betheoperating railroad for the Service and the trains shall beconsidered\"XREE trains\"; and",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_22",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 5.5pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 8.8pt; TEXT-INDENT: 34.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS. itistheobjective of bothPartiesto ensure the provision of safe efficient and a reliable Service in accordance with the terms and conditions of this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_24",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 5.5pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 9.35pt; TEXT-INDENT: 33.6pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "NOW THEREFORE, in consideration ofthemutual promises and undertakings and of the compensation set forth herein the Parties hereto agree as follows:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_26",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 5pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 9.8pt; TEXT-INDENT: 34.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "1.Definitions",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_28",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "1.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_29",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 5.5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Definitions",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_30",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)·'Lessee and Lessor\"shall have the meaning set forthinthe first paragraph of this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_32",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_33",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #333333; TEXT-ALIGN: left; MARGIN-LEFT: 38.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "·'Lessee and Lessor\"shall have the meaning set forthinthe first paragraph of this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_34",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)\"Mobilization Services\"shall mean those services described in Section 3 of this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_36",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_37",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #333333; TEXT-ALIGN: left; MARGIN-LEFT: 38.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"Mobilization Services\"shall mean those services described in Section 3 of this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_38",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 1 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_39",
+      "attributes": {
+        "id": "DSPFPageFooter"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 1 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_41",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 1 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_42",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)\"Host Railroad\"National Railroad Passenger Corporation (AMTRAK).",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_46",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_47",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.75pt; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 41pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"Host Railroad\"National Railroad Passenger Corporation (AMTRAK).",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_48",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.75pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(d)\"LVRE\"shall have the meaning set forth in the first paragraph ofthisAgreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_50",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(d)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_51",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 41.45pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"LVRE\"shall have the meaning set forth in the first paragraph ofthisAgreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_52",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(e)\"LVRE Equipment\"shall mean the rolling stock used in the operation of Service,includingall different classes of passenger cars (which mayinclude business, corporate cars), all of which is listedinExhibit A hereto.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_54",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(e)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_55",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 41pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"LVRE Equipment\"shall mean the rolling stock used in the operation of Service,includingall different classes of passenger cars (which mayinclude business, corporate cars), all of which is listedinExhibit A hereto.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_56",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(f)\"FELA\"shall mean theFederalEmployers Liability Act. 45 U.S.C. §51,et seq.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_58",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(f)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_59",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 41pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"FELA\"shall mean theFederalEmployers Liability Act. 45 U.S.C. §51,et seq.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_60",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(g)\"FRA\"shall mean theFederalRailroad Administration.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_62",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(g)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_63",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 40.5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"FRA\"shall mean theFederalRailroad Administration.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_64",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(h)\"Mobilization Schedule\"shall mean that schedule set forth in Exhibit B.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_66",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(h)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_67",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 40.5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"Mobilization Schedule\"shall mean that schedule set forth in Exhibit B.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_68",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)\"Party\"shall mean either XREE or LVRE.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_70",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_71",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #3d3d3d; TEXT-ALIGN: left; MARGIN-LEFT: 40.5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"Party\"shall mean either XREE or LVRE.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_72",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(j)\"Parties\"shall mean XREE and LVRE collectively.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_73",
+      "attributes": {
+        "style": "MARGIN-TOP: 0.5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(j)\"Parties\"shall mean XREE and LVRE collectively.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_75",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(j)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_76",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #3d3d3d; TEXT-ALIGN: left; MARGIN-LEFT: 40.5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"Parties\"shall mean XREE and LVRE collectively.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_77",
+      "attributes": {
+        "style": "margin-top: 0.05pt; text-align: justify; line-height: 1.25; font-size: 10pt; font-family: 'Times New Roman', Times, serif; color: #2f2f2f;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(k)\"Qualified\"shall mean that a person has satisfied all legallyrequiredtraining and certification requirements fora position and possesses the background,skills and experience necessary to fulfill the duties of ajobto which that person is assignedinthe Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_79",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(k)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_80",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 40pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"Qualified\"shall mean that a person has satisfied all legallyrequiredtraining and certification requirements fora position and possesses the background,skills and experience necessary to fulfill the duties of ajobto which that person is assignedinthe Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_81",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(I)\"T&ECrew\"shall mean one (1)locomotiveengineer and one(1)conductor provided by Amtrak for operation of Service trainsif the scheduled operatingtimefrom the departure at the initial station of Los Angeles, Ca.to the arrival at the final stationofLas Vegas,NV(orvice versa).",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_83",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(I)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_84",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; MARGIN-LEFT: 39.55pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "\"T&ECrew\"shall mean one (1)locomotiveengineer and one(1)conductor provided by Amtrak for operation of Service trainsif the scheduled operatingtimefrom the departure at the initial station of Los Angeles, Ca.to the arrival at the final stationofLas Vegas,NV(orvice versa).",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_85",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.Grant ofLicense",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_87",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "2.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_88",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 5.45pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Grant ofLicense",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_89",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.1TheIntellectualPropertyRights under the Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_91",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "2.1",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_92",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 39.05pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "TheIntellectualPropertyRights under the Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_93",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Underthe terms and conditions hereinafter set forth,the LVRE hereby grants to XREE and XREE accepts from LVRE, an exclusivelicense,to use parts of or all oftheIntellectual Property Rights under the Agreement,inXREE's operations.WithoutLVRE's consent,XREE shallnot,bylicense,assignment orinany other manner,permit a third party to usethe IntellectualProperty Rights under the Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_95",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 38.1pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.9pt; TEXT-INDENT: 0.95pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.2Scope",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_97",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "2.2",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_98",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 38.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Scope",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_99",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #1f1f1f; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.2.1XREE shall only use theIntellectualProperty Rightsunder theAgreementin its ownnormal businessoperations.Without LVRE's consent,XREE shallnotuse theIntellectual PropertyRightsunderthe Agreement for any other purpose or when providing servicestoany third party.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_101",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "2.2.1",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_102",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 38.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall only use theIntellectualProperty Rightsunder theAgreementin its ownnormal businessoperations.Without LVRE's consent,XREE shallnotuse theIntellectual PropertyRightsunderthe Agreement for any other purpose or when providing servicestoany third party.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_103",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25; TEXT-INDENT: 34.15pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.2.2The License in thisAgreementis effective in the United StatesofAmericaterritorywhere LVRE hasgrantedXREE a specific territory (\"Licensed Territory\").XREE agrees thatit willnotmake, or authorize,any direct or indirectuseof the IntellectualPropertyRights undertheAgreement in any regions other than theLicensedTerritory.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_105",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "2.2.2",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_106",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; MARGIN-LEFT: 37.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The License in thisAgreementis effective in the United StatesofAmericaterritorywhere LVRE hasgrantedXREE a specific territory (\"Licensed Territory\").XREE agrees thatit willnotmake, or authorize,any direct or indirectuseof the IntellectualPropertyRights undertheAgreement in any regions other than theLicensedTerritory.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_107",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25; TEXT-INDENT: 34.1pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 2 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_108",
+      "attributes": {
+        "id": "DSPFPageFooter"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 2 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_110",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 2 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_111",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.3XREE's confirmation",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_115",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "2.3",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_116",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.75pt; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 39.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE's confirmation",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_117",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.75pt; COLOR: #232323; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE confirmsthat itdoes nothaveany rights,titlesor interests of theIntellectual PropertyRights undertheAgreement except the rights, titles andinterestsprovided for under this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_119",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 39.55pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 5.5pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.4Prohibitions",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_121",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "2.4",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_122",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 39.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Prohibitions",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_123",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE undertakes that, at any time either during or aftertheTerm it shall not:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_125",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 39.55pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.4.1commit any act which affectsthe rightsof LVREin relationto any of theIntellectualProperty Rights UndertheAgreement; or",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_127",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "2.4.1",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_128",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; MARGIN-LEFT: 39.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "commit any act which affectsthe rightsof LVREin relationto any of theIntellectualProperty Rights UndertheAgreement; or",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_129",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; LINE-HEIGHT: 1.25; TEXT-INDENT: 33.6pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.4.2apply fortheregistration of any of theIntellectualProperty Rights undertheAgreement or any similarintellectualpropertyrightin any country or region in the world.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_131",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "2.4.2",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_132",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 39.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "apply fortheregistration of any of theIntellectualProperty Rights undertheAgreement or any similarintellectualpropertyrightin any country or region in the world.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_133",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 1.25; TEXT-INDENT: 34.1pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "3.XREE Services to be provided andresponsibilitiesundertaken",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_135",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "3.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_136",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 5.5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE Services to be provided andresponsibilitiesundertaken",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_137",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall providethefollowing Services in support ofLVRE'smobilization and operation of Service:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_139",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; MARGIN-LEFT: 39.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)CoordinateTrainandEngineCrews.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_141",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_142",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 39.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "CoordinateTrainandEngineCrews.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_143",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall coordinate with Amtrak a T&E Crewforeach scheduled train of the Service and will adhere to federal service laws.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_145",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 72.7pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.35pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)Mobilization Services.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_147",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_148",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #3a3a3a; TEXT-ALIGN: left; MARGIN-LEFT: 39.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Mobilization Services.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_149",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #232323; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shallprovidethe following mobilization services in accordance with the Mobilization Schedule setforthinExhibitB.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_151",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 72.7pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.35pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)Managerial Control",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_153",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_154",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3a3a3a; TEXT-ALIGN: left; MARGIN-LEFT: 38.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Managerial Control",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_155",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "In theperformance of its obligationsunder thisAgreement, XREE is not an employee of LVRE but rather alicensee.Alloperating and other personnel of XREE involved in any aspect of providing the Services shall be employees of XREE, and shall be subject to the direction,supervision, and control of XREE.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_157",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 72.2pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 5.7pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(d)Conduct of Employees",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_159",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(d)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_160",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3a3a3a; TEXT-ALIGN: left; MARGIN-LEFT: 38.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Conduct of Employees",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_161",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "All XREE employees who are engagedinthe provision of the Services for LVRE shall be Qualified, and shall perform their dutiesina courteous, efficient and safe manner.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_163",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 72.2pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.45pt; TEXT-INDENT: -0.5pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(e)Control of Alcohol andDrug Use",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_165",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(e)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_166",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #3a3a3a; TEXT-ALIGN: left; MARGIN-LEFT: 38.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Control of Alcohol andDrug Use",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_167",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE will beresponsiblefor compliancewith FRAregulations relating tothecontrol of drug and alcohol testingrequiredin49C.F.R. Part219with respect to its T&E Crews.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_169",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 71.75pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.1pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 3 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_170",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 3 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_171",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "4.Obligations ofLVRE",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_175",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "4.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_176",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.65pt; FONT-WEIGHT: bold; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Obligations ofLVRE",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_177",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.65pt; FONT-WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)Equipment for Operation of Service",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_179",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_180",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 39.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Equipment for Operation of Service",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_181",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)LVRE shall be solelyresponsible for the provision of the LVRE Equipment for the Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_183",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_184",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 72.7pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVRE shall be solelyresponsible for the provision of the LVRE Equipment for the Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_185",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)Throughout the term of this Agreement, LVRE shall be solely responsible for:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_187",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_188",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 72.7pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Throughout the term of this Agreement, LVRE shall be solely responsible for:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_189",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "a.Complying with FRA and Amtrak Standard Maintenance Proceduresin order to assure that the passenger coaches to be used in Service willcomply with private car mechanical standards, including compliance with the requirement that the passenger coaches have a current PC-1 annual inspection and PC-5 clearanceinspection.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_191",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "a.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_192",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 106.3pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Complying with FRA and Amtrak Standard Maintenance Proceduresin order to assure that the passenger coaches to be used in Service willcomply with private car mechanical standards, including compliance with the requirement that the passenger coaches have a current PC-1 annual inspection and PC-5 clearanceinspection.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_193",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "b.Obtaining any required FRA approvals of the LVRE Equipment to be used in Service,and for the performance of all FRA inspections (except for the \"set and release test\"and the\"running brake test\" which will be performed by the T&E Crew),test trains, and completion of operating, maintenance and safety plans,including but notlimited to,those requirements mandated by 49 CFR Parts 223,229,238 and 239.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_195",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "b.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_196",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 106.3pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Obtaining any required FRA approvals of the LVRE Equipment to be used in Service,and for the performance of all FRA inspections (except for the \"set and release test\"and the\"running brake test\" which will be performed by the T&E Crew),test trains, and completion of operating, maintenance and safety plans,including but notlimited to,those requirements mandated by 49 CFR Parts 223,229,238 and 239.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_197",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "c.Inspecting and maintaining the LVRE Equipment incompliance with allapplicable federal, state and locallaws,rules and regulations,including,but not limited to, the Americans with Disabilities Act.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_199",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "c.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_200",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; MARGIN-LEFT: 105.35pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Inspecting and maintaining the LVRE Equipment incompliance with allapplicable federal, state and locallaws,rules and regulations,including,but not limited to, the Americans with Disabilities Act.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_201",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "d.LVRE Equipment familiarity, inspection and maintenance training in compliance with all applicable federal,state orlocal laws,rules and regulations,including emergency evacuation training,of all personnel assigned to the Service,including,as applicable,the Amtrak T&E Crews.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_203",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "d.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_204",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; MARGIN-LEFT: 105.35pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVRE Equipment familiarity, inspection and maintenance training in compliance with all applicable federal,state orlocal laws,rules and regulations,including emergency evacuation training,of all personnel assigned to the Service,including,as applicable,the Amtrak T&E Crews.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_205",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(iii)In the event an applicable federal,state or locallaw or regulationis enacted or promulgated after the effective date of this Agreement that requires modifications or upgrades to the LVRE Equipment,LVRE shall be solely responsible for complying with such requirements.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_207",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(iii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_208",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 71.25pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "In the event an applicable federal,state or locallaw or regulationis enacted or promulgated after the effective date of this Agreement that requires modifications or upgrades to the LVRE Equipment,LVRE shall be solely responsible for complying with such requirements.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_209",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(iv)XREE and LVRE shall each have the unilateral right to remove from service any unit of LVRE Equipment for safety-related defects.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_211",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(iv)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_212",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 70.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE and LVRE shall each have the unilateral right to remove from service any unit of LVRE Equipment for safety-related defects.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_213",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)Train Personnel Other than T&E Crews",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_215",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_216",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3b3b3b; TEXT-ALIGN: left; MARGIN-LEFT: 37.2pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Train Personnel Other than T&E Crews",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_217",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)XREE shall be solely responsible for providing qualified train personnel other than the T&E Crews.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_219",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_220",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #3b3b3b; TEXT-ALIGN: left; MARGIN-LEFT: 70.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall be solely responsible for providing qualified train personnel other than the T&E Crews.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_221",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)XREE shall be solely responsible for baggage handling,passenger announcements,passengerboarding and detraining,and deployment of ADAramps and stairs as may be required at all stations served by Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_223",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_224",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 70.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall be solely responsible for baggage handling,passenger announcements,passengerboarding and detraining,and deployment of ADAramps and stairs as may be required at all stations served by Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_225",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 4 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_226",
+      "attributes": {
+        "id": "DSPFPageFooter"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 4 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_228",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 4 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_229",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)Train Movements Other Than Scheduled Movements",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_233",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_234",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.75pt; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 29.65pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Train Movements Other Than Scheduled Movements",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_235",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.75pt; COLOR: #212121; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall be solely responsible for all train movements (e.g.,to and from train servicing facilities) other than the regularly scheduled Service described in ExhibitC.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_237",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 63.75pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.2pt; TEXT-INDENT: -0.5pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(d)Maintenance of Equipment",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_239",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(d)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_240",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 30.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Maintenance of Equipment",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_241",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall be solely responsible for all maintenance services relating to the LVRE Equipment used in the Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_243",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 64.2pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.55pt; TEXT-INDENT: -0.5pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)XREE shall retain all records and reports concerning inspection,maintenance and cleaning of the LVRE Equipment for a period of three (3) years following termination of this Agreement (except for those records that may require longer retention periods for regulatory compliance, in which case LVRE shall retain such records in accordance with such regulatory requirements) and shall make those available upon request.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_245",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_246",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 63.75pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall retain all records and reports concerning inspection,maintenance and cleaning of the LVRE Equipment for a period of three (3) years following termination of this Agreement (except for those records that may require longer retention periods for regulatory compliance, in which case LVRE shall retain such records in accordance with such regulatory requirements) and shall make those available upon request.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_247",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)XREE shall ensure that all personnel assigned to the maintenance function are Qualified.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_249",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_250",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 64.2pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall ensure that all personnel assigned to the maintenance function are Qualified.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_251",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(iii)XREE shall assure that all LVRE Equipment operated on trains in Serviceis maintained in a safe and reliable condition,that such LVRE Equipment complies at all times with Standard Maintenance Procedures and all applicable FRA, Association of American Railroads, and accepted industry standards,and that any LVRE Equipment not compliant with these standards will not be used in Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_253",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(iii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_254",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 64.2pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall assure that all LVRE Equipment operated on trains in Serviceis maintained in a safe and reliable condition,that such LVRE Equipment complies at all times with Standard Maintenance Procedures and all applicable FRA, Association of American Railroads, and accepted industry standards,and that any LVRE Equipment not compliant with these standards will not be used in Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_255",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(e)Storage of Equipment",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_257",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(e)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_258",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 30.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Storage of Equipment",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_259",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #212121; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)XREE shall be solely responsible for providing safe storage of the LVRE Equipment (including ADA ramps and stairs) when not in use in Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_261",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_262",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 64.2pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall be solely responsible for providing safe storage of the LVRE Equipment (including ADA ramps and stairs) when not in use in Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_263",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)LVRE shall be solely responsible for securing the LVRE Equipment (including ADA ramps and stairs) when not in use in Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_265",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_266",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 64.2pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVRE shall be solely responsible for securing the LVRE Equipment (including ADA ramps and stairs) when not in use in Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_267",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #212121; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(f)Coordination with Host Railroad",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_269",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(f)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_270",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 30.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Coordination with Host Railroad",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_271",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #212121; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall be responsible for obtaining access arrangements with the Host Railroad if necessary for the performance of Service,other than for those arrangements to be provided by LVRE as specifically set forth above.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_273",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 64.2pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.15pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(g)Provision of Food and Beverage Service",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_275",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(g)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_276",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #212121; TEXT-ALIGN: left; MARGIN-LEFT: 30.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Provision of Food and Beverage Service",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_277",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #212121; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall be solely responsible for the provision of food and beverage (alcoholic and non-alcoholic) on the Service.XREE shall comply with all applicable federal,state or local laws,rules or regulations relating to the provision of food and beverage service on the Service.It is understood that Amtrak T&E Crews shall have access to the food and non-alcoholic beverage service provided by XREE at the sameprices suchfoodandnon-alcoholicbeverage products are offeredtoService passengers;provided,however, that complimentary coffee,teaand bottled water shall beprovidedto T&E Crews.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_279",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 64.2pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.15pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 5 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_280",
+      "attributes": {
+        "id": "DSPFPageFooter"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 5 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_282",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 5 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_283",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(h)Substitute Service",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_287",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(h)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_288",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 39.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Substitute Service",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_289",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall be solely responsibleforproviding andoperatingany substitute services (e.g.,buses) in the event that the Service does not,forany reason, operate.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_291",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 72.75pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 8.65pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)Stations and/or Infrastructure Improvements",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_293",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_294",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #383838; TEXT-ALIGN: left; MARGIN-LEFT: 39.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Stations and/or Infrastructure Improvements",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_295",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVRE shall be solely responsibleforaccess to and management of station facilities.Further, prior to commencement of Service,LVREshall provide XREE with a Certificate of Occupancy for any new stations tobeutilized forService. To the extent required for performance of Service,LVRE,its contractors and subcontractors shallperforminfrastructure and/or stationimprovementsin accordance with all applicablefederal,state and local laws, rules,regulationsand requirements,including,but notlimitedto, the AmericanswithDisabilities Act of 1990,unlessapplicable rules orrequirementsare waived by the appropriate entity.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_297",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 73.2pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.15pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "5.Schedule of Service Operations",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_299",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "5.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_300",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 5.55pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Schedule of Service Operations",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_301",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #131313; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)Theinitialschedulesforthe operation oftheService are attached hereto as Exhibit",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_303",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_304",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 39.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Theinitialschedulesforthe operation oftheService are attached hereto as Exhibit",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_305",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "D.Inthe event of anychangeintheschedule of trainstobe operated by Amtrak T&E Crews pursuantto thisAgreement,LVREshall advise XREEnolater thanthirty",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_306",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 73.2pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.15pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(30) days prior to the schedule changeinordertopermit XREE to comply with applicable collective bargaining agreementsinchanging work schedules of its T&E Crews.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_307",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 73.2pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "6.Risk of Liability",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_309",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "6.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_310",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 5.55pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Risk of Liability",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_311",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #131313; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)LVRE agrees to defend, indemnify and holdharmlessXREE,includingtheirrespective officers, agents,employees, and subsidiaries and other third parties to the extent XREE is obligatedtoindemnify orholdharmless such third parties,irrespectiveof negligence or faultof LVRE.orsuchthirdparties, for all damage or liability for personalinjuryordeathto any person, or damagetoany property (including property ofLVREandlossof use or revenue)whichwouldnothave been incurred but for theexistenceof Service; provided, however, thatLVREshall have noresponsibility to indemnifyXREE for XREE's liability under the Employers'LiabilityAct(FELA) for injury or death to LVRE employees engaged directly in the operation of Service.Therisk of injury or death and of FELA claims by such XREE employees is assumed by LVRE and LVRE agreestodefend, indemnify and holdharmlessXREE against anyFELA claimswithrespectto injury or death of such employees to the extent suchclaimsare notcoveredby LVRE's railroadliability insurancecoverage.Compensation for such riskisincludedintheamounts and rates agreed upon by the Parties in this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_313",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_314",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 39.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVRE agrees to defend, indemnify and holdharmlessXREE,includingtheirrespective officers, agents,employees, and subsidiaries and other third parties to the extent XREE is obligatedtoindemnify orholdharmless such third parties,irrespectiveof negligence or faultof LVRE.orsuchthirdparties, for all damage or liability for personalinjuryordeathto any person, or damagetoany property (including property ofLVREandlossof use or revenue)whichwouldnothave been incurred but for theexistenceof Service; provided, however, thatLVREshall have noresponsibility to indemnifyXREE for XREE's liability under the Employers'LiabilityAct(FELA) for injury or death to LVRE employees engaged directly in the operation of Service.Therisk of injury or death and of FELA claims by such XREE employees is assumed by LVRE and LVRE agreestodefend, indemnify and holdharmlessXREE against anyFELA claimswithrespectto injury or death of such employees to the extent suchclaimsare notcoveredby LVRE's railroadliability insurancecoverage.Compensation for such riskisincludedintheamounts and rates agreed upon by the Parties in this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_315",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)Where claims are made against XREE and LVREarisingout of the same incident,theParties shall cooperate fully and shall make all of theinvestigativeand claimsinformation availabletoeach other. Any claim forindemnification by XREE orLVREshall not be made a part of any litigation brought by a third party arising out of any claim against XREE and/orLVRE. Ifa dispute arises concerning the scope of XREE's or LVRE'sindemnityobligations pursuant to this Section 6,such dispute shall be resolved separately pursuant to Section11of this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_317",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_318",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 40.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Where claims are made against XREE and LVREarisingout of the same incident,theParties shall cooperate fully and shall make all of theinvestigativeand claimsinformation availabletoeach other. Any claim forindemnification by XREE orLVREshall not be made a part of any litigation brought by a third party arising out of any claim against XREE and/orLVRE. Ifa dispute arises concerning the scope of XREE's or LVRE'sindemnityobligations pursuant to this Section 6,such dispute shall be resolved separately pursuant to Section11of this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_319",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 6 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_320",
+      "attributes": {
+        "id": "DSPFPageFooter"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 6 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_322",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 6 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_323",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)LVRE agrees to defend, indemnify and hold harmless XREEincluding theirrespective officers, agents, employees, and subsidiaries and otherthirdparties to the extent XREEisobligatedto indemnifyor hold harmless such third parties,irrespective of negligence or fault ofLVRE,any third parties, from and against any action,suit or other proceeding basedupona claim that the Service infringesany patent,copyright,royalty,trademark or service mark or other third party proprietaryright,or involves the wrongful use of any trade secret or confidentialinformation.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_327",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_328",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 38.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVRE agrees to defend, indemnify and hold harmless XREEincluding theirrespective officers, agents, employees, and subsidiaries and otherthirdparties to the extent XREEisobligatedto indemnifyor hold harmless such third parties,irrespective of negligence or fault ofLVRE,any third parties, from and against any action,suit or other proceeding basedupona claim that the Service infringesany patent,copyright,royalty,trademark or service mark or other third party proprietaryright,or involves the wrongful use of any trade secret or confidentialinformation.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_329",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(d)Neither Party shall beliable tothe other Party, whether by way ofindemnity or restitutionorincontract or in tort(includingnegligence). for anyindirector consequentiallossor damagesorlossofrevenue,loss of profit, loss ofuse,lossofproduction, or loss of contract.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_331",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(d)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_332",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 38.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Neither Party shall beliable tothe other Party, whether by way ofindemnity or restitutionorincontract or in tort(includingnegligence). for anyindirector consequentiallossor damagesorlossofrevenue,loss of profit, loss ofuse,lossofproduction, or loss of contract.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_333",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(e)The indemnityprovisions set forth above shall survive termination of this Agreementforanyreason.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_335",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(e)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_336",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 39.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The indemnityprovisions set forth above shall survive termination of this Agreementforanyreason.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_337",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "7.InsuranceandPayment",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_339",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "7.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_340",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 5.5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "InsuranceandPayment",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_341",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)LiabilityInsurance",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_343",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_344",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 39.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LiabilityInsurance",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_345",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVRE shallprocureand maintain fortheduration of this Agreementrailroadliabilityinsurance,with combined single limits for bodilyinjury and property damage of not less than$4,000,000per occurrence, with respective namedinsuredson a primary basis.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_347",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 73.15pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.2pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)Property Insurance",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_349",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_350",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 39.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Property Insurance",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_351",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #1f1f1f; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Throughout the term ofthisAgreement,LVRE shall procure andmaintain for thedurationof thisAgreement,propertyinsurancecovering the LVRE Equipment against all risks of physical damage usuallycoveredinarailroad propertyinsurancepolicy. Such insurance shall carrylimitssufficient to cover the scheduledvalueof all LVRE property usedinthe Service. XREE shall benamed as an additionalinsuredas respectsitsinterest inLVRE's propertyinXREE'scare,custody,and control and LVRE shall waive andcauseits propertyinsurers towaive all rights of",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_353",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 73.65pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 5.55pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "subrogation against XREE.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_354",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 1.35pt; COLOR: #1f1f1f; TEXT-ALIGN: justify; MARGIN-LEFT: 74.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)LVREshall procure and maintain for the duration of this Agreementworkers'compensationinsurancein compliance with applicable statutory requirement and Employer's Liability Coverage intheamount of $2,000,000peroccurrence.Suchinsuranceshall contain a waiver of subrogationinfavor of XREE.LVREshall provide satisfactory proof thatithas taken out fortheperiod covered bythisAgreement full compensation insurance for all persons employed directly by LVREtocarryoutthe work contemplatedunderthis Agreementall inaccordancewithapplicable laws,rulesandregulations.Further,LVRE shall require all subcontractors toobtain and maintain,for the durationofthis Agreement, workers'compensationof the sametypeandlimits asspecifiedherein.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_356",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_357",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2f2f2f; TEXT-ALIGN: left; MARGIN-LEFT: 40.55pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVREshall procure and maintain for the duration of this Agreementworkers'compensationinsurancein compliance with applicable statutory requirement and Employer's Liability Coverage intheamount of $2,000,000peroccurrence.Suchinsuranceshall contain a waiver of subrogationinfavor of XREE.LVREshall provide satisfactory proof thatithas taken out fortheperiod covered bythisAgreement full compensation insurance for all persons employed directly by LVREtocarryoutthe work contemplatedunderthis Agreementall inaccordancewithapplicable laws,rulesandregulations.Further,LVRE shall require all subcontractors toobtain and maintain,for the durationofthis Agreement, workers'compensationof the sametypeandlimits asspecifiedherein.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_358",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 7 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_363",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 7 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_364",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "8.Compensation",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_367",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "8.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_368",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #494949; TEXT-ALIGN: left; MARGIN-LEFT: 6.4pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Compensation",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_369",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #262626; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVREshall license XREE.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_371",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 39.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)PaymenttoLVRE.Inconsideration forthe rights and licenses granted byLVRE to XREE under this AgreementXREEshallpayto LVREanon-refundable,creditable fee inthesumof $1,000 due andpayablenolaterthan7businessdays after the executionofsaid Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_373",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_374",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #494949; TEXT-ALIGN: left; MARGIN-LEFT: 39.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "PaymenttoLVRE.Inconsideration forthe rights and licenses granted byLVRE to XREE under this AgreementXREEshallpayto LVREanon-refundable,creditable fee inthesumof $1,000 due andpayablenolaterthan7businessdays after the executionofsaid Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_375",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE shall pay Royalties.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_377",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 38.85pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)RoyaltiestoLVRE.XREE shallpayLVRE royalties based oneachtrain runfromLas Vegasto LosAngeles roundtrip.Saidroyalties shall beasumequal to5%of theoperatingincome from the train operations whichshallbe calculatedprecorporateoverhead.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_379",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_380",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636; TEXT-ALIGN: left; MARGIN-LEFT: 38.85pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "RoyaltiestoLVRE.XREE shallpayLVRE royalties based oneachtrain runfromLas Vegasto LosAngeles roundtrip.Saidroyalties shall beasumequal to5%of theoperatingincome from the train operations whichshallbe calculatedprecorporateoverhead.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_381",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "9.DisruptionofService",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_383",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "9.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_384",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #494949; TEXT-ALIGN: left; MARGIN-LEFT: 5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "DisruptionofService",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_385",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Inthe event of disruption oftheServiceduetoaForce Majeure event as definedin Section12.LVRE'sobligationto compensate XREEforcharges during the periodof timethatthe cessation of the Service occurs shall be modified as provided in this Section.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_387",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 38.4pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.65pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVRE shallbe obligatedtopay anydirectcosts plusall applicableoverheadsandmanagementfeethatareattributable to theService which is incurred during the period of disruption.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_389",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 37.95pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.75pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "10.TermandTermination",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_391",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "10.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_392",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #494949; TEXT-ALIGN: left; MARGIN-LEFT: 5pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "TermandTermination",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_393",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)The term ofthis Agreement shall be from January 15, 2016 through January14,2046.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_395",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_396",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #363636; TEXT-ALIGN: left; MARGIN-LEFT: 37.95pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The term ofthis Agreement shall be from January 15, 2016 through January14,2046.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_397",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25; TEXT-INDENT: 33.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)Incaseof a materialbreachby either Party of itsobligationspursuanttothisAgreement, and unless the Partyinbreachremediessuchnon-compliance withinten (10) days of receiptofa written noticefromthenon-breaching Party,theotherParty mayimmediatelyterminate this Agreement. No delay or omission by aPartyin theexercise of anyrighttoterminate this Agreementortosubmit anissuefor resolutionasprovidedin Section11willimpairanysuchpowerorremedy,norwillitalter or affect therights ofeitherParty.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_399",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_400",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #494949; TEXT-ALIGN: left; MARGIN-LEFT: 37.45pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Incaseof a materialbreachby either Party of itsobligationspursuanttothisAgreement, and unless the Partyinbreachremediessuchnon-compliance withinten (10) days of receiptofa written noticefromthenon-breaching Party,theotherParty mayimmediatelyterminate this Agreement. No delay or omission by aPartyin theexercise of anyrighttoterminate this Agreementortosubmit anissuefor resolutionasprovidedin Section11willimpairanysuchpowerorremedy,norwillitalter or affect therights ofeitherParty.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_401",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)Uponterminationof this Agreement,all rights andobligations of thePartieshereunderwillterminate except as otherwisestated herein and except forrightsand obligations,whetherdetermined,contingentorotherwise,whicharoseprior toorasaresultofsuchtermination.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_404",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_405",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 37.45pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Uponterminationof this Agreement,all rights andobligations of thePartieshereunderwillterminate except as otherwisestated herein and except forrightsand obligations,whetherdetermined,contingentorotherwise,whicharoseprior toorasaresultofsuchtermination.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_406",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 8 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_407",
+      "attributes": {
+        "id": "DSPFPageFooter"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 8 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_409",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 8 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_410",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "11.Dispute Resolution",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_414",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "11.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_415",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.75pt; FONT-WEIGHT: bold; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 5.05pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Dispute Resolution",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_416",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 3.75pt; FONT-WEIGHT: bold; COLOR: #1f1f1f; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)In the event of a dispute by the Parties over any issue arising under or related to this Agreement. either Party may proceed with binding arbitrationinthe following manner:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_418",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_419",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 38.2pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "In the event of a dispute by the Parties over any issue arising under or related to this Agreement. either Party may proceed with binding arbitrationinthe following manner:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_420",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)The Party wishing to initiate arbitration shall notify the otherinwriting of its desire to submit the matter to arbitration. Such notice shall contain a statement of the issues and shall designate one arbitrator.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_422",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_423",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #313131; TEXT-ALIGN: left; MARGIN-LEFT: 72.25pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The Party wishing to initiate arbitration shall notify the otherinwriting of its desire to submit the matter to arbitration. Such notice shall contain a statement of the issues and shall designate one arbitrator.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_424",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)Within fifteen(15)days of such notice, the other Party shall respond in writing by designating a second arbitrator.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_426",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_427",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #313131; TEXT-ALIGN: left; MARGIN-LEFT: 72.25pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Within fifteen(15)days of such notice, the other Party shall respond in writing by designating a second arbitrator.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_428",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(iii)Within fifteen (15) days of designation of the second arbitrator, thetwoarbitrators designated as aforesaid shall appoint a third arbitrator to serve as chairman.Ifthetwo arbitrators so designated failtoappoint a third arbitrator within the time provided herein, or if a Party fails to appointanarbitrator within the time provided for herein, eitherPartymay request the Chief Judge of the United States District Court for thedistrictin which the said Party's principal officeis locatedto appoint anadditional    arbitrator.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_430",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(iii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_431",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #313131; TEXT-ALIGN: left; MARGIN-LEFT: 72.25pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Within fifteen (15) days of designation of the second arbitrator, thetwoarbitrators designated as aforesaid shall appoint a third arbitrator to serve as chairman.Ifthetwo arbitrators so designated failtoappoint a third arbitrator within the time provided herein, or if a Party fails to appointanarbitrator within the time provided for herein, eitherPartymay request the Chief Judge of the United States District Court for thedistrictin which the said Party's principal officeis locatedto appoint anadditional    arbitrator.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_432",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(iv)The arbitrators shall promptly hear and decide the issues submitted tothemin accordance withtherules for commercial arbitration of the American Arbitration Association, givingtoboth Parties reasonable notice ofthetime and place of hearing.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_434",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(iv)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_435",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #313131; TEXT-ALIGN: left; MARGIN-LEFT: 71.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The arbitrators shall promptly hear and decide the issues submitted tothemin accordance withtherules for commercial arbitration of the American Arbitration Association, givingtoboth Parties reasonable notice ofthetime and place of hearing.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_436",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(v)Thearbitrators,oramajorityof them, shall promptly rendertheirdecision and award in writing to the Parties.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_438",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(v)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_439",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #313131; TEXT-ALIGN: left; MARGIN-LEFT: 72.25pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Thearbitrators,oramajorityof them, shall promptly rendertheirdecision and award in writing to the Parties.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_440",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(vi)Any arbitration award rendered hereunder shallbefinal and binding upon the Parties. Judgment upon any sucharbitrationaward may be enteredinany United States District Courthavingjurisdiction over the Parties.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_442",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(vi)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_443",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #313131; TEXT-ALIGN: left; MARGIN-LEFT: 71.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Any arbitration award rendered hereunder shallbefinal and binding upon the Parties. Judgment upon any sucharbitrationaward may be enteredinany United States District Courthavingjurisdiction over the Parties.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_444",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(vii)Each Party shall bear its own costs and expenses of arbitration including thecostof any expenses of the arbitrator designated by orforit. Thefeesofthe chairmanand any otherremainingexpensesofthe arbitrators shall be borneequallyby the Parties.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_446",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(vii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_447",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #313131; TEXT-ALIGN: left; MARGIN-LEFT: 71.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Each Party shall bear its own costs and expenses of arbitration including thecostof any expenses of the arbitrator designated by orforit. Thefeesofthe chairmanand any otherremainingexpensesofthe arbitrators shall be borneequallyby the Parties.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_448",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(viii)ThePartiesagree thateveryreasonable effort shall be madetoobtainthepromptresolutionof disputes which are submitted to arbitrationpursuantto this Agreement. The Partiesfurtherspecifically agree thatneitherParty shall be entitledtodelay the arbitration process significantly byinsistingon the application of extensive procedural steps orotheractionswhichcannot clearly be expected toimprove theability of the arbitratorstorenderaprompt, reasonable and fair decisionand agreefurtherthat reasonable discovery requests shall notbebarred bytheforegoing.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_450",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(viii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_451",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #313131; TEXT-ALIGN: left; MARGIN-LEFT: 71.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "ThePartiesagree thateveryreasonable effort shall be madetoobtainthepromptresolutionof disputes which are submitted to arbitrationpursuantto this Agreement. The Partiesfurtherspecifically agree thatneitherParty shall be entitledtodelay the arbitration process significantly byinsistingon the application of extensive procedural steps orotheractionswhichcannot clearly be expected toimprove theability of the arbitratorstorenderaprompt, reasonable and fair decisionand agreefurtherthat reasonable discovery requests shall notbebarred bytheforegoing.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_452",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)Inthe event of a dispute arising under or relatedto an invoiceor request seekingpaymentof  anykindunder  this  Agreement  the  Party disputingthatamountshalltimely pay any undisputed amount of theinvoiceor requested fee, charge or cost.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_454",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_455",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #313131; TEXT-ALIGN: left; MARGIN-LEFT: 37.7pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Inthe event of a dispute arising under or relatedto an invoiceor request seekingpaymentof  anykindunder  this  Agreement  the  Party disputingthatamountshalltimely pay any undisputed amount of theinvoiceor requested fee, charge or cost.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_456",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 9 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_457",
+      "attributes": {
+        "id": "DSPFPageFooter"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 9 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_459",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 9 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_460",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)In the event of such a dispute onlythe disputed portion of the invoice and/orrequest forpayment shall be subject to the dispute resolution process under this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_464",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(i)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_465",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3a3a3a; TEXT-ALIGN: left; MARGIN-LEFT: 74.3pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "In the event of such a dispute onlythe disputed portion of the invoice and/orrequest forpayment shall be subject to the dispute resolution process under this Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_466",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)The Partydisputingan amountsetforthinaninvoiceshall not berequiredto pay thedisputedamount pending resolution of the process describedinthis Section; however, the undisputed amount shall be paidinaccordancewith theordinary payment terms ofthisAgreement.Paymentof or receipt oftheundisputed amount maynotbe construed to be any admission by either Partyregardingany matter arising from the disputed amount. Further, payment of or receipt of the undisputed amount does not preclude recovery of any or the entire amount paidifit is subsequently determined that a dispute exists as to the paid portion.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_468",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(ii)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_469",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 73.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The Partydisputingan amountsetforthinaninvoiceshall not berequiredto pay thedisputedamount pending resolution of the process describedinthis Section; however, the undisputed amount shall be paidinaccordancewith theordinary payment terms ofthisAgreement.Paymentof or receipt oftheundisputed amount maynotbe construed to be any admission by either Partyregardingany matter arising from the disputed amount. Further, payment of or receipt of the undisputed amount does not preclude recovery of any or the entire amount paidifit is subsequently determined that a dispute exists as to the paid portion.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_470",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)Pending resolution of a dispute as setforthunder this Section 11, the Parties shall proceed diligently with the performance of this Agreementinaccordance withitsterms.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_472",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_473",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 39.75pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Pending resolution of a dispute as setforthunder this Section 11, the Parties shall proceed diligently with the performance of this Agreementinaccordance withitsterms.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_474",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "12.Force Majeure",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_476",
+      "attributes": {
+        "style": "TEXT-ALIGN: left; MARGIN-LEFT: 6.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "XREE will be excused from performance of any ofitsobligations hereunder, where such non-performanceisoccasioned by any event beyond its control which shall include, withoutlimitation,any order, rule, or regulation of any federal, state, orlocalgovernment body,agent or instrumentality,work stoppage, accident, natural disaster or severe weather.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_478",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 38.8pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 5.25pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "13.Compliance with Laws",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_480",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "13.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_481",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 5.65pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Compliance with Laws",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_482",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #131313; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LVRE represents and warrants that:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_484",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: justify; MARGIN-LEFT: 39.25pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)Itisqualifiedto dobusinessintheStates of Delaware and Nevada and thatitwill take such actionas,from timetotime hereafter, may be necessaryto remainso qualified;",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_486",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(a)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_487",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: left; MARGIN-LEFT: 38.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Itisqualifiedto dobusinessintheStates of Delaware and Nevada and thatitwill take such actionas,from timetotime hereafter, may be necessaryto remainso qualified;",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_488",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)It shall comply with all federal, state andlocal laws regulations and ordinances applicabletoitsactivities and obligations under this Agreement and for operation of the Service; and",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_490",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(b)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_491",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 38.8pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "It shall comply with all federal, state andlocal laws regulations and ordinances applicabletoitsactivities and obligations under this Agreement and for operation of the Service; and",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_492",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)It shallobtain,atitsexpense,alllicenses,permits,insurance,and governmental approvals, if any, necessary to the performance of its obligations under this Agreement and for operation of the Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_494",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "(c)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_495",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 38.3pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "It shallobtain,atitsexpense,alllicenses,permits,insurance,and governmental approvals, if any, necessary to the performance of its obligations under this Agreement and for operation of the Service.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_496",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "14.Notices",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_499",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "14.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_500",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #131313; TEXT-ALIGN: left; MARGIN-LEFT: 5.2pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Notices",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_501",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #131313; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Any request, demand, authorization,direction,notice,consent, waiver or other document provided or permitted by thisAgreementto be made upon, given or furnished to,or filed with onePartyby the other Party will be in writing and willbedelivered by hand or bedeposited in the mails of theUnitedStates, postage prepaid addressed as follows:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_503",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 37.35pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.5pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 10 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_504",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 10 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_505",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Ifto XREE:X Rail Enterprises, Inc. 3651 LindellRoad,0482 Las Vegas, NV 89103 Attention: WayneBailey",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_508",
+      "attributes": {
+        "style": "TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "X Rail Enterprises, Inc. 3651 LindellRoad,0482 Las Vegas, NV 89103 Attention: WayneBailey",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_509",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "If toLVRE:LasVegas RailwayExpress,Inc.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_512",
+      "attributes": {
+        "style": "MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 39.7pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "9480 South Eastern AvenueLasVegas, Nevada 89123Attention:Michael A. Barron",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_513",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 140.5pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 164.75pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "EitherPartymay change the address bynotifying theother Party of such change.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_515",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 39.2pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "15.ConfidentialInformation",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_517",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "15.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_518",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 6.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "ConfidentialInformation",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_519",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "This Agreement,and the documents and information disclosed by or on behalf of either Partytothe other Party in connection with this Agreement shall constitute\"ConfidentialInformation\" as defined in, and subject to the terms and conditions of,the Non-Disclosure Agreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_521",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 38.75pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.25pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "16.Assignment",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_523",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "16.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_524",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #232323; TEXT-ALIGN: left; MARGIN-LEFT: 6.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Assignment",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_525",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #131313; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "This Agreement may not be assigned by XREE or LVRE without the express written consent of the other Party.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_527",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 38.75pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.55pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "17.Severability",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_529",
+      "attributes": {
+        "style": "TEXT-ALIGN: left; MARGIN-LEFT: 6.1pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Ifany term, covenant, condition,or provision (or part thereof) of this Agreement or the applicationthereofto any person or circumstance shall,atany time or to any extent, beinvalidor unenforceable,theremainder ofthisAgreement or the application of such term or provision(orremainderthereof)toterm, covenant, condition, and provision of this Agreement will be valid and enforced tothe fullestextent permitted by law unless the term,covenant, condition, or provision or part thereof declaredinvalidor unenforceable is so fundamental to the Agreement that the remainder of the Agreement,standing alone doesnotrepresent a meeting of the minds of the Parties.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_531",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 38.75pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 5.75pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "18.Governing Law",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_533",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "18.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_534",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 5.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Governing Law",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_535",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #131313; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "This Agreement and therightsand obligations ofthe Partieshereto shall be governed by and construed in accordance with the laws of the Nevada.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_537",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-TOP: 0.05pt; TEXT-ALIGN: justify; MARGIN-LEFT: 38.75pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.95pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "19.Amendments",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_540",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "19.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_541",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 5.6pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Amendments",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_542",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #131313; TEXT-ALIGN: left; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "This Agreement may be amended only upon the mutual written agreement of the Parties hereto.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_544",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #232323; TEXT-ALIGN: justify; MARGIN-LEFT: 38.75pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 7.35pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 11 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_545",
+      "attributes": {
+        "id": "DSPFPageFooter"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 11 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_547",
+      "attributes": {
+        "id": "DSPFPageBreakArea",
+        "style": "MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 11 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_548",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "20.EntireAgreement",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_552",
+      "attributes": {
+        "style": "MARGIN-TOP: 3.6pt; TEXT-ALIGN: left; MARGIN-LEFT: 5.65pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "No oral statement or prior written matter will have any force or effect.ThePartieshereby acknowledgethat they are notrelyingon any representations or agreementsotherthanthose containedin thisAgreement.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_554",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify; MARGIN-LEFT: 39.75pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 5.15pt; TEXT-INDENT: 0.45pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "IN  WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their respective duly authorized representatives.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_556",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 6.15pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 6.15pt; TEXT-INDENT: 34.05pt"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "X RailEnterprises,Inc.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_559",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 209.65pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "By: /s/Wayne Bailey",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_563",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 210.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Name:WayneBailey",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_564",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 210.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Title:President",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_565",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 209.65pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "LAS VEGAS RAILWAY EXPRESS, INC.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_571",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 210.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "By: /s/Michael Barron",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_574",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 210.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Name: Michael A. Barron",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_575",
+      "attributes": {
+        "style": "FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #1f1f1f; TEXT-ALIGN: left; MARGIN-LEFT: 210.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Title:CEO and President",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_576",
+      "attributes": {
+        "style": "TEXT-ALIGN: left; MARGIN-LEFT: 210.15pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 12 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_581",
+      "attributes": {
+        "style": "MARGIN-TOP: 0.2pt; LINE-HEIGHT: 1.25"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Page 12 of 16",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_582",
+      "attributes": {
+        "id": "DSPFPageNumberArea",
+        "style": "TEXT-ALIGN: center"
+      }
+    }
+  ],
+  "cross_references": [
+    {
+      "source_id": "paragraph_0",
+      "target_ref": "10",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit 10",
+      "position": 0
+    },
+    {
+      "source_id": "paragraph_20",
+      "target_ref": "3",
+      "type": "section_ref",
+      "text_span": "Section 3",
+      "position": 143
+    },
+    {
+      "source_id": "paragraph_36",
+      "target_ref": "3",
+      "type": "section_ref",
+      "text_span": "Section 3",
+      "position": 65
+    },
+    {
+      "source_id": "paragraph_38",
+      "target_ref": "3",
+      "type": "section_ref",
+      "text_span": "Section 3",
+      "position": 62
+    },
+    {
+      "source_id": "paragraph_66",
+      "target_ref": "s",
+      "type": "exhibit_ref",
+      "text_span": "schedule s",
+      "position": 42
+    },
+    {
+      "source_id": "paragraph_66",
+      "target_ref": "B",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit B",
+      "position": 64
+    },
+    {
+      "source_id": "paragraph_68",
+      "target_ref": "s",
+      "type": "exhibit_ref",
+      "text_span": "schedule s",
+      "position": 39
+    },
+    {
+      "source_id": "paragraph_68",
+      "target_ref": "B",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit B",
+      "position": 61
+    },
+    {
+      "source_id": "paragraph_151",
+      "target_ref": "s",
+      "type": "exhibit_ref",
+      "text_span": "Schedule s",
+      "position": 89
+    },
+    {
+      "source_id": "paragraph_299",
+      "target_ref": "o",
+      "type": "exhibit_ref",
+      "text_span": "Schedule o",
+      "position": 2
+    },
+    {
+      "source_id": "paragraph_301",
+      "target_ref": "o",
+      "type": "exhibit_ref",
+      "text_span": "Schedule o",
+      "position": 0
+    },
+    {
+      "source_id": "paragraph_307",
+      "target_ref": "c",
+      "type": "exhibit_ref",
+      "text_span": "schedule c",
+      "position": 23
+    },
+    {
+      "source_id": "paragraph_317",
+      "target_ref": "6",
+      "type": "section_ref",
+      "text_span": "Section 6",
+      "position": 452
+    },
+    {
+      "source_id": "paragraph_319",
+      "target_ref": "6",
+      "type": "section_ref",
+      "text_span": "Section 6",
+      "position": 449
+    },
+    {
+      "source_id": "paragraph_472",
+      "target_ref": "11",
+      "type": "section_ref",
+      "text_span": "Section 11",
+      "position": 57
+    },
+    {
+      "source_id": "paragraph_474",
+      "target_ref": "11",
+      "type": "section_ref",
+      "text_span": "Section 11",
+      "position": 54
+    }
+  ],
+  "statistics": {
+    "total_elements": 385,
+    "element_types": {
+      "title": 1,
+      "paragraph": 384
+    },
+    "total_cross_references": 16,
+    "reference_types": {
+      "exhibit_ref": 9,
+      "section_ref": 7
+    },
+    "content_length": 295679
+  }
+}

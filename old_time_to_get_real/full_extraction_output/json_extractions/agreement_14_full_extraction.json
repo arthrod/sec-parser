@@ -1,0 +1,424 @@
+{
+  "agreement_info": {
+    "number": 14,
+    "filename": "agreement_14.html",
+    "total_elements": 38,
+    "element_types": {
+      "TextElement": 4,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 3,
+      "ContentTextElement": 15,
+      "HeadingElement": 6,
+      "PartyElement": 1,
+      "RecitalElement": 2,
+      "SectionElement": 6
+    }
+  },
+  "elements": [
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "[Remainder of page intentionally left blank.]"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "as Administrative Agent"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "COMERICA BANK, as a LenderBy:/s/ Anita ChanName: Anita ChanTitle: Relationship Manager HSBC BANK USA, NATIONAL ASSOCIATION, as a LenderBy:/s/ Kathryn E. Benjamin Name: Kathryn E. Benjamin Title: Vice President BANK OF AMERICA, N.A., as a LenderBy:/s/ Janet PalantoneName: Janet Palantone Title: Senior Vice-President COMPASS BANK, as a LenderBy:/s/ James Cigman Name: James Cigman Title: Senior Vice President FIFTH THIRD BANK, as a LenderBy:/s/ Brian Anderson Name: Brian Anderson Title: Vice President"
+    },
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "By:/s/ Conan SchleicherName: Conan SchleicherTitle: Senior Vice President BANK OF THE WEST, as a LenderBy:/s/ David G. KronenName: David G. Kronen Title: Director BRANCH BANKING AND TRUST COMPANY, as a LenderBy:/s/ Sarah Bryson Name: Sarah Bryson Title: Senior Vice President RABOBANK, NATIONAL ASSOCIATION, as a LenderBy:/s/ Paul Visueta Name: Paul Visueta Title: Senior Vice President SUMITOMO MITSUI BANKING CORPORATION, as a LenderBy:/s/ James D. Weinstein Name: James D. Weinstein Title: Managing Director MUFG UNION BANK, N.A., as a LenderBy:/s/ Elizabeth WillisName: Elizabeth WillisTitle: Vice President ZB, N.A. dba CALIFORNIA BANK & TRUST, as a LenderBy:/s/ Brian KnappName: Brian KnappTitle: Senior Vice President WELLS FARGO BANK, N.A., as a LenderBy:/s/ Carl Martin Noren Name: Carl Martin Noren Title: Vice President & Relationship Manager"
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "module": "agreement_parser_v6",
+      "text": "AMENDMENT NO. 2 TO CREDIT AGREEMENT",
+      "id": "AgreementTitleElement_1128",
+      "parent_id": null,
+      "children": [
+        "ContentTextElement_1147",
+        "RecitalElement_1138",
+        "RecitalElement_1139",
+        "SectionElement_1129",
+        "PartyElement_1140",
+        "SectionElement_1130",
+        "SectionElement_1131",
+        "SectionElement_1132",
+        "SectionElement_1133",
+        "SectionElement_1134",
+        "HeadingElement_1141",
+        "HeadingElement_1142",
+        "HeadingElement_1143",
+        "HeadingElement_1144",
+        "HeadingElement_1145",
+        "HeadingElement_1146"
+      ],
+      "level": 0,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "c.    The second sentence of the last paragraph of Section 5.01 of the Credit Agreement is hereby amended by inserting “, (c)” between “(b)” and “or” therein.",
+      "id": "ClauseElement_1135",
+      "parent_id": "PartyElement_1140",
+      "children": [
+        "ContentTextElement_1151",
+        "ContentTextElement_1152",
+        "ContentTextElement_1153",
+        "ContentTextElement_1154"
+      ],
+      "level": 3,
+      "clause_id": "(c)",
+      "clause_text": "The second sentence of the last paragraph of Section 5.01 of the Credit Agreement is hereby amended by inserting “, (c)” between “(b)” and “or” therein.",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "b.    all fees required to be paid to the Administrative Agent or any Lender and all expenses for which reasonably detailed invoices have been presented on or before the Amendment Effective Date shall have been paid.",
+      "id": "ClauseElement_1136",
+      "parent_id": "SectionElement_1130",
+      "children": [],
+      "level": 3,
+      "clause_id": "(b)",
+      "clause_text": "all fees required to be paid to the Administrative Agent or any Lender and all expenses for which reasonably detailed invoices have been presented on or before the Amendment Effective Date shall have been paid.",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "module": "agreement_parser_v6",
+      "text": "U.S. NATIONAL ASSOCIATION, as a Lender",
+      "id": "ClauseElement_1137",
+      "parent_id": "HeadingElement_1146",
+      "children": [],
+      "level": 4,
+      "clause_id": "(U)",
+      "normalized_id": "u"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "This Amendment No. 2 to Credit Agreement, dated as of October 3, 2016 (this “Amendment”) is entered into by and among Deckers Outdoor Corporation (the “Company”) and JPMorgan Chase Bank, N.A., as Administrative Agent with reference to the Second Amended and Restated Credit Agreement, dated as of November 13, 2014 (as amended, restated, extended, supplemented or otherwise modified in writing prior to the date hereof, the “Credit Agreement”), among the Company, the Designated Borrowers from time to time party thereto, the Lenders from time to time party thereto and the Administrative Agent.  Capitalized terms used in this Amendment and not otherwise defined herein are used with the meanings set forth for those terms in the Credit Agreement.",
+      "id": "ContentTextElement_1147",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "a.    Section 1.01 of the Credit Agreement is hereby amended by adding the following definition in the correct alphabetical order:",
+      "id": "ContentTextElement_1148",
+      "parent_id": "SectionElement_1129",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "b.    Section 5.01(c) of the Credit Agreement is hereby amended and restated in its entirety as follows:",
+      "id": "ContentTextElement_1149",
+      "parent_id": "PartyElement_1140",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "“(c)     within 90 days after the end of each fiscal year of the Company, and within 45 days after the end of each of the first three fiscal quarters of each fiscal year of the Company, a certificate (a “Compliance Certificate”) in substantially the form of Exhibit C of a Financial Officer of the Company (i) certifying as to whether a Default has occurred and, if a Default has occurred, specifying the details thereof and any action taken or proposed to be taken with respect thereto, (ii) setting forth reasonably detailed calculations demonstrating compliance with Section 6.10 and (iii) stating whether any change in GAAP or in the application thereof has occurred since the date of the audited financial statements referred to in Section 3.04 which has had an effect on such financial statements and, if any such change has occurred, specifying the effect of such change on the financial statements accompanying such certificate;”",
+      "id": "ContentTextElement_1150",
+      "parent_id": "PartyElement_1140",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "d.    Section 6.01(n) of the Credit Agreement is hereby amended and restated in its entirety as follows:",
+      "id": "ContentTextElement_1151",
+      "parent_id": "ClauseElement_1135",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "“(n)     unsecured Indebtedness of DBT, Deckers Shanghai, and/or Deckers Guangzhou in an aggregate outstanding amount not to exceed $50,000,000 at any time, and Guarantees by the Company or any Subsidiary of any such Indebtedness;”",
+      "id": "ContentTextElement_1152",
+      "parent_id": "ClauseElement_1135",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "e.    Section 6.04(e) of the Credit Agreement is hereby amended and restated in its entirety as follows:",
+      "id": "ContentTextElement_1153",
+      "parent_id": "ClauseElement_1135",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "“(n)     Guarantees constituting Indebtedness permitted by clauses (l), (n), (o) or (p) of Section 6.01;”",
+      "id": "ContentTextElement_1154",
+      "parent_id": "ClauseElement_1135",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "a.     counterparts of this Amendment duly executed by each Borrower, the Required Lenders and the Administrative Agent; and",
+      "id": "ContentTextElement_1155",
+      "parent_id": "SectionElement_1130",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the date first written above by their duly authorized representatives.",
+      "id": "ContentTextElement_1156",
+      "parent_id": "SectionElement_1134",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "By:/s/ Thomas A. GeorgeName: Thomas A. George Title: Chief Financial Officer",
+      "id": "ContentTextElement_1157",
+      "parent_id": "HeadingElement_1141",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "By:/s/ Alex Henderson Name: Alex Henderson Title: Director",
+      "id": "ContentTextElement_1158",
+      "parent_id": "HeadingElement_1142",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "By:/s/ Alex Henderson  Name: Alex Henderson Title: Director",
+      "id": "ContentTextElement_1159",
+      "parent_id": "HeadingElement_1143",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "By:/s/ Alex Henderson  Name: Alex Henderson Title: Director",
+      "id": "ContentTextElement_1160",
+      "parent_id": "HeadingElement_1144",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "By:/s/ Anna C. Araya Name:  Anna C. Araya  Title: Director",
+      "id": "ContentTextElement_1161",
+      "parent_id": "HeadingElement_1146",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "DECKERS OUTDOOR CORPORATION",
+      "id": "HeadingElement_1141",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [
+        "ContentTextElement_1157"
+      ],
+      "level": 1,
+      "heading_text": "DECKERS OUTDOOR CORPORATION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "DECKERS UK LIMITED",
+      "id": "HeadingElement_1142",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [
+        "ContentTextElement_1158"
+      ],
+      "level": 1,
+      "heading_text": "DECKERS UK LIMITED"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "DECKERS BENELUX B.V.",
+      "id": "HeadingElement_1143",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [
+        "ContentTextElement_1159"
+      ],
+      "level": 1,
+      "heading_text": "DECKERS BENELUX B.V."
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "DECKERS EUROPE LIMITED",
+      "id": "HeadingElement_1144",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [
+        "ContentTextElement_1160"
+      ],
+      "level": 1,
+      "heading_text": "DECKERS EUROPE LIMITED"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "ACKNOWLEDGED BY:",
+      "id": "HeadingElement_1145",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [],
+      "level": 1,
+      "heading_text": "ACKNOWLEDGED BY:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "module": "agreement_parser_v6",
+      "text": "JPMORGAN CHASE BANK, N.A.,",
+      "id": "HeadingElement_1146",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [
+        "ContentTextElement_1161",
+        "ClauseElement_1137"
+      ],
+      "level": 1,
+      "heading_text": "JPMORGAN CHASE BANK, N.A.,"
+    },
+    {
+      "class_name": "PartyElement",
+      "module": "agreement_parser_v6",
+      "text": "““Deckers Guangzhou” means Deckers Outdoor (Guangzhou) Consulting Co. Ltd., a wholly-owned Subsidiary of the Company organized under the laws of China.”",
+      "id": "PartyElement_1140",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [
+        "ContentTextElement_1149",
+        "ContentTextElement_1150",
+        "ClauseElement_1135"
+      ],
+      "level": 2,
+      "party_name": "Deckers Outdoor (Guangzhou) Consulting Co. Ltd.",
+      "party_type": "wholly-owned Subsidiary of the Company o",
+      "normalized_id": "party_deckers_outdoor__guangzhou__consulting_co__ltd_"
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, the Company, the Lenders party hereto and the Administrative Agent have agreed to amend the Credit Agreement as set forth herein in order to make certain changes to the  Agreement.",
+      "id": "RecitalElement_1138",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "NOW, THEREFORE, in consideration of the premises and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:",
+      "id": "RecitalElement_1139",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "1.Amendments.  Effective as of the date hereof and subject to the satisfaction of the conditions precedent set forth in Section 2 of this Amendment, the Credit Agreement is hereby amended as follows:",
+      "id": "SectionElement_1129",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [
+        "ContentTextElement_1148"
+      ],
+      "level": 2,
+      "section_number": "1",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "2.    Conditions Precedent.  This Amendment shall become effective on the date (the “Amendment Effective Date” that the Administrative Agent shall have received each of the following:",
+      "id": "SectionElement_1130",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [
+        "ContentTextElement_1155",
+        "ClauseElement_1136"
+      ],
+      "level": 2,
+      "section_number": "2",
+      "section_title": "Conditions Precedent.  This Amendment shall become effective on the date (the “Amendment Effective Date” that the Administrative Agent shall have received each of the following:",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "3.    Representations and Warranties.  Each Borrower represents and warrants to the Administrative Agent and the Lenders that (a) the representations and warranties contained in Article III of the Credit Agreement and in the other Loan Documents are true and correct in all material respects on and as of the date hereof (other than (i) such representations as are made as of a specific earlier date, in which case such representations and warranties are true and correct in all material respects as of such earlier date and (ii) such representations that are qualified by materiality or as to Material Adverse Effect in the text thereof, in which case such representations and warranties are true and correct in all respects), and (b) no Default now exists.",
+      "id": "SectionElement_1131",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [],
+      "level": 2,
+      "section_number": "3",
+      "section_title": "Representations and Warranties.  Each Borrower represents and warrants to the Administrative Agent and the Lenders that (a) the representations and warranties contained in Article III of the Credit Agreement and in the other Loan Documents are true and correct in all material respects on and as of the date hereof (other than (i) such representations as are made as of a specific earlier date, in which case such representations and warranties are true and correct in all material respects as of such earlier date and (ii) such representations that are qualified by materiality or as to Material Adverse Effect in the text thereof, in which case such representations and warranties are true and correct in all respects), and (b) no Default now exists.",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "4.    Confirmation. On and after the Amendment Effective Date, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein” or words of like import referring to the Credit Agreement, and each reference in the other Loan Documents to the “Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement shall mean and be a reference to the Credit Agreement, as amended by the Amendment.  In all other respects, the terms of the Credit Agreement and the other Loan Documents are hereby confirmed.",
+      "id": "SectionElement_1132",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [],
+      "level": 2,
+      "section_number": "4",
+      "section_title": "Confirmation. On and after the Amendment Effective Date, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein” or words of like import referring to the Credit Agreement, and each reference in the other Loan Documents to the “Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement shall mean and be a reference to the Credit Agreement, as amended by the Amendment.  In all other respects, the terms of the Credit Agreement and the other Loan Documents are hereby confirmed.",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "5.    Counterparts.  This Amendment may be executed in any number of counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument.",
+      "id": "SectionElement_1133",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [],
+      "level": 2,
+      "section_number": "5",
+      "section_title": "Counterparts.  This Amendment may be executed in any number of counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument.",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "module": "agreement_parser_v6",
+      "text": "6.    Governing Law.  THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.  In addition to and without limitation of any of the foregoing, this Amendment shall be deemed to be a Loan Document and shall otherwise be subject to all of the terms and conditions contained in Sections 9.09 and 9.10 of the Credit Agreement, as amended by the Amendment, mutatis mutandi.",
+      "id": "SectionElement_1134",
+      "parent_id": "AgreementTitleElement_1128",
+      "children": [
+        "ContentTextElement_1156"
+      ],
+      "level": 2,
+      "section_number": "6",
+      "section_title": "Governing Law.  THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.  In addition to and without limitation of any of the foregoing, this Amendment shall be deemed to be a Loan Document and shall otherwise be subject to all of the terms and conditions contained in Sections 9.09 and 9.10 of the Credit Agreement, as amended by the Amendment, mutatis mutandi.",
+      "normalized_id": "6"
+    }
+  ]
+}

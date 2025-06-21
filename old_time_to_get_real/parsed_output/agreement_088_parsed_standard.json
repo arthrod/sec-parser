@@ -1,0 +1,72 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TitleElement",
+    "text": "Exhibit 10.19  CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) IS THE TYPE THAT THE REGISTRANT TREATS AS PRIVATE OR CONFIDENTIAL.",
+    "level": 0
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "Second Amendment to Product Agreement",
+    "level": 1
+  },
+  {
+    "id": "element_0002",
+    "cls": "TitleElement",
+    "text": "between Patheon Pharmaceuticals Inc. and ACADIA Pharmaceuticals Inc.",
+    "level": 1
+  },
+  {
+    "id": "element_0003",
+    "cls": "TextElement",
+    "text": "This Second Amendment to Product Agreement (the “Amendment”), dated October 6, 2016 (the “Amendment Date”), is made by and between Patheon Pharmaceuticals Inc. (“Patheon”) and ACADIA Pharmaceuticals Inc. (“ACADIA”). WHEREAS, Patheon and ACADIA have entered into that certain Master Manufacturing Services Agreement, dated August 3, 2015 (the “MSA”) and that certain Product Agreement under the MSA, dated August 3, 2015, as amended on April 25, 2016 (the “Product Agreement”); andWHEREAS, Patheon and ACADIA now wish to amend the Product Agreement as set forth in this Amendment.  All capitalized terms used but not defined in this Amendment shall have the respective meanings set forth in the MSA or Product Agreement, as applicable.NOW THEREFORE in consideration of the premises hereof and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged by the parties, the parties agree as follows:1.Amendment to Schedule C.  The stability pricing table on Schedule C of the Product Agreement is hereby amended and replaced with the stability pricing tables set forth on Exhibit 1 of this Amendment.  2.Side Letter Agreements.  The parties hereby agree that any future changes to stability testing set forth in Schedule C of the Product Agreement, and any annual adjustments to Product pricing set forth in Schedule B of the Product Agreement pursuant to Section 4.2 of the MSA, may be documented via separate side letter agreement between Patheon and ACADIA.3.No Other Modifications. Except as specifically modified by this Amendment, the terms and conditions of the Product Agreement including, without limitation, all other terms and conditions included in each of the amended Schedules, and the MSA, shall remain unchanged.IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed by their authorized representatives, effective as of the Amendment Date."
+  },
+  {
+    "id": "element_0004",
+    "cls": "TitleElement",
+    "text": "Patheon Pharmaceuticals Inc.\tACADIA Pharmaceuticals Inc.",
+    "level": 2
+  },
+  {
+    "id": "element_0005",
+    "cls": "TextElement",
+    "text": "By:  /s/ Nicholas M. Buschur\t\t\t\tBy:  /s/ James NashName:  Nicholas M. Buschur\t\t\t\tName:  James NashTitle:  Executive Director & GM\t\tTitle:   SVP, Technology Development &Operations"
+  },
+  {
+    "id": "element_0006",
+    "cls": "TitleElement",
+    "text": "Exhibit 1",
+    "level": 3
+  },
+  {
+    "id": "element_0007",
+    "cls": "TitleElement",
+    "text": "Updated Stability Pricing",
+    "level": 3
+  },
+  {
+    "id": "element_0008",
+    "cls": "TitleElement",
+    "text": "2",
+    "level": 4
+  },
+  {
+    "id": "element_0009",
+    "cls": "TitleElement",
+    "text": "3",
+    "level": 4
+  },
+  {
+    "id": "element_0010",
+    "cls": "TitleElement",
+    "text": "4",
+    "level": 4
+  },
+  {
+    "id": "element_0011",
+    "cls": "TitleElement",
+    "text": "5",
+    "level": 4
+  }
+]

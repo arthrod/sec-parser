@@ -1,0 +1,106 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_01.html
+====================================================================================================
+📊 Quality Score: 0.80
+📄 Format: html
+🔢 Total Elements: 48
+🔗 Cross-References: 17
+📋 Title: Consulting Agreement
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 8
+  paragraph           : 19
+  party               : 1
+  section             : 1
+  signature           : 6
+  table               : 12
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 3
+  Document Self Ref   : 6
+  Exhibit Ref         : 1
+  Positional Ref      : 6
+  Section Ref         : 1
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.1
+   ⚠️  Confidence: 0.80
+
+[TITLE] Consulting Agreement
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] This Consulting Agreement (this “Agreement”) is entered into as of June 19, 2017...
+   ⚠️  Confidence: 0.80
+
+[TABLE] Scope of Work; Independent Contractor.
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] BetterSea will act as an independent contractor at all times in the performance ...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] In connection with BetterSea’s services, Aura agrees to cooperate with BetterSea...
+   ⚠️  Confidence: 0.80
+
+[TABLE] Acknowledgment of Existing Debt.
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Aura herby acknowledges and agrees that a past due principal balance of $331,492...
+   ⚠️  Confidence: 0.80
+
+[METADATA] BetterSea LLC Agreement (Aura Systems) June 19, 2017 Page 2 of 6
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] In addition to the Past Due Balance (and any interest accrued thereon), Aura fur...
+   ⚠️  Confidence: 0.80
+
+[TABLE] No Guarantee of Outcome.
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Aura acknowledges that many of the activities to be undertaken by BetterSea here...
+   ⚠️  Confidence: 0.80
+
+[TABLE] Payment for Services.
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] BetterSea’s fees for services are based primary on the actual time expended perf...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] BetterSea will bill Aura monthly for its services and each invoice shall be paid...
+   ⚠️  Confidence: 0.80
+
+... and 18 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (3 references):
+   • "hereunder" → hereunder (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+
+📌 Document Self Ref (6 references):
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "This Agreement" → This Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   ... and 1 more document self ref references
+
+📌 Exhibit Ref (1 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+
+📌 Positional Ref (6 references):
+   • "foregoing" → foregoing (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   ... and 1 more positional ref references
+
+📌 Section Ref (1 references):
+   • "paragraph 5" → 5 (confidence: 0.80)
+
+====================================================================================================

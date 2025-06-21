@@ -1,0 +1,171 @@
+[
+  {
+    "text": "Execution Version",
+    "cls": "TextElement"
+  },
+  {
+    "text": "to\nManagement Agreement May 16, 2018",
+    "cls": "TextElement"
+  },
+  {
+    "text": "[Signatures on Following Page]",
+    "cls": "TextElement"
+  },
+  {
+    "text": "HUNT UTILITY SERVICES, LLC\n\n\n\n\nBy:\n \n /s/ David Campbell\n\nName:\n \nDavid Campbell\n\nTitle:\n \nPresident and Chief Executive Officer\n\n\n\nINFRAREIT, INC.\n\n\n\n\nBy:\n \n /s/ Brant Meleski\n\nName:\n \nBrant Meleski\n\nTitle:\n \nSenior Vice President and Chief Financial Officer\n\n\n\nINFRAREIT PARTNERS, LP\n\n\n\nBy: InfraREIT, Inc., its general partner\n\n\n\n\nBy:\n \n /s/ Brant Meleski\n\nName:\n \nBrant Meleski\n\nTitle:\n \nSenior Vice President and Chief Financial Officer",
+    "cls": "TableElement"
+  },
+  {
+    "level": 0,
+    "children": [
+      "ContentTextElement_585",
+      "RecitalElement_578",
+      "RecitalElement_579",
+      "RecitalElement_580",
+      "RecitalElement_581",
+      "RecitalElement_582",
+      "RecitalElement_583",
+      "SectionElement_574",
+      "SectionElement_575",
+      "SectionElement_576",
+      "HeadingElement_584"
+    ],
+    "text": "FIRST AMENDMENT",
+    "id": "AgreementTitleElement_577",
+    "parent_id": null,
+    "cls": "AgreementTitleElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "This\nFirst Amendment (this Amendment) to the Management Agreement (as defined below) is entered into by and among InfraREIT, Inc. (the Company), InfraREIT Partners, LP (the Operating Partnership)\nand Hunt Utility Services, LLC (the Manager and, together with the Company and the Operating Partnership, the Parties) effective as of May 16, 2018. Capitalized terms used herein that are not otherwise\ndefined herein will have the meanings assigned to such terms in the Management Agreement.",
+    "id": "ContentTextElement_585",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "a.\nSection 16(a) of the Management Agreement is hereby amended by replacing the clause at least 15 months prior to the expiration of the Initial Term or a Renewal Term with (i) at least nine months\nprior to the expiration of the Initial Term or (ii) at least 15 months prior to the expiration of a Renewal Term, as applicable.",
+    "id": "ContentTextElement_586",
+    "parent_id": "SectionElement_574",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "b.\nSection 16(b) of the Management Agreement is hereby amended by replacing the clause at least 365 days prior to the end of the Initial Term or any Renewal Term with at least (x) six months\nprior to the end of the Initial Term or (y) 365 days prior to the end of any Renewal Term, as applicable.",
+    "id": "ContentTextElement_587",
+    "parent_id": "SectionElement_574",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "Section 23\n  \nGoverning Law\n\n\n \nSection 24\n  \nArbitration\n\n\n \nSection 27\n  \nCure of Invalid Provisions\n\n\n \nSection 28\n  \nConstruction of Agreement\n\n\n \nSection 29\n  \nMultiple Counterparts",
+    "id": "ContentTextElement_588",
+    "parent_id": "SectionElement_576",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 4,
+    "children": [],
+    "text": "The Parties have executed this First Amendment as of the date first set forth above.",
+    "id": "ContentTextElement_589",
+    "parent_id": "SectionElement_576",
+    "cls": "ContentTextElement"
+  },
+  {
+    "level": 1,
+    "children": [],
+    "text": "FIRST\nAMENDMENT TO MANAGEMENT AGREEMENT",
+    "id": "HeadingElement_584",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "HeadingElement",
+    "heading_text": "FIRST\nAMENDMENT TO MANAGEMENT AGREEMENT"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, the Parties entered into that certain\nManagement Agreement, dated January 29, 2015 (the Management Agreement), pursuant to which the Manager manages the Company Entities\nday-to-day operations, subject to the oversight of the Companys Board of Directors;",
+    "id": "RecitalElement_578",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, the Initial Term of the Management Agreement will expire on December 31, 2019, and, unless otherwise terminated in accordance\nwith its terms, the Management Agreement will automatically renew for a Renewal Term at such time;",
+    "id": "RecitalElement_579",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, prior to the expiration of\nthe Initial Term, a Party may request changes to the Management Agreement or the Development Agreement, to be incorporated upon renewal, subject to the provisions, including notice periods, contained in Section 16(a) of the Management\nAgreement;",
+    "id": "RecitalElement_580",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, notwithstanding the automatic renewal provisions of Section 16(a) of the Management Agreement, the Independent\nDirectors may elect not to renew the Management Agreement upon the expiration of the Initial Term, subject to the provisions, including notice periods, contained in Section 16(b) of the Management Agreement; and",
+    "id": "RecitalElement_581",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "WHEREAS, pursuant to Section 22 of the Management Agreement, the Parties desire to amend the notice periods required by Sections 16(a)\nand (b) of the Management Agreement as set forth herein.",
+    "id": "RecitalElement_582",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "NOW THEREFORE, in consideration of the premises and for other good and\nvaluable consideration, the receipt of which is hereby acknowledged, the Parties hereby agree as follows:",
+    "id": "RecitalElement_583",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "RecitalElement"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_586",
+      "ContentTextElement_587"
+    ],
+    "text": "1.    Amendment of Management Agreement.",
+    "id": "SectionElement_574",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "SectionElement",
+    "section_number": "1",
+    "section_title": "Amendment of Management Agreement."
+  },
+  {
+    "level": 2,
+    "children": [],
+    "text": "2.    Continuing Effect. Except as expressly amended by this\nAmendment, the provisions of the Management Agreement are and shall remain in full force and effect. From and after the date hereof, each reference to hereof, hereunder, herein, hereto and\nhereby and each reference to this Agreement and each other reference of like import in the Management Agreement shall be deemed to refer to the Management Agreement, as amended pursuant to Section 1 hereof.",
+    "id": "SectionElement_575",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "SectionElement",
+    "section_number": "2",
+    "section_title": "Continuing Effect. Except as expressly amended by this"
+  },
+  {
+    "level": 2,
+    "children": [
+      "ContentTextElement_588",
+      "ContentTextElement_589"
+    ],
+    "text": "3.    Miscellaneous. The following provisions of the Management Agreement are hereby incorporated into and\nspecifically made applicable to this Amendment (provided, that, in construing such incorporated provisions, any reference to this Agreement shall be deemed to refer to this Amendment):",
+    "id": "SectionElement_576",
+    "parent_id": "AgreementTitleElement_577",
+    "cls": "SectionElement",
+    "section_number": "3",
+    "section_title": "Miscellaneous. The following provisions of the Management Agreement are hereby incorporated into and"
+  }
+]

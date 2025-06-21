@@ -1,0 +1,46 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_10.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 164
+🔗 Cross-References: 116
+📋 Title: SCREENPLAY OPTION/PURCHASE AGREEMENT...
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 1
+  paragraph           : 84
+  party               : 1
+  section             : 21
+  signature           : 8
+  subsection          : 6
+  table               : 42
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 47
+  Document Self Ref   : 19
+  Exhibit Ref         : 2
+  Legal Ref           : 9
+  Positional Ref      : 23
+  Section Ref         : 16
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.7
+[TITLE] SCREENPLAY OPTION/PURCHASE AGREEMENT
+[PARAGRAPH] “CHILD SUPPORT”
+[PARAGRAPH] As of August 1, 2016
+[PARAGRAPH] Pete Rosen 4735 Sepulveda Blvd., No. 313 Sherman Oaks, CA 91403 Email:
+[TABLE] Pete Rosen
+[PARAGRAPH] Pete Rosen
+[TABLE] 4735 Sepulveda Blvd., No. 313
+[PARAGRAPH] 4735 Sepulveda Blvd., No. 313
+[TABLE] Sherman Oaks, CA 91403
+... and 154 more elements
+
+====================================================================================================

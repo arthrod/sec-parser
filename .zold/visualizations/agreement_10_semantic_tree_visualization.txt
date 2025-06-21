@@ -1,0 +1,127 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_10.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 164
+🔗 Cross-References: 78
+📋 Title: SCREENPLAY OPTION/PURCHASE AGREEMENT
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 1
+  paragraph           : 84
+  party               : 1
+  section             : 21
+  signature           : 8
+  subsection          : 6
+  table               : 42
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 32
+  Document Self Ref   : 11
+  Exhibit Ref         : 2
+  Legal Ref           : 7
+  Positional Ref      : 15
+  Section Ref         : 11
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.7
+   ⚠️  Confidence: 0.80
+
+[TITLE] SCREENPLAY OPTION/PURCHASE AGREEMENT
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] “CHILD SUPPORT”
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] As of August 1, 2016
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Pete Rosen 4735 Sepulveda Blvd., No. 313 Sherman Oaks, CA 91403 Email:
+   ⚠️  Confidence: 0.80
+
+[TABLE] Pete Rosen
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Pete Rosen
+   ⚠️  Confidence: 0.80
+
+[TABLE] 4735 Sepulveda Blvd., No. 313
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] 4735 Sepulveda Blvd., No. 313
+   ⚠️  Confidence: 0.80
+
+[TABLE] Sherman Oaks, CA 91403
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Sherman Oaks, CA 91403
+   ⚠️  Confidence: 0.80
+
+[TABLE] Email:
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Email:
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] Gary Bowen cc: Leif Reinstein, Esq. 4735 Sepulveda Blvd., No. 333 Reed Smith LLP...
+   ⚠️  Confidence: 0.80
+
+[TABLE] Gary Bowen
+   ⚠️  Confidence: 0.80
+
+... and 41 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (32 references):
+   • "herein" → herein (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "herein" → herein (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereunder" → hereunder (confidence: 0.80)
+   ... and 27 more document ref references
+
+📌 Document Self Ref (11 references):
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this agreement" → this agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   ... and 6 more document self ref references
+
+📌 Exhibit Ref (2 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "exhibit a" → a (confidence: 0.80)
+
+📌 Legal Ref (7 references):
+   • "pursuant to
+Section 1" → 1 (confidence: 0.80)
+   • "pursuant to Section 1" → 1 (confidence: 0.80)
+   • "pursuant to Section 1" → 1 (confidence: 0.80)
+   • "pursuant to Section 2" → 2 (confidence: 0.80)
+   • "pursuant to Section 3" → 3 (confidence: 0.80)
+   ... and 2 more legal ref references
+
+📌 Positional Ref (15 references):
+   • "above" → above (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   • "foregoing" → foregoing (confidence: 0.80)
+   • "below" → below (confidence: 0.80)
+   ... and 10 more positional ref references
+
+📌 Section Ref (11 references):
+   • "Section
+2" → 2 (confidence: 0.80)
+   • "Section 1" → 1 (confidence: 0.80)
+   • "Section 4" → 4 (confidence: 0.80)
+   • "Section 14" → 14 (confidence: 0.80)
+   • "Section 1" → 1 (confidence: 0.80)
+   ... and 6 more section ref references
+
+====================================================================================================

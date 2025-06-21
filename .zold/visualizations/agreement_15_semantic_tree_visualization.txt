@@ -1,0 +1,161 @@
+====================================================================================================
+SEMANTIC TREE VISUALIZATION: agreement_15.html
+====================================================================================================
+📊 Quality Score: 0.91
+📄 Format: html
+🔢 Total Elements: 552
+🔗 Cross-References: 33
+📋 Title: MASTER SERVICE AGREEMENT AND
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 40
+  paragraph           : 177
+  party               : 2
+  section             : 61
+  signature           : 5
+  subsection          : 156
+  table               : 110
+  title               : 1
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 6
+  Document Self Ref   : 14
+  Exhibit Ref         : 7
+  Positional Ref      : 2
+  Section Ref         : 4
+
+🌳 DOCUMENT STRUCTURE:
+--------------------------------------------------
+[METADATA] Exhibit 10.1
+   ⚠️  Confidence: 0.80
+
+[TITLE] MASTER SERVICE AGREEMENT AND
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] LICENSE AGREEMENT
+   ⚠️  Confidence: 0.80
+
+[PARTY] THIS AGREEMENT is made and entered into as of January 15, 2016, by and between L...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, beginning on or about January 16 , 2016 LVRE i nte nds to have XREE be ...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS , LVRE has established various services and has engaged other companies ...
+   ⚠️  Confidence: 0.80
+
+[PARTY] WHEREAS, LVRE has negotiated or entered into certain contingent agreements to pr...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS , L VRE has entered into discussions and/or agreements with National Rai...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS , LVRE represents that it has obtained all necessary insurance to suppor...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS, LVRE requests certain services to be provided by XREE to support LVRE '...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS , XREE shall be the operating railroad for the Service and the trains sh...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] WHEREAS. it is the objective of both Parties to ensure the provision of safe eff...
+   ⚠️  Confidence: 0.80
+
+[PARAGRAPH] NOW THEREFORE, in consideration of the mutual promises and undertakings and of t...
+   ⚠️  Confidence: 0.80
+
+[SECTION] 1. Definitions
+   ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (a) ·' Lessee and Lessor " shall have the meaning set forth in the first paragra...
+│     ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (a)
+│     ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (a)
+│     ⚠️  Confidence: 0.80
+│  ├─ [TABLE] ·' Lessee and Lessor " shall have the meaning set forth in the first paragraph o...
+│  │     ⚠️  Confidence: 0.80
+│  ├─ [PARAGRAPH] ·' Lessee and Lessor " shall have the meaning set forth in the first paragraph o...
+│  │     ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (b) " Mobilization Services " shall mean those services described in Section 3 o...
+│     ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (b)
+│     ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (b)
+│     ⚠️  Confidence: 0.80
+│  ├─ [TABLE] " Mobilization Services " shall mean those services described in Section 3 of th...
+│  │     ⚠️  Confidence: 0.80
+│  ├─ [PARAGRAPH] " Mobilization Services " shall mean those services described in Section 3 of th...
+│  │     ⚠️  Confidence: 0.80
+│  ├─ [METADATA] Page 1 of 16
+│  │     ⚠️  Confidence: 0.80
+│  ├─ [METADATA] Page 1 of 16
+│  │     ⚠️  Confidence: 0.80
+│  ├─ [METADATA] Page 1 of 16
+│  │     ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (c) " Host Railroad" National Railroad Passenger Corporation (AMTRAK).
+│     ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (c)
+│     ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (c)
+│     ⚠️  Confidence: 0.80
+│  ├─ [TABLE] " Host Railroad" National Railroad Passenger Corporation (AMTRAK).
+│  │     ⚠️  Confidence: 0.80
+│  ├─ [PARAGRAPH] " Host Railroad" National Railroad Passenger Corporation (AMTRAK).
+│  │     ⚠️  Confidence: 0.80
+├─ [SUBSECTION] (d) " LVRE " shall have the meaning set forth in the first paragraph of this Agr...
+│     ⚠️  Confidence: 0.80
+├─ ... and 24 more subsections
+├─ [TABLE] Definitions
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] Definitions
+│     ⚠️  Confidence: 0.80
+
+[SECTION] 2. Grant of License
+   ⚠️  Confidence: 0.80
+├─ [TABLE] Grant of License
+│     ⚠️  Confidence: 0.80
+├─ [PARAGRAPH] Grant of License
+│     ⚠️  Confidence: 0.80
+
+... and 59 more root elements
+🔗 CROSS-REFERENCE ANALYSIS:
+--------------------------------------------------
+
+📌 Document Ref (6 references):
+   • "herein" → herein (confidence: 0.80)
+   • "hereunder" → hereunder (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   • "hereof" → hereof (confidence: 0.80)
+   ... and 1 more document ref references
+
+📌 Document Self Ref (14 references):
+   • "THIS AGREEMENT" → THIS AGREEMENT (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   • "this Agreement" → this Agreement (confidence: 0.80)
+   ... and 9 more document self ref references
+
+📌 Exhibit Ref (7 references):
+   • "Exhibit 10" → 10 (confidence: 0.80)
+   • "Exhibit A" → A (confidence: 0.80)
+   • "schedule s" → s (confidence: 0.80)
+   • "Exhibit B" → B (confidence: 0.80)
+   • "Schedule o" → o (confidence: 0.80)
+   ... and 2 more exhibit ref references
+
+📌 Positional Ref (2 references):
+   • "below" → below (confidence: 0.80)
+   • "above" → above (confidence: 0.80)
+
+📌 Section Ref (4 references):
+   • "Section 3" → 3 (confidence: 0.80)
+   • "Section 3" → 3 (confidence: 0.80)
+   • "Section 6" → 6 (confidence: 0.80)
+   • "Section 12" → 12 (confidence: 0.80)
+
+====================================================================================================

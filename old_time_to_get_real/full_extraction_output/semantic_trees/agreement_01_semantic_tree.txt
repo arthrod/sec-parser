@@ -1,0 +1,89 @@
+AGREEMENT 01 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_01.html
+Total Elements: 51
+Hierarchical Elements: 37
+Status: ✅ SUCCESS
+
+Title: Consulting Agreement
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ContentTextElement: 22
+  HeadingElement: 2
+  PartyElement: 1
+  SectionElement: 10
+  SignatureBlockElement: 1
+  TableElement: 1
+  TextElement: 13
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: Consulting Agreement
+  ├─ Heading: APPROVED AND ACCEPTED:
+  ├─ Heading: AURA SYSTEMS INC.
+  ├─ Party: Aura Systems Inc.
+  ├─ Section: 1
+    ├─ ContentText: BetterSea will act as an independent contractor
+at all times
+    ├─ ContentText: In connection with BetterSea’s services,
+Aura agrees to coop
+  ├─ Section: 2
+    ├─ ContentText: Aura herby acknowledges and agrees that
+a past due principal
+    ├─ ContentText: BetterSea LLC Agreement (Aura Systems)
+June 19, 2017 Page 2 
+    ├─ ContentText: In addition to the Past Due Balance (and
+any interest accrue
+  ├─ Section: 3
+    ├─ ContentText: Aura acknowledges that many of the activities
+to be undertak
+  ├─ Section: 4
+    ├─ ContentText: BetterSea’s fees for services are
+based primary on the actua
+    ├─ ContentText: BetterSea will bill Aura monthly for its
+services and each i
+    ├─ ContentText: The foregoing notwithstanding, with respect
+to each Sale (as
+    ├─ ContentText: BetterSea LLC Agreement (Aura Systems)
+June 19, 2017
+Page 3 
+    ├─ ContentText: Commission payments to BetterSea shall
+be made within 10 bus
+    ├─ ContentText: Please note that that any fees quoted or
+otherwise agreed to
+  ├─ Section: 5
+    ├─ ContentText: Aura will be responsible for paying all
+out-of-pocket expens
+  ├─ Section: 6
+    ├─ ContentText: The services provided to Aura by BetterSea
+are provided on a
+  ├─ Section: 7
+    ├─ ContentText: This Agreement may be terminated by either
+party for any rea
+    ├─ ContentText: BetterSea LLC Agreement (Aura Systems)
+June 19, 2017
+Page 4 
+    ├─ ContentText: Expiration or termination for any reason
+will not, however, 
+  ├─ Section: 8
+    ├─ ContentText: Aura shall indemnify and hold BetterSea
+(as well as BetterSe
+  ├─ Section: 9
+    ├─ ContentText: Any dispute or controversy relating to
+this Agreement or any
+    ├─ ContentText: BetterSea LLC Agreement (Aura Systems)
+June 19, 2017
+Page 5 
+  ├─ Section: 10
+    ├─ ContentText: This Agreement is the entire agreement
+between Aura and Bett
+  ├─ SignatureBlock: By:
+/s/ Zvi Kurtzman
+ 
+
+ 
+Authorized Agent
+    ├─ ContentText: BetterSea LLC Agreement (Aura Systems)
+June 19, 2017
+Page 6 

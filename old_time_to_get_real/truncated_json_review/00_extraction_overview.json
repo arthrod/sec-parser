@@ -1,0 +1,300 @@
+{
+  "extraction_overview": {
+    "total_agreements": 15,
+    "total_elements": 1383,
+    "total_text_chars": 779111,
+    "processing_notes": [
+      "All text content truncated to 80 characters max for review",
+      "Full element hierarchy preserved",
+      "Children shown as counts, not full references",
+      "Specialized attributes truncated to appropriate lengths"
+    ]
+  },
+  "agreement_summaries": [
+    {
+      "number": 1,
+      "filename": "agreement_01.html",
+      "title": "Consulting Agreement",
+      "total_elements": 51,
+      "hierarchical_elements": 37,
+      "total_text_chars": 15697,
+      "element_type_counts": {
+        "TextElement": 13,
+        "TableElement": 1,
+        "AgreementTitleElement": 1,
+        "ContentTextElement": 22,
+        "HeadingElement": 2,
+        "PartyElement": 1,
+        "SectionElement": 10,
+        "SignatureBlockElement": 1
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 2,
+      "filename": "agreement_02.html",
+      "title": "FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT",
+      "total_elements": 10,
+      "hierarchical_elements": 7,
+      "total_text_chars": 1824,
+      "element_type_counts": {
+        "TextElement": 1,
+        "TableElement": 2,
+        "AgreementTitleElement": 1,
+        "ContentTextElement": 3,
+        "RecitalElement": 3
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 3,
+      "filename": "agreement_03.html",
+      "title": "No title found",
+      "total_elements": 10,
+      "hierarchical_elements": 4,
+      "total_text_chars": 733,
+      "element_type_counts": {
+        "TextElement": 4,
+        "TableElement": 2,
+        "ContentTextElement": 4
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 4,
+      "filename": "agreement_04.html",
+      "title": "CONSULTING AGREEMENT",
+      "total_elements": 61,
+      "hierarchical_elements": 54,
+      "total_text_chars": 14538,
+      "element_type_counts": {
+        "TextElement": 7,
+        "AgreementTitleElement": 1,
+        "ClauseElement": 8,
+        "ContentTextElement": 8,
+        "DefinitionElement": 1,
+        "HeadingElement": 6,
+        "PartyElement": 1,
+        "RecitalElement": 3,
+        "SectionElement": 26
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 5,
+      "filename": "agreement_05.html",
+      "title": "TRANSITION SERVICES AGREEMENT",
+      "total_elements": 139,
+      "hierarchical_elements": 116,
+      "total_text_chars": 42210,
+      "element_type_counts": {
+        "TextElement": 18,
+        "TableElement": 5,
+        "AgreementTitleElement": 1,
+        "ArticleElement": 11,
+        "ClauseElement": 2,
+        "ContentTextElement": 53,
+        "ExhibitElement": 4,
+        "HeadingElement": 35,
+        "PartyElement": 1,
+        "RecitalElement": 3,
+        "SectionElement": 6
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 6,
+      "filename": "agreement_06.html",
+      "title": "No title found",
+      "total_elements": 262,
+      "hierarchical_elements": 257,
+      "total_text_chars": 409609,
+      "element_type_counts": {
+        "TableElement": 4,
+        "TextElement": 1,
+        "ClauseElement": 1,
+        "ContentTextElement": 250,
+        "ExhibitElement": 4,
+        "SectionElement": 2
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 7,
+      "filename": "agreement_07.html",
+      "title": "Guaranty\nAgreement",
+      "total_elements": 97,
+      "hierarchical_elements": 73,
+      "total_text_chars": 44843,
+      "element_type_counts": {
+        "TextElement": 23,
+        "TableOfContentsElement": 1,
+        "AgreementTitleElement": 1,
+        "ClauseElement": 10,
+        "ContentTextElement": 40,
+        "DefinitionElement": 1,
+        "HeadingElement": 2,
+        "PartyElement": 3,
+        "SectionElement": 16
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 8,
+      "filename": "agreement_08.html",
+      "title": "FIRST AMENDMENT",
+      "total_elements": 20,
+      "hierarchical_elements": 16,
+      "total_text_chars": 4254,
+      "element_type_counts": {
+        "TextElement": 3,
+        "TableElement": 1,
+        "AgreementTitleElement": 1,
+        "ContentTextElement": 5,
+        "HeadingElement": 1,
+        "RecitalElement": 6,
+        "SectionElement": 3
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 9,
+      "filename": "agreement_09.html",
+      "title": "EXECUTIVE SERVICES AGREEMENT",
+      "total_elements": 88,
+      "hierarchical_elements": 84,
+      "total_text_chars": 24960,
+      "element_type_counts": {
+        "TextElement": 4,
+        "AgreementTitleElement": 1,
+        "ClauseElement": 22,
+        "ContentTextElement": 32,
+        "HeadingElement": 7,
+        "PartyElement": 2,
+        "RecitalElement": 4,
+        "SectionElement": 16
+      },
+      "max_hierarchy_level": 5
+    },
+    {
+      "number": 10,
+      "filename": "agreement_10.html",
+      "title": "SCREENPLAY OPTION/PURCHASE AGREEMENT",
+      "total_elements": 61,
+      "hierarchical_elements": 57,
+      "total_text_chars": 29590,
+      "element_type_counts": {
+        "TextElement": 1,
+        "TableElement": 3,
+        "AgreementTitleElement": 1,
+        "ClauseElement": 7,
+        "ContentTextElement": 21,
+        "HeadingElement": 7,
+        "SectionElement": 21
+      },
+      "max_hierarchy_level": 5
+    },
+    {
+      "number": 11,
+      "filename": "agreement_11.html",
+      "title": "FORWARD PURCHASE AGREEMENT",
+      "total_elements": 140,
+      "hierarchical_elements": 131,
+      "total_text_chars": 65391,
+      "element_type_counts": {
+        "TextElement": 5,
+        "TableElement": 4,
+        "AgreementTitleElement": 1,
+        "ClauseElement": 49,
+        "ContentTextElement": 53,
+        "DefinitionElement": 1,
+        "HeadingElement": 4,
+        "PartyElement": 1,
+        "RecitalElement": 8,
+        "SectionElement": 14
+      },
+      "max_hierarchy_level": 5
+    },
+    {
+      "number": 12,
+      "filename": "agreement_12.html",
+      "title": "ASSIGNMENT OF MANAGEMENT AGREEMENT AND SUBORDINATION OF MANAGEMENT FEES",
+      "total_elements": 75,
+      "hierarchical_elements": 56,
+      "total_text_chars": 18791,
+      "element_type_counts": {
+        "TextElement": 6,
+        "TableElement": 13,
+        "AgreementTitleElement": 1,
+        "ClauseElement": 11,
+        "ContentTextElement": 31,
+        "HeadingElement": 9,
+        "PartyElement": 2,
+        "SectionElement": 2
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 13,
+      "filename": "agreement_13.html",
+      "title": "NINTH AMENDMENT",
+      "total_elements": 178,
+      "hierarchical_elements": 148,
+      "total_text_chars": 72161,
+      "element_type_counts": {
+        "TextElement": 9,
+        "TableOfContentsElement": 1,
+        "TableElement": 20,
+        "AgreementTitleElement": 1,
+        "ClauseElement": 12,
+        "ContentTextElement": 84,
+        "DefinitionElement": 2,
+        "HeadingElement": 31,
+        "PartyElement": 4,
+        "RecitalElement": 1,
+        "SectionElement": 13
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 14,
+      "filename": "agreement_14.html",
+      "title": "AMENDMENT NO. 2 TO CREDIT AGREEMENT",
+      "total_elements": 38,
+      "hierarchical_elements": 34,
+      "total_text_chars": 7886,
+      "element_type_counts": {
+        "TextElement": 4,
+        "AgreementTitleElement": 1,
+        "ClauseElement": 3,
+        "ContentTextElement": 15,
+        "HeadingElement": 6,
+        "PartyElement": 1,
+        "RecitalElement": 2,
+        "SectionElement": 6
+      },
+      "max_hierarchy_level": 4
+    },
+    {
+      "number": 15,
+      "filename": "agreement_15.html",
+      "title": "MASTER SERVICE AGREEMENT AND",
+      "total_elements": 153,
+      "hierarchical_elements": 147,
+      "total_text_chars": 26624,
+      "element_type_counts": {
+        "TextElement": 6,
+        "AgreementTitleElement": 1,
+        "ClauseElement": 59,
+        "ContentTextElement": 46,
+        "DefinitionElement": 2,
+        "ExhibitElement": 1,
+        "HeadingElement": 7,
+        "PartyElement": 1,
+        "RecitalElement": 8,
+        "SectionElement": 22
+      },
+      "max_hierarchy_level": 5
+    }
+  ]
+}

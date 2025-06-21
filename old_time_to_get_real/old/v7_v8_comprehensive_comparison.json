@@ -1,0 +1,3530 @@
+{
+  "summary_stats": {
+    "total_processed": 100,
+    "errors": 0,
+    "v7_total_orphans": 171,
+    "v8_total_orphans": 187,
+    "v7_total_metadata": 0,
+    "v8_total_metadata": 0,
+    "v7_total_elements": 8719,
+    "v8_total_elements": 8689,
+    "v7_total_time": 2.0904932022094727,
+    "v8_total_time": 2.471177339553833,
+    "v8_orphan_improvements": 4,
+    "v8_metadata_improvements": 0,
+    "v8_faster_count": 16,
+    "perfect_v7": 44,
+    "perfect_v8": 44,
+    "problematic_v7": 19,
+    "problematic_v8": 19
+  },
+  "detailed_results": [
+    {
+      "agreement_num": 1,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 15,
+        "metadata_count": 0,
+        "hierarchical_count": 14,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0062999725341796875,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 15,
+        "metadata_count": 0,
+        "hierarchical_count": 14,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0073320865631103516,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.001032114028930664,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 2,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 16,
+        "metadata_count": 0,
+        "hierarchical_count": 16,
+        "orphan_count": 5,
+        "orphan_rate": 31.25,
+        "metadata_rate": 0.0,
+        "parse_time": 0.017615318298339844,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 16,
+        "metadata_count": 0,
+        "hierarchical_count": 16,
+        "orphan_count": 5,
+        "orphan_rate": 31.25,
+        "metadata_rate": 0.0,
+        "parse_time": 0.021190166473388672,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.003574848175048828,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 3,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 164,
+        "metadata_count": 0,
+        "hierarchical_count": 161,
+        "orphan_count": 1,
+        "orphan_rate": 0.6097560975609756,
+        "metadata_rate": 0.0,
+        "parse_time": 0.02126002311706543,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 164,
+        "metadata_count": 0,
+        "hierarchical_count": 161,
+        "orphan_count": 1,
+        "orphan_rate": 0.6097560975609756,
+        "metadata_rate": 0.0,
+        "parse_time": 0.029585838317871094,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.008325815200805664,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 4,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 32,
+        "metadata_count": 0,
+        "hierarchical_count": 31,
+        "orphan_count": 4,
+        "orphan_rate": 12.5,
+        "metadata_rate": 0.0,
+        "parse_time": 0.016243934631347656,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 32,
+        "metadata_count": 0,
+        "hierarchical_count": 31,
+        "orphan_count": 4,
+        "orphan_rate": 12.5,
+        "metadata_rate": 0.0,
+        "parse_time": 0.028660058975219727,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.01241612434387207,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 5,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 326,
+        "metadata_count": 0,
+        "hierarchical_count": 287,
+        "orphan_count": 1,
+        "orphan_rate": 0.3067484662576687,
+        "metadata_rate": 0.0,
+        "parse_time": 0.05847597122192383,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 326,
+        "metadata_count": 0,
+        "hierarchical_count": 286,
+        "orphan_count": 1,
+        "orphan_rate": 0.3067484662576687,
+        "metadata_rate": 0.0,
+        "parse_time": 0.06192803382873535,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0034520626068115234,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 6,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 20,
+        "metadata_count": 0,
+        "hierarchical_count": 17,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0018279552459716797,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 20,
+        "metadata_count": 0,
+        "hierarchical_count": 17,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0024089813232421875,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0005810260772705078,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 7,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 34,
+        "metadata_count": 0,
+        "hierarchical_count": 32,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0037751197814941406,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 34,
+        "metadata_count": 0,
+        "hierarchical_count": 32,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.004947185516357422,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0011720657348632812,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 8,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.0194089412689209,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.018810749053955078,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -0.0005981922149658203,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0,
+        "metadata_rate_improvement": 0
+      }
+    },
+    {
+      "agreement_num": 9,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 13,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 4,
+        "orphan_rate": 30.76923076923077,
+        "metadata_rate": 0.0,
+        "parse_time": 0.008358955383300781,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 13,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 13,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.00896000862121582,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": -9,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0006010532379150391,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": -69.23076923076923,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 10,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 38,
+        "metadata_count": 0,
+        "hierarchical_count": 35,
+        "orphan_count": 3,
+        "orphan_rate": 7.894736842105263,
+        "metadata_rate": 0.0,
+        "parse_time": 0.003814220428466797,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 36,
+        "metadata_count": 0,
+        "hierarchical_count": 32,
+        "orphan_count": 3,
+        "orphan_rate": 8.333333333333332,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006446123123168945,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": -2,
+        "time_diff": 0.0026319026947021484,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": -0.4385964912280693,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 11,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 45,
+        "metadata_count": 0,
+        "hierarchical_count": 38,
+        "orphan_count": 1,
+        "orphan_rate": 2.2222222222222223,
+        "metadata_rate": 0.0,
+        "parse_time": 0.020979881286621094,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 45,
+        "metadata_count": 0,
+        "hierarchical_count": 38,
+        "orphan_count": 1,
+        "orphan_rate": 2.2222222222222223,
+        "metadata_rate": 0.0,
+        "parse_time": 0.016443967819213867,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -0.0045359134674072266,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 12,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 78,
+        "metadata_count": 0,
+        "hierarchical_count": 75,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.010458230972290039,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 78,
+        "metadata_count": 0,
+        "hierarchical_count": 67,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01147913932800293,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0010209083557128906,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 13,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 92,
+        "metadata_count": 0,
+        "hierarchical_count": 87,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.011739730834960938,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 92,
+        "metadata_count": 0,
+        "hierarchical_count": 87,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01417994499206543,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.002440214157104492,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 14,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 55,
+        "metadata_count": 0,
+        "hierarchical_count": 54,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.008044719696044922,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 55,
+        "metadata_count": 0,
+        "hierarchical_count": 54,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01328897476196289,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.005244255065917969,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 15,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 111,
+        "metadata_count": 0,
+        "hierarchical_count": 108,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01466226577758789,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 111,
+        "metadata_count": 0,
+        "hierarchical_count": 108,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.02301812171936035,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.008355855941772461,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 16,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0016858577728271484,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.001667022705078125,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -1.8835067749023438e-05,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 17,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 11,
+        "metadata_count": 0,
+        "hierarchical_count": 9,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0010731220245361328,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 11,
+        "metadata_count": 0,
+        "hierarchical_count": 9,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0013780593872070312,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.00030493736267089844,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 18,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 19,
+        "metadata_count": 0,
+        "hierarchical_count": 19,
+        "orphan_count": 2,
+        "orphan_rate": 10.526315789473683,
+        "metadata_rate": 0.0,
+        "parse_time": 0.002354145050048828,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 19,
+        "metadata_count": 0,
+        "hierarchical_count": 17,
+        "orphan_count": 2,
+        "orphan_rate": 10.526315789473683,
+        "metadata_rate": 0.0,
+        "parse_time": 0.002613067626953125,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0002589225769042969,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 19,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 19,
+        "metadata_count": 0,
+        "hierarchical_count": 18,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.002479076385498047,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 19,
+        "metadata_count": 0,
+        "hierarchical_count": 18,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0031430721282958984,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0006639957427978516,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 20,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 13,
+        "metadata_count": 0,
+        "hierarchical_count": 11,
+        "orphan_count": 4,
+        "orphan_rate": 30.76923076923077,
+        "metadata_rate": 0.0,
+        "parse_time": 0.005208015441894531,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 13,
+        "metadata_count": 0,
+        "hierarchical_count": 11,
+        "orphan_count": 5,
+        "orphan_rate": 38.46153846153847,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006429195404052734,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": -1,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0012211799621582031,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": -7.692307692307697,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 21,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 2,
+        "metadata_count": 0,
+        "hierarchical_count": 2,
+        "orphan_count": 2,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0012638568878173828,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 2,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 50.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0015690326690673828,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 1,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.00030517578125,
+        "v8_faster": false,
+        "v8_fewer_orphans": true,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 50.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 22,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 79,
+        "metadata_count": 0,
+        "hierarchical_count": 68,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.012187719345092773,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 79,
+        "metadata_count": 0,
+        "hierarchical_count": 68,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.014580965042114258,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0023932456970214844,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 23,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 83,
+        "metadata_count": 0,
+        "hierarchical_count": 78,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.02456808090209961,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 83,
+        "metadata_count": 0,
+        "hierarchical_count": 78,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.014991044998168945,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -0.009577035903930664,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 24,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 13,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 5,
+        "orphan_rate": 38.46153846153847,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006706953048706055,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 13,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 13,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.007621049880981445,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": -8,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0009140968322753906,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": -61.53846153846153,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 25,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 37,
+        "metadata_count": 0,
+        "hierarchical_count": 32,
+        "orphan_count": 1,
+        "orphan_rate": 2.7027027027027026,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0053980350494384766,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 37,
+        "metadata_count": 0,
+        "hierarchical_count": 31,
+        "orphan_count": 1,
+        "orphan_rate": 2.7027027027027026,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006639003753662109,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0012409687042236328,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 26,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 93,
+        "metadata_count": 0,
+        "hierarchical_count": 87,
+        "orphan_count": 1,
+        "orphan_rate": 1.0752688172043012,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01414799690246582,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 93,
+        "metadata_count": 0,
+        "hierarchical_count": 87,
+        "orphan_count": 1,
+        "orphan_rate": 1.0752688172043012,
+        "metadata_rate": 0.0,
+        "parse_time": 0.019609689712524414,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.005461692810058594,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 27,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 92,
+        "metadata_count": 0,
+        "hierarchical_count": 85,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.009690046310424805,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 92,
+        "metadata_count": 0,
+        "hierarchical_count": 85,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.019431114196777344,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.009741067886352539,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 28,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 5,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 20.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.002032041549682617,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 5,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 20.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0020110607147216797,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -2.09808349609375e-05,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 29,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 109,
+        "metadata_count": 0,
+        "hierarchical_count": 107,
+        "orphan_count": 1,
+        "orphan_rate": 0.9174311926605505,
+        "metadata_rate": 0.0,
+        "parse_time": 0.018255233764648438,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 109,
+        "metadata_count": 0,
+        "hierarchical_count": 97,
+        "orphan_count": 1,
+        "orphan_rate": 0.9174311926605505,
+        "metadata_rate": 0.0,
+        "parse_time": 0.022222280502319336,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0039670467376708984,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 30,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 103,
+        "metadata_count": 0,
+        "hierarchical_count": 99,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01240396499633789,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 103,
+        "metadata_count": 0,
+        "hierarchical_count": 95,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.016237974166870117,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0038340091705322266,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 31,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 126,
+        "metadata_count": 0,
+        "hierarchical_count": 124,
+        "orphan_count": 1,
+        "orphan_rate": 0.7936507936507936,
+        "metadata_rate": 0.0,
+        "parse_time": 0.013833045959472656,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 100,
+        "metadata_count": 0,
+        "hierarchical_count": 91,
+        "orphan_count": 1,
+        "orphan_rate": 1.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.05671501159667969,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": -26,
+        "time_diff": 0.04288196563720703,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": -0.2063492063492064,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 32,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 97,
+        "metadata_count": 0,
+        "hierarchical_count": 94,
+        "orphan_count": 2,
+        "orphan_rate": 2.0618556701030926,
+        "metadata_rate": 0.0,
+        "parse_time": 0.009662151336669922,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 97,
+        "metadata_count": 0,
+        "hierarchical_count": 92,
+        "orphan_count": 2,
+        "orphan_rate": 2.0618556701030926,
+        "metadata_rate": 0.0,
+        "parse_time": 0.012317895889282227,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0026557445526123047,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 33,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 116,
+        "metadata_count": 0,
+        "hierarchical_count": 110,
+        "orphan_count": 3,
+        "orphan_rate": 2.586206896551724,
+        "metadata_rate": 0.0,
+        "parse_time": 0.014554977416992188,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 116,
+        "metadata_count": 0,
+        "hierarchical_count": 106,
+        "orphan_count": 3,
+        "orphan_rate": 2.586206896551724,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01798701286315918,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.003432035446166992,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 34,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.003443002700805664,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.004135847091674805,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0006928443908691406,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0,
+        "metadata_rate_improvement": 0
+      }
+    },
+    {
+      "agreement_num": 35,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 2,
+        "metadata_count": 0,
+        "hierarchical_count": 2,
+        "orphan_count": 2,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.12848901748657227,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 2,
+        "metadata_count": 0,
+        "hierarchical_count": 2,
+        "orphan_count": 2,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.1367940902709961,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.008305072784423828,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 36,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 55,
+        "metadata_count": 0,
+        "hierarchical_count": 54,
+        "orphan_count": 2,
+        "orphan_rate": 3.6363636363636362,
+        "metadata_rate": 0.0,
+        "parse_time": 0.007459163665771484,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 55,
+        "metadata_count": 0,
+        "hierarchical_count": 54,
+        "orphan_count": 2,
+        "orphan_rate": 3.6363636363636362,
+        "metadata_rate": 0.0,
+        "parse_time": 0.012936115264892578,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.005476951599121094,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 37,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.002905130386352539,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0028738975524902344,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -3.123283386230469e-05,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 38,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 197,
+        "metadata_count": 0,
+        "hierarchical_count": 181,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.04242706298828125,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 197,
+        "metadata_count": 0,
+        "hierarchical_count": 182,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.04860997200012207,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.00618290901184082,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 39,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 4,
+        "metadata_count": 0,
+        "hierarchical_count": 3,
+        "orphan_count": 3,
+        "orphan_rate": 75.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.003554105758666992,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 4,
+        "metadata_count": 0,
+        "hierarchical_count": 3,
+        "orphan_count": 3,
+        "orphan_rate": 75.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.004996299743652344,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0014421939849853516,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 40,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 18,
+        "metadata_count": 0,
+        "hierarchical_count": 15,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0023932456970214844,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 18,
+        "metadata_count": 0,
+        "hierarchical_count": 15,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.003182649612426758,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0007894039154052734,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 41,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.005151987075805664,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.005110979080200195,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -4.100799560546875e-05,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 42,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 35,
+        "metadata_count": 0,
+        "hierarchical_count": 33,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.005837917327880859,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 35,
+        "metadata_count": 0,
+        "hierarchical_count": 33,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0063800811767578125,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0005421638488769531,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 43,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 18,
+        "metadata_count": 0,
+        "hierarchical_count": 18,
+        "orphan_count": 3,
+        "orphan_rate": 16.666666666666664,
+        "metadata_rate": 0.0,
+        "parse_time": 0.00957489013671875,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 18,
+        "metadata_count": 0,
+        "hierarchical_count": 18,
+        "orphan_count": 3,
+        "orphan_rate": 16.666666666666664,
+        "metadata_rate": 0.0,
+        "parse_time": 0.010174989700317383,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0006000995635986328,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 44,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 119,
+        "metadata_count": 0,
+        "hierarchical_count": 112,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.014671087265014648,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 119,
+        "metadata_count": 0,
+        "hierarchical_count": 105,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.024925947189331055,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.010254859924316406,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 45,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 100,
+        "metadata_count": 0,
+        "hierarchical_count": 94,
+        "orphan_count": 1,
+        "orphan_rate": 1.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.08147096633911133,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 100,
+        "metadata_count": 0,
+        "hierarchical_count": 93,
+        "orphan_count": 1,
+        "orphan_rate": 1.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.031347036361694336,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -0.05012392997741699,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 46,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 113,
+        "metadata_count": 0,
+        "hierarchical_count": 109,
+        "orphan_count": 1,
+        "orphan_rate": 0.8849557522123894,
+        "metadata_rate": 0.0,
+        "parse_time": 0.011141777038574219,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 113,
+        "metadata_count": 0,
+        "hierarchical_count": 109,
+        "orphan_count": 1,
+        "orphan_rate": 0.8849557522123894,
+        "metadata_rate": 0.0,
+        "parse_time": 0.02188706398010254,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.01074528694152832,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 47,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 197,
+        "metadata_count": 0,
+        "hierarchical_count": 166,
+        "orphan_count": 8,
+        "orphan_rate": 4.060913705583756,
+        "metadata_rate": 0.0,
+        "parse_time": 0.02864384651184082,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 197,
+        "metadata_count": 0,
+        "hierarchical_count": 166,
+        "orphan_count": 8,
+        "orphan_rate": 4.060913705583756,
+        "metadata_rate": 0.0,
+        "parse_time": 0.028940916061401367,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0002970695495605469,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 48,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 14,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 9,
+        "orphan_rate": 64.28571428571429,
+        "metadata_rate": 0.0,
+        "parse_time": 0.008808135986328125,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 14,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 9,
+        "orphan_rate": 64.28571428571429,
+        "metadata_rate": 0.0,
+        "parse_time": 0.010328054428100586,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.001519918441772461,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 49,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 37,
+        "metadata_count": 0,
+        "hierarchical_count": 33,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.003795146942138672,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 37,
+        "metadata_count": 0,
+        "hierarchical_count": 33,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.005752086639404297,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.001956939697265625,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 50,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 62,
+        "metadata_count": 0,
+        "hierarchical_count": 51,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.008407115936279297,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 62,
+        "metadata_count": 0,
+        "hierarchical_count": 51,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.010618209838867188,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0022110939025878906,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 51,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 65,
+        "metadata_count": 0,
+        "hierarchical_count": 45,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01146697998046875,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 65,
+        "metadata_count": 0,
+        "hierarchical_count": 44,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.02058100700378418,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.00911402702331543,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 52,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 16,
+        "metadata_count": 0,
+        "hierarchical_count": 16,
+        "orphan_count": 3,
+        "orphan_rate": 18.75,
+        "metadata_rate": 0.0,
+        "parse_time": 0.009909868240356445,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 16,
+        "metadata_count": 0,
+        "hierarchical_count": 16,
+        "orphan_count": 2,
+        "orphan_rate": 12.5,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01071619987487793,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 1,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0008063316345214844,
+        "v8_faster": false,
+        "v8_fewer_orphans": true,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 6.25,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 53,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.19426202774047852,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.26808667182922363,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.07382464408874512,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 54,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 181,
+        "metadata_count": 0,
+        "hierarchical_count": 169,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.033513784408569336,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 181,
+        "metadata_count": 0,
+        "hierarchical_count": 169,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0371088981628418,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.003595113754272461,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 55,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 17,
+        "metadata_count": 0,
+        "hierarchical_count": 17,
+        "orphan_count": 17,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006198883056640625,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 17,
+        "metadata_count": 0,
+        "hierarchical_count": 17,
+        "orphan_count": 17,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006386280059814453,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.00018739700317382812,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 56,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 173,
+        "metadata_count": 0,
+        "hierarchical_count": 169,
+        "orphan_count": 20,
+        "orphan_rate": 11.560693641618498,
+        "metadata_rate": 0.0,
+        "parse_time": 0.022375822067260742,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 173,
+        "metadata_count": 0,
+        "hierarchical_count": 169,
+        "orphan_count": 20,
+        "orphan_rate": 11.560693641618498,
+        "metadata_rate": 0.0,
+        "parse_time": 0.025159358978271484,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.002783536911010742,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 57,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 59,
+        "metadata_count": 0,
+        "hierarchical_count": 48,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006930112838745117,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 59,
+        "metadata_count": 0,
+        "hierarchical_count": 48,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.007929086685180664,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0009989738464355469,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 58,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 63,
+        "metadata_count": 0,
+        "hierarchical_count": 55,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.007154226303100586,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 63,
+        "metadata_count": 0,
+        "hierarchical_count": 55,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.008548974990844727,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0013947486877441406,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 59,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0015003681182861328,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.001558065414428711,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 5.7697296142578125e-05,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 60,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 95,
+        "metadata_count": 0,
+        "hierarchical_count": 78,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.012671947479248047,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 95,
+        "metadata_count": 0,
+        "hierarchical_count": 77,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.028422832489013672,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.015750885009765625,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 61,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 67,
+        "metadata_count": 0,
+        "hierarchical_count": 56,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006535053253173828,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 67,
+        "metadata_count": 0,
+        "hierarchical_count": 54,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.008943796157836914,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.002408742904663086,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 62,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 63,
+        "metadata_count": 0,
+        "hierarchical_count": 54,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0053768157958984375,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 63,
+        "metadata_count": 0,
+        "hierarchical_count": 54,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.00760197639465332,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.002225160598754883,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 63,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 357,
+        "metadata_count": 0,
+        "hierarchical_count": 285,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.04221391677856445,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 360,
+        "metadata_count": 0,
+        "hierarchical_count": 287,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.045458078384399414,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 3,
+        "time_diff": 0.003244161605834961,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 64,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 22,
+        "metadata_count": 0,
+        "hierarchical_count": 21,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0986781120300293,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 22,
+        "metadata_count": 0,
+        "hierarchical_count": 21,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0040607452392578125,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -0.09461736679077148,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 65,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 104,
+        "metadata_count": 0,
+        "hierarchical_count": 100,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01526784896850586,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 104,
+        "metadata_count": 0,
+        "hierarchical_count": 100,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01855182647705078,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.003283977508544922,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 66,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 21,
+        "metadata_count": 0,
+        "hierarchical_count": 21,
+        "orphan_count": 2,
+        "orphan_rate": 9.523809523809524,
+        "metadata_rate": 0.0,
+        "parse_time": 0.007467031478881836,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 21,
+        "metadata_count": 0,
+        "hierarchical_count": 20,
+        "orphan_count": 2,
+        "orphan_rate": 9.523809523809524,
+        "metadata_rate": 0.0,
+        "parse_time": 0.008352994918823242,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0008859634399414062,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 67,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 69,
+        "metadata_count": 0,
+        "hierarchical_count": 51,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.008212804794311523,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 69,
+        "metadata_count": 0,
+        "hierarchical_count": 51,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.008746862411499023,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0005340576171875,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 68,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 78,
+        "metadata_count": 0,
+        "hierarchical_count": 56,
+        "orphan_count": 3,
+        "orphan_rate": 3.8461538461538463,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01972031593322754,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 78,
+        "metadata_count": 0,
+        "hierarchical_count": 45,
+        "orphan_count": 3,
+        "orphan_rate": 3.8461538461538463,
+        "metadata_rate": 0.0,
+        "parse_time": 0.02115321159362793,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0014328956604003906,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 69,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 4,
+        "metadata_count": 0,
+        "hierarchical_count": 3,
+        "orphan_count": 3,
+        "orphan_rate": 75.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0009968280792236328,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 4,
+        "metadata_count": 0,
+        "hierarchical_count": 3,
+        "orphan_count": 3,
+        "orphan_rate": 75.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0011970996856689453,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0002002716064453125,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 70,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 38,
+        "metadata_count": 0,
+        "hierarchical_count": 37,
+        "orphan_count": 2,
+        "orphan_rate": 5.263157894736842,
+        "metadata_rate": 0.0,
+        "parse_time": 0.004900217056274414,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 38,
+        "metadata_count": 0,
+        "hierarchical_count": 36,
+        "orphan_count": 2,
+        "orphan_rate": 5.263157894736842,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006622791290283203,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.001722574234008789,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 71,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 20,
+        "metadata_count": 0,
+        "hierarchical_count": 17,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0020720958709716797,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 20,
+        "metadata_count": 0,
+        "hierarchical_count": 17,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.001737356185913086,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -0.00033473968505859375,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 72,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 80,
+        "metadata_count": 0,
+        "hierarchical_count": 77,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.009358882904052734,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 80,
+        "metadata_count": 0,
+        "hierarchical_count": 75,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.012598991394042969,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0032401084899902344,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 73,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 37,
+        "metadata_count": 0,
+        "hierarchical_count": 34,
+        "orphan_count": 3,
+        "orphan_rate": 8.108108108108109,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006579875946044922,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 37,
+        "metadata_count": 0,
+        "hierarchical_count": 34,
+        "orphan_count": 3,
+        "orphan_rate": 8.108108108108109,
+        "metadata_rate": 0.0,
+        "parse_time": 0.009337186813354492,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0027573108673095703,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 74,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 135,
+        "metadata_count": 0,
+        "hierarchical_count": 123,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.02111983299255371,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 135,
+        "metadata_count": 0,
+        "hierarchical_count": 123,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.03700375556945801,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.015883922576904297,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 75,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 91,
+        "metadata_count": 0,
+        "hierarchical_count": 83,
+        "orphan_count": 1,
+        "orphan_rate": 1.098901098901099,
+        "metadata_rate": 0.0,
+        "parse_time": 0.010982990264892578,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 91,
+        "metadata_count": 0,
+        "hierarchical_count": 81,
+        "orphan_count": 1,
+        "orphan_rate": 1.098901098901099,
+        "metadata_rate": 0.0,
+        "parse_time": 0.012633800506591797,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0016508102416992188,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 76,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 871,
+        "metadata_count": 0,
+        "hierarchical_count": 823,
+        "orphan_count": 1,
+        "orphan_rate": 0.1148105625717566,
+        "metadata_rate": 0.0,
+        "parse_time": 0.14467978477478027,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 871,
+        "metadata_count": 0,
+        "hierarchical_count": 823,
+        "orphan_count": 1,
+        "orphan_rate": 0.1148105625717566,
+        "metadata_rate": 0.0,
+        "parse_time": 0.17406678199768066,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.02938699722290039,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 77,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 321,
+        "metadata_count": 0,
+        "hierarchical_count": 274,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.05354714393615723,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 323,
+        "metadata_count": 0,
+        "hierarchical_count": 277,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.05530214309692383,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 2,
+        "time_diff": 0.0017549991607666016,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 78,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 9,
+        "metadata_count": 0,
+        "hierarchical_count": 8,
+        "orphan_count": 2,
+        "orphan_rate": 22.22222222222222,
+        "metadata_rate": 0.0,
+        "parse_time": 0.005632162094116211,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 9,
+        "metadata_count": 0,
+        "hierarchical_count": 8,
+        "orphan_count": 4,
+        "orphan_rate": 44.44444444444444,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006429910659790039,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": -2,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0007977485656738281,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": -22.22222222222222,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 79,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 261,
+        "metadata_count": 0,
+        "hierarchical_count": 232,
+        "orphan_count": 1,
+        "orphan_rate": 0.38314176245210724,
+        "metadata_rate": 0.0,
+        "parse_time": 0.04072904586791992,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 261,
+        "metadata_count": 0,
+        "hierarchical_count": 229,
+        "orphan_count": 1,
+        "orphan_rate": 0.38314176245210724,
+        "metadata_rate": 0.0,
+        "parse_time": 0.04427814483642578,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0035490989685058594,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 80,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 793,
+        "metadata_count": 0,
+        "hierarchical_count": 753,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.1485891342163086,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 793,
+        "metadata_count": 0,
+        "hierarchical_count": 752,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.24122190475463867,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.09263277053833008,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 81,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 37,
+        "metadata_count": 0,
+        "hierarchical_count": 33,
+        "orphan_count": 1,
+        "orphan_rate": 2.7027027027027026,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0039000511169433594,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 37,
+        "metadata_count": 0,
+        "hierarchical_count": 33,
+        "orphan_count": 1,
+        "orphan_rate": 2.7027027027027026,
+        "metadata_rate": 0.0,
+        "parse_time": 0.006720066070556641,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0028200149536132812,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 82,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 22,
+        "metadata_count": 0,
+        "hierarchical_count": 19,
+        "orphan_count": 2,
+        "orphan_rate": 9.090909090909092,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0156710147857666,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 22,
+        "metadata_count": 0,
+        "hierarchical_count": 19,
+        "orphan_count": 2,
+        "orphan_rate": 9.090909090909092,
+        "metadata_rate": 0.0,
+        "parse_time": 0.01733708381652832,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0016660690307617188,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 83,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 111,
+        "metadata_count": 0,
+        "hierarchical_count": 104,
+        "orphan_count": 1,
+        "orphan_rate": 0.9009009009009009,
+        "metadata_rate": 0.0,
+        "parse_time": 0.04377889633178711,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 110,
+        "metadata_count": 0,
+        "hierarchical_count": 97,
+        "orphan_count": 1,
+        "orphan_rate": 0.9090909090909091,
+        "metadata_rate": 0.0,
+        "parse_time": 0.019366979598999023,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": -1,
+        "time_diff": -0.024411916732788086,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": -0.008190008190008147,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 84,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0010478496551513672,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 1,
+        "orphan_count": 1,
+        "orphan_rate": 100.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.000965118408203125,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -8.273124694824219e-05,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 85,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.0015201568603515625,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.0015311241149902344,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 1.0967254638671875e-05,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0,
+        "metadata_rate_improvement": 0
+      }
+    },
+    {
+      "agreement_num": 86,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 465,
+        "metadata_count": 0,
+        "hierarchical_count": 438,
+        "orphan_count": 1,
+        "orphan_rate": 0.21505376344086022,
+        "metadata_rate": 0.0,
+        "parse_time": 0.06465268135070801,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 460,
+        "metadata_count": 0,
+        "hierarchical_count": 399,
+        "orphan_count": 1,
+        "orphan_rate": 0.21739130434782608,
+        "metadata_rate": 0.0,
+        "parse_time": 0.10990500450134277,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": -5,
+        "time_diff": 0.045252323150634766,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": -0.0023375409069658626,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 87,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 77,
+        "metadata_count": 0,
+        "hierarchical_count": 72,
+        "orphan_count": 2,
+        "orphan_rate": 2.5974025974025974,
+        "metadata_rate": 0.0,
+        "parse_time": 0.011258840560913086,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 77,
+        "metadata_count": 0,
+        "hierarchical_count": 70,
+        "orphan_count": 2,
+        "orphan_rate": 2.5974025974025974,
+        "metadata_rate": 0.0,
+        "parse_time": 0.013523101806640625,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.002264261245727539,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 88,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 15,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0019330978393554688,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 15,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.004040956497192383,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.002107858657836914,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 89,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.007590055465698242,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.007485151290893555,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -0.0001049041748046875,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0,
+        "metadata_rate_improvement": 0
+      }
+    },
+    {
+      "agreement_num": 90,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0006248950958251953,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 1,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0006067752838134766,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -1.811981201171875e-05,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 91,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 19,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 6,
+        "orphan_rate": 31.57894736842105,
+        "metadata_rate": 0.0,
+        "parse_time": 0.002092123031616211,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 19,
+        "metadata_count": 0,
+        "hierarchical_count": 13,
+        "orphan_count": 5,
+        "orphan_rate": 26.31578947368421,
+        "metadata_rate": 0.0,
+        "parse_time": 0.003050088882446289,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 1,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0009579658508300781,
+        "v8_faster": false,
+        "v8_fewer_orphans": true,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 5.2631578947368425,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 92,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 92,
+        "metadata_count": 0,
+        "hierarchical_count": 92,
+        "orphan_count": 10,
+        "orphan_rate": 10.869565217391305,
+        "metadata_rate": 0.0,
+        "parse_time": 0.07378005981445312,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 92,
+        "metadata_count": 0,
+        "hierarchical_count": 92,
+        "orphan_count": 9,
+        "orphan_rate": 9.782608695652174,
+        "metadata_rate": 0.0,
+        "parse_time": 0.10208582878112793,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 1,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.028305768966674805,
+        "v8_faster": false,
+        "v8_fewer_orphans": true,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 1.0869565217391308,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 93,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 62,
+        "metadata_count": 0,
+        "hierarchical_count": 59,
+        "orphan_count": 2,
+        "orphan_rate": 3.225806451612903,
+        "metadata_rate": 0.0,
+        "parse_time": 0.007189035415649414,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 62,
+        "metadata_count": 0,
+        "hierarchical_count": 56,
+        "orphan_count": 2,
+        "orphan_rate": 3.225806451612903,
+        "metadata_rate": 0.0,
+        "parse_time": 0.014468669891357422,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.007279634475708008,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 94,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 42,
+        "metadata_count": 0,
+        "hierarchical_count": 42,
+        "orphan_count": 6,
+        "orphan_rate": 14.285714285714285,
+        "metadata_rate": 0.0,
+        "parse_time": 0.03118610382080078,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 42,
+        "metadata_count": 0,
+        "hierarchical_count": 42,
+        "orphan_count": 6,
+        "orphan_rate": 14.285714285714285,
+        "metadata_rate": 0.0,
+        "parse_time": 0.03300809860229492,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0018219947814941406,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 95,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 538,
+        "metadata_count": 0,
+        "hierarchical_count": 513,
+        "orphan_count": 1,
+        "orphan_rate": 0.18587360594795538,
+        "metadata_rate": 0.0,
+        "parse_time": 0.09210419654846191,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 538,
+        "metadata_count": 0,
+        "hierarchical_count": 513,
+        "orphan_count": 1,
+        "orphan_rate": 0.18587360594795538,
+        "metadata_rate": 0.0,
+        "parse_time": 0.10453295707702637,
+        "status": "\u2705 EXCELLENT"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.012428760528564453,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 96,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 15,
+        "metadata_count": 0,
+        "hierarchical_count": 12,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0020751953125,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 15,
+        "metadata_count": 0,
+        "hierarchical_count": 12,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0030362606048583984,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0009610652923583984,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 97,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 55,
+        "metadata_count": 0,
+        "hierarchical_count": 46,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.009074926376342773,
+        "status": "\u2705 EXCELLENT"
+      },
+      "v8_analysis": {
+        "total_elements": 54,
+        "metadata_count": 0,
+        "hierarchical_count": 40,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.010322093963623047,
+        "status": "\u2705 SUCCESS"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": -1,
+        "time_diff": 0.0012471675872802734,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 98,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.007276058197021484,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 0,
+        "metadata_count": 0,
+        "hierarchical_count": 0,
+        "orphan_count": 0,
+        "orphan_rate": 0,
+        "metadata_rate": 0,
+        "parse_time": 0.007102012634277344,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -0.00017404556274414062,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0,
+        "metadata_rate_improvement": 0
+      }
+    },
+    {
+      "agreement_num": 99,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 19,
+        "metadata_count": 0,
+        "hierarchical_count": 16,
+        "orphan_count": 1,
+        "orphan_rate": 5.263157894736842,
+        "metadata_rate": 0.0,
+        "parse_time": 0.002569913864135742,
+        "status": "\u2705 SUCCESS"
+      },
+      "v8_analysis": {
+        "total_elements": 19,
+        "metadata_count": 0,
+        "hierarchical_count": 16,
+        "orphan_count": 1,
+        "orphan_rate": 5.263157894736842,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0037870407104492188,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": 0.0012171268463134766,
+        "v8_faster": false,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    },
+    {
+      "agreement_num": 100,
+      "error": null,
+      "v7_analysis": {
+        "total_elements": 6,
+        "metadata_count": 0,
+        "hierarchical_count": 6,
+        "orphan_count": 3,
+        "orphan_rate": 50.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0038809776306152344,
+        "status": "\u274c FAILED"
+      },
+      "v8_analysis": {
+        "total_elements": 6,
+        "metadata_count": 0,
+        "hierarchical_count": 6,
+        "orphan_count": 3,
+        "orphan_rate": 50.0,
+        "metadata_rate": 0.0,
+        "parse_time": 0.0036690235137939453,
+        "status": "\u274c FAILED"
+      },
+      "comparison": {
+        "orphan_reduction": 0,
+        "metadata_reduction": 0,
+        "element_count_diff": 0,
+        "time_diff": -0.00021195411682128906,
+        "v8_faster": true,
+        "v8_fewer_orphans": false,
+        "v8_less_metadata": false,
+        "orphan_rate_improvement": 0.0,
+        "metadata_rate_improvement": 0.0
+      }
+    }
+  ],
+  "timestamp": "2025-06-19 01:18:07",
+  "metadata": {
+    "description": "Comprehensive comparison of agreement parser V7 vs V8",
+    "total_agreements": 100,
+    "successful_runs": 100,
+    "failed_runs": 0
+  }
+}

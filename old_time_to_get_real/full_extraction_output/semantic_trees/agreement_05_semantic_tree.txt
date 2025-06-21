@@ -1,0 +1,166 @@
+AGREEMENT 05 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_05.html
+Total Elements: 139
+Hierarchical Elements: 116
+Status: ✅ EXCELLENT
+
+Title: TRANSITION SERVICES AGREEMENT
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ArticleElement: 11
+  ClauseElement: 2
+  ContentTextElement: 53
+  ExhibitElement: 4
+  HeadingElement: 35
+  PartyElement: 1
+  RecitalElement: 3
+  SectionElement: 6
+  TableElement: 5
+  TextElement: 18
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: TRANSITION SERVICES AGREEMENT
+  ├─ Heading: RECITALS
+    ├─ Recital: WHEREAS, on December 11, 2017, Covia, Sibelco, Fairmount San
+    ├─ Recital: WHEREAS, the Parties desire that Provider provides to Recipi
+    ├─ Recital: NOW, THEREFORE, intending to be legally bound and in conside
+  ├─ Article: ARTICLE 1
+    ├─ Heading: As used in this Agreement and in the schedules attached h...
+      ├─ ContentText: Business Information has the meaning set forth in Article 
+      ├─ ContentText: Claim Period has the meaning set forth in Section 7.2(c).
+      ├─ ContentText: Disclosing Party has the meaning set forth in Article 9.
+      ├─ ContentText: Force Majeure Event has the meaning set forth in Article 8
+      ├─ ContentText: Indemnification Claim has the meaning set forth in Section
+      ├─ ContentText: Indemnifying Party has the meaning set forth in Section 7.
+      ├─ ContentText: Invoice Coordinator has the meaning set forth in
+Section 5
+      ├─ ContentText: Non-Disclosing Party has the
+meaning set forth in Article 
+      ├─ ContentText: Providers means Provider and any Affiliates of Provider pr
+      ├─ ContentText: Provider Indemnitees has the meaning set forth
+in Section 
+      ├─ ContentText: Recipients means Recipient and any Affiliate of Recipient 
+      ├─ ContentText: Recipient Indemnitees has the meaning set forth in
+Section
+      ├─ ContentText: Service Coordinators has the meaning set forth in
+Section 
+      ├─ ContentText: Termination Date has the meaning set forth in Section 3.1.
+      ├─ ContentText: Third Party Provider has the meaning set forth in Section 
+      ├─ ContentText: Transition Services Schedule has the meaning set forth in 
+  ├─ Article: ARTICLE 2
+  ├─ Heading: PROVISION OF
+TRANSITION SERVICES
+    ├─ Section: 2
+  ├─ Exhibit: Subject to the terms and conditions of this Agreement, Provi
+    ├─ Heading: 2.2 Third Party Provider
+      ├─ ContentText: Provider may satisfy its obligation to provide the Transitio
+    ├─ Heading: 2.3 Standard of Transition Services
+      ├─ ContentText: In providing the Transition Services, the Provider and its A
+      ├─ ContentText: expertise in providing the Transition Services. The Provider
+    ├─ Heading: 2.4
+Third Party Consent
+      ├─ ContentText: The Provider shall be responsible for any third party consen
+      ├─ ContentText: Provider may reasonably request. Any fees or other out-of-po
+  ├─ Article: ARTICLE 3
+  ├─ Heading: TERM AND TERMINATION
+    ├─ Section: 3
+  ├─ Exhibit: The term of this Agreement shall commence on the Closing Dat
+    ├─ Heading: 3.2 Extension of Term
+  ├─ Exhibit: The term of any portion of the Transition Services as set fo
+    ├─ Heading: 3.3 Termination
+    ├─ Heading: This Agreement may be terminated prior
+to any Termination...
+      ├─ Clause: (b) automatically, without notice by or to either Party, ...
+        ├─ ContentText: (c)
+by the Recipient, as to any particular Transition Servic
+        ├─ ContentText: (d)
+ by either Party, in the event that the other Party brea
+        ├─ ContentText: notice must specify, in commercially reasonable detail, the 
+    ├─ Heading: 3.4 Partial Termination
+      ├─ ContentText: The Provider shall reduce or
+terminate any portion of the Tr
+    ├─ Heading: 3.5 Survival
+  ├─ Article: Article 3
+  ├─ Article: ARTICLE 4
+    ├─ ContentText: Within thirty (30) days
+after the end of each calendar month
+  ├─ Article: ARTICLE 5
+    ├─ Section: 5
+      ├─ ContentText: The Recipient shall grant the
+personnel of the Provider or i
+    ├─ Heading: 5.2 Service Coordinators
+  ├─ Exhibit: The Provider and the Recipient shall each nominate one coord
+    ├─ Heading: 5.3 Invoice Coordinators
+      ├─ ContentText: The Provider and the Recipient shall each nominate from time
+  ├─ Article: ARTICLE 6
+  ├─ Heading: INTELLECTUAL
+PROPERTY
+    ├─ ContentText: Except as otherwise provided in this Agreement, the Merger A
+  ├─ Article: ARTICLE 7
+  ├─ Heading: INDEMNIFICATION
+    ├─ Section: 7
+      ├─ ContentText: The representations and warranties set forth in this Agreeme
+    ├─ Heading: 7.2 Indemnification
+      ├─ ContentText: (a)
+The Recipient shall indemnify and hold harmless the Prov
+      ├─ ContentText: (b)
+The Provider shall indemnify and hold harmless the Recip
+      ├─ ContentText: (c)
+The party or parties against whom a claim for indemnific
+    ├─ Heading: 7.3 Limitations on Liability
+    ├─ Heading: Notwithstanding any
+provision herein to the contrary:
+      ├─ Clause: (c) NOTWITHSTANDING ANYTHING TO THE CONTRARY, IN NO EVENT...
+      ├─ ContentText: (a)
+An Indemnifying Partys maximum aggregate liability with
+      ├─ ContentText: (b)
+An Indemnifying Party shall not be liable for losses und
+  ├─ Article: ARTICLE 8
+  ├─ Heading: FORCE MAJEURE
+    ├─ ContentText: In the event that the
+Provider or any of its Affiliates are 
+  ├─ Article: ARTICLE 9
+    ├─ ContentText: Both Parties shall hold,
+and shall cause their respective Af
+  ├─ Article: ARTICLE 10
+  ├─ Heading: GENERAL PROVISIONS
+    ├─ Section: 10
+      ├─ ContentText: All notices, requests, claims, demands and other communicati
+    ├─ Heading: If to the Provider:
+      ├─ ContentText: with
+a copy (which shall not constitute notice) to:
+    ├─ Heading: If to the Recipient:
+      ├─ ContentText: with a copy (which
+shall not constitute notice) to:
+    ├─ Heading: 10.2 Amendment and Waivers
+      ├─ ContentText: This Agreement may not be amended or modified except by an i
+    ├─ Heading: 10.3 Entire Agreement; No Third Party Rights
+      ├─ ContentText: This
+Agreement (including the Schedules hereto), taken toget
+    ├─ Heading: 10.4 Assignment and Successors
+      ├─ ContentText: Neither this Agreement nor any of the rights, interests or o
+    ├─ Heading: 10.5 Interpretation
+      ├─ ContentText: When a reference is made in this Agreement to an Article or 
+    ├─ Heading: 10.6 Severability
+      ├─ ContentText: If any term or other provision of this Agreement is held by 
+    ├─ Heading: 10.7 Expenses
+      ├─ ContentText: Except as set forth in this Agreement, whether or not the tr
+    ├─ Heading: 10.8 Governing Law
+      ├─ ContentText: This Agreement shall be governed by and construed in accorda
+    ├─ Heading: 10.9 Consent to Jurisdiction
+      ├─ ContentText: Each of the Parties (i) irrevocably and unconditionally cons
+    ├─ Heading: 10.10 Waiver of Jury Trial
+      ├─ ContentText: EACH OF SIBELCO
+AND COVIA WAIVES, TO THE FULLEST EXTENT PERM
+    ├─ Heading: 10.11 Counterparts
+      ├─ ContentText: This Agreement may be executed in two or more counterparts, 
+      ├─ ContentText: IN WITNESS WHEREOF, the Parties have executed and delivered 
+      ├─ ContentText: [Signature page to Covia Holdings Corporation Transition Ser
+  ├─ Heading: TRANSITION SERVICES SCHEDULES1
+    ├─ Section: 1: All Transition Services provided shall be provided in ...
+      ├─ ContentText:   Level 3 support including: Incident diagnosis and resolut
+  ├─ Party: SCR-Sibelco N.V.
+Heading: EXECUTION VERSION

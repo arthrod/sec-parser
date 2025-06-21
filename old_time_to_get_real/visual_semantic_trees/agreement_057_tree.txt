@@ -1,0 +1,107 @@
+Heading (L1): DEVELOPMENT
+AGREEMENT
+`-- Party: INC. (Colorado S-Corporation (hereinafter referred to as “BOT”))
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+|-- Recital: WHEREAS
+BOT is the developer of the Active World Holdings portfolio of web based applications (“Webs...
+|-- Recital: WHEREAS
+HMLA requires the creation of an Ethereum smart contract, token website and web3 integration...
+|-- Recital: WHEREAS
+the parties wish to compensate BOT to perform these services in the following manner:
+|   |-- Content: 1.$50,000
+                                            total cash compensation
+|   |-- Clause (a)
+|   |-- Clause (b)
+|   |-- Clause (c)
+|   |-- Clause (d)
+|   `-- Clause (e)
+|       |-- Content: 2.10%
+                                            of the total token supply
+|       `-- Content: 3.10%
+                                            revenue share of online sales generated from token...
+`-- Heading (L2): THEREFORE
+it is agreed as follows:
+
+--- (Additional Root Structure) ---
+Article Article I: SERVICES TO BE PERFORMED BY BOT
+|-- Content: BOT
+will create and mint the EVEREST solidity smart contract with the following tokenomics:
+|-- Content: Name:
+The Everest Token Symbol:
+EVEREST
+|-- Content: Total
+Supply: 250,000,000 Decimals:
+9
+|-- Content: BOT
+will develop the EVEREST token website under the URL www.theeveresttoken.com which is currently ...
+|-- Content: BOT
+will prepare the initial EVEREST pool on Uniswap. The pool will be paired with ETH and will be f...
+|-- Content: BOT
+will integrate the EVEREST token within the DiVinciPay merchant platform so the token can be use...
+|-- Content: BOT
+will install DiVinciPay on the www.theeveresttoken.com website for Web3 functionality so custome...
+`-- Content: Within
+4 hours after the launch of the EVEREST pool on Uniswap, BOT will update the token informatio...
+
+--- (Additional Root Structure) ---
+Article Article II: SERVICES PROVIDED BY HMLA
+|-- Content: HMLA
+shall provide to BOT the $50,000 total cash compensation as defined above.
+|-- Content: HMLA
+agrees that from the initial mint, 10% of the total token supply shall be sent to the BOT MetaM...
+|-- Content: HMLA
+agrees to provide 10% revenue share of online sales generated from token transactions provided ...
+|-- Content: In
+addition to the total cash compensation, HMLA shall provide a minimum of $35,000 for the initial ...
+`-- Content: HMLA
+shall take no more than one business day to sign off on digital art and web design submitted by...
+
+--- (Additional Root Structure) ---
+Article Article III: Revenue Sharer’s Entitlement to other Revenue or Consideration
+`-- Content: HMLA
+agrees to pay BOT a percentage of the gross revenue generated from the sites that support the E...
+
+--- (Additional Root Structure) ---
+Article Article IV: Independent Contributor
+|-- Content: The
+parties agree that Revenue Sharer is an independent contributor of BOT and that all payments to ...
+|-- Content: Revenue
+Sharer further agrees to indemnify and hold BOT harmless for any damages, taxes, or any othe...
+|-- Content: Distribution
+of Revenue shall be made directly from the merchant account associated with the Website...
+|-- Content: If
+for any reason the merchant account associated with the Website changes, the above Revenue Sharin...
+`-- Heading (L2): Article
+V. Miscellaneous
+    |-- Content: In
+the event any party deems it necessary to commence an action or proceeding to enforce its rights ...
+    |-- Content: This
+Agreement constitutes the entire agreement between the parties hereto, and it is understood and...
+    `-- Section 5.03
+        |-- Content: This
+Agreement may not be changed orally, but only by an agreement in writing signed by the Parties.
+        |-- Content: Notices
+given pursuant to this Agreement shall be in writing, delivered in person or by certified ma...
+        |-- Content: (a)
+Notices.
+ 
+All
+                                            notices required to be given in this ...
+        |-- Content: This
+Settlement may be executed in several counterparts; each counterpart shall be considered a dupl...
+        |-- Content: The
+provisions of this Agreement shall inure to the benefit of and shall be binding upon the parties...
+        |-- Content: This
+Agreement shall be governed by and construed and enforced in accordance with the laws of the St...
+        |-- Content: This
+Agreement may be executed in several counterparts, each of which shall be deemed an original, a...
+        |-- Content: IN
+WITNESS WHEREOF, the parties hereto set their respective hands and affix their seals the day and ...
+        |-- Content: Bot
+Logic Labs __________________________________ Date:
+1/1/2024
+        `-- Content: Himalaya
+Technologies, Inc._____________________________ Date:
+1/1/2024

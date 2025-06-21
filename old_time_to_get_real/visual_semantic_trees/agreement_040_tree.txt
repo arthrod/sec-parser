@@ -1,0 +1,34 @@
+Heading (L2): Exhibit
+10.7
+
+--- (Additional Root Structure) ---
+AGREEMENT: Administration
+Service Agreement
+|-- Content: This
+Administration Service Agreement (the “Agreement”) dated this 20th day of February, 2024 is bet...
+|-- Content: Service
+Provider has agreed to provide services to the Customer on the terms and conditions set out ...
+|-- Content: Therefore
+in consideration of the matters described above, the receipt and sufficiency of which cons...
+|-- Heading (L2): 1.
+Scope of Work
+|   |-- Content: The
+Service Provider is to provide the Customer with the following services (the “Services”): Compan...
+|   `-- Content: The
+services will include any other tasks which the Customer and the Service Provider may agree on.
+|-- Heading (L2): 2.
+Term of Agreement
+|   `-- Content: This
+Agreement will begin on February 20, 2024 and will remain in full force and effect for up to 9 ...
+|-- Heading (L2): 3.
+Termination
+|   `-- Content: If
+either party seeks termination of this Agreement, the terminating party must provide a 30 days wr...
+`-- Heading (L2): 4.
+Compensation
+    |-- Content: The
+Customer will provide compensation to the Service Provider of US$10,000 per month for the servic...
+    |-- Content: IN
+WITNESS WHEREOF the parties have duly affixed their signatures under hand on this day of 2024
+    `-- Content: [Signature
+Page to Administration Service Agreement]

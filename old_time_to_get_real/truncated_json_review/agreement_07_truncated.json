@@ -1,0 +1,996 @@
+{
+  "agreement_summary": {
+    "number": 7,
+    "filename": "agreement_07.html",
+    "title": "Guaranty\nAgreement",
+    "total_elements": 97,
+    "hierarchical_elements": 73,
+    "total_text_chars": 44843,
+    "element_type_counts": {
+      "TextElement": 23,
+      "TableOfContentsElement": 1,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 10,
+      "ContentTextElement": 40,
+      "DefinitionElement": 1,
+      "HeadingElement": 2,
+      "PartyElement": 3,
+      "SectionElement": 16
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "Execution Version Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 53
+    },
+    {
+      "class_name": "TextElement",
+      "text": "ByNxt-ID,\nInc.,Fit\nPay, Inc., and",
+      "text_length": 33
+    },
+    {
+      "class_name": "TextElement",
+      "text": "as\nGuarantorsand",
+      "text_length": 16
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page Dated\nas of May 24, 2018 Field: Rule-Page...",
+      "text_length": 154
+    },
+    {
+      "class_name": "TableOfContentsElement",
+      "text": "Section\nPage\n\nSection 1. \nGuaranty;\n    Limitation of Liability\n1\n\nSection 2....",
+      "text_length": 774
+    },
+    {
+      "class_name": "TextElement",
+      "text": "i Field: /Page",
+      "text_length": 14
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 3  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: /Page",
+      "text_length": 12
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 5; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 6; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 7; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 8; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 9; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 10; Value: 2  Field: /Page",
+      "text_length": 49
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 11; Value: 2  Field: /Page",
+      "text_length": 49
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signature\npages follow.] Field: Page; Sequence: 12; Value: 2  Field: /Page",
+      "text_length": 75
+    },
+    {
+      "class_name": "TextElement",
+      "text": "signature\npage\nguaranty agreement Field: Page; Sequence: 13  Field: /Page",
+      "text_length": 73
+    },
+    {
+      "class_name": "TextElement",
+      "text": "signature\npage\nguaranty agreement Field: Page; Sequence: 14  Field: /Page To\n...",
+      "text_length": 98
+    },
+    {
+      "class_name": "TextElement",
+      "text": "A-1  Field: /Page",
+      "text_length": 17
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "Execution Version Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 53
+    },
+    {
+      "class_name": "TextElement",
+      "text": "ByNxt-ID,\nInc.,Fit\nPay, Inc., and",
+      "text_length": 33
+    },
+    {
+      "class_name": "TextElement",
+      "text": "as\nGuarantorsand",
+      "text_length": 16
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page Dated\nas of May 24, 2018 Field: Rule-Page...",
+      "text_length": 154
+    },
+    {
+      "class_name": "TableOfContentsElement",
+      "text": "Section\nPage\n\nSection 1. \nGuaranty;\n    Limitation of Liability\n1\n\nSection 2....",
+      "text_length": 774
+    },
+    {
+      "class_name": "TextElement",
+      "text": "i Field: /Page",
+      "text_length": 14
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 3  Field: /Page",
+      "text_length": 38
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: /Page",
+      "text_length": 12
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 5; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 6; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 7; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 8; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 9; Value: 2  Field: /Page",
+      "text_length": 48
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 10; Value: 2  Field: /Page",
+      "text_length": 49
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 11; Value: 2  Field: /Page",
+      "text_length": 49
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signature\npages follow.] Field: Page; Sequence: 12; Value: 2  Field: /Page",
+      "text_length": 75
+    },
+    {
+      "class_name": "TextElement",
+      "text": "signature\npage\nguaranty agreement Field: Page; Sequence: 13  Field: /Page",
+      "text_length": 73
+    },
+    {
+      "class_name": "TextElement",
+      "text": "signature\npage\nguaranty agreement Field: Page; Sequence: 14  Field: /Page To\n...",
+      "text_length": 98
+    },
+    {
+      "class_name": "TextElement",
+      "text": "A-1  Field: /Page",
+      "text_length": 17
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 16; Value: 1  A-2  Field: /Page",
+      "text_length": 54
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signature\npages follow.] Field: Page; Sequence: 17; Value: 1  A-3  Field: /Page",
+      "text_length": 80
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Page; Sequence: 18  Field: /Page",
+      "text_length": 39
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Field: Rule-Page  Field: /Rule-Page",
+      "text_length": 35
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "Guaranty\nAgreement",
+      "text_length": 18,
+      "id": "AgreementTitleElement_498",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 1,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a)\tany\nlack of validity or enforceability of any Loan Document or any agreem...",
+      "text_length": 112,
+      "id": "ClauseElement_520",
+      "parent_id": "SectionElement_500",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(a)",
+      "clause_text": "any",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b)\tany\nchange in the time, manner or place of payment of, or in any other te...",
+      "text_length": 487,
+      "id": "ClauseElement_521",
+      "parent_id": "SectionElement_500",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "any",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c)\tany\ntaking, exchange, release or non-perfection of any Collateral or any ...",
+      "text_length": 240,
+      "id": "ClauseElement_522",
+      "parent_id": "SectionElement_500",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(c)",
+      "clause_text": "any",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(d)\tany\nmanner of application of Collateral or any other collateral, or proce...",
+      "text_length": 398,
+      "id": "ClauseElement_523",
+      "parent_id": "SectionElement_500",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(d)",
+      "clause_text": "any",
+      "normalized_id": "d"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(e)\tany\nchange, restructuring or termination of the corporate structure or ex...",
+      "text_length": 130,
+      "id": "ClauseElement_524",
+      "parent_id": "SectionElement_500",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(e)",
+      "clause_text": "any",
+      "normalized_id": "e"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(g)\tthe\nfailure of any other Person to execute or deliver this Agreement, any...",
+      "text_length": 291,
+      "id": "ClauseElement_525",
+      "parent_id": "SectionElement_500",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(g)",
+      "clause_text": "the",
+      "normalized_id": "g"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) Each\nGuarantor hereby unconditionally and irrevocably waives any right to...",
+      "text_length": 242,
+      "id": "ClauseElement_526",
+      "parent_id": "SectionElement_501",
+      "level": 3,
+      "children_count": 2,
+      "clause_id": "(b)",
+      "clause_text": "Each",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(e) Each\nGuarantor hereby unconditionally and irrevocably waives any duty on ...",
+      "text_length": 370,
+      "id": "ClauseElement_527",
+      "parent_id": "SectionElement_501",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(e)",
+      "clause_text": "Each",
+      "normalized_id": "e"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(f) Each\nGuarantor acknowledges that it will receive substantial direct and i...",
+      "text_length": 277,
+      "id": "ClauseElement_528",
+      "parent_id": "SectionElement_501",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(f)",
+      "clause_text": "Each",
+      "normalized_id": "f"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "A. Reference\nis made to that certain Senior Secured Credit Agreement dated as...",
+      "text_length": 397,
+      "id": "ClauseElement_529",
+      "parent_id": "PartyElement_532",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(A)",
+      "clause_text": "Reference",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Sagard\nHoldings Manager LP,\nas Administrative Agent",
+      "text_length": 51,
+      "id": "ContentTextElement_536",
+      "parent_id": "HeadingElement_534",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Field: Page; Sequence: 2; Options: NewSection; Value: 1",
+      "text_length": 55,
+      "id": "ContentTextElement_537",
+      "parent_id": "HeadingElement_534",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The\nLenders have agreed to make a Term Loan to the Borrower, pursuant to, and...",
+      "text_length": 621,
+      "id": "ContentTextElement_538",
+      "parent_id": "PartyElement_531",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Now,\nTherefore, in consideration of the premises and\nin order to induce the L...",
+      "text_length": 224,
+      "id": "ContentTextElement_539",
+      "parent_id": "PartyElement_531",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) Each\nGuarantor, and by its acceptance of this Agreement, the Administrati...",
+      "text_length": 1069,
+      "id": "ContentTextElement_540",
+      "parent_id": "SectionElement_499",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c) Each\nGuarantor hereby unconditionally and irrevocably agrees that in the ...",
+      "text_length": 514,
+      "id": "ContentTextElement_541",
+      "parent_id": "SectionElement_499",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Field: Page; Sequence: 4; Options: NewSection; Value: 2",
+      "text_length": 55,
+      "id": "ContentTextElement_542",
+      "parent_id": "ClauseElement_520",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(f)\tany\nfailure of any Secured Party to disclose to any Loan Party any inform...",
+      "text_length": 361,
+      "id": "ContentTextElement_543",
+      "parent_id": "ClauseElement_524",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(h)\tany\nother circumstance or any existence of or reliance on any representat...",
+      "text_length": 505,
+      "id": "ContentTextElement_544",
+      "parent_id": "ClauseElement_525",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This\nAgreement shall continue to be effective or be reinstated, as the case m...",
+      "text_length": 381,
+      "id": "ContentTextElement_545",
+      "parent_id": "ClauseElement_525",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c) Each\nGuarantor hereby unconditionally and irrevocably waives, to the exte...",
+      "text_length": 680,
+      "id": "ContentTextElement_546",
+      "parent_id": "ClauseElement_526",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(d) Each\nGuarantor acknowledges that the Administrative Agent may, without no...",
+      "text_length": 600,
+      "id": "ContentTextElement_547",
+      "parent_id": "ClauseElement_526",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) Pursuant\nto Section 6.11 of the Credit Agreement, certain Subsidiaries of...",
+      "text_length": 1204,
+      "id": "ContentTextElement_548",
+      "parent_id": "SectionElement_506",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) Each\nGuarantor hereby also agrees that none of the Indemnitees shall have...",
+      "text_length": 1678,
+      "id": "ContentTextElement_549",
+      "parent_id": "SectionElement_510",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c) Without\nprejudice to the survival of any of the other agreements of any G...",
+      "text_length": 509,
+      "id": "ContentTextElement_550",
+      "parent_id": "SectionElement_510",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a)\tProhibited\nPayments, Etc. Except during the continuance of an Event of De...",
+      "text_length": 891,
+      "id": "ContentTextElement_551",
+      "parent_id": "SectionElement_511",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b)\tPrior\nPayment of Guaranteed Obligations. In any proceeding under any Bank...",
+      "text_length": 526,
+      "id": "ContentTextElement_552",
+      "parent_id": "SectionElement_511",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "1\nNote for Robinson: Loan Parties are already covered\nby the Credit Agreement...",
+      "text_length": 94,
+      "id": "ContentTextElement_553",
+      "parent_id": "SectionElement_511",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c)\tTurn-Over.\nAfter the occurrence and during the continuance of any Event o...",
+      "text_length": 745,
+      "id": "ContentTextElement_554",
+      "parent_id": "SectionElement_511",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(d)\tAdministrative\nAgent Authorization. After the occurrence and during the c...",
+      "text_length": 889,
+      "id": "ContentTextElement_555",
+      "parent_id": "SectionElement_511",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) ANY\nLEGAL ACTION OR PROCEEDING ARISING UNDER THIS AGREEMENT OR IN ANY WAY...",
+      "text_length": 989,
+      "id": "ContentTextElement_556",
+      "parent_id": "SectionElement_514",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c) WAIVER\nOF RIGHT TO TRIAL BY JURY. EACH PARTY TO THIS AGREEMENT HEREBY EXP...",
+      "text_length": 974,
+      "id": "ContentTextElement_557",
+      "parent_id": "SectionElement_514",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In\nWitness Whereof, each Guarantor has caused this\nAgreement to be duly execu...",
+      "text_length": 171,
+      "id": "ContentTextElement_558",
+      "parent_id": "SectionElement_514",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Nxt-ID, Inc., as a Guarantor\n\n \n \n \n\n \nBy:\n \n\n \nName:\n \n\n \nTitle:\n \n\n \n \n \n\n ...",
+      "text_length": 231,
+      "id": "ContentTextElement_559",
+      "parent_id": "SectionElement_514",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Acknowledged\n    and accepted:\n\n \n \n \n \n\n \nSagard\n    Holdings Manager LP, as...",
+      "text_length": 289,
+      "id": "ContentTextElement_560",
+      "parent_id": "SectionElement_514",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "B. The\nGuarantors have entered into the Guaranty in order to induce the Lende...",
+      "text_length": 772,
+      "id": "ContentTextElement_561",
+      "parent_id": "PartyElement_532",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Accordingly,\nthe Administrative Agent and the undersigned agree as follows:",
+      "text_length": 75,
+      "id": "ContentTextElement_562",
+      "parent_id": "PartyElement_532",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Section 1.\nGuaranty; Limitation of Liability. (a) The undersigned hereby abso...",
+      "text_length": 1755,
+      "id": "ContentTextElement_563",
+      "parent_id": "PartyElement_532",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Field: Page; Sequence: 15; Options: NewSection; Value: 1",
+      "text_length": 56,
+      "id": "ContentTextElement_564",
+      "parent_id": "PartyElement_532",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) The\nundersigned, and by its acceptance of this Guaranty Supplement, the A...",
+      "text_length": 1107,
+      "id": "ContentTextElement_565",
+      "parent_id": "PartyElement_532",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c) The\nundersigned hereby unconditionally and irrevocably agrees that in the...",
+      "text_length": 551,
+      "id": "ContentTextElement_566",
+      "parent_id": "PartyElement_532",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Section 3.\nRepresentations and Warranties. The undersigned hereby makes each ...",
+      "text_length": 187,
+      "id": "ContentTextElement_567",
+      "parent_id": "DefinitionElement_533",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Section 4.\nDelivery by Facsimile; Electronic Transmission. Delivery of an exe...",
+      "text_length": 293,
+      "id": "ContentTextElement_568",
+      "parent_id": "DefinitionElement_533",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Section 5.\nGoverning Law; Jurisdiction; Waiver of Jury Trial, Etc. (a) This G...",
+      "text_length": 186,
+      "id": "ContentTextElement_569",
+      "parent_id": "DefinitionElement_533",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b) ANY\nLEGAL ACTION OR PROCEEDING ARISING UNDER THIS GUARANTY SUPPLEMENT OR ...",
+      "text_length": 1002,
+      "id": "ContentTextElement_570",
+      "parent_id": "DefinitionElement_533",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c) WAIVER\nOF RIGHT TO TRIAL BY JURY. EACH PARTY TO THIS GUARANTY SUPPLEMENT ...",
+      "text_length": 989,
+      "id": "ContentTextElement_571",
+      "parent_id": "DefinitionElement_533",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Very truly yours,\n\n \n \n \n\n \n[Name of Additional Guarantor]\n\n \n \n \n\n \nBy:\n    ...",
+      "text_length": 116,
+      "id": "ContentTextElement_572",
+      "parent_id": "DefinitionElement_533",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "signature\npage\nsupplement no. [  ] to guaranty agreement",
+      "text_length": 56,
+      "id": "ContentTextElement_573",
+      "parent_id": "DefinitionElement_533",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Acknowledged and accepted:\n\n \n \n \n \n\n \nSagard Holdings Manager LP, as Adminis...",
+      "text_length": 153,
+      "id": "ContentTextElement_574",
+      "parent_id": "DefinitionElement_533",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "signature\npage\nsupplement no. [  ] to guaranty agreement",
+      "text_length": 56,
+      "id": "ContentTextElement_575",
+      "parent_id": "DefinitionElement_533",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "DefinitionElement",
+      "text": "Section 2.\nObligations Under the Guaranty. The undersigned hereby agrees, as ...",
+      "text_length": 591,
+      "id": "DefinitionElement_533",
+      "parent_id": "PartyElement_532",
+      "level": 3,
+      "children_count": 9,
+      "term": "shall also",
+      "definition": "and be a reference to the undersigned, and each reference in any other",
+      "normalized_id": "def_shall_also"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "3D-ID,\nLLC",
+      "text_length": 10,
+      "id": "HeadingElement_534",
+      "parent_id": "AgreementTitleElement_498",
+      "level": 1,
+      "children_count": 22,
+      "heading_text": "3D-ID,\nLLC"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Guaranty\nAgreement",
+      "text_length": 18,
+      "id": "HeadingElement_535",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "heading_text": "Guaranty\nAgreement"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "Guaranty\nAgreement (this “Agreement”)\ndated as of May 24, 2018, among Nxt-ID,...",
+      "text_length": 604,
+      "id": "PartyElement_530",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "Inc.",
+      "party_type": "Delaware corporation (“Parent”)",
+      "normalized_id": "party_inc_"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "Reference\nis made to the Senior Secured Credit Agreement, dated as of the dat...",
+      "text_length": 498,
+      "id": "PartyElement_531",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 2,
+      "party_name": "LLC",
+      "party_type": "Delaware limited liability company",
+      "normalized_id": "party_llc"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "Supplement\nNo. _____ (this “Supplement”)\ndated as of __________, 20___, to th...",
+      "text_length": 876,
+      "id": "PartyElement_532",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 8,
+      "party_name": "Inc.",
+      "party_type": "Delaware corporation (“Parent”)",
+      "normalized_id": "party_inc_"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 1.\nGuaranty; Limitation of Liability. (a) Each Guarantor hereby absol...",
+      "text_length": 2053,
+      "id": "SectionElement_499",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "1",
+      "section_title": "Guaranty; Limitation of Liability. (a) Each Guarantor her...",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 2.\nGuaranty Absolute. Each Guarantor guarantees that the Guaranteed O...",
+      "text_length": 1235,
+      "id": "SectionElement_500",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 6,
+      "section_number": "2",
+      "section_title": "Guaranty Absolute. Each Guarantor guarantees that the Gua...",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 3.\nWaivers and Acknowledgments. (a) Each Guarantor hereby uncondition...",
+      "text_length": 611,
+      "id": "SectionElement_501",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "3",
+      "section_title": "Waivers and Acknowledgments. (a) Each Guarantor hereby un...",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 4.\nSubrogation. Until the Obligations are indefeasibly satisfied in f...",
+      "text_length": 2603,
+      "id": "SectionElement_502",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "4",
+      "section_title": "Subrogation. Until the Obligations are indefeasibly satis...",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 5.\nPayments Free and Clear of Taxes, Etc. Any and all payments by or ...",
+      "text_length": 448,
+      "id": "SectionElement_503",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "5",
+      "section_title": "Payments Free and Clear of Taxes, Etc. Any and all paymen...",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 6.\nRepresentations and Warranties. Each Guarantor hereby makes each r...",
+      "text_length": 853,
+      "id": "SectionElement_504",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "6",
+      "section_title": "Representations and Warranties. Each Guarantor hereby mak...",
+      "normalized_id": "6"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 7.\nCovenants. Each Guarantor covenants and agrees that, until the Ter...",
+      "text_length": 360,
+      "id": "SectionElement_505",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "7",
+      "section_title": "Covenants. Each Guarantor covenants and agrees that, unti...",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 8.\nAmendments, Guaranty Supplements, Etc. (a) No amendment or waiver ...",
+      "text_length": 359,
+      "id": "SectionElement_506",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "8",
+      "section_title": "Amendments, Guaranty Supplements, Etc. (a) No amendment o...",
+      "normalized_id": "8"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 9.\nNotices, Etc. All notices and other communications provided for he...",
+      "text_length": 1262,
+      "id": "SectionElement_507",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "9",
+      "section_title": "Notices, Etc. All notices and other communications provid...",
+      "normalized_id": "9"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 10.\nNo Waiver; Remedies. No failure on the part of any Secured Party ...",
+      "text_length": 414,
+      "id": "SectionElement_508",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "10",
+      "section_title": "No Waiver; Remedies. No failure on the part of any Secure...",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 11.\nRight of Setoff. Upon the occurrence and during the continuance o...",
+      "text_length": 1366,
+      "id": "SectionElement_509",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "11",
+      "section_title": "Right of Setoff. Upon the occurrence and during the conti...",
+      "normalized_id": "11"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 12.\nIndemnification. (a) Without limitation on any other Obligations ...",
+      "text_length": 1816,
+      "id": "SectionElement_510",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "12",
+      "section_title": "Indemnification. (a) Without limitation on any other Obli...",
+      "normalized_id": "12"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 13.\nSubordination. Each Guarantor hereby subordinates any and all deb...",
+      "text_length": 299,
+      "id": "SectionElement_511",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 5,
+      "section_number": "13",
+      "section_title": "Subordination. Each Guarantor hereby subordinates any and...",
+      "normalized_id": "13"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 14.\nContinuing Guaranty; Assignments under the Credit Agreement. This...",
+      "text_length": 1164,
+      "id": "SectionElement_512",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "14",
+      "section_title": "Continuing Guaranty; Assignments under the Credit Agreeme...",
+      "normalized_id": "14"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 15.\nExecution in Counterparts. This Agreement or any Guaranty Supplem...",
+      "text_length": 666,
+      "id": "SectionElement_513",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "15",
+      "section_title": "Execution in Counterparts. This Agreement or any Guaranty...",
+      "normalized_id": "15"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "Section 16.\nGoverning Law; Jurisdiction; Waiver of Jury Trial, Etc. (a) This ...",
+      "text_length": 177,
+      "id": "SectionElement_514",
+      "parent_id": "HeadingElement_534",
+      "level": 2,
+      "children_count": 5,
+      "section_number": "16",
+      "section_title": "Governing Law; Jurisdiction; Waiver of Jury Trial, Etc. (...",
+      "normalized_id": "16"
+    }
+  ]
+}

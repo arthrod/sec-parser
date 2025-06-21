@@ -1,0 +1,51 @@
+Heading (L1): VOCODIA HOLDINGS CORP.
+`-- Content: 6401 Congress Avenue Suite 160
+
+--- (Additional Root Structure) ---
+AGREEMENT: Re: Note Extension and Increased Conversion
+Shares
+|-- Heading (L2): Dear Sirs:
+|-- Party: Vocodia Holdings Corp. (Wyoming corporation (the “Company”))
+|   |-- Content: For good and valuable consideration,
+the Parties hereby agree as follows.
+|   |-- Content: 1.   Extended
+Maturity Date. The Parties hereby agree that, notwithstanding anything to the contrary...
+|   |-- Content: 2.   Increased
+Conversion Shares. In consideration for the extension of the Maturity Date, Section 2...
+|   |-- Content: 3.   Registration
+of the Increased Conversion Shares. In accordance with the terms of that certain R...
+|   |-- Content: 4.   Material
+Non-Public Information. The Company hereby represents and warrants and covenants to th...
+|   |-- Content: 5.   No
+Confidentiality. The Company hereby covenants and agrees that, as of the date hereof, (i) th...
+|   |-- Content: 6.   Governing
+Law. This agreement shall be governed by and construed in accordance with the interna...
+|   |-- Content: 7.   Counterparts.
+This letter may be executed in any number of counterparts, each of which shall be...
+|   `-- Content: 8.   No
+Other Modifications. Except as specifically and expressly amended hereby, all other terms an...
+`-- Heading (L1): [SIGNATURE PAGE FOLLOWS]
+    |-- Content: Please execute this letter
+in the space provided below in order to evidence your agreement with the ...
+    `-- Content: Very truly yours,
+
+ 
+ 
+
+ 
+Vocodia Holdings Corp.
+
+ 
+ 
+
+ 
+By:
+ 
+
+ 
+Name:
+Brian Podolak
+
+ 
+Title:
+Chie...

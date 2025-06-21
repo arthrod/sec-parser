@@ -1,0 +1,1137 @@
+{
+  "agreement_summary": {
+    "number": 9,
+    "filename": "agreement_09.html",
+    "title": "EXECUTIVE SERVICES AGREEMENT",
+    "total_elements": 88,
+    "hierarchical_elements": 84,
+    "total_text_chars": 24960,
+    "element_type_counts": {
+      "TextElement": 4,
+      "AgreementTitleElement": 1,
+      "ClauseElement": 22,
+      "ContentTextElement": 32,
+      "HeadingElement": 7,
+      "PartyElement": 2,
+      "RecitalElement": 4,
+      "SectionElement": 16
+    },
+    "max_hierarchy_level": 5
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "Title:\nEXECUTIVEDavid Posel",
+      "text_length": 27
+    },
+    {
+      "class_name": "TextElement",
+      "text": "AGREEMENT",
+      "text_length": 9
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[signature page follows]",
+      "text_length": 24
+    },
+    {
+      "class_name": "TextElement",
+      "text": "By:  \nTitle:EXECUTIVEDavid Posel",
+      "text_length": 32
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "EXECUTIVE SERVICES AGREEMENT",
+      "text_length": 28,
+      "id": "AgreementTitleElement_592",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 7,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "I.      Services Provided",
+      "text_length": 25,
+      "id": "ClauseElement_609",
+      "parent_id": "PartyElement_631",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(I)",
+      "clause_text": "Services Provided",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "II.      Nature of Relationship",
+      "text_length": 31,
+      "id": "ClauseElement_610",
+      "parent_id": "ContentTextElement_644",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(II)",
+      "clause_text": "Nature of Relationship",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "III.      Work for Hire; Intellectual Property Ownership",
+      "text_length": 56,
+      "id": "ClauseElement_611",
+      "parent_id": "ContentTextElement_645",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(III)",
+      "clause_text": "Work for Hire; Intellectual Property Ownership",
+      "normalized_id": "iii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "IV.",
+      "text_length": 3,
+      "id": "ClauseElement_612",
+      "parent_id": "ContentTextElement_649",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(IV)",
+      "normalized_id": "iv"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "V.      Compensation",
+      "text_length": 20,
+      "id": "ClauseElement_613",
+      "parent_id": "HeadingElement_637",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(V)",
+      "clause_text": "Compensation",
+      "normalized_id": "v"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "VI.      Indemnification and Insurance",
+      "text_length": 38,
+      "id": "ClauseElement_614",
+      "parent_id": "ContentTextElement_659",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(VI)",
+      "clause_text": "Indemnification and Insurance",
+      "normalized_id": "vi"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "VII.      Term of Agreement",
+      "text_length": 27,
+      "id": "ClauseElement_615",
+      "parent_id": "ContentTextElement_660",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(VII)",
+      "clause_text": "Term of Agreement",
+      "normalized_id": "vii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "VIII.      Termination",
+      "text_length": 22,
+      "id": "ClauseElement_616",
+      "parent_id": "ContentTextElement_661",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(VIII)",
+      "clause_text": "Termination",
+      "normalized_id": "viii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "IX.      Sole Agreement",
+      "text_length": 23,
+      "id": "ClauseElement_617",
+      "parent_id": "ContentTextElement_663",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(IX)",
+      "clause_text": "Sole Agreement",
+      "normalized_id": "ix"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "X.      Assignment",
+      "text_length": 18,
+      "id": "ClauseElement_618",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(X)",
+      "clause_text": "Assignment",
+      "normalized_id": "x"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "XI.      Notices",
+      "text_length": 16,
+      "id": "ClauseElement_619",
+      "parent_id": "ContentTextElement_665",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(XI)",
+      "clause_text": "Notices",
+      "normalized_id": "xi"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "XII.      Survival of Obligations",
+      "text_length": 33,
+      "id": "ClauseElement_620",
+      "parent_id": "ContentTextElement_667",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(XII)",
+      "clause_text": "Survival of Obligations",
+      "normalized_id": "xii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "XIII.      Severability",
+      "text_length": 23,
+      "id": "ClauseElement_621",
+      "parent_id": "ContentTextElement_668",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(XIII)",
+      "clause_text": "Severability",
+      "normalized_id": "xiii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "XIV.      Governing Laws",
+      "text_length": 24,
+      "id": "ClauseElement_622",
+      "parent_id": "ContentTextElement_669",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(XIV)",
+      "clause_text": "Governing Laws",
+      "normalized_id": "xiv"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) on account of any claim against Executive solely for an accounting of pro...",
+      "text_length": 328,
+      "id": "ClauseElement_623",
+      "parent_id": "SectionElement_594",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "on account of any claim against Executive solely for an accounting of profits...",
+      "normalized_id": "a"
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "Title:\nEXECUTIVEDavid Posel",
+      "text_length": 27
+    },
+    {
+      "class_name": "TextElement",
+      "text": "AGREEMENT",
+      "text_length": 9
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[signature page follows]",
+      "text_length": 24
+    },
+    {
+      "class_name": "TextElement",
+      "text": "By:  \nTitle:EXECUTIVEDavid Posel",
+      "text_length": 32
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "EXECUTIVE SERVICES AGREEMENT",
+      "text_length": 28,
+      "id": "AgreementTitleElement_592",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 7,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "I.      Services Provided",
+      "text_length": 25,
+      "id": "ClauseElement_609",
+      "parent_id": "PartyElement_631",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(I)",
+      "clause_text": "Services Provided",
+      "normalized_id": "i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "II.      Nature of Relationship",
+      "text_length": 31,
+      "id": "ClauseElement_610",
+      "parent_id": "ContentTextElement_644",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(II)",
+      "clause_text": "Nature of Relationship",
+      "normalized_id": "ii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "III.      Work for Hire; Intellectual Property Ownership",
+      "text_length": 56,
+      "id": "ClauseElement_611",
+      "parent_id": "ContentTextElement_645",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(III)",
+      "clause_text": "Work for Hire; Intellectual Property Ownership",
+      "normalized_id": "iii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "IV.",
+      "text_length": 3,
+      "id": "ClauseElement_612",
+      "parent_id": "ContentTextElement_649",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(IV)",
+      "normalized_id": "iv"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "V.      Compensation",
+      "text_length": 20,
+      "id": "ClauseElement_613",
+      "parent_id": "HeadingElement_637",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(V)",
+      "clause_text": "Compensation",
+      "normalized_id": "v"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "VI.      Indemnification and Insurance",
+      "text_length": 38,
+      "id": "ClauseElement_614",
+      "parent_id": "ContentTextElement_659",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(VI)",
+      "clause_text": "Indemnification and Insurance",
+      "normalized_id": "vi"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "VII.      Term of Agreement",
+      "text_length": 27,
+      "id": "ClauseElement_615",
+      "parent_id": "ContentTextElement_660",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(VII)",
+      "clause_text": "Term of Agreement",
+      "normalized_id": "vii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "VIII.      Termination",
+      "text_length": 22,
+      "id": "ClauseElement_616",
+      "parent_id": "ContentTextElement_661",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(VIII)",
+      "clause_text": "Termination",
+      "normalized_id": "viii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "IX.      Sole Agreement",
+      "text_length": 23,
+      "id": "ClauseElement_617",
+      "parent_id": "ContentTextElement_663",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(IX)",
+      "clause_text": "Sole Agreement",
+      "normalized_id": "ix"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "X.      Assignment",
+      "text_length": 18,
+      "id": "ClauseElement_618",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0,
+      "clause_id": "(X)",
+      "clause_text": "Assignment",
+      "normalized_id": "x"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "XI.      Notices",
+      "text_length": 16,
+      "id": "ClauseElement_619",
+      "parent_id": "ContentTextElement_665",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(XI)",
+      "clause_text": "Notices",
+      "normalized_id": "xi"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "XII.      Survival of Obligations",
+      "text_length": 33,
+      "id": "ClauseElement_620",
+      "parent_id": "ContentTextElement_667",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(XII)",
+      "clause_text": "Survival of Obligations",
+      "normalized_id": "xii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "XIII.      Severability",
+      "text_length": 23,
+      "id": "ClauseElement_621",
+      "parent_id": "ContentTextElement_668",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(XIII)",
+      "clause_text": "Severability",
+      "normalized_id": "xiii"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "XIV.      Governing Laws",
+      "text_length": 24,
+      "id": "ClauseElement_622",
+      "parent_id": "ContentTextElement_669",
+      "level": 5,
+      "children_count": 0,
+      "clause_id": "(XIV)",
+      "clause_text": "Governing Laws",
+      "normalized_id": "xiv"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a) on account of any claim against Executive solely for an accounting of pro...",
+      "text_length": 328,
+      "id": "ClauseElement_623",
+      "parent_id": "SectionElement_594",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "on account of any claim against Executive solely for an accounting of profits...",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b) on account of Executives conduct that is established by a final judgment...",
+      "text_length": 167,
+      "id": "ClauseElement_624",
+      "parent_id": "SectionElement_594",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "on account of Executives conduct that is established by a final judgment as ...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c) on account of Executives conduct that is established by a final judgment...",
+      "text_length": 242,
+      "id": "ClauseElement_625",
+      "parent_id": "SectionElement_594",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(c)",
+      "clause_text": "on account of Executives conduct that is established by a final judgment as ...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(d) for which payment is actually made to Executive under a valid and collect...",
+      "text_length": 266,
+      "id": "ClauseElement_626",
+      "parent_id": "SectionElement_594",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(d)",
+      "clause_text": "for which payment is actually made to Executive under a valid and collectible...",
+      "normalized_id": "d"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(e) if indemnification is not lawful (and, in this respect, both the Company ...",
+      "text_length": 398,
+      "id": "ClauseElement_627",
+      "parent_id": "SectionElement_594",
+      "level": 3,
+      "children_count": 1,
+      "clause_id": "(e)",
+      "clause_text": "if indemnification is not lawful (and, in this respect, both the Company and ...",
+      "normalized_id": "e"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c)   the Company shall not be liable to indemnify Executive under this Agree...",
+      "text_length": 495,
+      "id": "ClauseElement_628",
+      "parent_id": "SectionElement_597",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(c)",
+      "clause_text": "the Company shall not be liable to indemnify Executive under this Agreement f...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(a)   The rights conferred on Executive by this Agreement shall continue afte...",
+      "text_length": 439,
+      "id": "ClauseElement_629",
+      "parent_id": "SectionElement_602",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(a)",
+      "clause_text": "The rights conferred on Executive by this Agreement shall continue after Exec...",
+      "normalized_id": "a"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b)   The Company shall require any successor (whether direct or indirect, by...",
+      "text_length": 376,
+      "id": "ClauseElement_630",
+      "parent_id": "SectionElement_602",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(b)",
+      "clause_text": "The Company shall require any successor (whether direct or indirect, by purch...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Company hereby appoints Executive to serve as its Executive COO, Chief Oper...",
+      "text_length": 598,
+      "id": "ContentTextElement_644",
+      "parent_id": "PartyElement_631",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Executive is an independent contractor and will not be deemed an employee...",
+      "text_length": 231,
+      "id": "ContentTextElement_645",
+      "parent_id": "PartyElement_631",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement is made with the intent that the Work is work made for hire. T...",
+      "text_length": 928,
+      "id": "ContentTextElement_646",
+      "parent_id": "PartyElement_631",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "All rights, titles and interests in and to any formulas, programs, systems da...",
+      "text_length": 518,
+      "id": "ContentTextElement_647",
+      "parent_id": "PartyElement_631",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "All rights, titles and interests in and to any and all materials provided pur...",
+      "text_length": 784,
+      "id": "ContentTextElement_648",
+      "parent_id": "PartyElement_631",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Company may use any ideas, concepts, know-how, methods or techniques not ...",
+      "text_length": 447,
+      "id": "ContentTextElement_649",
+      "parent_id": "PartyElement_631",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Throughout the term of this Agreement and for a period of one (1) year therea...",
+      "text_length": 686,
+      "id": "ContentTextElement_650",
+      "parent_id": "HeadingElement_637",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Executive shall perform his obligations under this Agreement in a manner that...",
+      "text_length": 260,
+      "id": "ContentTextElement_651",
+      "parent_id": "HeadingElement_637",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Compensation.  As compensation for Executives services, Executive shall rece...",
+      "text_length": 205,
+      "id": "ContentTextElement_652",
+      "parent_id": "HeadingElement_637",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Corporate Annual Sales in a calendar year exceeds $1.5M the employee's income...",
+      "text_length": 99,
+      "id": "ContentTextElement_653",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Corporate Annual Sales in a calendar year exceeds $3M the employee's income s...",
+      "text_length": 97,
+      "id": "ContentTextElement_654",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Corporate Annual Sales in a calendar year exceeds $5M the employee's income s...",
+      "text_length": 97,
+      "id": "ContentTextElement_655",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Note: Any increase is from the last salary example: If employees salary is $5...",
+      "text_length": 545,
+      "id": "ContentTextElement_656",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Executive shall also receive 5% of net revenues from the sale of the Company...",
+      "text_length": 404,
+      "id": "ContentTextElement_657",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Preferred Share Issuance. As additional compensation, Executive shall be issu...",
+      "text_length": 287,
+      "id": "ContentTextElement_658",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Vacation and Sick Pay.  Executive shall be entitled to two weeks paid vacatio...",
+      "text_length": 442,
+      "id": "ContentTextElement_659",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Company hereby agrees to hold harmless and indemnify Executive to the ful...",
+      "text_length": 339,
+      "id": "ContentTextElement_660",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement shall be in effect from the date hereof and continue for an in...",
+      "text_length": 305,
+      "id": "ContentTextElement_661",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement shall automatically terminate upon the death of the Executive ...",
+      "text_length": 1182,
+      "id": "ContentTextElement_662",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In the event of any termination of this Agreement, the Executive agrees to re...",
+      "text_length": 140,
+      "id": "ContentTextElement_663",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement supersedes all prior or contemporaneous written or oral unders...",
+      "text_length": 284,
+      "id": "ContentTextElement_664",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement and all of the provisions hereof shall be binding upon and ins...",
+      "text_length": 409,
+      "id": "ContentTextElement_665",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Any and all notices, requests and other communications required or permitted ...",
+      "text_length": 248,
+      "id": "ContentTextElement_666",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Any such notice shall be deemed given when received and notice given by certi...",
+      "text_length": 206,
+      "id": "ContentTextElement_667",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Notwithstanding the expiration of termination of this Agreement, neither part...",
+      "text_length": 356,
+      "id": "ContentTextElement_668",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Any provision of this Agreement which is determined to be invalid or unenforc...",
+      "text_length": 377,
+      "id": "ContentTextElement_669",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 1
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement will be construed in accordance with the laws of the state of ...",
+      "text_length": 132,
+      "id": "ContentTextElement_670",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the parties hereto have caused this agreement to be execu...",
+      "text_length": 151,
+      "id": "ContentTextElement_671",
+      "parent_id": "HeadingElement_638",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(f) in connection with any proceeding (or part thereof) initiated by Executiv...",
+      "text_length": 542,
+      "id": "ContentTextElement_672",
+      "parent_id": "ClauseElement_627",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a)   the Company will be entitled to participate therein at its own expense;",
+      "text_length": 77,
+      "id": "ContentTextElement_673",
+      "parent_id": "SectionElement_597",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b)   except as otherwise provided below, the Company may, at its option and ...",
+      "text_length": 1570,
+      "id": "ContentTextElement_674",
+      "parent_id": "SectionElement_597",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement on and as...",
+      "text_length": 118,
+      "id": "ContentTextElement_675",
+      "parent_id": "SectionElement_608",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Executives Warranties",
+      "text_length": 22,
+      "id": "HeadingElement_637",
+      "parent_id": "AgreementTitleElement_592",
+      "level": 2,
+      "children_count": 4,
+      "heading_text": "Executives Warranties"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Salary milestones:",
+      "text_length": 18,
+      "id": "HeadingElement_638",
+      "parent_id": "AgreementTitleElement_592",
+      "level": 2,
+      "children_count": 20,
+      "heading_text": "Salary milestones:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "CANBIOLA, INC.",
+      "text_length": 14,
+      "id": "HeadingElement_639",
+      "parent_id": "AgreementTitleElement_592",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "CANBIOLA, INC."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "By:",
+      "text_length": 3,
+      "id": "HeadingElement_640",
+      "parent_id": "HeadingElement_639",
+      "level": 2,
+      "children_count": 0,
+      "heading_text": "By:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "INDEMNITY AGREEMENT",
+      "text_length": 19,
+      "id": "HeadingElement_641",
+      "parent_id": "AgreementTitleElement_592",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "INDEMNITY AGREEMENT"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "RECITALS",
+      "text_length": 8,
+      "id": "HeadingElement_642",
+      "parent_id": "AgreementTitleElement_592",
+      "level": 1,
+      "children_count": 20,
+      "heading_text": "RECITALS"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "CANBIOLA, INC.",
+      "text_length": 14,
+      "id": "HeadingElement_643",
+      "parent_id": "AgreementTitleElement_592",
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "CANBIOLA, INC."
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "This Executive Services Agreement (Agreement) is entered into as of Februar...",
+      "text_length": 244,
+      "id": "PartyElement_631",
+      "parent_id": "AgreementTitleElement_592",
+      "level": 2,
+      "children_count": 7,
+      "party_name": "Inc.",
+      "party_type": "Florida corporation (the Company)",
+      "normalized_id": "party_inc_"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "This Indemnity Agreement (Agreement) is made and entered into this 6 day of...",
+      "text_length": 193,
+      "id": "PartyElement_632",
+      "parent_id": "HeadingElement_641",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "Inc.",
+      "party_type": "Florida corporation (the Company)",
+      "normalized_id": "party_inc_"
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, Executive performs a valuable service to the Company in his capacity...",
+      "text_length": 106,
+      "id": "RecitalElement_633",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Company has adopted Bylaws (the Bylaws) providing for the inde...",
+      "text_length": 263,
+      "id": "RecitalElement_634",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, in order to induce Executive to continue to serve as COO of the Comp...",
+      "text_length": 164,
+      "id": "RecitalElement_635",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW, THEREFORE, in consideration of Executives continued service after the d...",
+      "text_length": 125,
+      "id": "RecitalElement_636",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1. Indemnity of Executive. The Company hereby agrees to hold harmless and ind...",
+      "text_length": 1099,
+      "id": "SectionElement_593",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "1",
+      "section_title": "Indemnity of Executive. The Company hereby agrees to hold...",
+      "normalized_id": "1"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2. Limitations on Indemnity. No indemnity shall be paid by the Company:",
+      "text_length": 71,
+      "id": "SectionElement_594",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 5,
+      "section_number": "2",
+      "section_title": "Limitations on Indemnity. No indemnity shall be paid by t...",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3. Continuation of Indemnity. All agreements and obligations of the Company c...",
+      "text_length": 712,
+      "id": "SectionElement_595",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "3",
+      "section_title": "Continuation of Indemnity. All agreements and obligations...",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "4. Partial Indemnification. Executive shall be entitled under this Agreement ...",
+      "text_length": 570,
+      "id": "SectionElement_596",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "4",
+      "section_title": "Partial Indemnification. Executive shall be entitled unde...",
+      "normalized_id": "4"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "5. Notification and Defense of Claim. Not later than thirty (30) days after r...",
+      "text_length": 584,
+      "id": "SectionElement_597",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 3,
+      "section_number": "5",
+      "section_title": "Notification and Defense of Claim. Not later than thirty ...",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "6. Expenses. The Company shall advance, prior to the final disposition of any...",
+      "text_length": 446,
+      "id": "SectionElement_598",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "6",
+      "section_title": "Expenses. The Company shall advance, prior to the final d...",
+      "normalized_id": "6"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "7. Enforcement. Any right to indemnification or advances granted by this Agre...",
+      "text_length": 1396,
+      "id": "SectionElement_599",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "7",
+      "section_title": "Enforcement. Any right to indemnification or advances gra...",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "8. Subrogation. In the event of payment under this Agreement, the Company sha...",
+      "text_length": 353,
+      "id": "SectionElement_600",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "8",
+      "section_title": "Subrogation. In the event of payment under this Agreement...",
+      "normalized_id": "8"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "9. Non-Exclusivity of Rights. The rights conferred on Executive by this Agree...",
+      "text_length": 414,
+      "id": "SectionElement_601",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "9",
+      "section_title": "Non-Exclusivity of Rights. The rights conferred on Execut...",
+      "normalized_id": "9"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "10. Survival of Rights.",
+      "text_length": 23,
+      "id": "SectionElement_602",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 2,
+      "section_number": "10",
+      "section_title": "Survival of Rights.",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "11. Severability. Each of the provisions of this Agreement is a separate and ...",
+      "text_length": 542,
+      "id": "SectionElement_603",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "11",
+      "section_title": "Severability. Each of the provisions of this Agreement is...",
+      "normalized_id": "11"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "12. Governing Law. This Agreement shall be interpreted and enforced in accord...",
+      "text_length": 121,
+      "id": "SectionElement_604",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "12",
+      "section_title": "Governing Law. This Agreement shall be interpreted and en...",
+      "normalized_id": "12"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "13. Amendment and Termination. No amendment, modification, termination or can...",
+      "text_length": 172,
+      "id": "SectionElement_605",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "13",
+      "section_title": "Amendment and Termination. No amendment, modification, te...",
+      "normalized_id": "13"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "14. Identical Counterparts. This Agreement may be executed in one or more cou...",
+      "text_length": 315,
+      "id": "SectionElement_606",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "14",
+      "section_title": "Identical Counterparts. This Agreement may be executed in...",
+      "normalized_id": "14"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "15. Headings. The headings of the sections of this Agreement are inserted for...",
+      "text_length": 193,
+      "id": "SectionElement_607",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "15",
+      "section_title": "Headings. The headings of the sections of this Agreement ...",
+      "normalized_id": "15"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "16. Notices. All notices, requests, demands and other communications hereunde...",
+      "text_length": 502,
+      "id": "SectionElement_608",
+      "parent_id": "HeadingElement_642",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "16",
+      "section_title": "Notices. All notices, requests, demands and other communi...",
+      "normalized_id": "16"
+    }
+  ]
+}

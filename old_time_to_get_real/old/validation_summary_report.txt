@@ -1,0 +1,98 @@
+================================================================================
+SEC AGREEMENT PARSER VALIDATION REPORT
+================================================================================
+Generated: 2025-06-14 15:01:19
+Dataset: 100 random SEC material contracts from HuggingFace
+Parser: Edgar10QParser (standard sec-parser)
+
+OVERALL STATISTICS
+--------------------------------------------------
+Total files processed: 100
+Total elements extracted: 9,102
+Average elements per file: 91.0
+
+QUALITY METRICS
+--------------------------------------------------
+Clean files: 24/100 (24.0%)
+Files with issues: 76/100 (76.0%)
+
+Total duplicates: 0
+Total orphans: 862
+Total trash metadata: 168
+
+ELEMENT TYPE DISTRIBUTION
+--------------------------------------------------
+EmptyElement: 4,389 (48.2%)
+TitleElement: 1,688 (18.5%)
+TextElement: 1,564 (17.2%)
+TableElement: 567 (6.2%)
+PageNumberElement: 366 (4.0%)
+ImageElement: 280 (3.1%)
+PageHeaderElement: 128 (1.4%)
+SupplementaryText: 111 (1.2%)
+TableOfContentsElement: 8 (0.1%)
+TopSectionTitle: 1 (0.0%)
+
+FILE SIZE DISTRIBUTION
+--------------------------------------------------
+Large files (>200 elements): 7
+  - agreement_035_parsed_standard.json: 2230 elements
+  - agreement_053_parsed_standard.json: 2165 elements
+  - agreement_092_parsed_standard.json: 385 elements
+  - agreement_094_parsed_standard.json: 368 elements
+  - agreement_008_parsed_standard.json: 322 elements
+
+Small files (<20 elements): 43
+  - agreement_043_parsed_standard.json: 1 elements
+  - agreement_055_parsed_standard.json: 1 elements
+  - agreement_059_parsed_standard.json: 1 elements
+  - agreement_069_parsed_standard.json: 5 elements
+  - agreement_011_parsed_standard.json: 7 elements
+
+CLEAN FILES (No Issues)
+--------------------------------------------------
+✓ agreement_092_parsed_standard.json: 385 elements
+✓ agreement_094_parsed_standard.json: 368 elements
+✓ agreement_037_parsed_standard.json: 119 elements
+✓ agreement_052_parsed_standard.json: 97 elements
+✓ agreement_004_parsed_standard.json: 70 elements
+✓ agreement_024_parsed_standard.json: 35 elements
+✓ agreement_041_parsed_standard.json: 35 elements
+✓ agreement_078_parsed_standard.json: 32 elements
+✓ agreement_028_parsed_standard.json: 25 elements
+✓ agreement_045_parsed_standard.json: 21 elements
+✓ agreement_020_parsed_standard.json: 20 elements
+✓ agreement_016_parsed_standard.json: 19 elements
+✓ agreement_082_parsed_standard.json: 19 elements
+✓ agreement_100_parsed_standard.json: 19 elements
+✓ agreement_090_parsed_standard.json: 18 elements
+✓ agreement_009_parsed_standard.json: 13 elements
+✓ agreement_048_parsed_standard.json: 13 elements
+✓ agreement_010_parsed_standard.json: 12 elements
+✓ agreement_021_parsed_standard.json: 8 elements
+✓ agreement_084_parsed_standard.json: 8 elements
+✓ agreement_069_parsed_standard.json: 5 elements
+✓ agreement_043_parsed_standard.json: 1 elements
+✓ agreement_055_parsed_standard.json: 1 elements
+✓ agreement_059_parsed_standard.json: 1 elements
+
+MOST PROBLEMATIC FILES
+--------------------------------------------------
+⚠️  agreement_080_parsed_standard.json: 105 orphans
+⚠️  agreement_063_parsed_standard.json: 100 orphans
+⚠️  agreement_095_parsed_standard.json: 77 orphans
+⚠️  agreement_076_parsed_standard.json: 76 orphans
+⚠️  agreement_005_parsed_standard.json: 37 orphans
+⚠️  agreement_079_parsed_standard.json: 37 orphans
+⚠️  agreement_022_parsed_standard.json: 36 orphans
+⚠️  agreement_086_parsed_standard.json: 15 orphans, 17 trash
+⚠️  agreement_031_parsed_standard.json: 14 orphans, 13 trash
+⚠️  agreement_047_parsed_standard.json: 24 orphans
+
+RECOMMENDATIONS
+--------------------------------------------------
+1. The 24% clean file rate indicates room for improvement in parser quality
+2. Focus on orphan element reduction (862 total orphans across 100 files)
+3. Metadata filtering could be improved (168 trash elements)
+4. Consider implementing hierarchical structure validation
+5. Large files (>200 elements) may need special handling

@@ -1,0 +1,43 @@
+====================================================================================================
+COMPLETE SEMANTIC TREE: agreement_13.html
+====================================================================================================
+📊 Quality Score: 0.89
+📄 Format: html
+🔢 Total Elements: 1035
+🔗 Cross-References: 4309
+
+📈 ELEMENT DISTRIBUTION:
+--------------------------------------------------
+  metadata            : 45
+  paragraph           : 273
+  section             : 357
+  signature           : 14
+  subsection          : 17
+  table               : 329
+
+🔗 CROSS-REFERENCE DISTRIBUTION:
+--------------------------------------------------
+  Document Ref        : 764
+  Document Self Ref   : 192
+  Exhibit Ref         : 74
+  Legal Ref           : 179
+  Positional Ref      : 293
+  Section Ref         : 2807
+
+📏 Structure Depth: 4
+
+🌳 DOCUMENT STRUCTURE (First 10 elements):
+--------------------------------------------------
+[METADATA] Exhibit 10.10
+[PARAGRAPH] N INTH A MENDMENT
+[PARAGRAPH] T HIRD A MENDED AND R ESTATED C REDIT A GREEMENT
+[PARAGRAPH] AMONG
+[PARAGRAPH] L EGACY R ESERVES LP,
+[PARAGRAPH] as Borrower,
+[PARAGRAPH] T HE G UARANTORS ,
+[PARAGRAPH] W ELLS F ARGO B ANK , N ATIONAL A SSOCIATION ,
+[PARAGRAPH] as Administrative Agent,
+[PARAGRAPH] and
+... and 1025 more elements
+
+====================================================================================================

@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "source_file": "html_files/agreement_02.html",
+    "parsed_at": "2025-06-14T01:21:04.547478",
+    "parser_version": "simple_parser_v1",
+    "file_size": 6216
+  },
+  "elements": [
+    {
+      "type": "title",
+      "content": "EX-10.9",
+      "level": 0,
+      "id": "title_0"
+    },
+    {
+      "type": "paragraph",
+      "content": "Exhibit 10.9",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_0",
+      "attributes": {
+        "style": "margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_1",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, WGC USA Asset Management Company, LLC, a Delaware limited liability company (“Sponsor”) and World Gold Trust (the\n“Trust’), a Delaware statutory trust organized in series (each, a “Fund” and collectively, the “Funds”), have heretofore entered into an Amended and Restated Sponsor Agreement (“Agreement”), dated as of\nOctober 14, 2016 as amended November 28, 2017; and",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_2",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "WHEREAS, the parties hereto desire to amend the Agreement\n(“Amendment”) to list on Schedule A thereto a new series of the Trust.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_3",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "NOW, THEREFORE, in consideration of the agreements and\nobligations set forth herein and for other good and valuation consideration, the receipt and sufficiency of which are hereby acknowledged, each of the Sponsor and the Trust, both for itself and on behalf of each Fund set for on Schedule A, hereby\namend the Agreement and agree as follows:",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_4",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Schedule A.Schedule A is hereby amended by listing a new series thereon, with such new\nseries underlined in such amended schedule, as follows:",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_5",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "“Schedule A",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_6",
+      "attributes": {
+        "style": "margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman",
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The Trust will pay to the Sponsor as compensation for the Sponsor’s services rendered to each Fund, a fee, computed daily at an annual rate based on the\naverage daily net assets of each Fund in accordance with the following fee schedule:",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_7",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Fund",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_9",
+      "attributes": {
+        "style": " margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:18.25pt; display:inline; font-size:8pt; font-family:Times New Roman; "
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "SPDR®Long Dollar Gold Trust",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_10",
+      "attributes": {
+        "style": " margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "SPDR®Gold MiniShares Trust",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_11",
+      "attributes": {
+        "style": " margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered as of\n[•], 2018.",
+      "level": 5,
+      "tag": "p",
+      "id": "paragraph_12",
+      "attributes": {
+        "style": "margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "World Gold TrustBy: Delaware Trust Company, its TrusteeBy: ________________________________Name: ______________________________Title: ______________________________WGC USA Asset Management Company, LLCBy: ________________________________Name: ______________________________Title:",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_14",
+      "attributes": {
+        "align": "right"
+      }
+    }
+  ],
+  "cross_references": [
+    {
+      "source_id": "paragraph_0",
+      "target_ref": "10",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit 10",
+      "position": 0
+    },
+    {
+      "source_id": "paragraph_3",
+      "target_ref": "A",
+      "type": "exhibit_ref",
+      "text_span": "Schedule A",
+      "position": 83
+    },
+    {
+      "source_id": "paragraph_4",
+      "target_ref": "A",
+      "type": "exhibit_ref",
+      "text_span": "Schedule A",
+      "position": 283
+    },
+    {
+      "source_id": "paragraph_5",
+      "target_ref": "A",
+      "type": "exhibit_ref",
+      "text_span": "Schedule A",
+      "position": 0
+    },
+    {
+      "source_id": "paragraph_5",
+      "target_ref": "A",
+      "type": "exhibit_ref",
+      "text_span": "Schedule A",
+      "position": 11
+    },
+    {
+      "source_id": "paragraph_6",
+      "target_ref": "A",
+      "type": "exhibit_ref",
+      "text_span": "Schedule A",
+      "position": 1
+    }
+  ],
+  "statistics": {
+    "total_elements": 14,
+    "element_types": {
+      "title": 1,
+      "paragraph": 13
+    },
+    "total_cross_references": 6,
+    "reference_types": {
+      "exhibit_ref": 6
+    },
+    "content_length": 6216
+  }
+}

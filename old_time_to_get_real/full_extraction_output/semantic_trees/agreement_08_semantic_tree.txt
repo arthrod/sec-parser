@@ -1,0 +1,53 @@
+AGREEMENT 08 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_08.html
+Total Elements: 20
+Hierarchical Elements: 16
+Status: ✅ SUCCESS
+
+Title: FIRST AMENDMENT
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ContentTextElement: 5
+  HeadingElement: 1
+  RecitalElement: 6
+  SectionElement: 3
+  TableElement: 1
+  TextElement: 3
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: FIRST AMENDMENT
+  ├─ Heading: FIRST
+AMENDMENT TO MANAGEMENT AGREEMENT
+  ├─ Recital: WHEREAS, the Parties entered into that certain
+Management Ag
+  ├─ Recital: WHEREAS, the Initial Term of the Management Agreement will e
+  ├─ Recital: WHEREAS, prior to the expiration of
+the Initial Term, a Part
+  ├─ Recital: WHEREAS, notwithstanding the automatic renewal provisions of
+  ├─ Recital: WHEREAS, pursuant to Section 22 of the Management Agreement,
+  ├─ Recital: NOW THEREFORE, in consideration of the premises and for othe
+  ├─ Section: 1: Amendment of Management Agreement.
+    ├─ ContentText: a.
+Section 16(a) of the Management Agreement is hereby amend
+    ├─ ContentText: b.
+Section 16(b) of the Management Agreement is hereby amend
+  ├─ Section: 2: Continuing Effect. Except as expressly amended by this
+  ├─ Section: 3: Miscellaneous. The following provisions of the Managem...
+    ├─ ContentText: Section 23
+  
+Governing Law
+
+
+ 
+Section 24
+  
+Arbitration
+
+
+
+    ├─ ContentText: The Parties have executed this First Amendment as of the dat
+  ├─ ContentText: This
+First Amendment (this Amendment) to the Management Ag

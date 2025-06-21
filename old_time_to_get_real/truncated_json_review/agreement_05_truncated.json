@@ -1,0 +1,1375 @@
+{
+  "agreement_summary": {
+    "number": 5,
+    "filename": "agreement_05.html",
+    "title": "TRANSITION SERVICES AGREEMENT",
+    "total_elements": 139,
+    "hierarchical_elements": 116,
+    "total_text_chars": 42210,
+    "element_type_counts": {
+      "TextElement": 18,
+      "TableElement": 5,
+      "AgreementTitleElement": 1,
+      "ArticleElement": 11,
+      "ClauseElement": 2,
+      "ContentTextElement": 53,
+      "ExhibitElement": 4,
+      "HeadingElement": 35,
+      "PartyElement": 1,
+      "RecitalElement": 3,
+      "SectionElement": 6
+    },
+    "max_hierarchy_level": 4
+  },
+  "elements_sample": [
+    {
+      "class_name": "TextElement",
+      "text": "2 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "(a)\nby mutual consent of the Parties;",
+      "text_length": 37
+    },
+    {
+      "class_name": "TextElement",
+      "text": "3 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "INVOICES",
+      "text_length": 8
+    },
+    {
+      "class_name": "TextElement",
+      "text": "PERSONNEL",
+      "text_length": 9
+    },
+    {
+      "class_name": "TextElement",
+      "text": "4 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "5 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "6 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "CONFIDENTIALITY",
+      "text_length": 15
+    },
+    {
+      "class_name": "TextElement",
+      "text": "7 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "SCR-Sibelco N.V. Plantin en Moretuslei 1a, 2018 Antwerp Belgium Attention: La...",
+      "text_length": 171
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Freshfields Bruckhaus Deringer US LLP 601 Lexington Avenue, 31st Floor New Yo...",
+      "text_length": 156
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Covia Holdings Corporation\n258 Elm Street New Canaan,\nCT 06840 United States ...",
+      "text_length": 145
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Freshfields Bruckhaus Deringer US LLP 601 Lexington Avenue, 31st Floor New Yo...",
+      "text_length": 163
+    },
+    {
+      "class_name": "TextElement",
+      "text": "9 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "10 | 11",
+      "text_length": 7
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signature Page Follows] 11 | 11",
+      "text_length": 32
+    },
+    {
+      "class_name": "TableElement",
+      "text": "SCR-SIBELCO N.V.\n\n\n\n\nBy:\n \n /s/ Kurt Decat\n\n\n \nName: Kurt Decat\n\n\n \nTitle: Me...",
+      "text_length": 360
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[See attached]",
+      "text_length": 14
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Service\nNo.\n  \n Functional\nArea\n  \n Service Coordinator\n(for each Party)\n  \n ...",
+      "text_length": 3761
+    }
+  ],
+  "all_elements_truncated": [
+    {
+      "class_name": "TextElement",
+      "text": "2 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "(a)\nby mutual consent of the Parties;",
+      "text_length": 37
+    },
+    {
+      "class_name": "TextElement",
+      "text": "3 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "INVOICES",
+      "text_length": 8
+    },
+    {
+      "class_name": "TextElement",
+      "text": "PERSONNEL",
+      "text_length": 9
+    },
+    {
+      "class_name": "TextElement",
+      "text": "4 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "5 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "6 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "CONFIDENTIALITY",
+      "text_length": 15
+    },
+    {
+      "class_name": "TextElement",
+      "text": "7 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "SCR-Sibelco N.V. Plantin en Moretuslei 1a, 2018 Antwerp Belgium Attention: La...",
+      "text_length": 171
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Freshfields Bruckhaus Deringer US LLP 601 Lexington Avenue, 31st Floor New Yo...",
+      "text_length": 156
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Covia Holdings Corporation\n258 Elm Street New Canaan,\nCT 06840 United States ...",
+      "text_length": 145
+    },
+    {
+      "class_name": "TextElement",
+      "text": "Freshfields Bruckhaus Deringer US LLP 601 Lexington Avenue, 31st Floor New Yo...",
+      "text_length": 163
+    },
+    {
+      "class_name": "TextElement",
+      "text": "9 | 11",
+      "text_length": 6
+    },
+    {
+      "class_name": "TextElement",
+      "text": "10 | 11",
+      "text_length": 7
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[Signature Page Follows] 11 | 11",
+      "text_length": 32
+    },
+    {
+      "class_name": "TableElement",
+      "text": "SCR-SIBELCO N.V.\n\n\n\n\nBy:\n \n /s/ Kurt Decat\n\n\n \nName: Kurt Decat\n\n\n \nTitle: Me...",
+      "text_length": 360
+    },
+    {
+      "class_name": "TextElement",
+      "text": "[See attached]",
+      "text_length": 14
+    },
+    {
+      "class_name": "TableElement",
+      "text": "Service\nNo.\n  \n Functional\nArea\n  \n Service Coordinator\n(for each Party)\n  \n ...",
+      "text_length": 3761
+    },
+    {
+      "class_name": "TableElement",
+      "text": "IS.06\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipie...",
+      "text_length": 3833
+    },
+    {
+      "class_name": "TableElement",
+      "text": "IS.10\n  \nInformation Services\n  \n Provider (Sibelco): Frank Kellens  \nRecipie...",
+      "text_length": 2907
+    },
+    {
+      "class_name": "TableElement",
+      "text": "  Level 2 and level 3 support including: Incident diagnosis and resolution;\n...",
+      "text_length": 2333
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "text": "TRANSITION SERVICES AGREEMENT",
+      "text_length": 29,
+      "id": "AgreementTitleElement_103",
+      "parent_id": null,
+      "level": 0,
+      "children_count": 24,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 1",
+      "text_length": 9,
+      "id": "ArticleElement_104",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "article_number": "ARTICLE 1",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 2",
+      "text_length": 9,
+      "id": "ArticleElement_105",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 0,
+      "article_number": "ARTICLE 2",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 3",
+      "text_length": 9,
+      "id": "ArticleElement_110",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 0,
+      "article_number": "ARTICLE 3",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "Article 3, Article 7,\nArticle 9 and Article 10 shall survive the termination ...",
+      "text_length": 95,
+      "id": "ArticleElement_116",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 0,
+      "article_number": "Article 3",
+      "normalized_id": "article_3"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 4",
+      "text_length": 9,
+      "id": "ArticleElement_117",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "article_number": "ARTICLE 4",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 5",
+      "text_length": 9,
+      "id": "ArticleElement_118",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 2,
+      "article_number": "ARTICLE 5",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 6",
+      "text_length": 9,
+      "id": "ArticleElement_122",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 0,
+      "article_number": "ARTICLE 6",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 7",
+      "text_length": 9,
+      "id": "ArticleElement_123",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 0,
+      "article_number": "ARTICLE 7",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 8",
+      "text_length": 9,
+      "id": "ArticleElement_127",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 0,
+      "article_number": "ARTICLE 8",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 9",
+      "text_length": 9,
+      "id": "ArticleElement_128",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "article_number": "ARTICLE 9",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ArticleElement",
+      "text": "ARTICLE 10",
+      "text_length": 10,
+      "id": "ArticleElement_129",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 0,
+      "article_number": "ARTICLE 10",
+      "normalized_id": "article_i"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(b)\nautomatically, without notice by or to either Party, upon the insolvency ...",
+      "text_length": 96,
+      "id": "ClauseElement_142",
+      "parent_id": "HeadingElement_162",
+      "level": 3,
+      "children_count": 3,
+      "clause_id": "(b)",
+      "clause_text": "automatically, without notice by or to either Party, upon the insolvency of t...",
+      "normalized_id": "b"
+    },
+    {
+      "class_name": "ClauseElement",
+      "text": "(c)\nNOTWITHSTANDING ANYTHING TO THE CONTRARY, IN NO EVENT SHALL ANY PARTY BE ...",
+      "text_length": 297,
+      "id": "ClauseElement_143",
+      "parent_id": "HeadingElement_171",
+      "level": 3,
+      "children_count": 0,
+      "clause_id": "(c)",
+      "clause_text": "NOTWITHSTANDING ANYTHING TO THE CONTRARY, IN NO EVENT SHALL ANY PARTY BE LIAB...",
+      "normalized_id": "c"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Business Information has the meaning set forth in Article 9.",
+      "text_length": 62,
+      "id": "ContentTextElement_187",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Claim Period has the meaning set forth in Section 7.2(c).",
+      "text_length": 59,
+      "id": "ContentTextElement_188",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Disclosing Party has the meaning set forth in Article 9.",
+      "text_length": 58,
+      "id": "ContentTextElement_189",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Force Majeure Event has the meaning set forth in Article 8.",
+      "text_length": 61,
+      "id": "ContentTextElement_190",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Indemnification Claim has the meaning set forth in Section 7.2(c).",
+      "text_length": 68,
+      "id": "ContentTextElement_191",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Indemnifying Party has the meaning set forth in Section 7.2(c).",
+      "text_length": 65,
+      "id": "ContentTextElement_192",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Invoice Coordinator has the meaning set forth in\nSection 5.3.",
+      "text_length": 63,
+      "id": "ContentTextElement_193",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Non-Disclosing Party has the\nmeaning set forth in Article 9.",
+      "text_length": 62,
+      "id": "ContentTextElement_194",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Providers means Provider and any Affiliates of Provider providing\nTransitio...",
+      "text_length": 115,
+      "id": "ContentTextElement_195",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Provider Indemnitees has the meaning set forth\nin Section 7.2(a)",
+      "text_length": 66,
+      "id": "ContentTextElement_196",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Recipients means Recipient and any Affiliate of Recipient receiving Transit...",
+      "text_length": 117,
+      "id": "ContentTextElement_197",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Recipient Indemnitees has the meaning set forth in\nSection 7.2(b).",
+      "text_length": 68,
+      "id": "ContentTextElement_198",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Service Coordinators has the meaning set forth in\nSection 5.2.",
+      "text_length": 64,
+      "id": "ContentTextElement_199",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Termination Date has the meaning set forth in Section 3.1.",
+      "text_length": 60,
+      "id": "ContentTextElement_200",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Third Party Provider has the meaning set forth in Section 2.2.",
+      "text_length": 64,
+      "id": "ContentTextElement_201",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Transition Services Schedule has the meaning set forth in Section 2.1(a)",
+      "text_length": 74,
+      "id": "ContentTextElement_202",
+      "parent_id": "HeadingElement_154",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Provider may satisfy its obligation to provide the Transition Services hereun...",
+      "text_length": 427,
+      "id": "ContentTextElement_203",
+      "parent_id": "HeadingElement_156",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In providing the Transition Services, the Provider and its Affiliates, and th...",
+      "text_length": 521,
+      "id": "ContentTextElement_204",
+      "parent_id": "HeadingElement_157",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "expertise in providing the Transition Services. The Provider and the Recipien...",
+      "text_length": 332,
+      "id": "ContentTextElement_205",
+      "parent_id": "HeadingElement_157",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Provider shall be responsible for any third party consents required in or...",
+      "text_length": 267,
+      "id": "ContentTextElement_206",
+      "parent_id": "HeadingElement_158",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Provider may reasonably request. Any fees or other out-of-pocket costs to\nobt...",
+      "text_length": 134,
+      "id": "ContentTextElement_207",
+      "parent_id": "HeadingElement_158",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c)\nby the Recipient, as to any particular Transition Service upon fifteen (1...",
+      "text_length": 193,
+      "id": "ContentTextElement_208",
+      "parent_id": "ClauseElement_142",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(d)\n by either Party, in the event that the other Party breaches any represen...",
+      "text_length": 404,
+      "id": "ContentTextElement_209",
+      "parent_id": "ClauseElement_142",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "notice must specify, in commercially reasonable detail, the nature of such br...",
+      "text_length": 309,
+      "id": "ContentTextElement_210",
+      "parent_id": "ClauseElement_142",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Provider shall reduce or\nterminate any portion of the Transition Services...",
+      "text_length": 795,
+      "id": "ContentTextElement_211",
+      "parent_id": "HeadingElement_163",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Within thirty (30) days\nafter the end of each calendar month for which fees a...",
+      "text_length": 742,
+      "id": "ContentTextElement_212",
+      "parent_id": "ArticleElement_117",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Recipient shall grant the\npersonnel of the Provider or its Affiliates acc...",
+      "text_length": 352,
+      "id": "ContentTextElement_213",
+      "parent_id": "SectionElement_119",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The Provider and the Recipient shall each nominate from time to time one coor...",
+      "text_length": 345,
+      "id": "ContentTextElement_214",
+      "parent_id": "HeadingElement_166",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Except as otherwise provided in this Agreement, the Merger Agreement or the A...",
+      "text_length": 1364,
+      "id": "ContentTextElement_215",
+      "parent_id": "HeadingElement_167",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "The representations and warranties set forth in this Agreement are the Provid...",
+      "text_length": 408,
+      "id": "ContentTextElement_216",
+      "parent_id": "SectionElement_124",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a)\nThe Recipient shall indemnify and hold harmless the Provider and its dire...",
+      "text_length": 537,
+      "id": "ContentTextElement_217",
+      "parent_id": "HeadingElement_169",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b)\nThe Provider shall indemnify and hold harmless the Recipient and its dire...",
+      "text_length": 562,
+      "id": "ContentTextElement_218",
+      "parent_id": "HeadingElement_169",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(c)\nThe party or parties against whom a claim for indemnification (an Indemni...",
+      "text_length": 345,
+      "id": "ContentTextElement_219",
+      "parent_id": "HeadingElement_169",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(a)\nAn Indemnifying Partys maximum aggregate liability with respect to losse...",
+      "text_length": 339,
+      "id": "ContentTextElement_220",
+      "parent_id": "HeadingElement_171",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "(b)\nAn Indemnifying Party shall not be liable for losses under any Indemnific...",
+      "text_length": 126,
+      "id": "ContentTextElement_221",
+      "parent_id": "HeadingElement_171",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "In the event that the\nProvider or any of its Affiliates are delayed in or pre...",
+      "text_length": 1353,
+      "id": "ContentTextElement_222",
+      "parent_id": "HeadingElement_172",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Both Parties shall hold,\nand shall cause their respective Affiliates, directo...",
+      "text_length": 1804,
+      "id": "ContentTextElement_223",
+      "parent_id": "ArticleElement_128",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "All notices, requests, claims, demands and other communications under this Ag...",
+      "text_length": 359,
+      "id": "ContentTextElement_224",
+      "parent_id": "SectionElement_130",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "with\na copy (which shall not constitute notice) to:",
+      "text_length": 51,
+      "id": "ContentTextElement_225",
+      "parent_id": "HeadingElement_174",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "with a copy (which\nshall not constitute notice) to:",
+      "text_length": 51,
+      "id": "ContentTextElement_226",
+      "parent_id": "HeadingElement_175",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement may not be amended or modified except by an instrument in writ...",
+      "text_length": 121,
+      "id": "ContentTextElement_227",
+      "parent_id": "HeadingElement_176",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This\nAgreement (including the Schedules hereto), taken together with the Merg...",
+      "text_length": 783,
+      "id": "ContentTextElement_228",
+      "parent_id": "HeadingElement_177",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Neither this Agreement nor any of the rights, interests or obligations under ...",
+      "text_length": 435,
+      "id": "ContentTextElement_229",
+      "parent_id": "HeadingElement_178",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "When a reference is made in this Agreement to an Article or Section, such ref...",
+      "text_length": 1602,
+      "id": "ContentTextElement_230",
+      "parent_id": "HeadingElement_179",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "If any term or other provision of this Agreement is held by a court of compet...",
+      "text_length": 782,
+      "id": "ContentTextElement_231",
+      "parent_id": "HeadingElement_180",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Except as set forth in this Agreement, whether or not the transactions contem...",
+      "text_length": 271,
+      "id": "ContentTextElement_232",
+      "parent_id": "HeadingElement_181",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement shall be governed by and construed in accordance with the laws...",
+      "text_length": 216,
+      "id": "ContentTextElement_233",
+      "parent_id": "HeadingElement_182",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "Each of the Parties (i) irrevocably and unconditionally consents and submits ...",
+      "text_length": 1125,
+      "id": "ContentTextElement_234",
+      "parent_id": "HeadingElement_183",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "EACH OF SIBELCO\nAND COVIA WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICAB...",
+      "text_length": 246,
+      "id": "ContentTextElement_235",
+      "parent_id": "HeadingElement_184",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "This Agreement may be executed in two or more counterparts, all of which shal...",
+      "text_length": 291,
+      "id": "ContentTextElement_236",
+      "parent_id": "HeadingElement_185",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "IN WITNESS WHEREOF, the Parties have executed and delivered this Agreement as...",
+      "text_length": 140,
+      "id": "ContentTextElement_237",
+      "parent_id": "HeadingElement_185",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "[Signature page to Covia Holdings Corporation Transition Services Agreement]",
+      "text_length": 76,
+      "id": "ContentTextElement_238",
+      "parent_id": "HeadingElement_185",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ContentTextElement",
+      "text": "  Level 3 support including: Incident diagnosis and resolution; updates to\nt...",
+      "text_length": 2586,
+      "id": "ContentTextElement_239",
+      "parent_id": "SectionElement_141",
+      "level": 4,
+      "children_count": 0
+    },
+    {
+      "class_name": "ExhibitElement",
+      "text": "Subject to the terms and conditions of this Agreement, Provider shall provide...",
+      "text_length": 474,
+      "id": "ExhibitElement_148",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 3,
+      "exhibit_id": "Schedule 1",
+      "normalized_id": "exhibit_1"
+    },
+    {
+      "class_name": "ExhibitElement",
+      "text": "The term of this Agreement shall commence on the Closing Date and, unless ear...",
+      "text_length": 473,
+      "id": "ExhibitElement_149",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "exhibit_id": "Schedule 1",
+      "normalized_id": "exhibit_1"
+    },
+    {
+      "class_name": "ExhibitElement",
+      "text": "The term of any portion of the Transition Services as set forth in Schedule 1...",
+      "text_length": 338,
+      "id": "ExhibitElement_150",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 4,
+      "exhibit_id": "Schedule 1",
+      "normalized_id": "exhibit_1"
+    },
+    {
+      "class_name": "ExhibitElement",
+      "text": "The Provider and the Recipient shall each nominate one coordinator for each f...",
+      "text_length": 1228,
+      "id": "ExhibitElement_151",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "exhibit_id": "Schedule 1",
+      "normalized_id": "exhibit_1"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "EXECUTION VERSION",
+      "text_length": 17,
+      "id": "HeadingElement_152",
+      "parent_id": null,
+      "level": 1,
+      "children_count": 0,
+      "heading_text": "EXECUTION VERSION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "RECITALS",
+      "text_length": 8,
+      "id": "HeadingElement_153",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 3,
+      "heading_text": "RECITALS"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "As used in this Agreement and in the schedules attached hereto:",
+      "text_length": 63,
+      "id": "HeadingElement_154",
+      "parent_id": "ArticleElement_104",
+      "level": 2,
+      "children_count": 16,
+      "heading_text": "As used in this Agreement and in the schedules attached h..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "PROVISION OF\nTRANSITION SERVICES",
+      "text_length": 32,
+      "id": "HeadingElement_155",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "PROVISION OF\nTRANSITION SERVICES"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "2.2 Third Party Provider",
+      "text_length": 24,
+      "id": "HeadingElement_156",
+      "parent_id": "ExhibitElement_148",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "2.2 Third Party Provider"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "2.3 Standard of Transition Services",
+      "text_length": 35,
+      "id": "HeadingElement_157",
+      "parent_id": "ExhibitElement_148",
+      "level": 2,
+      "children_count": 2,
+      "heading_text": "2.3 Standard of Transition Services"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "2.4\nThird Party Consent",
+      "text_length": 23,
+      "id": "HeadingElement_158",
+      "parent_id": "ExhibitElement_148",
+      "level": 2,
+      "children_count": 2,
+      "heading_text": "2.4\nThird Party Consent"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "TERM AND TERMINATION",
+      "text_length": 20,
+      "id": "HeadingElement_159",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "TERM AND TERMINATION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "3.2 Extension of Term",
+      "text_length": 21,
+      "id": "HeadingElement_160",
+      "parent_id": "ExhibitElement_149",
+      "level": 2,
+      "children_count": 0,
+      "heading_text": "3.2 Extension of Term"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "3.3 Termination",
+      "text_length": 15,
+      "id": "HeadingElement_161",
+      "parent_id": "ExhibitElement_150",
+      "level": 2,
+      "children_count": 0,
+      "heading_text": "3.3 Termination"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "This Agreement may be terminated prior\nto any Termination Date as follows:",
+      "text_length": 74,
+      "id": "HeadingElement_162",
+      "parent_id": "ExhibitElement_150",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "This Agreement may be terminated prior\nto any Termination..."
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "3.4 Partial Termination",
+      "text_length": 23,
+      "id": "HeadingElement_163",
+      "parent_id": "ExhibitElement_150",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "3.4 Partial Termination"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "3.5 Survival",
+      "text_length": 12,
+      "id": "HeadingElement_164",
+      "parent_id": "ExhibitElement_150",
+      "level": 2,
+      "children_count": 0,
+      "heading_text": "3.5 Survival"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "5.2 Service Coordinators",
+      "text_length": 24,
+      "id": "HeadingElement_165",
+      "parent_id": "ArticleElement_118",
+      "level": 2,
+      "children_count": 0,
+      "heading_text": "5.2 Service Coordinators"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "5.3 Invoice Coordinators",
+      "text_length": 24,
+      "id": "HeadingElement_166",
+      "parent_id": "ExhibitElement_151",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "5.3 Invoice Coordinators"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "INTELLECTUAL\nPROPERTY",
+      "text_length": 21,
+      "id": "HeadingElement_167",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "INTELLECTUAL\nPROPERTY"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "INDEMNIFICATION",
+      "text_length": 15,
+      "id": "HeadingElement_168",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 4,
+      "heading_text": "INDEMNIFICATION"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "7.2 Indemnification",
+      "text_length": 19,
+      "id": "HeadingElement_169",
+      "parent_id": "HeadingElement_168",
+      "level": 2,
+      "children_count": 3,
+      "heading_text": "7.2 Indemnification"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "7.3 Limitations on Liability",
+      "text_length": 28,
+      "id": "HeadingElement_170",
+      "parent_id": "HeadingElement_168",
+      "level": 2,
+      "children_count": 0,
+      "heading_text": "7.3 Limitations on Liability"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "Notwithstanding any\nprovision herein to the contrary:",
+      "text_length": 53,
+      "id": "HeadingElement_171",
+      "parent_id": "HeadingElement_168",
+      "level": 2,
+      "children_count": 3,
+      "heading_text": "Notwithstanding any\nprovision herein to the contrary:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "FORCE MAJEURE",
+      "text_length": 13,
+      "id": "HeadingElement_172",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "FORCE MAJEURE"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "GENERAL PROVISIONS",
+      "text_length": 18,
+      "id": "HeadingElement_173",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 13,
+      "heading_text": "GENERAL PROVISIONS"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "If to the Provider:",
+      "text_length": 19,
+      "id": "HeadingElement_174",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "If to the Provider:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "If to the Recipient:",
+      "text_length": 20,
+      "id": "HeadingElement_175",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "If to the Recipient:"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.2 Amendment and Waivers",
+      "text_length": 26,
+      "id": "HeadingElement_176",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "10.2 Amendment and Waivers"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.3 Entire Agreement; No Third Party Rights",
+      "text_length": 44,
+      "id": "HeadingElement_177",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "10.3 Entire Agreement; No Third Party Rights"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.4 Assignment and Successors",
+      "text_length": 30,
+      "id": "HeadingElement_178",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "10.4 Assignment and Successors"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.5 Interpretation",
+      "text_length": 19,
+      "id": "HeadingElement_179",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "10.5 Interpretation"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.6 Severability",
+      "text_length": 17,
+      "id": "HeadingElement_180",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "10.6 Severability"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.7 Expenses",
+      "text_length": 13,
+      "id": "HeadingElement_181",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "10.7 Expenses"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.8 Governing Law",
+      "text_length": 18,
+      "id": "HeadingElement_182",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "10.8 Governing Law"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.9 Consent to Jurisdiction",
+      "text_length": 28,
+      "id": "HeadingElement_183",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "10.9 Consent to Jurisdiction"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.10 Waiver of Jury Trial",
+      "text_length": 26,
+      "id": "HeadingElement_184",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "heading_text": "10.10 Waiver of Jury Trial"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "10.11 Counterparts",
+      "text_length": 18,
+      "id": "HeadingElement_185",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 3,
+      "heading_text": "10.11 Counterparts"
+    },
+    {
+      "class_name": "HeadingElement",
+      "text": "TRANSITION SERVICES SCHEDULES1",
+      "text_length": 30,
+      "id": "HeadingElement_186",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 1,
+      "children_count": 1,
+      "heading_text": "TRANSITION SERVICES SCHEDULES1"
+    },
+    {
+      "class_name": "PartyElement",
+      "text": "THIS TRANSITION SERVICES AGREEMENT (this Agreement), dated as of June 1, 2018...",
+      "text_length": 507,
+      "id": "PartyElement_144",
+      "parent_id": "AgreementTitleElement_103",
+      "level": 2,
+      "children_count": 0,
+      "party_name": "SCR-Sibelco N.V.",
+      "party_type": "Belgian public company (Sibelco, as P...",
+      "normalized_id": "party_scr_sibelco_n_v_"
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, on December 11, 2017, Covia, Sibelco, Fairmount Santrol Holdings Inc...",
+      "text_length": 967,
+      "id": "RecitalElement_145",
+      "parent_id": "HeadingElement_153",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "WHEREAS, the Parties desire that Provider provides to Recipient certain trans...",
+      "text_length": 241,
+      "id": "RecitalElement_146",
+      "parent_id": "HeadingElement_153",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "RecitalElement",
+      "text": "NOW, THEREFORE, intending to be legally bound and in consideration of the mut...",
+      "text_length": 258,
+      "id": "RecitalElement_147",
+      "parent_id": "HeadingElement_153",
+      "level": 2,
+      "children_count": 0
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "2.1 Transition Services",
+      "text_length": 23,
+      "id": "SectionElement_106",
+      "parent_id": "HeadingElement_155",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "2",
+      "normalized_id": "2"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "3.1 Term",
+      "text_length": 8,
+      "id": "SectionElement_111",
+      "parent_id": "HeadingElement_159",
+      "level": 2,
+      "children_count": 0,
+      "section_number": "3",
+      "normalized_id": "3"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "5.1 Access",
+      "text_length": 10,
+      "id": "SectionElement_119",
+      "parent_id": "ArticleElement_118",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "5",
+      "normalized_id": "5"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "7.1 No Other\nRepresentations or Warranties",
+      "text_length": 42,
+      "id": "SectionElement_124",
+      "parent_id": "HeadingElement_168",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "7",
+      "normalized_id": "7"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "10.1 Notices",
+      "text_length": 12,
+      "id": "SectionElement_130",
+      "parent_id": "HeadingElement_173",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "10",
+      "normalized_id": "10"
+    },
+    {
+      "class_name": "SectionElement",
+      "text": "1\nAll Transition Services provided shall be provided in the same manner and a...",
+      "text_length": 218,
+      "id": "SectionElement_141",
+      "parent_id": "HeadingElement_186",
+      "level": 2,
+      "children_count": 1,
+      "section_number": "1",
+      "section_title": "All Transition Services provided shall be provided in the...",
+      "normalized_id": "1"
+    }
+  ]
+}

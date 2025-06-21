@@ -1,0 +1,552 @@
+{
+  "metadata": {
+    "source_file": "html_files/agreement_03.html",
+    "parsed_at": "2025-06-14T01:21:04.553891",
+    "parser_version": "simple_parser_v1",
+    "file_size": 27989
+  },
+  "elements": [
+    {
+      "type": "title",
+      "content": "Exhibit",
+      "level": 0,
+      "id": "title_0"
+    },
+    {
+      "type": "paragraph",
+      "content": "Exhibit 10(a)1",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_1",
+      "attributes": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "Exhibit 10(a)1",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_2",
+      "attributes": {
+        "style": "line-height:120%;text-indent:576px;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "ALLETE Executive Annual Incentive Plan",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_6",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Form of Award",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_7",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Effective 2018",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_8",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "[Eligible Executive Employees, except CEO and CFO]",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_9",
+      "attributes": {
+        "style": "line-height:174%;text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Target Award Opportunity",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_11",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Base Salary$TimesAward Opportunity (percent of base salary)%EqualsTarget Award$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_13",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Base Salary$TimesAward Opportunity (percent of base salary)%EqualsTarget Award$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_14",
+      "attributes": {
+        "style": "padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Base Salary",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_15",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_16",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Times",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_19",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Award Opportunity (percent of base salary)",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_23",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_24",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Equals",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_27",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Target Award",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_31",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_32",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Performance Levels and Award Amounts",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_34",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Goal Performance LevelPayout as Percent ofTarget AwardAward AmountSuperior200%$Target100%$Threshold45%$Below Threshold0%$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_37",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Goal Performance LevelPayout as Percent ofTarget AwardAward AmountSuperior200%$Target100%$Threshold45%$Below Threshold0%$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_38",
+      "attributes": {
+        "style": "padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Goal Performance Level",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_39",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Payout as Percent of",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_40",
+      "attributes": {
+        "style": "text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Target Award",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_41",
+      "attributes": {
+        "style": "text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Award Amount",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_42",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Superior",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_43",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "200%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_44",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_45",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Target",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_46",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "100%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_47",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_48",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Threshold",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_49",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "45%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_50",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_51",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Below Threshold",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_52",
+      "attributes": {
+        "style": "text-align:left;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "0%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_53",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "$",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_54",
+      "attributes": {
+        "style": "text-align:center;font-size:10pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Goals",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_56",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "GoalWeightingFinancial GoalsNet Income50%Cash from Operating Activities25%Strategic & Operational Positioning Goals25%100%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_59",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "GoalWeightingFinancial GoalsNet Income50%Cash from Operating Activities25%Strategic & Operational Positioning Goals25%100%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_60",
+      "attributes": {
+        "style": "padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Goal",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_68",
+      "attributes": {
+        "style": "text-align:center;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Weighting",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_76",
+      "attributes": {
+        "style": "text-align:center;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Financial Goals",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_78",
+      "attributes": {
+        "style": "text-align:left;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Net Income",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_86",
+      "attributes": {
+        "style": "text-align:left;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "50%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_87",
+      "attributes": {
+        "style": "text-align:center;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Cash from Operating Activities",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_90",
+      "attributes": {
+        "style": "text-align:left;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "25%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_92",
+      "attributes": {
+        "style": "text-align:center;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Strategic & Operational Positioning Goals",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_102",
+      "attributes": {
+        "style": "text-align:left;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "25%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_106",
+      "attributes": {
+        "style": "text-align:center;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "100%",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_114",
+      "attributes": {
+        "style": "text-align:center;font-size:11pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Compensation Subject to Compensation Recovery Policy",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_116",
+      "attributes": {
+        "style": "line-height:120%;text-align:center;font-size:12pt;"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Annual Incentive Plan Compensation is subject to recoupment as defined in the Compensation Recovery policy.",
+      "level": 5,
+      "tag": "div",
+      "id": "paragraph_118",
+      "attributes": {
+        "style": "line-height:120%;text-align:left;font-size:12pt;"
+      }
+    }
+  ],
+  "cross_references": [
+    {
+      "source_id": "paragraph_1",
+      "target_ref": "10",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit 10",
+      "position": 0
+    },
+    {
+      "source_id": "paragraph_2",
+      "target_ref": "10",
+      "type": "exhibit_ref",
+      "text_span": "Exhibit 10",
+      "position": 0
+    }
+  ],
+  "statistics": {
+    "total_elements": 52,
+    "element_types": {
+      "title": 1,
+      "paragraph": 51
+    },
+    "total_cross_references": 2,
+    "reference_types": {
+      "exhibit_ref": 2
+    },
+    "content_length": 27989
+  }
+}

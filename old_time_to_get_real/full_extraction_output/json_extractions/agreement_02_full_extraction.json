@@ -1,0 +1,103 @@
+{
+  "agreement_info": {
+    "number": 2,
+    "filename": "agreement_02.html",
+    "total_elements": 10,
+    "element_types": {
+      "TextElement": 1,
+      "TableElement": 2,
+      "AgreementTitleElement": 1,
+      "ContentTextElement": 3,
+      "RecitalElement": 3
+    }
+  },
+  "elements": [
+    {
+      "class_name": "TextElement",
+      "module": "sec_parser.semantic_elements.semantic_elements",
+      "text": "Schedule A"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "Fund\n  \nRate\n \n\n SPDR® Long Dollar Gold Trust\n  \n \n0.33\n% \n\n SPDR® Gold MiniShares Trust\n  \n \n0.XX\n%"
+    },
+    {
+      "class_name": "TableElement",
+      "module": "sec_parser.semantic_elements.table_element.table_element",
+      "text": "World Gold Trust\n\n\n\nBy: Delaware Trust Company, its Trustee\n\n\n\nBy: ________________________________\n\nName: ______________________________\n\nTitle: ______________________________\n\n\n\nWGC USA Asset Management Company, LLC\n\n\n\nBy: ________________________________\n\nName: ______________________________\n\nTitle:"
+    },
+    {
+      "class_name": "AgreementTitleElement",
+      "module": "agreement_parser_v6",
+      "text": "FORM OF SECOND AMENDMENT TO AMENDED AND RESTATED SPONSOR AGREEMENT",
+      "id": "AgreementTitleElement_38",
+      "parent_id": null,
+      "children": [
+        "RecitalElement_39",
+        "RecitalElement_40",
+        "RecitalElement_41"
+      ],
+      "level": 0,
+      "normalized_id": "title"
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "Schedule A. Schedule A is hereby amended by listing a new series thereon, with such new\nseries underlined in such amended schedule, as follows:",
+      "id": "ContentTextElement_42",
+      "parent_id": "RecitalElement_41",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "The Trust will pay to the Sponsor as compensation for the Sponsors services rendered to each Fund, a fee, computed daily at an annual rate based on the\naverage daily net assets of each Fund in accordance with the following fee schedule:",
+      "id": "ContentTextElement_43",
+      "parent_id": "RecitalElement_41",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "ContentTextElement",
+      "module": "agreement_parser_v6",
+      "text": "IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered as of\n[], 2018.",
+      "id": "ContentTextElement_44",
+      "parent_id": "RecitalElement_41",
+      "children": [],
+      "level": 4
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, WGC USA Asset Management Company, LLC, a Delaware limited liability company (Sponsor) and World Gold Trust (the\nTrust), a Delaware statutory trust organized in series (each, a Fund and collectively, the Funds), have heretofore entered into an Amended and Restated Sponsor Agreement (Agreement), dated as of\nOctober 14, 2016 as amended November 28, 2017; and",
+      "id": "RecitalElement_39",
+      "parent_id": "AgreementTitleElement_38",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "WHEREAS, the parties hereto desire to amend the Agreement\n(Amendment) to list on Schedule A thereto a new series of the Trust.",
+      "id": "RecitalElement_40",
+      "parent_id": "AgreementTitleElement_38",
+      "children": [],
+      "level": 2
+    },
+    {
+      "class_name": "RecitalElement",
+      "module": "agreement_parser_v6",
+      "text": "NOW, THEREFORE, in consideration of the agreements and\nobligations set forth herein and for other good and valuation consideration, the receipt and sufficiency of which are hereby acknowledged, each of the Sponsor and the Trust, both for itself and on behalf of each Fund set for on Schedule A, hereby\namend the Agreement and agree as follows:",
+      "id": "RecitalElement_41",
+      "parent_id": "AgreementTitleElement_38",
+      "children": [
+        "ContentTextElement_42",
+        "ContentTextElement_43",
+        "ContentTextElement_44"
+      ],
+      "level": 2
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+AGREEMENT 11 SEMANTIC TREE SUMMARY
+==================================================
+File: agreement_11.html
+Total Elements: 140
+Hierarchical Elements: 131
+Status: ✅ EXCELLENT
+
+Title: FORWARD PURCHASE AGREEMENT
+
+Element Type Breakdown:
+  AgreementTitleElement: 1
+  ClauseElement: 49
+  ContentTextElement: 53
+  DefinitionElement: 1
+  HeadingElement: 4
+  PartyElement: 1
+  RecitalElement: 8
+  SectionElement: 14
+  TableElement: 4
+  TextElement: 5
+
+SEMANTIC TREE:
+--------------------
+AgreementTitle: FORWARD PURCHASE AGREEMENT
+  ├─ Heading: COMPANY:
+  ├─ Heading: FAR POINT ACQUISITION CORPORATION
+    ├─ ContentText: By:
+ 
+ /s/ David Bonanno
+
+
+ 
+Name: David Bonanno
+
+
+ 
+Title: 
+    ├─ ContentText: TO BE EXECUTED UPON ANY ASSIGNMENT AND/OR REVISION IN ACCORD
+    ├─ ContentText: Number of Forward Purchase Shares and
+Purchase Price for For
+    ├─ ContentText: The following transfers of a portion of the original number 
+    ├─ ContentText: Date ofTransfer
+  
+ Transferee
+  
+
+Number ofForwardPurchaseS
+    ├─ ContentText: By:
+ 
+  
+  
+By:
+ 
+  
+
+
+ 
+Name:
+  
+
+ 
+Name:
+
+
+ 
+Title:
+  
+
+ 
+
+  ├─ Heading: REGISTRATION RIGHTS
+    ├─ Section: 10: The Companys obligation under paragraph 1 of this Ex...
+    ├─ Section: 12: The Company shall cooperate with the Purchaser, to th...
+    ├─ Section: 13: If requested by
+    ├─ Section: 14: As long as the Purchaser shall own Registrable Securi...
+    ├─ Section: 15: The rights, duties and obligations of the Purchaser u...
+    ├─ Definition: "shall"
+      ├─ ContentText: 8. The Company may suspend the use of a prospectus included 
+      ├─ ContentText: 9. The Purchaser agrees that, except as
+required by applicab
+    ├─ ContentText: 1.
+Within thirty (30) days after the Business Combination Cl
+    ├─ ContentText: 2. In the event the Company is prohibited by applicable rule
+    ├─ ContentText: 3. If at any time the Company proposes to file a
+registratio
+    ├─ ContentText: 4. Within three (3) Business Days after receiving notice fro
+    ├─ ContentText: 5. The determination of whether any
+offering of Registrable 
+    ├─ ContentText: 6. In connection with any underwritten offering, the Company
+  ├─ Party: Far Point Acquisition
+Corporation
+  ├─ Heading: Recitals
+  ├─ Recital: WHEREAS,
+the Company was formed for the purpose of effecting
+  ├─ Recital: WHEREAS, the Company intends to file with the U.S. Securitie
+  ├─ Recital: WHEREAS, following the closing of the IPO (the IPO Closing
+  ├─ Recital: WHEREAS, the parties wish to enter into this Agreement, purs
+  ├─ Recital: WHEREAS, the Companys Class B common stock, par value $0.00
+  ├─ Recital: WHEREAS, in connection with the IPO, the Sponsor will purcha
+  ├─ Recital: WHEREAS, proceeds from the IPO and the sale of the Private P
+  ├─ Recital: NOW, THEREFORE, in consideration of the premises, representa
+  ├─ Section: 1: Sale and Purchase.
+    ├─ Clause: (a) Forward Purchase Shares.
+    ├─ Clause: (i) The Company shall issue and sell to the Purchaser, an...
+      ├─ ContentText: (ii) Notwithstanding the foregoing, the Purchaser shall have
+      ├─ ContentText: (iii) The Company shall require the Purchaser to purchase th
+    ├─ Clause: (b) Legends. Each book entry for the Forward Purchase Sha...
+      ├─ ContentText: THE
+SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED 
+      ├─ ContentText: (c) Legend Removal. If the Forward Purchase Shares are eligi
+  ├─ Section: 2: Representations and Warranties of the Purchaser. The P...
+    ├─ Clause: (a) Organization and Power. The Purchaser is duly organiz...
+      ├─ ContentText: (b) Authorization. The Purchaser has full power and authorit
+    ├─ Clause: (c) Governmental Consents and Filings. No consent, approv...
+      ├─ ContentText: (d) Compliance with Other Instruments. The execution, delive
+      ├─ ContentText: (e) Purchase Entirely for Own Account. This Agreement is mad
+    ├─ Clause: (f) Disclosure of Information. The Purchaser has had an o...
+      ├─ ContentText: (g) Restricted Securities. The Purchaser understands that th
+    ├─ Clause: (h) No Public Market. The Purchaser understands that no p...
+    ├─ Clause: (i) High Degree of
+    ├─ Clause: (j) Accredited Investor. The Purchaser is an accredited i...
+    ├─ Clause: (k) No General Solicitation. Neither the Purchaser, nor, ...
+    ├─ Clause: (l) Residence. The Purchasers principal place of busines...
+    ├─ Clause: (m) Adequacy of Financing. The Purchaser
+    ├─ Clause: (n) Affiliation of Certain FINRA
+      ├─ ContentText: (o) No Other Representations and
+Warranties; Non-Reliance. E
+  ├─ Section: 3: Representations and Warranties of the Company. The Com...
+    ├─ Clause: (a) Organization and Corporate Power. The Company is a co...
+    ├─ Clause: (b) Capitalization. On the date hereof, the authorized sh...
+    ├─ Clause: (i) 200,000,000 Class A Shares, none of which are issued ...
+      ├─ ContentText: Prior to the closing of the IPO, the Company expects to amen
+      ├─ Clause: (ii) 20,000,000 Class B Shares, 11,500,000 of which are i...
+      ├─ Clause: (iii) 1,000,000 preferred shares, none of which are issue...
+    ├─ Clause: (i) 400,000,000 Class A Shares.
+      ├─ ContentText: (c) Authorization. All corporate action required to
+be taken
+      ├─ ContentText: (d)
+Valid Issuance of Securities. The Forward Purchase Share
+      ├─ ContentText: (e) Governmental Consents
+and Filings. Assuming the accuracy
+      ├─ Clause: (ii) 50,000,000 Class B Shares.
+      ├─ Clause: (iii) 1,000,000 preferred shares.
+    ├─ Clause: (f) Compliance with Other Instruments. The execution, del...
+      ├─ ContentText: (i) of any provisions of the Charter, bylaws or other govern
+    ├─ Clause: (g) Operations. As of the date hereof, the Company has no...
+    ├─ Clause: (h) No General Solicitation. Neither the Company, nor any...
+      ├─ ContentText: (i) No Other Representations and Warranties; Non-Reliance. E
+  ├─ Section: 4: Registration Rights; Transfer
+    ├─ Clause: (a) Registration. The Company agrees that the Purchaser s...
+    ├─ Clause: (b) Indemnification.
+      ├─ ContentText: (i) The Company shall, notwithstanding any termination of th
+      ├─ ContentText: (ii) The Purchaser shall, severally and not jointly with any
+    ├─ Clause: (c) Transfer. This Agreement and all of the Purchasers r...
+      ├─ ContentText: (i) the applicable Transferee shall execute a signature page
+      ├─ ContentText: (ii) upon a
+Transferees execution and delivery of a Joinder
+  ├─ Section: 5: Additional Agreements and Acknowledgements of the Purc...
+    ├─ Clause: (a) Trust Account.
+      ├─ ContentText: (i)
+The Purchaser hereby acknowledges that it is aware that 
+        ├─ Clause: (ii) The Purchaser hereby agrees that it shall have no ri...
+      ├─ ContentText: and liquidation rights, if any, the Purchaser may have in re
+    ├─ Clause: (b) Voting. The Purchaser hereby agrees that if the Compa...
+      ├─ ContentText: (c) No Short Sales. The Purchaser hereby agrees that neither
+  ├─ Section: 6: Listing. The Company will use commercially reasonable ...
+  ├─ Section: 7: Forward Closing
+    ├─ Clause: (a) The obligation of the Purchaser to purchase the Forwa...
+    ├─ Clause: (i) The Business Combination shall be consummated substan...
+      ├─ ContentText: (iii) The representations and warranties of the Company set 
+        ├─ Clause: (iv) The Company shall have performed, satisfied and comp...
+      ├─ Clause: (ii) The Company shall have delivered to the Purchaser a ...
+    ├─ Clause: (v) No order, writ, judgment, injunction, decree, determi...
+    ├─ Clause: (b) The obligation of the Company to sell the Forward Pur...
+    ├─ Clause: (i) The Business Combination shall be consummated substan...
+      ├─ ContentText: (ii) The representations and warranties of the Purchaser set
+        ├─ Clause: (iii) The Purchaser shall have performed,
+        ├─ Clause: (iv) No order, writ, judgment, injunction, decree, determ...
+  ├─ Section: 8: Termination. This Agreement may be terminated at any t...
+    ├─ Clause: (a) by mutual written consent of the Company and the Purc...
+    ├─ Clause: (b) automatically:
+    ├─ Clause: (i) if the
+      ├─ ContentText: In the event of any termination of this Agreement
+pursuant t
+      ├─ Clause: (ii) if the Business Combination is not consummated withi...
+  ├─ Section: 9: General Provisions.
+    ├─ Clause: (c) Survival of Representations and Warranties. All of th...
+    ├─ Clause: (d) Entire Agreement. This Agreement, together with any d...
+      ├─ ContentText: (e)
+Successors. All of the terms, agreements, covenants, rep
+    ├─ Clause: (f) Assignments. Except as otherwise specifically provide...
+      ├─ ContentText: (g) Counterparts. This Agreement may be executed in two or m
+      ├─ ContentText: (h) Headings. The section headings contained in this Agreeme
+    ├─ Clause: (i) Governing
+      ├─ ContentText: (j) Jurisdiction. The
+parties (i) hereby irrevocably and unc
+      ├─ ContentText: (k) Waiver of Jury Trial. The parties hereto hereby waive
+an
+    ├─ Clause: (l) Amendments. This Agreement may not be amended, modifi...
+      ├─ ContentText: (m) Severability. The
+provisions of this Agreement will be d
+      ├─ ContentText: (n) Expenses. Each of the Company and the Purchaser will bea
+      ├─ ContentText: (o) Construction. The parties hereto have participated joint
+      ├─ ContentText: (p) Waiver. No waiver by any party hereto of any default, mi
+    ├─ Clause: (q) Specific Performance. The Purchaser agrees that irrep...
+      ├─ ContentText: IN WITNESS WHEREOF, the undersigned have executed this Agree
+      ├─ ContentText: Address for      Notices:
+ 
+ 390 Park Avenue
+New York, NY 10
+    ├─ ContentText: (a) Notices. All notices and other communications given or m
+    ├─ ContentText: All communications to the Purchaser shall be sent to the Pur
+    ├─ ContentText: (b) No Finders
+Fees. Each party represents that it neither 

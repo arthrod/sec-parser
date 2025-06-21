@@ -1,0 +1,1159 @@
+🧹 CLEARED global traces (had 0 entries)
+🧹 CLEARED global traces (had 0 entries)
+🔧 ENHANCED TRACING: OrphanAttacherStep patched with execution validation
+🔧 ENHANCED TRACING: OrphanAttacherStep patched with execution validation
+🔧 ENHANCED TRACING: OrphanAttacherStep patched with execution validation
+🔧 ENHANCED TRACING: OrphanAttacherStep patched with execution validation
+Found 115 HTML files in /Users/arthrod/temp/Manual Library/temp/sec-parser/time_to_get_real/html_files. Processing...
+Processing agreement_001.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 33→33 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 1, This step: 1
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 33→33 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 3, This step: 1
+🔍 TRACED EXECUTION: OrphanAttacherStep - 33→33 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 22, This step: 1
+🔍 TRACED EXECUTION: TextElementMerger - 33→27 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 1
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_001_tree.txt
+Processing agreement_002.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 99→99 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 2
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 99→99 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 2
+🔍 TRACED EXECUTION: OrphanAttacherStep - 83→83 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 2
+🔍 TRACED EXECUTION: TextElementMerger - 83→83 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 2
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_002_tree.txt
+Processing agreement_003.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 451→451 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 3
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 451→451 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 3
+🔍 TRACED EXECUTION: OrphanAttacherStep - 430→430 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 3
+🔍 TRACED EXECUTION: TextElementMerger - 430→419 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 3
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_003_tree.txt
+Processing agreement_004.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 103→103 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 4
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 103→103 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 4
+🔍 TRACED EXECUTION: OrphanAttacherStep - 103→103 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 4
+🔍 TRACED EXECUTION: TextElementMerger - 103→103 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 4
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_004_tree.txt
+Processing agreement_005.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 778→778 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 5
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 778→778 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 5
+🔍 TRACED EXECUTION: OrphanAttacherStep - 776→776 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 5
+🔍 TRACED EXECUTION: TextElementMerger - 776→550 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 5
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_005_tree.txt
+Processing agreement_006.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 36→36 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 6
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 36→36 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 6
+🔍 TRACED EXECUTION: OrphanAttacherStep - 36→36 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 6
+🔍 TRACED EXECUTION: TextElementMerger - 36→35 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 6
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_006_tree.txt
+Processing agreement_007.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 82→82 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 7
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 82→82 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 7
+🔍 TRACED EXECUTION: OrphanAttacherStep - 79→79 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 7
+🔍 TRACED EXECUTION: TextElementMerger - 79→79 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 7
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_007_tree.txt
+Processing agreement_008.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 8
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 8
+🔍 TRACED EXECUTION: OrphanAttacherStep - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 8
+🔍 TRACED EXECUTION: TextElementMerger - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 8
+  No hierarchical elements found in agreement_008.html.
+Processing agreement_009.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 9
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 9
+🔍 TRACED EXECUTION: OrphanAttacherStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 9
+🔍 TRACED EXECUTION: TextElementMerger - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 9
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_009_tree.txt
+Processing agreement_01.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 140→140 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 10
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 140→140 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 10
+🔍 TRACED EXECUTION: OrphanAttacherStep - 124→124 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 10
+🔍 TRACED EXECUTION: TextElementMerger - 124→123 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 10
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_01_tree.txt
+Processing agreement_010.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 65→65 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 11
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 65→65 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 11
+🔍 TRACED EXECUTION: OrphanAttacherStep - 65→65 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 11
+🔍 TRACED EXECUTION: TextElementMerger - 65→63 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 11
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_010_tree.txt
+Processing agreement_011.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 139→139 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 12
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 139→139 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 12
+🔍 TRACED EXECUTION: OrphanAttacherStep - 133→133 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 12
+🔍 TRACED EXECUTION: TextElementMerger - 133→126 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 12
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_011_tree.txt
+Processing agreement_012.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 159→159 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 13
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 159→159 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 13
+🔍 TRACED EXECUTION: OrphanAttacherStep - 145→145 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 13
+🔍 TRACED EXECUTION: TextElementMerger - 145→126 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 13
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_012_tree.txt
+Processing agreement_013.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 194→194 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 14
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 194→194 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 14
+🔍 TRACED EXECUTION: OrphanAttacherStep - 194→194 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 14
+🔍 TRACED EXECUTION: TextElementMerger - 194→183 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 14
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_013_tree.txt
+Processing agreement_014.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 169→169 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 15
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 169→169 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 15
+🔍 TRACED EXECUTION: OrphanAttacherStep - 160→160 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 15
+🔍 TRACED EXECUTION: TextElementMerger - 160→160 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 15
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_014_tree.txt
+Processing agreement_015.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 351→351 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 16
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 351→351 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 16
+🔍 TRACED EXECUTION: OrphanAttacherStep - 332→332 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 16
+🔍 TRACED EXECUTION: TextElementMerger - 332→316 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 16
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_015_tree.txt
+Processing agreement_016.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 17
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 17
+🔍 TRACED EXECUTION: OrphanAttacherStep - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 17
+🔍 TRACED EXECUTION: TextElementMerger - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 17
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_016_tree.txt
+Processing agreement_017.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 25→25 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 18
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 25→25 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 18
+🔍 TRACED EXECUTION: OrphanAttacherStep - 25→25 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 18
+🔍 TRACED EXECUTION: TextElementMerger - 25→24 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 18
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_017_tree.txt
+Processing agreement_018.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 32→32 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 19
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 32→32 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 19
+🔍 TRACED EXECUTION: OrphanAttacherStep - 32→32 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 19
+🔍 TRACED EXECUTION: TextElementMerger - 32→32 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 19
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_018_tree.txt
+Processing agreement_019.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 50→50 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 20
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 50→50 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 20
+🔍 TRACED EXECUTION: OrphanAttacherStep - 50→50 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 20
+🔍 TRACED EXECUTION: TextElementMerger - 50→50 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 20
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_019_tree.txt
+Processing agreement_02.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 13→13 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 21
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 13→13 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 21
+🔍 TRACED EXECUTION: OrphanAttacherStep - 13→13 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 21
+🔍 TRACED EXECUTION: TextElementMerger - 13→13 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 21
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_02_tree.txt
+Processing agreement_020.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 22
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 22
+🔍 TRACED EXECUTION: OrphanAttacherStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 22
+🔍 TRACED EXECUTION: TextElementMerger - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 22
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_020_tree.txt
+Processing agreement_021.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 7→7 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 23
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 7→7 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 23
+🔍 TRACED EXECUTION: OrphanAttacherStep - 7→7 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 23
+🔍 TRACED EXECUTION: TextElementMerger - 7→7 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 23
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_021_tree.txt
+Processing agreement_022.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 245→245 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 24
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 245→245 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 24
+🔍 TRACED EXECUTION: OrphanAttacherStep - 245→245 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 24
+🔍 TRACED EXECUTION: TextElementMerger - 245→158 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 24
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_022_tree.txt
+Processing agreement_023.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 238→238 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 25
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 238→238 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 25
+🔍 TRACED EXECUTION: OrphanAttacherStep - 238→238 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 25
+🔍 TRACED EXECUTION: TextElementMerger - 238→219 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 25
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_023_tree.txt
+Processing agreement_024.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 26
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 26
+🔍 TRACED EXECUTION: OrphanAttacherStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 26
+🔍 TRACED EXECUTION: TextElementMerger - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 26
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_024_tree.txt
+Processing agreement_025.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 110→110 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 27
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 110→110 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 27
+🔍 TRACED EXECUTION: OrphanAttacherStep - 105→105 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 27
+🔍 TRACED EXECUTION: TextElementMerger - 105→102 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 27
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_025_tree.txt
+Processing agreement_026.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 324→324 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 28
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 324→324 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 28
+🔍 TRACED EXECUTION: OrphanAttacherStep - 306→306 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 28
+🔍 TRACED EXECUTION: TextElementMerger - 306→288 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 28
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_026_tree.txt
+Processing agreement_027.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 261→261 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 29
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 261→261 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 29
+🔍 TRACED EXECUTION: OrphanAttacherStep - 250→250 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 29
+🔍 TRACED EXECUTION: TextElementMerger - 250→247 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 29
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_027_tree.txt
+Processing agreement_028.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 16→16 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 30
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 16→16 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 30
+🔍 TRACED EXECUTION: OrphanAttacherStep - 16→16 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 30
+🔍 TRACED EXECUTION: TextElementMerger - 16→16 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 30
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_028_tree.txt
+Processing agreement_029.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 266→266 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 31
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 266→266 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 31
+🔍 TRACED EXECUTION: OrphanAttacherStep - 266→266 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 31
+🔍 TRACED EXECUTION: TextElementMerger - 266→229 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 31
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_029_tree.txt
+Processing agreement_03.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 30→30 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 32
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 30→30 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 32
+🔍 TRACED EXECUTION: OrphanAttacherStep - 30→30 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 32
+🔍 TRACED EXECUTION: TextElementMerger - 30→27 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 32
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_03_tree.txt
+Processing agreement_030.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 170→170 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 33
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 170→170 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 33
+🔍 TRACED EXECUTION: OrphanAttacherStep - 170→170 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 33
+🔍 TRACED EXECUTION: TextElementMerger - 170→160 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 33
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_030_tree.txt
+Processing agreement_031.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 317→317 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 34
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 317→317 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 34
+🔍 TRACED EXECUTION: OrphanAttacherStep - 303→303 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 34
+🔍 TRACED EXECUTION: TextElementMerger - 303→277 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 34
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_031_tree.txt
+Processing agreement_032.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 141→141 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 35
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 141→141 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 35
+🔍 TRACED EXECUTION: OrphanAttacherStep - 141→141 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 35
+🔍 TRACED EXECUTION: TextElementMerger - 141→134 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 35
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_032_tree.txt
+Processing agreement_033.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 187→187 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 36
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 187→187 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 36
+🔍 TRACED EXECUTION: OrphanAttacherStep - 177→177 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 36
+🔍 TRACED EXECUTION: TextElementMerger - 177→162 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 36
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_033_tree.txt
+Processing agreement_034.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 212→212 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 37
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 212→212 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 37
+🔍 TRACED EXECUTION: OrphanAttacherStep - 186→186 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 37
+🔍 TRACED EXECUTION: TextElementMerger - 186→186 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 37
+  No hierarchical elements found in agreement_034.html.
+Processing agreement_035.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 4→4 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 38
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 4→4 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 38
+🔍 TRACED EXECUTION: OrphanAttacherStep - 4→4 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 38
+🔍 TRACED EXECUTION: TextElementMerger - 4→4 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 38
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_035_tree.txt
+Processing agreement_036.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 39
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 39
+🔍 TRACED EXECUTION: OrphanAttacherStep - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 39
+🔍 TRACED EXECUTION: TextElementMerger - 130→127 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 39
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_036_tree.txt
+Processing agreement_037.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 40
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 40
+🔍 TRACED EXECUTION: OrphanAttacherStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 40
+🔍 TRACED EXECUTION: TextElementMerger - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 40
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_037_tree.txt
+Processing agreement_038.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 624→624 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 41
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 624→624 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 41
+🔍 TRACED EXECUTION: OrphanAttacherStep - 583→583 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 41
+🔍 TRACED EXECUTION: TextElementMerger - 583→559 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 41
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_038_tree.txt
+Processing agreement_039.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 8→8 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 42
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 8→8 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 42
+🔍 TRACED EXECUTION: OrphanAttacherStep - 8→8 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 42
+🔍 TRACED EXECUTION: TextElementMerger - 8→8 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 42
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_039_tree.txt
+Processing agreement_04.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 146→146 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 43
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 146→146 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 43
+🔍 TRACED EXECUTION: OrphanAttacherStep - 139→139 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 43
+🔍 TRACED EXECUTION: TextElementMerger - 139→137 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 43
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_04_tree.txt
+Processing agreement_040.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 47→47 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 44
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 47→47 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 44
+🔍 TRACED EXECUTION: OrphanAttacherStep - 45→45 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 44
+🔍 TRACED EXECUTION: TextElementMerger - 45→45 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 44
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_040_tree.txt
+Processing agreement_041.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 45
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 45
+🔍 TRACED EXECUTION: OrphanAttacherStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 45
+🔍 TRACED EXECUTION: TextElementMerger - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 45
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_041_tree.txt
+Processing agreement_042.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 122→122 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 46
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 122→122 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 46
+🔍 TRACED EXECUTION: OrphanAttacherStep - 115→115 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 46
+🔍 TRACED EXECUTION: TextElementMerger - 115→112 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 46
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_042_tree.txt
+Processing agreement_043.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 37→37 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 47
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 37→37 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 47
+🔍 TRACED EXECUTION: OrphanAttacherStep - 37→37 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 47
+🔍 TRACED EXECUTION: TextElementMerger - 37→37 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 47
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_043_tree.txt
+Processing agreement_044.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 320→320 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 48
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 320→320 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 48
+🔍 TRACED EXECUTION: OrphanAttacherStep - 319→319 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 48
+🔍 TRACED EXECUTION: TextElementMerger - 319→319 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 48
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_044_tree.txt
+Processing agreement_045.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 287→287 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 49
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 287→287 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 49
+🔍 TRACED EXECUTION: OrphanAttacherStep - 272→272 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 49
+🔍 TRACED EXECUTION: TextElementMerger - 272→264 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 49
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_045_tree.txt
+Processing agreement_046.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 157→157 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 50
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 157→157 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 50
+🔍 TRACED EXECUTION: OrphanAttacherStep - 157→157 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 50
+🔍 TRACED EXECUTION: TextElementMerger - 157→151 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 50
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_046_tree.txt
+Processing agreement_047.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 426→426 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 51
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 426→426 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 51
+🔍 TRACED EXECUTION: OrphanAttacherStep - 426→426 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 51
+🔍 TRACED EXECUTION: TextElementMerger - 426→412 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 51
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_047_tree.txt
+Processing agreement_048.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 52
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 52
+🔍 TRACED EXECUTION: OrphanAttacherStep - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 52
+🔍 TRACED EXECUTION: TextElementMerger - 43→43 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 52
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_048_tree.txt
+Processing agreement_049.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 82→82 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 53
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 82→82 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 53
+🔍 TRACED EXECUTION: OrphanAttacherStep - 82→82 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 53
+🔍 TRACED EXECUTION: TextElementMerger - 82→81 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 53
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_049_tree.txt
+Processing agreement_05.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 228→228 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 54
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 228→228 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 54
+🔍 TRACED EXECUTION: OrphanAttacherStep - 228→228 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 54
+🔍 TRACED EXECUTION: TextElementMerger - 228→208 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 54
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_05_tree.txt
+Processing agreement_050.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 170→170 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 55
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 170→170 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 55
+🔍 TRACED EXECUTION: OrphanAttacherStep - 164→164 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 55
+🔍 TRACED EXECUTION: TextElementMerger - 164→148 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 55
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_050_tree.txt
+Processing agreement_051.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 217→217 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 56
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 217→217 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 56
+🔍 TRACED EXECUTION: OrphanAttacherStep - 217→217 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 56
+🔍 TRACED EXECUTION: TextElementMerger - 217→211 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 56
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_051_tree.txt
+Processing agreement_052.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 49→49 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 57
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 49→49 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 57
+🔍 TRACED EXECUTION: OrphanAttacherStep - 49→49 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 57
+🔍 TRACED EXECUTION: TextElementMerger - 49→49 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 57
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_052_tree.txt
+Processing agreement_053.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 58
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 58
+🔍 TRACED EXECUTION: OrphanAttacherStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 58
+🔍 TRACED EXECUTION: TextElementMerger - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 58
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_053_tree.txt
+Processing agreement_054.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 640→640 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 59
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 640→640 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 59
+🔍 TRACED EXECUTION: OrphanAttacherStep - 604→604 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 59
+🔍 TRACED EXECUTION: TextElementMerger - 604→568 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 59
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_054_tree.txt
+Processing agreement_055.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 35→35 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 60
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 35→35 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 60
+🔍 TRACED EXECUTION: OrphanAttacherStep - 35→35 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 60
+🔍 TRACED EXECUTION: TextElementMerger - 35→35 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 60
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_055_tree.txt
+Processing agreement_056.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 451→451 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 61
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 451→451 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 61
+🔍 TRACED EXECUTION: OrphanAttacherStep - 432→432 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 61
+🔍 TRACED EXECUTION: TextElementMerger - 432→430 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 61
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_056_tree.txt
+Processing agreement_057.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 159→159 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 62
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 159→159 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 62
+🔍 TRACED EXECUTION: OrphanAttacherStep - 154→154 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 62
+🔍 TRACED EXECUTION: TextElementMerger - 154→140 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 62
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_057_tree.txt
+Processing agreement_058.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 85→85 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 63
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 85→85 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 63
+🔍 TRACED EXECUTION: OrphanAttacherStep - 85→85 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 63
+🔍 TRACED EXECUTION: TextElementMerger - 85→80 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 63
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_058_tree.txt
+Processing agreement_059.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 64
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 64
+🔍 TRACED EXECUTION: OrphanAttacherStep - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 64
+🔍 TRACED EXECUTION: TextElementMerger - 1→1 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 64
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_059_tree.txt
+Processing agreement_06.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 393→393 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 65
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 393→393 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 65
+🔍 TRACED EXECUTION: OrphanAttacherStep - 256→256 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 65
+🔍 TRACED EXECUTION: TextElementMerger - 256→256 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 65
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_06_tree.txt
+Processing agreement_060.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 180→180 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 66
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 180→180 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 66
+🔍 TRACED EXECUTION: OrphanAttacherStep - 180→180 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 66
+🔍 TRACED EXECUTION: TextElementMerger - 180→162 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 66
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_060_tree.txt
+Processing agreement_061.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 94→94 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 67
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 94→94 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 67
+🔍 TRACED EXECUTION: OrphanAttacherStep - 94→94 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 67
+🔍 TRACED EXECUTION: TextElementMerger - 94→84 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 67
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_061_tree.txt
+Processing agreement_062.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 168→168 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 68
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 168→168 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 68
+🔍 TRACED EXECUTION: OrphanAttacherStep - 163→163 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 68
+🔍 TRACED EXECUTION: TextElementMerger - 163→160 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 68
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_062_tree.txt
+Processing agreement_063.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 530→530 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 69
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 530→530 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 69
+🔍 TRACED EXECUTION: OrphanAttacherStep - 530→530 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 69
+🔍 TRACED EXECUTION: TextElementMerger - 530→479 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 69
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_063_tree.txt
+Processing agreement_064.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 64→64 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 70
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 64→64 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 70
+🔍 TRACED EXECUTION: OrphanAttacherStep - 61→61 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 70
+🔍 TRACED EXECUTION: TextElementMerger - 61→61 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 70
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_064_tree.txt
+Processing agreement_065.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 192→192 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 71
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 192→192 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 71
+🔍 TRACED EXECUTION: OrphanAttacherStep - 192→192 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 71
+🔍 TRACED EXECUTION: TextElementMerger - 192→173 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 71
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_065_tree.txt
+Processing agreement_066.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 55→55 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 72
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 55→55 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 72
+🔍 TRACED EXECUTION: OrphanAttacherStep - 55→55 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 72
+🔍 TRACED EXECUTION: TextElementMerger - 55→53 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 72
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_066_tree.txt
+Processing agreement_067.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 162→162 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 73
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 162→162 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 73
+🔍 TRACED EXECUTION: OrphanAttacherStep - 162→162 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 73
+🔍 TRACED EXECUTION: TextElementMerger - 162→139 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 73
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_067_tree.txt
+Processing agreement_068.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 250→250 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 74
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 250→250 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 74
+🔍 TRACED EXECUTION: OrphanAttacherStep - 231→231 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 74
+🔍 TRACED EXECUTION: TextElementMerger - 231→230 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 74
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_068_tree.txt
+Processing agreement_069.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 11→11 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 75
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 11→11 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 75
+🔍 TRACED EXECUTION: OrphanAttacherStep - 11→11 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 75
+🔍 TRACED EXECUTION: TextElementMerger - 11→9 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 75
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_069_tree.txt
+Processing agreement_07.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 336→336 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 76
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 336→336 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 76
+🔍 TRACED EXECUTION: OrphanAttacherStep - 310→310 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 76
+🔍 TRACED EXECUTION: TextElementMerger - 310→303 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 76
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_07_tree.txt
+Processing agreement_070.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 124→124 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 77
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 124→124 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 77
+🔍 TRACED EXECUTION: OrphanAttacherStep - 124→124 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 77
+🔍 TRACED EXECUTION: TextElementMerger - 124→122 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 77
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_070_tree.txt
+Processing agreement_071.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 36→36 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 78
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 36→36 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 78
+🔍 TRACED EXECUTION: OrphanAttacherStep - 36→36 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 78
+🔍 TRACED EXECUTION: TextElementMerger - 36→35 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 78
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_071_tree.txt
+Processing agreement_072.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 165→165 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 79
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 165→165 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 79
+🔍 TRACED EXECUTION: OrphanAttacherStep - 165→165 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 79
+🔍 TRACED EXECUTION: TextElementMerger - 165→147 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 79
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_072_tree.txt
+Processing agreement_073.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 68→68 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 80
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 68→68 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 80
+🔍 TRACED EXECUTION: OrphanAttacherStep - 68→68 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 80
+🔍 TRACED EXECUTION: TextElementMerger - 68→68 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 80
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_073_tree.txt
+Processing agreement_074.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 315→315 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 81
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 315→315 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 81
+🔍 TRACED EXECUTION: OrphanAttacherStep - 315→315 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 81
+🔍 TRACED EXECUTION: TextElementMerger - 315→311 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 81
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_074_tree.txt
+Processing agreement_075.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 82
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 82
+🔍 TRACED EXECUTION: OrphanAttacherStep - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 82
+🔍 TRACED EXECUTION: TextElementMerger - 130→127 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 82
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_075_tree.txt
+Processing agreement_076.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 1878→1878 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 83
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 1878→1878 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 83
+🔍 TRACED EXECUTION: OrphanAttacherStep - 1873→1873 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 83
+🔍 TRACED EXECUTION: TextElementMerger - 1873→1660 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 83
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_076_tree.txt
+Processing agreement_077.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 888→888 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 84
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 888→888 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 84
+🔍 TRACED EXECUTION: OrphanAttacherStep - 843→843 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 84
+🔍 TRACED EXECUTION: TextElementMerger - 843→799 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 84
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_077_tree.txt
+Processing agreement_078.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 31→31 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 85
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 31→31 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 85
+🔍 TRACED EXECUTION: OrphanAttacherStep - 31→31 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 85
+🔍 TRACED EXECUTION: TextElementMerger - 31→31 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 85
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_078_tree.txt
+Processing agreement_079.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 564→564 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 86
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 564→564 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 86
+🔍 TRACED EXECUTION: OrphanAttacherStep - 564→564 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 86
+🔍 TRACED EXECUTION: TextElementMerger - 564→523 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 86
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_079_tree.txt
+Processing agreement_08.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 32→32 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 87
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 32→32 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 87
+🔍 TRACED EXECUTION: OrphanAttacherStep - 32→32 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 87
+🔍 TRACED EXECUTION: TextElementMerger - 32→30 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 87
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_08_tree.txt
+Processing agreement_080.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 1952→1952 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 88
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 1952→1952 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 88
+🔍 TRACED EXECUTION: OrphanAttacherStep - 1952→1952 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 88
+🔍 TRACED EXECUTION: TextElementMerger - 1952→1762 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 88
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_080_tree.txt
+Processing agreement_081.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 61→61 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 89
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 61→61 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 89
+🔍 TRACED EXECUTION: OrphanAttacherStep - 61→61 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 89
+🔍 TRACED EXECUTION: TextElementMerger - 61→57 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 89
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_081_tree.txt
+Processing agreement_082.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 70→70 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 90
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 70→70 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 90
+🔍 TRACED EXECUTION: OrphanAttacherStep - 70→70 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 90
+🔍 TRACED EXECUTION: TextElementMerger - 70→70 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 90
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_082_tree.txt
+Processing agreement_083.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 374→374 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 91
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 374→374 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 91
+🔍 TRACED EXECUTION: OrphanAttacherStep - 360→360 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 91
+🔍 TRACED EXECUTION: TextElementMerger - 360→330 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 91
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_083_tree.txt
+Processing agreement_084.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 4→4 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 92
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 4→4 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 92
+🔍 TRACED EXECUTION: OrphanAttacherStep - 4→4 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 92
+🔍 TRACED EXECUTION: TextElementMerger - 4→4 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 92
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_084_tree.txt
+Processing agreement_085.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 98→98 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 93
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 98→98 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 93
+🔍 TRACED EXECUTION: OrphanAttacherStep - 84→84 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 93
+🔍 TRACED EXECUTION: TextElementMerger - 84→84 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 93
+  No hierarchical elements found in agreement_085.html.
+Processing agreement_086.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 1465→1465 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 94
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 1465→1465 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 94
+🔍 TRACED EXECUTION: OrphanAttacherStep - 1392→1392 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 94
+🔍 TRACED EXECUTION: TextElementMerger - 1392→1339 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 94
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_086_tree.txt
+Processing agreement_087.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 191→191 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 95
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 191→191 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 95
+🔍 TRACED EXECUTION: OrphanAttacherStep - 191→191 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 95
+🔍 TRACED EXECUTION: TextElementMerger - 191→188 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 95
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_087_tree.txt
+Processing agreement_088.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 59→59 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 96
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 59→59 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 96
+🔍 TRACED EXECUTION: OrphanAttacherStep - 59→59 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 96
+🔍 TRACED EXECUTION: TextElementMerger - 59→58 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 96
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_088_tree.txt
+Processing agreement_089.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 440→440 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 97
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 440→440 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 97
+🔍 TRACED EXECUTION: OrphanAttacherStep - 367→367 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 97
+🔍 TRACED EXECUTION: TextElementMerger - 367→367 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 97
+  No hierarchical elements found in agreement_089.html.
+Processing agreement_09.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 137→137 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 98
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 137→137 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 98
+🔍 TRACED EXECUTION: OrphanAttacherStep - 137→137 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 98
+🔍 TRACED EXECUTION: TextElementMerger - 137→131 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 98
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_09_tree.txt
+Processing agreement_090.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 99
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 99
+🔍 TRACED EXECUTION: OrphanAttacherStep - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 99
+🔍 TRACED EXECUTION: TextElementMerger - 3→3 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 99
+  No hierarchical elements found in agreement_090.html.
+Processing agreement_091.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 40→40 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 100
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 40→40 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 100
+🔍 TRACED EXECUTION: OrphanAttacherStep - 40→40 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 100
+🔍 TRACED EXECUTION: TextElementMerger - 40→34 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 100
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_091_tree.txt
+Processing agreement_092.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 295→295 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 101
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 295→295 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 101
+🔍 TRACED EXECUTION: OrphanAttacherStep - 295→295 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 101
+🔍 TRACED EXECUTION: TextElementMerger - 295→295 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 101
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_092_tree.txt
+Processing agreement_093.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 149→149 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 102
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 149→149 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 102
+🔍 TRACED EXECUTION: OrphanAttacherStep - 149→149 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 102
+🔍 TRACED EXECUTION: TextElementMerger - 149→141 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 102
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_093_tree.txt
+Processing agreement_094.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 103
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 103
+🔍 TRACED EXECUTION: OrphanAttacherStep - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 103
+🔍 TRACED EXECUTION: TextElementMerger - 130→130 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 103
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_094_tree.txt
+Processing agreement_095.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 832→832 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 104
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 832→832 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 104
+🔍 TRACED EXECUTION: OrphanAttacherStep - 832→832 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 104
+🔍 TRACED EXECUTION: TextElementMerger - 832→723 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 104
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_095_tree.txt
+Processing agreement_096.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 52→52 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 105
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 52→52 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 105
+🔍 TRACED EXECUTION: OrphanAttacherStep - 49→49 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 105
+🔍 TRACED EXECUTION: TextElementMerger - 49→49 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 105
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_096_tree.txt
+Processing agreement_097.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 170→170 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 106
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 170→170 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 106
+🔍 TRACED EXECUTION: OrphanAttacherStep - 162→162 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 106
+🔍 TRACED EXECUTION: TextElementMerger - 162→145 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 106
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_097_tree.txt
+Processing agreement_098.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 363→363 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 107
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 363→363 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 107
+🔍 TRACED EXECUTION: OrphanAttacherStep - 303→303 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 107
+🔍 TRACED EXECUTION: TextElementMerger - 303→303 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 107
+  No hierarchical elements found in agreement_098.html.
+Processing agreement_099.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 63→63 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 108
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 63→63 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 108
+🔍 TRACED EXECUTION: OrphanAttacherStep - 60→60 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 108
+🔍 TRACED EXECUTION: TextElementMerger - 60→57 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 108
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_099_tree.txt
+Processing agreement_10.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 200→200 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 109
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 200→200 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 109
+🔍 TRACED EXECUTION: OrphanAttacherStep - 200→200 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 109
+🔍 TRACED EXECUTION: TextElementMerger - 200→199 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 109
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_10_tree.txt
+Processing agreement_100.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 13→13 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 110
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 13→13 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 110
+🔍 TRACED EXECUTION: OrphanAttacherStep - 13→13 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 110
+🔍 TRACED EXECUTION: TextElementMerger - 13→13 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 110
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_100_tree.txt
+Processing agreement_11.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 191→191 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 111
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 191→191 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 111
+🔍 TRACED EXECUTION: OrphanAttacherStep - 191→191 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 111
+🔍 TRACED EXECUTION: TextElementMerger - 191→160 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 111
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_11_tree.txt
+Processing agreement_12.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 283→283 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 112
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 283→283 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 112
+🔍 TRACED EXECUTION: OrphanAttacherStep - 283→283 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 112
+🔍 TRACED EXECUTION: TextElementMerger - 283→266 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 112
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_12_tree.txt
+Processing agreement_13.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 336→336 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 113
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 336→336 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 113
+🔍 TRACED EXECUTION: OrphanAttacherStep - 336→336 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 113
+🔍 TRACED EXECUTION: TextElementMerger - 336→328 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 113
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_13_tree.txt
+Processing agreement_14.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 268→268 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 114
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 268→268 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 114
+🔍 TRACED EXECUTION: OrphanAttacherStep - 268→268 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 114
+🔍 TRACED EXECUTION: TextElementMerger - 268→219 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 114
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_14_tree.txt
+Processing agreement_15.html...
+🔍 TRACED EXECUTION: EarlyMetadataRemoverStep - 348→348 elements, orphan Δ=0
+💾 STORED TRACE: EarlyMetadataRemoverStep - Total traces in registry: 23, This step: 115
+🔍 TRACED EXECUTION: HtmlCommentRemoverStep - 348→348 elements, orphan Δ=0
+💾 STORED TRACE: HtmlCommentRemoverStep - Total traces in registry: 23, This step: 115
+🔍 TRACED EXECUTION: OrphanAttacherStep - 336→336 elements, orphan Δ=0
+💾 STORED TRACE: OrphanAttacherStep - Total traces in registry: 23, This step: 115
+🔍 TRACED EXECUTION: TextElementMerger - 336→290 elements, orphan Δ=0
+💾 STORED TRACE: TextElementMerger - Total traces in registry: 23, This step: 115
+  Generated tree: /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees/agreement_15_tree.txt
+
+Visual tree generation complete. Files are in /Users/arthrod/temp/Manual Library/temp/sec-parser/visual_semantic_trees

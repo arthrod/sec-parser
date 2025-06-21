@@ -1,0 +1,88 @@
+[
+  {
+    "id": "element_0000",
+    "cls": "TextElement",
+    "text": "Field: Rule-Page  Field: /Rule-Page"
+  },
+  {
+    "id": "element_0001",
+    "cls": "TitleElement",
+    "text": "EXHIBIT\n10.35",
+    "level": 0
+  },
+  {
+    "id": "element_0002",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0003",
+    "cls": "TextElement",
+    "text": "Field: Page; Sequence: 1; Options: NewSection"
+  },
+  {
+    "id": "element_0004",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0005",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0006",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0007",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0008",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0009",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0010",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0011",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0012",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0013",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0014",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0015",
+    "cls": "ImageElement",
+    "text": ""
+  },
+  {
+    "id": "element_0016",
+    "cls": "TextElement",
+    "text": "Field: Rule-Page  Field: /Rule-Page"
+  }
+]

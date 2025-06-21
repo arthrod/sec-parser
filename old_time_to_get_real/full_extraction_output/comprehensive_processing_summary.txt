@@ -1,0 +1,39 @@
+COMPREHENSIVE AGREEMENT PROCESSING SUMMARY
+============================================================
+Processing Date: /Users/arthrod/temp/Manual Library/temp/sec-parser
+Total Files Processed: 15
+
+OVERALL SUCCESS RATES:
+  Parsing: 15/15 (100.0%)
+  JSON Generation: 0/15 (0.0%)
+  Tree Generation: 15/15 (100.0%)
+  Cross-Reference Extraction: 15/15 (100.0%)
+
+AGGREGATE STATISTICS:
+  Total Elements Extracted: 1,383
+  Total Cross-References: 836
+  Maximum Hierarchy Depth: 5
+
+INDIVIDUAL FILE RESULTS:
+----------------------------------------
+#   Filename                  Status       Elements Refs   Depth
+1   agreement_01.html         ✅ SUCCESS    51       1      4    
+2   agreement_02.html         ✅ SUCCESS    10       0      4    
+3   agreement_03.html         ✅ SUCCESS    10       0      4    
+4   agreement_04.html         ✅ SUCCESS    61       10     4    
+5   agreement_05.html         ✅ SUCCESS    139      21     4    
+6   agreement_06.html         ✅ SUCCESS    262      183    4    
+7   agreement_07.html         ✅ SUCCESS    97       75     4    
+8   agreement_08.html         ✅ SUCCESS    20       2      4    
+9   agreement_09.html         ✅ SUCCESS    88       36     5    
+10  agreement_10.html         ✅ SUCCESS    61       55     5    
+11  agreement_11.html         ✅ SUCCESS    140      174    5    
+12  agreement_12.html         ✅ SUCCESS    75       9      4    
+13  agreement_13.html         ✅ SUCCESS    178      193    4    
+14  agreement_14.html         ✅ SUCCESS    38       6      4    
+15  agreement_15.html         ✅ SUCCESS    153      71     5    
+
+FILES GENERATED:
+  JSON Extractions: full_extraction_output/json_extractions/ (15 files)
+  Semantic Trees: full_extraction_output/semantic_trees/ (15 files)
+  Cross-Reference Graphs: full_extraction_output/cross_reference_graphs/ (15 files)
