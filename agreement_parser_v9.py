@@ -463,14 +463,8 @@ class PageContinuationMerger(AbstractProcessingStep):
                     first, second = cur.html_tag, nxt.html_tag
                     merged = first.text.rstrip('-\u00ad') + ' ' + second.text.lstrip()
 
-                    # Create new bs4 tag with merged text
-                    new_bs4_tag = Tag(name=first._bs4.name)
-                    new_bs4_tag.string = merged
-                    for attr, value in first._bs4.attrs.items():
-                        new_bs4_tag[attr] = value
-
-                    # Create new HtmlTag
-                    new_html_tag = HtmlTag(new_bs4_tag)
+                    # Create new HtmlTag with merged text using the new clone_with_text method
+                    new_html_tag = HtmlTag.clone_with_text(first, merged)
 
                     if isinstance(cur, TextElement):
                         cur = ContentTextElement(new_html_tag, level=getattr(cur, 'level', 4))
@@ -608,7 +602,7 @@ class EnhancedTOCDetector(AbstractElementwiseProcessingStep):
             if not hasattr(element.html_tag, '_bs4'):
                 return False
 
-            table = element.html_tag._bs4
+            table = element.html_tag.get_bs4()
             text_content = table.get_text().lower()
 
             # Look for TOC indicators
@@ -704,7 +698,7 @@ class VisualHeadingDetector(AbstractElementwiseProcessingStep):
         """Process element with correct signature and whitespace normalization."""
         if not isinstance(element, TextElement):
             return element
-        tag = element.html_tag._bs4 if hasattr(element.html_tag, '_bs4') else None
+        tag = element.html_tag.get_bs4() if hasattr(element.html_tag, '_bs4') else None
         if not tag:
             return element
 
@@ -840,7 +834,7 @@ class HierarchyBuilder(AbstractProcessingStep):
         # Extract indentation levels from margin-left styles
         indented_elements = []
         for element in text_elements:
-            tag = element.html_tag._bs4 if hasattr(element.html_tag, '_bs4') else None
+            tag = element.html_tag.get_bs4() if hasattr(element.html_tag, '_bs4') else None
             if tag:
                 style = computed_style(tag)
                 margin_left = _to_pt(style.get('margin-left', '0'))
@@ -1273,7 +1267,7 @@ class SmartSectionClassifierV6(AbstractElementwiseProcessingStep):
             if not hasattr(element.html_tag, '_bs4'):
                 return element
 
-            tds = element.html_tag._bs4.find_all('td')
+            tds = element.html_tag.get_bs4().find_all('td')
 
             if len(tds) >= 2:
                 first_cell = tds[0].get_text().strip()
@@ -1571,7 +1565,7 @@ class HeadingClassifierV6(AbstractElementwiseProcessingStep):
 
         # Style-based detection
         try:
-            style = html_tag._bs4.get('style', '') if hasattr(html_tag, '_bs4') else ''
+            style = html_tag.get_bs4().get('style', '') if hasattr(html_tag, '_bs4') else ''
             style_indicators = ['bold', 'underline', 'uppercase']
             has_style = any(indicator in style.lower() for indicator in style_indicators) if style else False
 
@@ -1622,7 +1616,7 @@ class HeadingClassifierV6(AbstractElementwiseProcessingStep):
             return 2
 
         try:
-            style = html_tag._bs4.get('style', '') if hasattr(html_tag, '_bs4') else ''
+            style = html_tag.get_bs4().get('style', '') if hasattr(html_tag, '_bs4') else ''
             if style and 'bold' in style.lower() and 'underline' in style.lower():
                 return 1
             if style and 'bold' in style.lower():
@@ -1696,7 +1690,7 @@ class MainTitleClassifierV6(AbstractElementwiseProcessingStep):
             return False
 
         try:
-            style = html_tag._bs4.get('style', '') if hasattr(html_tag, '_bs4') else ''
+            style = html_tag.get_bs4().get('style', '') if hasattr(html_tag, '_bs4') else ''
             is_centered = 'center' in style.lower() if style else False
             is_bold = 'bold' in style.lower() if style else False
 
@@ -1774,7 +1768,7 @@ class HtmlCommentRemoverStep(AbstractProcessingStep):
 
         for el in elements:
             if hasattr(el, 'html_tag') and getattr(el.html_tag, '_bs4', None):
-                if isinstance(el.html_tag._bs4, Comment):
+                if isinstance(el.html_tag.get_bs4(), Comment):
                     # we are looking at <!-- ... -->  →  drop it
                     removed_count += 1
                     continue
