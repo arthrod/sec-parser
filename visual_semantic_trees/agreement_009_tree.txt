@@ -1,25 +1,47 @@
 Exhibit Appendix A
-|-- Content: 1.2 Company Commitment Prior to the Retirement Date.
-Subject to the terms and conditions of this Agr...
-|-- Content: (d) Continuation of Coverage Under the Companys Medical
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Continuation of Coverage Under the Companys Medical
 Plan. Provided that Executive timely and pr...
-|-- Content: (including without limitation customer lists, requirements, creditworthiness, preferences, pricing i...
-|-- Content: (iii) Solicit or transact business with any Customer, vendor, contractor or
+
+--- (Additional Root Structure) ---
+Heading (L1): (including without limitation customer lists, requirements, creditworthiness, preferences, pricing i...
+
+--- (Additional Root Structure) ---
+Heading (L1): (iii) Solicit or transact business with any Customer, vendor, contractor or
 supplier of the Company ...
-|-- Content: 2.4 Cooperation. Until the Retirement Date, Executive
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.4 Cooperation. Until the Retirement Date, Executive
 agrees to comply with all Company rules, polic...
-|-- Content: and unconditionally releases and forever discharges the Company and all of its parents, subsidiaries...
-|-- Content: (d) Executive affirms, covenants, and warrants that he is not a Medicare
+
+--- (Additional Root Structure) ---
+Heading (L1): and unconditionally releases and forever discharges the Company and all of its parents, subsidiaries...
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Executive affirms, covenants, and warrants that he is not a Medicare
 beneficiary and is not curr...
-|-- Content: 3.3 Knowing and Voluntary Agreement. Executive hereby
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.3 Knowing and Voluntary Agreement. Executive hereby
 acknowledges and agrees that:  (a) he has a pe...
-|-- Content: 4.3 Injunctive Relief; Survival. In the event of
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.3 Injunctive Relief; Survival. In the event of
 a breach by Executive of any of the provisions of t...
-|-- Content: 4.9 Notices. Any notice or other communication required
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.9 Notices. Any notice or other communication required
 or permitted by this Agreement to be deliver...
-|-- Content: (b) Subject to Section 2 below, Executive covenants and agrees that he
+
+--- (Additional Root Structure) ---
+Heading (L1): (b) Subject to Section 2 below, Executive covenants and agrees that he
 will not now or at any time i...
-|-- Content: (h) a claim as a shareholder related to payment by the Company; 
+
+--- (Additional Root Structure) ---
+Heading (L1): (h) a claim as a shareholder related to payment by the Company; 
 (i) a claim related to the Company...
-`-- Content: 4. Severability. Should any provision of this
+
+--- (Additional Root Structure) ---
+Heading (L1): 4. Severability. Should any provision of this
 Release be declared illegal or unenforceable by any co...

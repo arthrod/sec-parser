@@ -16,6 +16,7 @@ InvalidTopSectionInFiling = TopSectionInFiling(
     level=1,
 )
 
+
 @dataclass(frozen=True)
 class FilingSections:
     all_sections: tuple[TopSectionInFiling, ...]

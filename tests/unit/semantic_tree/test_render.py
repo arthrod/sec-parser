@@ -107,7 +107,7 @@ def new_element(name, text):
     return Element(HtmlTag(tag))
 
 
-def new_node(name, text, cls: Callable = lambda k: Element(k)):
+def new_node(name, text, cls: Callable = Element):
     tag = bs4.Tag(name=name)
     tag.string = text
     return TreeNode(cls(HtmlTag(tag)))
@@ -119,7 +119,7 @@ def get_tree():
     node3 = new_node(
         "p",
         "This is an ignored type",
-        cls=lambda k: IrrelevantElement(k),
+        cls=IrrelevantElement,
     )
     node4 = new_node(
         "p",

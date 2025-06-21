@@ -1,6 +1,5 @@
 Heading (L1): NON-QUALIFIED STOCK OPTION AND SAR AWARD AGREEMENT
 `-- Party: Grant Date”) between KEMPER CORPORATION (Delaware corporation (“Company”))
-    `-- Content: As of the date set forth above, the parties have accepted the terms of this Agreement by signing thi...
 
 --- (Additional Root Structure) ---
 Heading (L1): KEMPER CORPORATION                PARTICIPANT
@@ -8,10 +7,10 @@ Heading (L1): KEMPER CORPORATION                PARTICIPANT
 
 --- (Additional Root Structure) ---
 Heading (L1): RECITALS
-|-- Clause (A)
-|-- Clause (B)
-|-- Clause (C)
-|-- Clause (D)
+|-- Clause A.
+|-- Clause B.
+|-- Clause C.
+|-- Clause D.
 |-- Recital: NOW, THEREFORE, the parties hereto agree as follows:
 |   |-- Clause (a)
 |   |   |-- Content: to the Participant, which will be exercisable in accordance with the provisions of this Agreement; p...
@@ -54,7 +53,6 @@ Heading (L1): RECITALS
     |   |-- Content: (a)If, during the term of this Agreement, there shall be any equity restructurings (within the meani...
     |   |-- Content: (b)In the event of a Change in Control as defined in Section 20.1(a) or (b) of the Plan, except as p...
     |   |-- Content: 14.Participation by Participant in Other Company Plans.  Nothing herein contained shall affect the r...
-    |   |-- Content: 15.No Rights as a Shareholder Until Issuance of Shares.  Neither the Participant nor his or her Repr...
     |   |-- Content: 16.Not an Employment or Service Contract.  Nothing herein contained shall be construed as an agreeme...
     |   |-- Content: any of its Affiliates to discharge the Participant or cease contracting for the Participant’s servic...
     |   |-- Content: 17.Death of the Participant.  In the event of the death of the Participant while any portion of the ...

@@ -45,7 +45,7 @@ def build_tree(tree_structure, parent=None):
     values := [
         ("empty_tree_with_default_kwargs", [], {}, ""),
     ],
-    ids = [v[0] for v in values],
+    ids=[v[0] for v in values],
 )
 def test_render(name, tree_structure, render_kwargs, expected_output) -> None:
     # Arrange
@@ -56,7 +56,7 @@ def test_render(name, tree_structure, render_kwargs, expected_output) -> None:
     actual = tree.render(**render_kwargs)
 
     # Assert
-    assert actual==expected_output
+    assert actual == expected_output
 
 
 @pytest.mark.parametrize(
@@ -83,7 +83,7 @@ def test_render(name, tree_structure, render_kwargs, expected_output) -> None:
             "\x1b[1;34mMockSemanticElement\x1b[0m: root\n├── \x1b[1;34mMockSemanticElement\x1b[0m: child1\n",
         ),
     ],
-    ids = [v[0] for v in values],
+    ids=[v[0] for v in values],
 )
 def test_print(name, tree_structure, print_kwargs, expected_output, capsys) -> None:
     # Arrange
@@ -95,7 +95,7 @@ def test_print(name, tree_structure, print_kwargs, expected_output, capsys) -> N
     actual = capsys.readouterr().out
 
     # Assert
-    assert actual==expected_output
+    assert actual == expected_output
 
 
 @pytest.mark.parametrize(

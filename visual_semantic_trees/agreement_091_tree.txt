@@ -8,9 +8,9 @@ Content: The annual cash compensation amount set forth below is payable in equal
 
 --- (Additional Root Structure) ---
 Section 1: Annual Board Service Retainer
-|-- Clause (a): All Eligible Directors: $42,500
-|-- Clause (b): Chairman of the Board Service Retainer (in addition to Eligible Director Service Retainer): $30,000
-`-- Clause (c): Lead Independent Director Service Retainer (in addition to Eligible Director Service Retainer): $20,...
+|-- Clause a.: All Eligible Directors: $42,500
+|-- Clause b.: Chairman of the Board Service Retainer (in addition to Eligible Director Service Retainer): $30,000
+`-- Clause c.: Lead Independent Director Service Retainer (in addition to Eligible Director Service Retainer): $20,...
 
 --- (Additional Root Structure) ---
 Section 2: Annual Committee Member Service Retainer

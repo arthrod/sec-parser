@@ -19,8 +19,8 @@ def test_should_return_correct_metrics_for_multiple_styles() -> None:
     result = compute_text_styles_metrics(div_tag)
 
     # Assert
-    assert result[("color", "#000000")] == 50.0
-    assert result[("font-weight", "600")] == 50.0
+    assert result["color", "#000000"] == 50.0
+    assert result["font-weight", "600"] == 50.0
 
 
 # Test: Edge case with no text
@@ -52,5 +52,5 @@ def test_should_return_correct_metrics_for_inherited_styles() -> None:
     result = compute_text_styles_metrics(div_tag)
 
     # Assert
-    assert result[("color", "#000000")] == 100.0
-    assert result[("font-weight", "600")] == 50.0
+    assert result["color", "#000000"] == 100.0
+    assert result["font-weight", "600"] == 50.0

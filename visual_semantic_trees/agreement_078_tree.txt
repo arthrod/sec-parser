@@ -1,19 +1,21 @@
 Exhibit Appendix 1
-|-- Content: 1.2 Cashless Exercise. On any exercise of this Warrant, in lieu of payment of the
-aggregate Warrant ...
-|-- Content: 1.6 Treatment of Warrant Upon Acquisition of Company. 
+
+--- (Additional Root Structure) ---
+Heading (L1): 1.6 Treatment of Warrant Upon Acquisition of Company. 
 (a) Acquisition. For the purpose of this Warr...
-`-- Content: SECTION 2.ADJUSTMENTS TO THE SHARES AND WARRANT PRICE. 
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 2.ADJUSTMENTS TO THE SHARES AND WARRANT PRICE. 
 2.1 Stock Dividends, Splits, Etc. If the Com...
 
 --- (Additional Root Structure) ---
 Exhibit Schedule 1
-|-- Content: (2) in the case of the matters referred to in (c) and (d) above at
-least seven (7) Business Days pri...
-|-- Content: 4.5 The Act. Holder understands that this Warrant and the Shares issuable upon
-exercise hereof have ...
-|-- Content: 5.3 Compliance with Securities Laws on Transfer. This Warrant and the Shares issuable
-upon exercise ...
-|-- Content: Notice to the Company shall be addressed as follows until Holder receives notice of a change
-in addr...
 `-- Party: Common Stock of __________________ (_______________ corporation (the Company))
+
+--- (Additional Root Structure) ---
+Heading (L1): (2) in the case of the matters referred to in (c) and (d) above at
+least seven (7) Business Days pri...
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.5 The Act. Holder understands that this Warrant and the Shares issuable upon
+exercise hereof have ...

@@ -208,6 +208,7 @@ class Edgar10QParser(AbstractSemanticElementParser):
             TopSectionTitleCheck(),
         ]
 
+
 class Edgar10KParser(AbstractSemanticElementParser):
     """The Edgar10KParser class is responsible for parsing SEC EDGAR 10-K
     quarterly reports. It transforms the HTML documents into a list

@@ -8,6 +8,7 @@ DEFAULT_YAML = Path(__file__).parent / "selected-filings.yaml"
 
 SUPPORTED_DOCUMENT_TYPES = {"10-K", "10-Q"}
 
+
 def test_filings_exist() -> None:
     with DEFAULT_YAML.open("r") as file:
         selected_filings = yaml.safe_load(file)

@@ -1,7 +1,3 @@
-Content: THIS PROMISSORY NOTE (“NOTE”) HAS
-NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (...
-
---- (Additional Root Structure) ---
 Heading (L1): PROMISSORY NOTE
 |-- Content: Principal Amount: US$30,000 Dated: December 26, 2023
 |-- Content: FOR VALUE RECEIVED, Blue World Acquisition

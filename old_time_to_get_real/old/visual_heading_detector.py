@@ -1,22 +1,20 @@
-"""
-Visual Heading Detector
-Promotes bold, visually separated lines with smart pattern recognition
+"""Visual Heading Detector
+Promotes bold, visually separated lines with smart pattern recognition.
 """
 
+import contextlib
 import re
-from typing import Union
 
 from sec_parser.processing_steps.abstract_elementwise_processing_step import AbstractElementwiseProcessingStep
-from sec_parser.semantic_elements.text_element import TextElement
-from sec_parser.semantic_elements.heading_element import HeadingElement
 from sec_parser.semantic_elements.article_element import ArticleElement
+from sec_parser.semantic_elements.heading_element import HeadingElement
 from sec_parser.semantic_elements.section_element import SectionElement
-from sec_parser.utils.style_tools import computed_style, is_bold, get_font_size_pt, get_margin_top_pt
+from sec_parser.semantic_elements.text_element import TextElement
+from sec_parser.utils.style_tools import computed_style, get_font_size_pt, get_margin_top_pt, is_bold
 
 
 class VisualHeadingDetector(AbstractElementwiseProcessingStep):
-    """
-    Promote bold, visually separated lines *only* when:
+    """Promote bold, visually separated lines *only* when:
     1) They are either inside <h1-h6> OR visually bold *and* big/spacing.
     2) They appear after a sizeable vertical gap (margin-top ≥ 12 pt).
     3) They are not obviously list items (checked via bullet / alpha-prefix).
@@ -28,36 +26,34 @@ class VisualHeadingDetector(AbstractElementwiseProcessingStep):
             [\.\)]\s+                   # "." or ")" delimiter
             (?P<title>[A-Z][^a-z]{0,3}  # either ALLCAPS word
               |[A-Z][a-z].{0,80})       # or normal title < 80 chars
-        $""", re.X)
+        $""", re.VERBOSE)
 
     _ARTICLE_RE = re.compile(
         r"""^ARTICLE\s+
             (?P<num>[IVXLCDM]+|\d+)
             (?:\s*[-–—.]?\s*
             (?P<title>[^.;]{3,80}))?
-        $""", re.I | re.X)
+        $""", re.IGNORECASE | re.VERBOSE)
 
     def _process_element(self, element, _ctx=None):
         if not isinstance(element, TextElement):
             return element
-            
+
         # Get the underlying BS4 tag
         tag = None
         if hasattr(element.html_tag, "_bs4"):
             tag = element.html_tag._bs4
-        elif hasattr(element, 'html_tag') and element.html_tag:
+        elif hasattr(element, "html_tag") and element.html_tag:
             # Try to get BS4 element from html_tag
-            try:
-                tag = getattr(element.html_tag, 'tag', element.html_tag)
-            except:
-                pass
-                
+            with contextlib.suppress(Exception):
+                tag = getattr(element.html_tag, "tag", element.html_tag)
+
         if not tag:
             return element
 
         try:
             # First – honour native <h1-h6>
-            if hasattr(tag, 'name') and tag.name and tag.name.lower() in {"h1", "h2", "h3", "h4", "h5", "h6"}:
+            if hasattr(tag, "name") and tag.name and tag.name.lower() in {"h1", "h2", "h3", "h4", "h5", "h6"}:
                 lvl = int(tag.name[1])
                 return HeadingElement(element.html_tag, heading_text=element.text, level=lvl)
         except Exception:
@@ -79,13 +75,13 @@ class VisualHeadingDetector(AbstractElementwiseProcessingStep):
             return element
 
         txt = element.text.strip()
-        
+
         # Safety filter – ignore very long "paragraph headings"
         if len(txt.split()) > 18:
             return element
 
         # Reject likely list items (a), (i) etc. handled elsewhere
-        if re.match(r"^\(?[a-z]\)|^[ivxlcdm]+\)", txt, re.I):
+        if re.match(r"^\(?[a-z]\)|^[ivxlcdm]+\)", txt, re.IGNORECASE):
             return element
 
         try:
@@ -107,21 +103,21 @@ class VisualHeadingDetector(AbstractElementwiseProcessingStep):
             if sm:
                 sec_num = sm.group("num")
                 title = sm.group("title").strip()
-                
+
                 # Validate title has alphabetic characters
-                if not re.search(r'[A-Za-z]', title):
+                if not re.search(r"[A-Za-z]", title):
                     return element
-                    
+
                 # Entire match should be reasonable length
                 if len(txt) > 90:
                     return element
-                    
+
                 lvl = len(sec_num.split(".")) + 1
                 return SectionElement(
                     element.html_tag,
                     section_number=sec_num,
                     section_title=title,
-                    level=lvl
+                    level=lvl,
                 )
         except Exception:
             pass

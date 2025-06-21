@@ -23,9 +23,6 @@ from agreement_parser_v5 import (
     PageNumberMetadataElement,
     SignaturePageFollowsElement,
 )
-
-# Import from V6/V7
-from agreement_parser_v6 import EnhancedSectionClassifier
 from sec_parser.processing_engine.core import AbstractSemanticElementParser
 from sec_parser.processing_engine.html_tag import HtmlTag
 from sec_parser.processing_steps.abstract_classes.abstract_elementwise_processing_step import (
@@ -52,6 +49,9 @@ from sec_parser.semantic_elements.semantic_elements import (
     TextElement,
 )
 from sec_parser.semantic_elements.table_element.table_element import TableElement
+
+# Import from V6/V7
+from agreement_parser_v6 import EnhancedSectionClassifier
 
 # Global metadata counter for V8
 metadata_removal_stats = defaultdict(int)

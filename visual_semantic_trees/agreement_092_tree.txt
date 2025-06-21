@@ -1,60 +1,4 @@
-Content: TABLE OF CONTENTS 
-Page   
-
-
-
-
-
-
-
-
-
-
-ARTICLE I DEFINITIONS AND USAGE
-  
- 
-1
- 
-
-
-
-
-
- SECTION 1.1
- 
-De...
-
---- (Additional Root Structure) ---
-Content: TABLE OF CONTENTS 
-(continued) 
-Page   
-
-
-
-
-
-
-
-
-
-
-
-
-
-ARTICLE VI THE SERVICER
-  
- 
-27
- 
-
-
-
-
-
- SECTION...
-
---- (Additional Root Structure) ---
-Content: TABLE OF CONTENTS 
+Heading (L1): TABLE OF CONTENTS 
 (continued) 
 Page   
 
@@ -75,83 +19,125 @@ Information to Be Provided by the ...
 Party: RIDGECREST LENDING AUTO SECURITIZATION TRUST 2024-1 (Delaware statutory trust (the
 Issuer))
 `-- Definition: and all variations thereof: including without limitation; (f) except as otherwise expressly provid...
-    |-- Content: security interest created with respect to the Financed Vehicle; provided, however, that in lieu of b...
-    |-- Content: (e) Instructions; Authority to Act. All instructions from the Indenture Trustee will
-be in writing a...
-    |-- Content: the Transaction Documents to make any disbursements via wire transfer or otherwise on behalf of an O...
-    |-- Content: (c) The Servicer hereby agrees that upon its resignation and the appointment of a successor
+
+--- (Additional Root Structure) ---
+Heading (L1): (c) The Servicer hereby agrees that upon its resignation and the appointment of a successor
 Servicer...
-    |-- Content: (c) Notwithstanding anything in this Agreement to the contrary, the Servicer may refinance
+
+--- (Additional Root Structure) ---
+Heading (L1): (c) Notwithstanding anything in this Agreement to the contrary, the Servicer may refinance
 any Recei...
-    |-- Content: or appropriate on behalf of the Issuer and the Grantor Trust to evidence the sale of the Financed Ve...
-    |-- Content: ability of the Grantor Trust to receive and retain timely payment in full on such Receivable. The Se...
-    |-- Content: SECTION 3.10 Annual Registered Public Accounting Firm Attestation. 
+
+--- (Additional Root Structure) ---
+Heading (L1): or appropriate on behalf of the Issuer and the Grantor Trust to evidence the sale of the Financed Ve...
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 3.10 Annual Registered Public Accounting Firm Attestation. 
 (a) On or before March 30th of e...
-    |-- Content: Seller may require that the requesting party provide Verification Documents. Each request must inclu...
-    |-- Content: any actions taken or omitted by the Servicer. The duties and obligations of the Standby Servicer sha...
-    |-- Content: principal of and interest on the Notes, for the benefit of the Certificateholders, in the name of th...
-    |-- Content: disposed of prior to its scheduled maturity unless a default occurs with respect to such Eligible In...
-    |-- Content: (d) With respect to the Trust Account Property, the Indenture Trustee, as customer or
-entitlement h...
-    |-- Content: jurisdiction of such institution acting as securities intermediary with respect to such securities a...
-    |-- Content: Section 8-110(e) of the UCC, the State of New York shall be deemed to be the Trust Account Provider...
-    |-- Content: SECTION 4.2 Remittances. The Servicer shall deposit an amount equal to all
-Collections into the Coll...
-    |-- Content: SECTION 4.4 Distributions. 
+
+--- (Additional Root Structure) ---
+Heading (L1): principal of and interest on the Notes, for the benefit of the Certificateholders, in the name of th...
+
+--- (Additional Root Structure) ---
+Heading (L1): jurisdiction of such institution acting as securities intermediary with respect to such securities a...
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 4.4 Distributions. 
 (a) Unless the Notes have been accelerated pursuant to Section 5.2 of th...
-    |-- Content: (v)
+
+--- (Additional Root Structure) ---
+Heading (L1): (v)
  fifth, to the Noteholders of the Class B Notes, the Accrued Class B Note Interest due and
 accru...
-    |-- Content: (b) After the payment in full of the Notes and all other amounts payable under
+
+--- (Additional Root Structure) ---
+Heading (L1): (b) After the payment in full of the Notes and all other amounts payable under
 Section 4.4(a), all C...
-    |-- Content: (g) the amount of fees to be paid to the Indenture Trustee, the Standby Servicer, the Owner
+
+--- (Additional Root Structure) ---
+Heading (L1): (g) the amount of fees to be paid to the Indenture Trustee, the Standby Servicer, the Owner
 Trustee,...
-    |-- Content: The Indenture Trustees internet website shall be initially located at
+
+--- (Additional Root Structure) ---
+Heading (L1): The Indenture Trustees internet website shall be initially located at
 www.ctslink.com or at such ...
-    |-- Content: (c) No Consent Required. No approval or authorization by, or filing with, any
+
+--- (Additional Root Structure) ---
+Heading (L1): (c) No Consent Required. No approval or authorization by, or filing with, any
 Governmental Authority...
-    |-- Content: thereto, to the extent that an ownership interest therein cannot be perfected by the filing of a fin...
-    |-- Content: Other Assets, whether by operation of law, legal process, pursuant to applicable provisions of insol...
-    |-- Content: SECTION 5.5 Seller May Own Notes or Certificates. The Seller, and any
+
+--- (Additional Root Structure) ---
+Heading (L1): thereto, to the extent that an ownership interest therein cannot be perfected by the filing of a fin...
+
+--- (Additional Root Structure) ---
+Heading (L1): Other Assets, whether by operation of law, legal process, pursuant to applicable provisions of insol...
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 5.5 Seller May Own Notes or Certificates. The Seller, and any
 Affiliate of the Seller, may i...
-    |-- Content: (b) Authorization and No Contravention. The execution, delivery and performance by
+
+--- (Additional Root Structure) ---
+Heading (L1): (b) Authorization and No Contravention. The execution, delivery and performance by
 the Servicer of t...
-    |-- Content: claim, damage, or liability arose out of, or was imposed upon any such Person through, the negligenc...
-    |-- Content: Servicer having the same counsel, the indemnified party or parties shall have the right to select a ...
-    |-- Content: such Person against any liability that would otherwise be imposed by reason of willful misfeasance o...
-    |-- Content: SECTION 6.8 Standby Servicer. 
+
+--- (Additional Root Structure) ---
+Heading (L1): claim, damage, or liability arose out of, or was imposed upon any such Person through, the negligenc...
+
+--- (Additional Root Structure) ---
+Heading (L1): Servicer having the same counsel, the indemnified party or parties shall have the right to select a ...
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 6.8 Standby Servicer. 
 (a) The Servicer covenants and agrees that it will provide the Standb...
-    |-- Content: omissions of the Servicer; provided, however, that the Standby Servicer will provide notice to the I...
-    |-- Content: Servicer shall become effective until an entity, shall have assumed the responsibilities and obligat...
-    |-- Content: appoint a successor Servicer (which may be the Standby Servicer). Upon the Servicers receipt of not...
-    `-- Content: purposes of such termination and replacement of the Servicer, whether to complete the transfer and e...
+
+--- (Additional Root Structure) ---
+Heading (L1): omissions of the Servicer; provided, however, that the Standby Servicer will provide notice to the I...
+
+--- (Additional Root Structure) ---
+Heading (L1): Servicer shall become effective until an entity, shall have assumed the responsibilities and obligat...
+
+--- (Additional Root Structure) ---
+Heading (L1): appoint a successor Servicer (which may be the Standby Servicer). Upon the Servicers receipt of not...
+
+--- (Additional Root Structure) ---
+Heading (L1): purposes of such termination and replacement of the Servicer, whether to complete the transfer and e...
 
 --- (Additional Root Structure) ---
 Article ARTICLE VIII
-|-- Content: (c) Any term or provision of this Agreement (including Appendix A) may also be
+
+--- (Additional Root Structure) ---
+Heading (L1): (c) Any term or provision of this Agreement (including Appendix A) may also be
 amended from time to ...
-|-- Content: SECTION 9.2 Protection of Title. 
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 9.2 Protection of Title. 
 (a) The Seller shall authorize and file such financing statements ...
-`-- Content: (f) If at any time the Servicer shall propose to sell, grant a security interest in or
+
+--- (Additional Root Structure) ---
+Heading (L1): (f) If at any time the Servicer shall propose to sell, grant a security interest in or
 otherwise tra...
 
 --- (Additional Root Structure) ---
 Exhibit Schedule I
-|-- Content: SECTION 9.9 Counterparts and Electronic Signature. This Agreement shall be
-valid, binding, and enfor...
-|-- Content: SECTION 9.14 Acknowledgment and Agreement. By execution below, the Seller
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 9.14 Acknowledgment and Agreement. By execution below, the Seller
 expressly acknowledges and...
-|-- Content: (d) agrees that nothing herein shall affect the right to effect service of process in any
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) agrees that nothing herein shall affect the right to effect service of process in any
 other mann...
-`-- Content: the breach or failure of any obligations, representation, warranty or covenant made or undertaken by...
 
 --- (Additional Root Structure) ---
 Exhibit Exhibit D
-|-- Content: SECTION 9.23 AML Law Act. The parties hereto acknowledge that in accordance
-with laws, regulations a...
-|-- Content: IN WITNESS WHEREOF, the parties have caused this Sale and Servicing Agreement to be duly
+`-- Definition: thus: each of the Class A-1 Notes, the Class A-2 Notes, the Class A-3 Notes, the Class B Notes, the ...
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the parties have caused this Sale and Servicing Agreement to be duly
 executed by...
-|-- Content: BRIDGECREST LENDING AUTO SECURITIZATION TRUST 2024-1, as Issuer
+
+--- (Additional Root Structure) ---
+Heading (L1): BRIDGECREST LENDING AUTO SECURITIZATION TRUST 2024-1, as Issuer
 
 
 
@@ -159,92 +145,143 @@ executed by...
 By:
  
 Wilmington Trust, National...
-|-- Content: COMPUTERSHARE TRUST COMPANY, NATIONAL ASSOCIATION,not in its individual capacity but solely as Inden...
-|-- Content: If to the Indenture Trustee, Certificate Paying Agent, Certificate Registrar or Standby Servicer:
+
+--- (Additional Root Structure) ---
+Heading (L1): COMPUTERSHARE TRUST COMPANY, NATIONAL ASSOCIATION,not in its individual capacity but solely as Inden...
+
+--- (Additional Root Structure) ---
+Heading (L1): If to the Indenture Trustee, Certificate Paying Agent, Certificate Registrar or Standby Servicer:
  C...
-|-- Content: IN WITNESS HEREOF, the undersigned has caused this assignment to be duly executed as of the
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS HEREOF, the undersigned has caused this assignment to be duly executed as of the
 date fir...
-|-- Content: 7. With respect to Receivables that constitute instruments or tangible chattel paper, either: 
-(i) A...
-|-- Content: Survival of Perfection Representations 
+
+--- (Additional Root Structure) ---
+Heading (L1): Survival of Perfection Representations 
 12. Notwithstanding any other provision of the Sale and Serv...
-|-- Content: Servicing Criteria
+
+--- (Additional Root Structure) ---
+Heading (L1): Servicing Criteria
   
 
 ApplicableIndentureTrusteeServicing Criteria
   
 
 ApplicableServicerServicingC...
-|-- Content: Servicing Criteria
+
+--- (Additional Root Structure) ---
+Heading (L1): Servicing Criteria
   
 
 ApplicableIndentureTrusteeServicing Criteria
   
 
 ApplicableServicerServicingC...
-|-- Content: (b) if the Servicer has reduced the Contract Rate with respect to such Receivable other than
+
+--- (Additional Root Structure) ---
+Heading (L1): (b) if the Servicer has reduced the Contract Rate with respect to such Receivable other than
 as perm...
-|-- Content: Asset Representations Review Agreement means the Asset Representations
+
+--- (Additional Root Structure) ---
+Heading (L1): Asset Representations Review Agreement means the Asset Representations
 Review Agreement, dated as ...
-|-- Content: Available Funds means, for any Payment Date and the related Collection
+
+--- (Additional Root Structure) ---
+Heading (L1): Available Funds means, for any Payment Date and the related Collection
 Period, an amount equal to ...
-|-- Content: Book-Entry Certificates means the Certificates held by a Clearing Agency
-or its nominee and with r...
-`-- Definition: thus: each of the Class A-1 Notes, the Class A-2 Notes, the Class A-3 Notes, the Class B Notes, the ...
-    |-- Content: Class A-2 Note
+
+--- (Additional Root Structure) ---
+Heading (L1): Class A-2 Note
 Balance means, at any time, the Initial Class A-2 Note Balance reduced by all payme...
-    |-- Content: Class B Notes means the Class of Auto Loan Asset
+
+--- (Additional Root Structure) ---
+Heading (L1): Class B Notes means the Class of Auto Loan Asset
 Backed Notes designated as Class B Notes, issued ...
-    |-- Content: Class D Noteholders Interest Carryover Shortfall
+
+--- (Additional Root Structure) ---
+Heading (L1): Class D Noteholders Interest Carryover Shortfall
 means, with respect to any Payment Date, the exc...
-    |-- Content: Clearing Agency means an organization registered as a clearing
+
+--- (Additional Root Structure) ---
+Heading (L1): Clearing Agency means an organization registered as a clearing
 agency pursuant to Section 17A of...
-    |-- Content: Contract Rate means, with respect to a Receivable, the Annual
+
+--- (Additional Root Structure) ---
+Heading (L1): Contract Rate means, with respect to a Receivable, the Annual
 Percentage Rate at which interest ...
-    |-- Content: Cram Down Loss means, with respect to any Receivable (other than a
+
+--- (Additional Root Structure) ---
+Heading (L1): Cram Down Loss means, with respect to any Receivable (other than a
 Defaulted Receivable) as to whi...
-    `-- Content: Definitive Note means a definitive fully registered Note issued pursuant
+
+--- (Additional Root Structure) ---
+Heading (L1): Definitive Note means a definitive fully registered Note issued pursuant
 to Section 2.12 of the In...
 
 --- (Additional Root Structure) ---
 Exhibit Schedule II
-|-- Content: FATCA means Sections 1471 through 1474 of the Code, any regulations or
-official interpretations th...
-|-- Content: Form 10-D Disclosure Item means,
-with respect to any Person, (a) any legal Proceedings pending aga...
-|-- Content: Grantor Trust Certificate means a certificate substantially in the form
-of Exhibit A to the Granto...
-|-- Content: Indemnified Receivable Amount means, with respect to any Receivable that
-has become an Indemnified...
-|-- Content: Initial Class D Note Balance means $93,800,000. 
-Initial Class E Note Balance means $38,500,000....
-|-- Content: Item 1119 Party means the Seller, BAC, the Servicer, the Indenture
-Trustee, the Owner Trustee, the...
-|-- Content: Note Owner means, with respect to a Book-Entry Note, the Person who is
-the beneficial owner of suc...
-|-- Content: (i) Notes (or Notes of an applicable Class) theretofore cancelled by the Note Registrar or
-delivered...
-|-- Content: Permitted Liens means (a) any liens created by the Transaction
-Documents; (b) any liens for taxes ...
-|-- Content: (vi)
- such Receivable Modification where (x) the Obligor is in payment default or in the judgment of...
-|-- Content: Proceeding means any suit in equity, action at law or other judicial or
-administrative proceeding....
-|-- Content: Redemption Date means, in the case of a redemption of the Notes pursuant
-to Section 10.1 of the In...
-|-- Content: (a) entry into a material definitive agreement related to the Issuer, the Notes, the
-Receivables or ...
-|-- Content: Responsible Officer means, (a) with respect to the Indenture
-Trustee, any officer within the corpo...
-|-- Content: Sale and Servicing Agreement means the Sale and Servicing Agreement,
-dated as of the Closing Date,...
 `-- Party: UCC.  Seller means Bridgecrest Auto Funding LLC (Delaware limited liability company.  Se)
-    |-- Content: Servicing Criteria means the servicing criteria set forth in
+
+--- (Additional Root Structure) ---
+Heading (L1): FATCA means Sections 1471 through 1474 of the Code, any regulations or
+official interpretations th...
+
+--- (Additional Root Structure) ---
+Heading (L1): Form 10-D Disclosure Item means,
+with respect to any Person, (a) any legal Proceedings pending aga...
+
+--- (Additional Root Structure) ---
+Heading (L1): Grantor Trust Certificate means a certificate substantially in the form
+of Exhibit A to the Granto...
+
+--- (Additional Root Structure) ---
+Heading (L1): Indemnified Receivable Amount means, with respect to any Receivable that
+has become an Indemnified...
+
+--- (Additional Root Structure) ---
+Heading (L1): Initial Class D Note Balance means $93,800,000. 
+Initial Class E Note Balance means $38,500,000....
+
+--- (Additional Root Structure) ---
+Heading (L1): Item 1119 Party means the Seller, BAC, the Servicer, the Indenture
+Trustee, the Owner Trustee, the...
+
+--- (Additional Root Structure) ---
+Heading (L1): (i) Notes (or Notes of an applicable Class) theretofore cancelled by the Note Registrar or
+delivered...
+
+--- (Additional Root Structure) ---
+Heading (L1): Permitted Liens means (a) any liens created by the Transaction
+Documents; (b) any liens for taxes ...
+
+--- (Additional Root Structure) ---
+Heading (L1): (vi)
+ such Receivable Modification where (x) the Obligor is in payment default or in the judgment of...
+
+--- (Additional Root Structure) ---
+Heading (L1): Redemption Date means, in the case of a redemption of the Notes pursuant
+to Section 10.1 of the In...
+
+--- (Additional Root Structure) ---
+Heading (L1): (a) entry into a material definitive agreement related to the Issuer, the Notes, the
+Receivables or ...
+
+--- (Additional Root Structure) ---
+Heading (L1): Responsible Officer means, (a) with respect to the Indenture
+Trustee, any officer within the corpo...
+
+--- (Additional Root Structure) ---
+Heading (L1): Servicing Criteria means the servicing criteria set forth in
 Item 1122(d) of Regulation AB.  Se...
-    `-- Content: Standby Servicer means Computershare Trust Company, National Association,
+
+--- (Additional Root Structure) ---
+Heading (L1): Standby Servicer means Computershare Trust Company, National Association,
 and its permitted succes...
 
 --- (Additional Root Structure) ---
 Exhibit Schedule II
-`-- Content: Underwriting Agreement means the Underwriting Agreement, dated as of
+
+--- (Additional Root Structure) ---
+Heading (L1): Underwriting Agreement means the Underwriting Agreement, dated as of
 January 17, 2024 among Deutsc...

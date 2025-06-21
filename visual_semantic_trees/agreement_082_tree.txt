@@ -1,34 +1,46 @@
 Party: RSCHE FINANCIAL AUTO SECURITIZATION TRUST 20[ ]-[ ] (Delaware statutory trust)
-|-- Content: provided herein, references to any law or regulation refer to that law or regulation as amended from...
-|-- Content: Section 2.2. Confirmation of Scope. The parties confirm that the Asset
+
+--- (Additional Root Structure) ---
+Heading (L1): provided herein, references to any law or regulation refer to that law or regulation as amended from...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 2.2. Confirmation of Scope. The parties confirm that the Asset
 Representations Reviewer is n...
-|-- Content: Section 3.4. Performance of Reviews. 
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 3.4. Performance of Reviews. 
 (a) Test Procedures. For an Asset Review, the Asset Representa...
-`-- Content: the Asset Review to be included in the Issuers Form 10-D report for the Collection Period in which ...
+
+--- (Additional Root Structure) ---
+Heading (L1): the Asset Review to be included in the Issuers Form 10-D report for the Collection Period in which ...
 
 --- (Additional Root Structure) ---
 Article ARTICLE IV
-|-- Content: (b) Review Systems; Personnel. It will maintain business process management and/or
+
+--- (Additional Root Structure) ---
+Heading (L1): (b) Review Systems; Personnel. It will maintain business process management and/or
 other systems nec...
-|-- Content: (d) Payment of Fees and Indemnities. The Asset Representations Reviewer shall submit
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Payment of Fees and Indemnities. The Asset Representations Reviewer shall submit
 reasonably deta...
-|-- Content: (b) Proceedings. Promptly on receipt by an Indemnified Person of notice of a
+
+--- (Additional Root Structure) ---
+Heading (L1): (b) Proceedings. Promptly on receipt by an Indemnified Person of notice of a
 Proceeding against it, ...
-|-- Content: Section 4.9. Confidential Information. 
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 4.9. Confidential Information. 
 (a) Treatment. The Asset Representations Reviewer agrees to ...
-|-- Content: (d) Disclosure. If the Asset Representations Reviewer is required by applicable law,
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Disclosure. If the Asset Representations Reviewer is required by applicable law,
 regulation, rul...
-|-- Content: (c) Additional Limitations. In addition to the use and protection requirements
-described in Section ...
-|-- Content: (h) Audit of Asset Representations Reviewer. The Asset Representations Reviewer will
+
+--- (Additional Root Structure) ---
+Heading (L1): (h) Audit of Asset Representations Reviewer. The Asset Representations Reviewer will
 permit the Issu...
-|-- Content: (d) Continue to Perform After Resignation or Removal. No resignation or removal of
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Continue to Perform After Resignation or Removal. No resignation or removal of
 the Asset Represe...
-|-- Content: Indenture Trustee. None of the Issuer, the Owner Trustee or the Indenture Trustee will be responsibl...
-|-- Content: (b) This Agreement may also be amended from time to time by PFS and the Asset
-Representations Review...
-|-- Content: Section 7.4. Notices, Etc. All demands, notices and communications hereunder
-shall be in writing and...
-|-- Content: Section 7.11. Cumulative Remedies. The remedies herein provided are cumulative
-and not exclusive of ...
-`-- Content: authorized to give such instructions, directions, reports, notices or other communications or inform...

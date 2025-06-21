@@ -1,87 +1,117 @@
-AGREEMENT: Investment
-Agreement
-|-- Content: This
+Content: This
 Agreement was signed in Shenzhen City on November 5, 2022.
-|-- Content: Party
+
+--- (Additional Root Structure) ---
+Content: Party
 A: Chen Liguang (hereinafter referred to as “Party A”)
-|-- Content: Party
+
+--- (Additional Root Structure) ---
+Content: Party
 B: Beijing ABGreen Reverse Supply Chain Management Co., LTD. (tentative) (hereinafter referred...
-|-- Heading (L2): Unified
+
+--- (Additional Root Structure) ---
+Heading (L2): Unified
 Social Credit Code:
-|   |-- Content: Party
+|-- Content: Party
 C: Shenzhen Carbon Zero Technology Co., Ltd (hereinafter referred to as “Party C”)
-|   `-- Content: Party
+`-- Content: Party
 D: Tang Baitong (hereinafter referred to as “Party D”)
-|-- Heading (L2): Address:
-|   `-- Content: Party
+
+--- (Additional Root Structure) ---
+Heading (L2): Address:
+`-- Content: Party
 A is a natural person in China, Party B is a corporate body to be established and registered i...
-|-- Heading (L2): In
+
+--- (Additional Root Structure) ---
+Heading (L2): In
 consideration of:
-|   |-- Content: Through
+|-- Content: Through
 the necessary business investigation and understanding of Party B and Party D, Party A recog...
-|   `-- Content: According
+`-- Content: According
 to the General Principles of the Civil Law, Contract Law and Company Law of the People’s R...
-|-- Article Article 1: Nature and Business Scope of Party B
-|   |-- Content: 1.
+
+--- (Additional Root Structure) ---
+Article Article 1: Nature and Business Scope of Party B
+|-- Content: 1.
 Party B is proposed to be Beijing ABGreen Reverse Supply Chain Management Co., Ltd. and there are...
-|   |-- Section 2: Party B is located in Beijing
-|   `-- Section 3: Party B is a limited liability company
-|       `-- Content: 4.
+|-- Section 2: Party B is located in Beijing
+`-- Section 3: Party B is a limited liability company
+    `-- Content: 4.
 Party B’s business scope: supply chain management services; research and development of renewable...
-|-- Article Article 2: Investment Plan
-|   |-- Content: 1.
+
+--- (Additional Root Structure) ---
+Article Article 2: Investment Plan
+|-- Content: 1.
 The registered capital of Party B proposed to establish is RMB 849,687. Party B agrees to introdu...
-|   `-- Content: 2.
+`-- Content: 2.
 With the unanimous consent of party A, Party B and Party D, Party A shall increase the capital of...
-|-- Article Article 3: Method of Payment
-|   |-- Content: 1.
+
+--- (Additional Root Structure) ---
+Article Article 3: Method of Payment
+|-- Content: 1.
 Due to the business time planning, industrial and commercial business scope, industrial and comme...
-|   |-- Content: 2.
+|-- Content: 2.
 Upon signing this Agreement, Party A shall transfer the full amount of investment funds to the ac...
-|   |-- Content: Account
+|-- Content: Account
 name: Shenzhen Carbon Zero Technology Co., Ltd
-|   `-- Content: 3.
+`-- Content: 3.
 Upon the completion of Party B’s business registration and establishment and the opening of the c...
-|-- Article Article 4: Equity Registration
-|   `-- Content: In
+
+--- (Additional Root Structure) ---
+Article Article 4: Equity Registration
+`-- Content: In
 order to ensure that the investment is in line with the laws, regulations and policies, after the...
-|-- Article Article 5: Exercise of Shareholders’ Rights and Obligations
-|   `-- Content: After
+
+--- (Additional Root Structure) ---
+Article Article 5: Exercise of Shareholders’ Rights and Obligations
+`-- Content: After
 the completion of the establishment of Party B’s industrial and commercial registration, in ac...
-|-- Article Article 6: Corporate Governance
-|   |-- Content: 1.
+
+--- (Additional Root Structure) ---
+Article Article 6: Corporate Governance
+|-- Content: 1.
 After the completion of the establishment of Party B’s industrial and commercial registration, a ...
-|   |-- Content: In
+|-- Content: In
 case of the following major matters, the company shall reach a unanimous resolution by both parti...
-|   |-- Clause (1): To provide guarantee for shareholders, other enterprises or individuals by the company;
-|   `-- Clause (2): Decide on the company’s business policies and investment plans.
-|-- Article Article 7: Other Matters
-|   `-- Content: Other
+|-- Clause (1): To provide guarantee for shareholders, other enterprises or individuals by the company;
+`-- Clause (2): Decide on the company’s business policies and investment plans.
+
+--- (Additional Root Structure) ---
+Article Article 7: Other Matters
+`-- Content: Other
 outstanding matters of this Agreement, Party A, B and C may, according to the progress of the ...
-|-- Article Article 8: Confidentiality Obligation
-|   `-- Content: All
+
+--- (Additional Root Structure) ---
+Article Article 8: Confidentiality Obligation
+`-- Content: All
 parties to the agreement undertakes to keep confidential the documents and information learned i...
-|-- Article Article 9: Liability
-|   `-- Content: If
+
+--- (Additional Root Structure) ---
+Article Article 9: Liability
+`-- Content: If
 Party B fails to complete the establishment of industrial and commercial registration due to the ...
-|-- Article Article 10: Dispute Resolution
-|   `-- Content: All
+
+--- (Additional Root Structure) ---
+Article Article 10: Dispute Resolution
+`-- Content: All
 disputes arising out of or in connection with the fulfillment of this Agreement shall be resolve...
-`-- Article Article 11: Effectiveness of the Agreement and Others
-    |-- Section 1: This Agreement shall come into force upon being signed and sealed by the authoriz
-    |   |-- Content: 2.
+
+--- (Additional Root Structure) ---
+Article Article 11: Effectiveness of the Agreement and Others
+|-- Section 1: This Agreement shall come into force upon being signed and sealed by the authoriz
+|   |-- Content: 2.
 This Agreement is made in quadruplicate, with Party A, B, C and D holding one copy and each copy ...
-    |   `-- Content: (This
+|   `-- Content: (This
 is the signing page of this Agreement with no text)
-    |-- Heading (L2): Party
+|-- Heading (L2): Party
 A:
-    |-- Heading (L2): Date:
-    |-- Heading (L2): Party
+|-- Heading (L2): Date:
+|-- Heading (L2): Party
 B:
-    |-- Heading (L2): Date:
-    |-- Heading (L2): Party
+|-- Heading (L2): Date:
+|-- Heading (L2): Party
 C:
-    |-- Heading (L2): Date:
-    |-- Heading (L2): Party
+|-- Heading (L2): Date:
+|-- Heading (L2): Party
 D:
-    `-- Heading (L2): Date:
+`-- Heading (L2): Date:

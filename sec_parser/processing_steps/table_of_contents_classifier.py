@@ -39,7 +39,7 @@ class TableOfContentsClassifier(AbstractElementwiseProcessingStep):
         element: AbstractSemanticElement,
         _: ElementProcessingContext,
     ) -> AbstractSemanticElement:
-        is_table_of_content=element.html_tag.is_table_of_content()
+        is_table_of_content = element.html_tag.is_table_of_content()
 
         if is_table_of_content is True:
             return TableOfContentsElement.create_from_element(

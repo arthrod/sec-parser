@@ -13,9 +13,10 @@ def check_table_contains_text_page(bs4_tag: bs4.Tag) -> bool:
     Returns true if there exists at least one <td> tag
     with the text "page", otherwise the function returns false.
     """
-    table=get_single_table(bs4_tag)
+    table = get_single_table(bs4_tag)
 
     return any(is_page_data_cell(t.text.strip()) for t in table.find_all("td"))
+
 
 def is_page_data_cell(data_cell_text: str) -> bool:
     """is_page_data_cell determines whether the given text expresses the

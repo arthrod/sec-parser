@@ -1,5 +1,4 @@
 Heading (L1): EMPLOYMENT AGREEMENT
-`-- Content: This Employment Agreement ("Agreement") is between SunOpta Inc. (such entity together with all past,...
 
 --- (Additional Root Structure) ---
 Heading (L1): 1. EMPLOYMENT

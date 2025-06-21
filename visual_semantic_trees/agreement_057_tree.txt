@@ -12,11 +12,11 @@ HMLA requires the creation of an Ethereum smart contract, token website and web3
 the parties wish to compensate BOT to perform these services in the following manner:
 |   |-- Content: 1.$50,000
                                             total cash compensation
-|   |-- Clause (a)
-|   |-- Clause (b)
-|   |-- Clause (c)
-|   |-- Clause (d)
-|   `-- Clause (e)
+|   |-- Clause a.
+|   |-- Clause b.
+|   |-- Clause c.
+|   |-- Clause d.
+|   `-- Clause e.
 |       |-- Content: 2.10%
                                             of the total token supply
 |       `-- Content: 3.10%
@@ -75,33 +75,37 @@ of Revenue shall be made directly from the merchant account associated with the 
 for any reason the merchant account associated with the Website changes, the above Revenue Sharin...
 `-- Heading (L2): Article
 V. Miscellaneous
-    |-- Content: In
+    `-- Content: In
 the event any party deems it necessary to commence an action or proceeding to enforce its rights ...
-    |-- Content: This
+
+--- (Additional Root Structure) ---
+AGREEMENT: Entire
+Agreement
+|-- Content: This
 Agreement constitutes the entire agreement between the parties hereto, and it is understood and...
-    `-- Section 5.03
-        |-- Content: This
+`-- Section 5.03
+    |-- Content: This
 Agreement may not be changed orally, but only by an agreement in writing signed by the Parties.
-        |-- Content: Notices
+    |-- Content: Notices
 given pursuant to this Agreement shall be in writing, delivered in person or by certified ma...
-        |-- Content: (a)
+    |-- Content: (a)
 Notices.
  
 All
                                             notices required to be given in this ...
-        |-- Content: This
+    |-- Content: This
 Settlement may be executed in several counterparts; each counterpart shall be considered a dupl...
-        |-- Content: The
+    |-- Content: The
 provisions of this Agreement shall inure to the benefit of and shall be binding upon the parties...
-        |-- Content: This
+    |-- Content: This
 Agreement shall be governed by and construed and enforced in accordance with the laws of the St...
-        |-- Content: This
+    |-- Content: This
 Agreement may be executed in several counterparts, each of which shall be deemed an original, a...
-        |-- Content: IN
+    |-- Content: IN
 WITNESS WHEREOF, the parties hereto set their respective hands and affix their seals the day and ...
-        |-- Content: Bot
+    |-- Content: Bot
 Logic Labs __________________________________ Date:
 1/1/2024
-        `-- Content: Himalaya
+    `-- Content: Himalaya
 Technologies, Inc._____________________________ Date:
 1/1/2024

@@ -42,7 +42,7 @@ def compute_text_styles_metrics(tag: Tag) -> dict[tuple[str, str], float]:
         effective_styles: dict[str, str] = _compute_effective_style(parent)
 
         for prop, val in effective_styles.items():
-            style_metrics[(prop, val)] += char_count
+            style_metrics[prop, val] += char_count
 
     for key in style_metrics:
         style_metrics[key] = (

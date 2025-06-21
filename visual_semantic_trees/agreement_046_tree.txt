@@ -1,15 +1,12 @@
-Content: Long Term Incentive Plan (“LTI Plan”) AMENDED LONG-TERM INCENTIVE PLAN Established: July 27, 2017
-
---- (Additional Root Structure) ---
 AGREEMENT: Board Approved Amendment: August 9, 2022
 |-- Heading (L1): ARTICLE 1
 |-- Heading (L1): DEFINITIONS AND INTERPRETATION
 |   |-- Content: 1.1For the purposes of this Plan, unless such word or term is otherwise defined herein or the contex...
-|   |-- Clause (A)
-|   |-- Clause (B)
-|   |-- Clause (C)
-|   |-- Clause (D)
-|   |-- Clause (E)
+|   |-- Clause A.
+|   |-- Clause B.
+|   |-- Clause C.
+|   |-- Clause D.
+|   |-- Clause E.
 |   |-- Content: (i)a consolidation, merger, amalgamation, arrangement or other reorganization or acquisition involvi...
 |   |-- Content: (ii)any person, entity or group of persons or entities acting jointly or in concert (an “Acquiror”) ...
 |   |   `-- Clause (iii)
@@ -17,26 +14,26 @@ AGREEMENT: Board Approved Amendment: August 9, 2022
 |   |   `-- Clause (iv)
 |   |-- Clause (v)
 |   `-- Party: F.“Corporation” means Cordoba Minerals Corp. (corporation existing under the Act)
-|       |-- Clause (G)
+|       |-- Clause G.
 |       |-- Content: H.“Eligible Contractors” means (A) persons who are not employees, officers or directors of the Corpo...
 |       |-- Content: I.“Entitlement Date” means the date as determined by the Board in its sole discretion in accordance ...
-|       |-- Clause (J)
-|       |-- Clause (K)
+|       |-- Clause J.
+|       |-- Clause K.
 |       |-- Content: L.“Participant” means any director, employee, officer or Eligible Contractor of the Corporation or a...
-|       |-- Clause (M)
-|       |-- Clause (N)
-|       |-- Clause (O)
-|       |-- Clause (P)
+|       |-- Clause M.
+|       |-- Clause N.
+|       |-- Clause O.
+|       |-- Clause P.
 |       |-- Content: Q.“Retirement” means the Participant ceasing to be an employee, officer or director of the Corporati...
-|       |-- Clause (R)
+|       |-- Clause R.
 |       |-- Definition: credited by: of an entry on the books of the Corporation to a Participant, representing the right to...
-|       |   |-- Clause (T)
-|       |   |-- Clause (U)
-|       |   |-- Clause (V)
+|       |   |-- Clause T.
+|       |   |-- Clause U.
+|       |   |-- Clause V.
 |       |   |-- Content: W.“Termination” means: (i) in the case of a director, the termination of board membership of the dir...
 |       |   |-- Content: X.“Triggering Event” means (i) in the case of a director, the termination of board membership of the...
-|       |   |-- Clause (Y)
-|       |   |-- Clause (Z)
+|       |   |-- Clause Y.
+|       |   |-- Clause Z.
 |       |   |-- Content: 1.2The headings of all articles, Sections and paragraphs in this Plan are inserted for convenience o...
 |       |   `-- Content: 1.3Whenever the singular or masculine are used in this Plan, the same shall be construed as being th...
 |       `-- Definition: and similar expressions: or refer to this Plan as a whole and not to any particular article, Section...

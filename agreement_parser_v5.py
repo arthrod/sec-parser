@@ -44,7 +44,6 @@ class AgreementTitleElement(AbstractSemanticElement):
     """Main agreement title."""
 
 
-
 class ArticleElement(AbstractSemanticElement):
     """Article-level sections."""
 
@@ -95,7 +94,6 @@ class ContentTextElement(AbstractSemanticElement):
     """Content text."""
 
 
-
 # Legal content elements
 class DefinitionElement(AbstractSemanticElement):
     """Definitions."""
@@ -119,10 +117,8 @@ class RecitalElement(AbstractSemanticElement):
     """WHEREAS clauses."""
 
 
-
 class SignatureBlockElement(AbstractSemanticElement):
     """Signature blocks."""
-
 
 
 class ExhibitElement(AbstractSemanticElement):
@@ -235,9 +231,8 @@ class ImprovedMetadataRemover(AbstractElementwiseProcessingStep):
             (r"^\d+\s+of\s+\d+$", 10),
         ]
         for pattern, max_len in page_patterns:
-            if re.match(pattern, text_stripped, re.IGNORECASE):
-                if len(text_stripped) <= max_len:
-                    return ("page_number", PageNumberMetadataElement)
+            if re.match(pattern, text_stripped, re.IGNORECASE) and len(text_stripped) <= max_len:
+                return ("page_number", PageNumberMetadataElement)
 
         # Page headers (company names with page numbers)
         if "page" in text_lower and re.search(r"\d+\s+of\s+\d+|\bpage\s+\d+", text_lower):
@@ -261,7 +256,7 @@ class ImprovedMetadataRemover(AbstractElementwiseProcessingStep):
                 return ("signature_follows", SignaturePageFollowsElement)
 
         # Table of contents
-        if text_lower in ["table of contents", "contents", "index", "toc"]:
+        if text_lower in {"table of contents", "contents", "index", "toc"}:
             return ("toc", MetadataElement)
 
         return None
@@ -309,7 +304,7 @@ class SmartSectionClassifier(AbstractElementwiseProcessingStep):
                 return result
             return element  # Skip duplicate
 
-        return result if result else element
+        return result or element
 
     def _get_section_key(self, element) -> str:
         """Generate unique key for section/article."""
@@ -1000,15 +995,11 @@ def visualize_structure_v5(elements: list[AbstractSemanticElement], title: str =
             current_section = None
             if elem.article_title:
                 pass
-            else:
-                pass
 
         elif isinstance(elem, SectionElement):
             current_section = elem
             if elem.section_title:
                 elem.section_title[:50] + "..." if len(elem.section_title) > 50 else elem.section_title
-            else:
-                pass
 
         elif isinstance(elem, ClauseElement):
             base_indent = ""
@@ -1022,8 +1013,6 @@ def visualize_structure_v5(elements: list[AbstractSemanticElement], title: str =
 
             if elem.clause_text:
                 elem.clause_text[:40] + "..." if len(elem.clause_text) > 40 else elem.clause_text
-            else:
-                pass
 
         elif isinstance(elem, HeadingElement) and elem.level <= 2:
             "    " * elem.level
@@ -1046,7 +1035,6 @@ def comprehensive_test_v5() -> None:
 
     html_files = sorted(html_dir.glob("*.html"))
 
-
     results = []
 
     # Process each agreement
@@ -1063,8 +1051,6 @@ def comprehensive_test_v5() -> None:
 
         if result.get("metadata_stats"):
             ", ".join([f"{k}: {v}" for k, v in result["metadata_stats"].items()])
-        else:
-            pass
 
         if result.get("title_text"):
             pass
@@ -1082,7 +1068,7 @@ def comprehensive_test_v5() -> None:
                 pass
 
         # Show structure for successful parses (first 5)
-        if result["status"] in ["✅ SUCCESS", "✅ EXCELLENT", "⚠️ PARTIAL"] and i <= 5:
+        if result["status"] in {"✅ SUCCESS", "✅ EXCELLENT", "⚠️ PARTIAL"} and i <= 5:
             if "relevant_elements" in result:
                 visualize_structure_v5(result["relevant_elements"], f"Agreement {i}", max_elements=30)
 
@@ -1099,7 +1085,6 @@ def comprehensive_test_v5() -> None:
     sum(1 for r in results if "FAILED" in r["status"])
     sum(1 for r in results if "ERROR" in r["status"])
 
-
     sum(r.get("metadata_removed", 0) for r in results)
 
     # Detailed table
@@ -1108,11 +1093,9 @@ def comprehensive_test_v5() -> None:
         if r.get("title_text"):
             r["title_text"][:28] + "..." if len(r["title_text"]) > 28 else r["title_text"]
 
-
     # Success breakdown
     sum(1 for r in results if "EXCELLENT" in r["status"])
     sum(1 for r in results if r["status"] == "✅ SUCCESS")
-
 
 
 if __name__ == "__main__":

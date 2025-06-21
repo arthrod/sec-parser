@@ -23,6 +23,5 @@ Heading (L1): ENTERGY CORPORATION
 
 --- (Additional Root Structure) ---
 Heading (L1): TALENT AND COMPENSATION COMMITTEE
-|-- Content: through the undersigned duly authorized representative
 |-- Content: _/s/ Kathryn Collins___________________________ KATHRYN COLLINS
 `-- Content: Senior Vice President, HR and Chief Human Resources Officer

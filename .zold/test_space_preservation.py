@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""
-Test script to verify space preservation in text extraction
-"""
+"""Test script to verify space preservation in text extraction."""
 
 from bs4 import BeautifulSoup
+
 from complete_parser import UniversalEDGARParser
 
 # Test HTML with potential space issues
@@ -17,29 +16,21 @@ test_html = """
 </html>
 """
 
-print("Testing space preservation in text extraction...")
-print("=" * 60)
 
 # Test original BeautifulSoup behavior
-soup = BeautifulSoup(test_html, 'html.parser')
+soup = BeautifulSoup(test_html, "html.parser")
 
-print("Original get_text() without separator:")
-for elem in soup.find_all(['p', 'div']):
+for elem in soup.find_all(["p", "div"]):
     text = elem.get_text(strip=True)
-    print(f"  '{text}'")
 
-print("\nFixed get_text() with separator=' ':")
-for elem in soup.find_all(['p', 'div']):
+for elem in soup.find_all(["p", "div"]):
     text = elem.get_text(separator=" ", strip=True)
-    print(f"  '{text}'")
 
-print("\nTesting with our enhanced parser:")
 parser = UniversalEDGARParser()
 result = parser.parse(test_html, "test.html")
 
 if result.success:
-    print("Parser results:")
-    for i, element in enumerate(result.elements[:5]):  # Show first 5 elements
-        print(f"  {i+1}. [{element.type.value.upper()}] '{element.content}'")
+    for _i, _element in enumerate(result.elements[:5]):  # Show first 5 elements
+        pass
 else:
-    print("Parser failed:", result.errors)
+    pass

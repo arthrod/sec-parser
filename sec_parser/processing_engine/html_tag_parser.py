@@ -9,7 +9,7 @@ from bs4.builder import XMLParsedAsHTMLWarning
 from sec_parser.exceptions import SecParserValueError
 from sec_parser.processing_engine.html_tag import HtmlTag
 
-DEFAULT_BEAUTIFUL_SOUP_PARSER_BACKEND = 'lxml'
+DEFAULT_BEAUTIFUL_SOUP_PARSER_BACKEND = "lxml"
 
 
 class AbstractHtmlTagParser(ABC):
@@ -37,16 +37,14 @@ class HtmlTagParser(AbstractHtmlTagParser):
             elements.append(HtmlTag(child))
         if not elements:
             msg = (
-                'The HTML document did not contain any top-level tags. '
-                'This may indicate that the document is malformed.'
+                "The HTML document did not contain any top-level tags. "
+                "This may indicate that the document is malformed."
             )
             raise SecParserValueError(msg)
         return elements
 
     def parse_fragment(self, html: str | bytes) -> list[HtmlTag]:
-        """
-        Parse an HTML fragment and return a list of the top-level tags.
-        """
+        """Parse an HTML fragment and return a list of the top-level tags."""
         root: bs4.Tag = self._parse_to_bs4(html)
 
         elements: list[HtmlTag] = []
@@ -58,9 +56,9 @@ class HtmlTagParser(AbstractHtmlTagParser):
 
     def _parse_to_bs4(self, html: str | bytes) -> bs4.Tag:
         with warnings.catch_warnings():
-            warnings.filterwarnings('ignore', category=XMLParsedAsHTMLWarning)
+            warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
             root: bs4.Tag = bs4.BeautifulSoup(html, features=self._parser_backend)
         if root.html:
             root = root.html
-            root = root.body if root.body else root
+            root = root.body or root
         return root

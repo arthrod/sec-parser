@@ -1,11 +1,5 @@
-Content: CERTAIN
-INFORMATION IDENTIFIED WITH [***] HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS (1) NOT ...
-
---- (Additional Root Structure) ---
 Heading (L1): LICENSE
 AGREEMENT
-|-- Content: THIS LICENSE AGREEMENT (this “Agreement”)
-is made and entered into on May 27, 2021 (the “Execution D...
 `-- Party: Inc. (corporation organized and existing under)
     |-- Content: 2.Zenas BioPharma (Cayman) Limited, an exempted company organized under the Laws of the Cayman Islan...
     `-- Content: XENCOR and Licensee may each be referred to herein
@@ -13,8 +7,8 @@ individually as a “Party” and collectively as the...
 
 --- (Additional Root Structure) ---
 Heading (L1): RECITALS
-|-- Clause (A)
-|-- Clause (B)
+|-- Clause A.
+|-- Clause B.
 |-- Recital: NOW, THEREFORE, in consideration of the foregoing
 recitals, the mutual promises hereinafter set fort...
 |-- Heading (L2): 1.Definitions and Interpretation.
@@ -494,18 +488,17 @@ forth Xencor Product Specific Pat...
 Heading (L1): TRANSFER CHECKLIST
 |-- Content: [Pursuant to Regulation S-K, Item 601(a)(5), this Schedule setting
 forth the Transfer Checklist has ...
-|-- Content: PRODUCT LOTS and Materials related to clinical Studies
 `-- Content: [Pursuant
 to Regulation S-K, Item 601(a)(5), this schedule setting forth the description of the Prod...
 
 --- (Additional Root Structure) ---
 Heading (L1): ANTI-CORRUPTION POLICIES
-|-- Clause (I)
+|-- Clause I.
 |-- Content: Zenas BioPharma (Cayman) Limited (the “COMPANY”)
 is committed to securing and maintaining the trust ...
 |-- Content: COMPANY has established the following policy (the “Policy”)
 to help ensure compliance with laws proh...
-|   `-- Clause (II)
+|   `-- Clause II.
 |-- Content: This Policy provides an overview of COMPANY’s Anti-Bribery and
 Anti-Corruption program (the “Program...
 |-- Content: This Policy applies to all COMPANY Employees. This Policy also applies
@@ -527,7 +520,7 @@ or Government Official – Any person acting in an official capacity on behalf o
 Professional (HCP) – Any person or entity in the position to purchase or prescribe or to ...
     |-- Content: Third
 Party Representatives – Organizations or individuals that are hired directly or indirectly by ...
-    |   `-- Clause (IV)
+    |   `-- Clause IV.
     |-- Content: COMPANY Policy prohibits Bribery in any form, including providing Anything
 of Value to:
     |-- Content: •obtain approval of a drug; to secure favorable formulary status or tax treatment;

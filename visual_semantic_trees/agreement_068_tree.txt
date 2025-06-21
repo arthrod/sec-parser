@@ -153,18 +153,14 @@ Either
 |-- Section 14: DURATION
     OF AGREEMENT
 `-- Section 15: MISCELLANEOUS
-    |-- Content: [The
+    `-- Content: [The
 remainder of this page is intentionally left blank]
-    `-- Content: IN
-WITNESS WHEREOF the Parties have hereunto set their respective hands and seal on the day and year...
 
 --- (Additional Root Structure) ---
 Heading (L1): THE
 FINANCING PARTNER
 |-- Heading (L2): Schedule
 1
-|   `-- Content: Trust
-Deed Between MYISCO and MyAngkasa Amanah Berhad
 `-- Heading (L2): Schedule
 2
     |-- Content: MYISCO

@@ -1,17 +1,13 @@
-Content: CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED
-FROM THE EXHIBIT BECAUSE IT IS BOTH NOT MATERIAL AN...
-
---- (Additional Root Structure) ---
 Heading (L1): LICENSE AND SERVICES AGREEMENT
 `-- Party: Serve Operating Co. (Delaware corporation
 (“Serve”))
 
 --- (Additional Root Structure) ---
 Heading (L1): RECITALS
-|-- Clause (A)
+|-- Clause A.
 |-- Content: B.the Parties are entering into a strategic partnership comprising three relationships and transacti...
-|-- Clause (C)
-|-- Clause (D)
+|-- Clause C.
+|-- Clause D.
 |-- Content: Now,
 Therefore, in consideration of the foregoing premises and the mutual covenants contained herein...
 |-- Section 1: License

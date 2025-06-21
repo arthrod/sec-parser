@@ -334,51 +334,51 @@ class HtmlTag:
     @classmethod
     def create_from_text(cls, text: str, tag_name: str = "span") -> HtmlTag:
         """Create an HtmlTag from plain text content.
-        
+
         Args:
             text: The text content for the new tag
             tag_name: The HTML tag name to use (default: "span")
-            
+
         Returns:
             A new HtmlTag containing the specified text
         """
         import bs4
-        
+
         # Create a new BeautifulSoup document to ensure proper context
         soup = bs4.BeautifulSoup("", "html.parser")
         tag = soup.new_tag(tag_name)
         tag.string = text
-        
+
         return cls(tag)
 
     @classmethod
     def clone_with_text(cls, original: HtmlTag, new_text: str) -> HtmlTag:
         """Create a clone of an HtmlTag with different text content.
-        
+
         Args:
             original: The HtmlTag to clone
             new_text: The new text content
-            
+
         Returns:
             A new HtmlTag that is a copy of the original but with new text content
         """
         import copy
-        
+
         # Create a deep copy of the original bs4 tag
-        new_bs4_tag = copy.deepcopy(original._bs4)  # noqa: SLF001
-        
+        new_bs4_tag = copy.deepcopy(original._bs4)
+
         # Clear existing content and set new text
         new_bs4_tag.clear()
         new_bs4_tag.string = new_text
-        
+
         return cls(new_bs4_tag)
 
     def get_bs4(self) -> bs4.Tag:
         """Get the underlying BeautifulSoup4 Tag object.
-        
+
         This method provides controlled access to the wrapped bs4.Tag object
         for cases where direct bs4 functionality is needed.
-        
+
         Returns:
             The underlying bs4.Tag object
         """

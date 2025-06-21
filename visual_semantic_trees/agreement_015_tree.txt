@@ -138,8 +138,6 @@ Heading (L1): EXCHANGE
 PROCEDURE AND OTHER CONSIDERATION
 |-- Content: Section
 5.1 Seller’s Delivery. On the Closing Date, the Seller shall deliver the following to Buyer ...
-|-- Content: (a) The
-original stock certificate(s) representing the Shares together with an irrevocable stock pow...
 |-- Clause (b): Written
 |-- Clause (c): Written
 |-- Clause (d): A written resignation from all officers of the Company, effective upon Closing.

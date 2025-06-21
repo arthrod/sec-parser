@@ -168,7 +168,7 @@ def test_top_level_section_title_classifier(
 
         # Get indices for each part
         part_indices = {}
-        for _i, section in enumerate(sections0):
+        for section in sections0:
             part_indices[section.section_type.identifier] = sections.index(section)
 
         # Add end index for last part

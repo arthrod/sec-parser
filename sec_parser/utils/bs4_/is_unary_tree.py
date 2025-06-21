@@ -33,6 +33,3 @@ def is_unary_tree(tag: bs4.Tag) -> bool:
     if not isinstance(child, bs4.Tag):
         return True
     return is_unary_tree(child)
-
-
-

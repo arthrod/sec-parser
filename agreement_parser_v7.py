@@ -2,10 +2,10 @@
 """Legal Agreement Parser V7 - Enhanced metadata filtering with comment removal
 - All V6 features plus targeted metadata improvements
 - HTML comment removal to eliminate image filename pollution
-- Enhanced metadata regex patterns with context awareness  
+- Enhanced metadata regex patterns with context awareness
 - Consecutive page number classification to reduce orphans
 - Redaction placeholder handling for [***] patterns
-- In-pipeline approach with no core logic changes
+- In-pipeline approach with no core logic changes.
 """
 
 # IMPORTANT: Import and activate tracing BEFORE any other imports
@@ -17,9 +17,10 @@ except ImportError:
 
 import re
 from collections import defaultdict
-from typing import Any, Callable, Optional, List, Dict, Set
+from typing import Any, Callable, Optional
 
 from bs4 import Comment
+
 from sec_parser.processing_engine.core import AbstractSemanticElementParser
 from sec_parser.processing_engine.html_tag import HtmlTag
 from sec_parser.processing_steps.abstract_classes.abstract_elementwise_processing_step import (
@@ -52,27 +53,27 @@ from sec_parser.semantic_elements.table_element.table_element import TableElemen
 # Import all hierarchical elements from V6
 class HierarchicalElement(AbstractSemanticElement):
     """Base class for hierarchical elements with parent/child relationships."""
-    
+
     def __init__(self, html_tag: HtmlTag, parent_id: Optional[str] = None, level: int = 0, **kwargs) -> None:
         super().__init__(html_tag, **kwargs)
         self.parent_id = parent_id
-        self.children: List[str] = []  # List of child element IDs
+        self.children: list[str] = []  # List of child element IDs
         self.level = level
         self.id = self._generate_id()
-    
+
     def _generate_id(self) -> str:
         """Generate unique ID for this element."""
         # Use a simple counter-based approach for now
-        if not hasattr(HierarchicalElement, '_id_counter'):
+        if not hasattr(HierarchicalElement, "_id_counter"):
             HierarchicalElement._id_counter = 0
         HierarchicalElement._id_counter += 1
         return f"{self.__class__.__name__}_{HierarchicalElement._id_counter}"
-    
+
     def add_child(self, child_id: str) -> None:
         """Add a child element ID."""
         if child_id not in self.children:
             self.children.append(child_id)
-    
+
     def normalized_id(self) -> Optional[str]:
         """Return normalized ID for cross-reference indexing."""
         return None  # Override in subclasses
@@ -81,7 +82,7 @@ class HierarchicalElement(AbstractSemanticElement):
 # Enhanced Semantic Elements with hierarchy
 class AgreementTitleElement(HierarchicalElement):
     """Main agreement title."""
-    
+
     def normalized_id(self) -> Optional[str]:
         return "title"
 
@@ -93,11 +94,11 @@ class ArticleElement(HierarchicalElement):
         super().__init__(html_tag, level=1, **kwargs)
         self.article_number = article_number
         self.article_title = article_title
-    
+
     def normalized_id(self) -> Optional[str]:
         if self.article_number:
             # Extract roman numeral or number from article_number
-            match = re.search(r'([IVX]+|\d+)', self.article_number)
+            match = re.search(r"([IVX]+|\d+)", self.article_number)
             if match:
                 return f"article_{match.group(1).lower()}"
         return None
@@ -108,7 +109,7 @@ class SectionElement(HierarchicalElement):
 
     def __init__(self, html_tag: HtmlTag, section_number: str = "", section_title: str = "", level: int = 2, **kwargs) -> None:
         # Extract level from kwargs if present to avoid duplicate
-        actual_level = kwargs.pop('level', level)
+        actual_level = kwargs.pop("level", level)
         super().__init__(html_tag, level=actual_level, **kwargs)
         self.section_number = self._normalize_section_number(section_number)
         self.section_title = section_title
@@ -118,11 +119,11 @@ class SectionElement(HierarchicalElement):
         if re.match(r"^\d+(?:\.\d+)*$", number.strip()):
             return number.strip()
         return number
-    
+
     def normalized_id(self) -> Optional[str]:
         if self.section_number:
             # Extract numeric pattern
-            match = re.search(r'(\d+(?:\.\d+)*)', self.section_number)
+            match = re.search(r"(\d+(?:\.\d+)*)", self.section_number)
             if match:
                 return match.group(1)
         return None
@@ -133,15 +134,15 @@ class ClauseElement(HierarchicalElement):
 
     def __init__(self, html_tag: HtmlTag, clause_id: str = "", clause_text: str = "", level: int = 3, **kwargs) -> None:
         # Extract level from kwargs if present to avoid duplicate
-        actual_level = kwargs.pop('level', level)
+        actual_level = kwargs.pop("level", level)
         super().__init__(html_tag, level=actual_level, **kwargs)
         self.clause_id = clause_id
         self.clause_text = clause_text
-    
+
     def normalized_id(self) -> Optional[str]:
         if self.clause_id:
             # Extract letter/number from clause_id
-            match = re.search(r'\(?([a-zA-Z0-9]+)\)?', self.clause_id)
+            match = re.search(r"\(?([a-zA-Z0-9]+)\)?", self.clause_id)
             if match:
                 return match.group(1).lower()
         return None
@@ -152,17 +153,17 @@ class HeadingElement(HierarchicalElement):
 
     def __init__(self, html_tag: HtmlTag, heading_text: str = "", level: int = 1, **kwargs) -> None:
         # Extract level from kwargs if present to avoid duplicate
-        actual_level = kwargs.pop('level', level)
+        actual_level = kwargs.pop("level", level)
         super().__init__(html_tag, level=actual_level, **kwargs)
         self.heading_text = heading_text
 
 
 class ContentTextElement(HierarchicalElement):
     """Content text with hierarchy support."""
-    
+
     def __init__(self, html_tag: HtmlTag, level: int = 4, **kwargs) -> None:
         # Extract level from kwargs if present to avoid duplicate
-        actual_level = kwargs.pop('level', level)
+        actual_level = kwargs.pop("level", level)
         super().__init__(html_tag, level=actual_level, **kwargs)
 
 
@@ -174,11 +175,11 @@ class DefinitionElement(HierarchicalElement):
         super().__init__(html_tag, level=3, **kwargs)
         self.term = term
         self.definition = definition
-    
+
     def normalized_id(self) -> Optional[str]:
         if self.term:
             # Clean term for ID
-            cleaned = re.sub(r'[^a-zA-Z0-9]', '_', self.term.lower())
+            cleaned = re.sub(r"[^a-zA-Z0-9]", "_", self.term.lower())
             return f"def_{cleaned}"
         return None
 
@@ -190,25 +191,25 @@ class PartyElement(HierarchicalElement):
         super().__init__(html_tag, level=2, **kwargs)
         self.party_name = party_name
         self.party_type = party_type
-    
+
     def normalized_id(self) -> Optional[str]:
         if self.party_name:
             # Clean party name for ID
-            cleaned = re.sub(r'[^a-zA-Z0-9]', '_', self.party_name.lower())
+            cleaned = re.sub(r"[^a-zA-Z0-9]", "_", self.party_name.lower())
             return f"party_{cleaned}"
         return None
 
 
 class RecitalElement(HierarchicalElement):
     """WHEREAS clauses with hierarchy."""
-    
+
     def __init__(self, html_tag: HtmlTag, **kwargs) -> None:
         super().__init__(html_tag, level=2, **kwargs)
 
 
 class SignatureBlockElement(HierarchicalElement):
     """Signature blocks with hierarchy."""
-    
+
     def __init__(self, html_tag: HtmlTag, **kwargs) -> None:
         super().__init__(html_tag, level=2, **kwargs)
 
@@ -220,11 +221,11 @@ class ExhibitElement(HierarchicalElement):
         super().__init__(html_tag, level=1, **kwargs)
         self.exhibit_id = exhibit_id
         self.exhibit_title = exhibit_title
-    
+
     def normalized_id(self) -> Optional[str]:
         if self.exhibit_id:
             # Extract exhibit identifier
-            match = re.search(r'([A-Z0-9]+)$', self.exhibit_id)
+            match = re.search(r"([A-Z0-9]+)$", self.exhibit_id)
             if match:
                 return f"exhibit_{match.group(1).lower()}"
         return None
@@ -266,8 +267,7 @@ class PageHeaderElement(MetadataElement):
 # ========================================================================
 
 class HtmlCommentRemoverStep(AbstractProcessingStep):
-    """
-    Remove TextElements whose underlying _bs4 node is a Comment.
+    """Remove TextElements whose underlying _bs4 node is a Comment.
     No regex – we rely on bs4's node type.
     Addresses image filename pollution from HTML comments.
     """
@@ -279,7 +279,7 @@ class HtmlCommentRemoverStep(AbstractProcessingStep):
     ) -> list[AbstractSemanticElement]:
         filtered: list[AbstractSemanticElement] = []
         removed_count = 0
-        
+
         for el in elements:
             if hasattr(el, "html_tag") and getattr(el.html_tag, "_bs4", None):
                 if isinstance(el.html_tag._bs4, Comment):
@@ -287,29 +287,28 @@ class HtmlCommentRemoverStep(AbstractProcessingStep):
                     removed_count += 1
                     continue
             filtered.append(el)
-        
+
         # Track statistics
-        if not hasattr(self, '_stats'):
-            self._stats = {'comments_removed': 0}
-        self._stats['comments_removed'] += removed_count
-        
+        if not hasattr(self, "_stats"):
+            self._stats = {"comments_removed": 0}
+        self._stats["comments_removed"] += removed_count
+
         return filtered
-    
+
     def get_stats(self) -> dict[str, int]:
         """Return comment removal statistics."""
-        return getattr(self, '_stats', {'comments_removed': 0})
+        return getattr(self, "_stats", {"comments_removed": 0})
 
 
 class ConsecutivePageNumberClassifier(AbstractProcessingStep):
-    """
-    If we see three (or more) consecutive TextElements that are only
+    """If we see three (or more) consecutive TextElements that are only
     digits/roman-digits and length <=3, we treat them as page numbers.
     This eliminates "1 / 2 / 3" waterfalls between pages but preserves
     standalone "1. Definitions" headings.
     """
 
     _roman = re.compile(r"^(?=[IVXLCDM])M{0,4}(CM|CD|D?C{0,3})"
-                        r"(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$", re.I)
+                        r"(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$", re.IGNORECASE)
 
     def _is_page_digit(self, txt: str) -> bool:
         txt = txt.strip(" -()")
@@ -321,10 +320,10 @@ class ConsecutivePageNumberClassifier(AbstractProcessingStep):
         i = 0
         out = []
         consecutive_count = 0
-        
+
         while i < len(elements):
             # window of three
-            window = elements[i:i+3]
+            window = elements[i:i + 3]
             if (
                 len(window) == 3
                 and all(
@@ -334,24 +333,23 @@ class ConsecutivePageNumberClassifier(AbstractProcessingStep):
                 )
             ):
                 # mark them as metadata and skip
-                for el in window:
-                    out.append(PageNumberMetadataElement(el.html_tag))
+                out.extend(PageNumberMetadataElement(el.html_tag) for el in window)
                 consecutive_count += 3
                 i += 3
             else:
                 out.append(elements[i])
                 i += 1
-        
+
         # Track statistics
-        if not hasattr(self, '_stats'):
-            self._stats = {'consecutive_pages_removed': 0}
-        self._stats['consecutive_pages_removed'] += consecutive_count
-        
+        if not hasattr(self, "_stats"):
+            self._stats = {"consecutive_pages_removed": 0}
+        self._stats["consecutive_pages_removed"] += consecutive_count
+
         return out
-    
+
     def get_stats(self) -> dict[str, int]:
         """Return consecutive page number removal statistics."""
-        return getattr(self, '_stats', {'consecutive_pages_removed': 0})
+        return getattr(self, "_stats", {"consecutive_pages_removed": 0})
 
 
 # ========================================================================
@@ -360,20 +358,20 @@ class ConsecutivePageNumberClassifier(AbstractProcessingStep):
 
 class HierarchyBuilder(AbstractProcessingStep):
     """Build hierarchical relationships between elements."""
-    
-    def __init__(self):
+
+    def __init__(self) -> None:
         super().__init__()
-        self.element_stack: List[HierarchicalElement] = []
-        self.id_map: Dict[str, HierarchicalElement] = {}
-    
-    def _process(self, elements: List[AbstractSemanticElement]) -> List[AbstractSemanticElement]:
+        self.element_stack: list[HierarchicalElement] = []
+        self.id_map: dict[str, HierarchicalElement] = {}
+
+    def _process(self, elements: list[AbstractSemanticElement]) -> list[AbstractSemanticElement]:
         """Required implementation of abstract method."""
         return self.process(elements)
-    
-    def process(self, elements: List[AbstractSemanticElement]) -> List[AbstractSemanticElement]:
+
+    def process(self, elements: list[AbstractSemanticElement]) -> list[AbstractSemanticElement]:
         """Build hierarchy for all elements."""
         hierarchical_elements = []
-        
+
         for element in elements:
             if isinstance(element, HierarchicalElement):
                 self._build_hierarchy(element)
@@ -381,38 +379,36 @@ class HierarchyBuilder(AbstractProcessingStep):
                 self.id_map[element.id] = element
             else:
                 hierarchical_elements.append(element)
-        
+
         return hierarchical_elements
-    
+
     def _build_hierarchy(self, element: HierarchicalElement) -> None:
         """Build parent-child relationships."""
         # Find appropriate parent based on level
         parent = None
-        
+
         # Pop elements from stack until we find a valid parent
         while self.element_stack:
             potential_parent = self.element_stack[-1]
             if potential_parent.level < element.level:
                 parent = potential_parent
                 break
-            else:
-                self.element_stack.pop()
-        
+            self.element_stack.pop()
+
         # Set parent relationship
         if parent:
             element.parent_id = parent.id
             parent.add_child(element.id)
-        
+
         # Add to stack
         self.element_stack.append(element)
 
 
 class EarlyMetadataRemoverStep(AbstractProcessingStep):
-    """
-    Strip page headers/footers and EDGAR artefacts *before* they can be turned
+    """Strip page headers/footers and EDGAR artefacts *before* they can be turned
     into TextElement / ContentTextElement.
     """
-    # pre-compile once  
+    # pre-compile once
     _trash = re.compile(
         r"""
         ^\s*Field:\s*(?:Rule-)?Page.*$ |        # Rule-Page, Page; Sequence
@@ -420,7 +416,7 @@ class EarlyMetadataRemoverStep(AbstractProcessingStep):
         ^\s*\*+\s*Text\s+Omitted.*$ |           # ***Text Omitted… SEC redactions
         ^\s*A-\d+\s*$ |                         # appendix page labels
         Field:\s*(?:Rule-)?Page                 # anywhere in text
-        """, re.I | re.X)
+        """, re.IGNORECASE | re.VERBOSE)
 
     def _process(self, elements, context=None):
         filtered = []
@@ -434,7 +430,7 @@ class EarlyMetadataRemoverStep(AbstractProcessingStep):
 
 class LateMetadataRemoverStep(AbstractProcessingStep):
     """Remove metadata elements that made it through the earlier processing."""
-    
+
     _trash = re.compile(
         r"""
         Field:\s*(?:Rule-)?Page |               # Page field markers
@@ -443,12 +439,12 @@ class LateMetadataRemoverStep(AbstractProcessingStep):
         ^\s*A-\d+\s*$ |                         # appendix page labels
         Page\s+\d+\s+of\s+\d+ |                 # page footers
         ^\s*-\s*\d+\s*-\s*$                     # page numbers
-        """, re.I | re.X)
-    
+        """, re.IGNORECASE | re.VERBOSE)
+
     def _process(self, elements, context=None):
         filtered = []
         for el in elements:
-            if hasattr(el, 'html_tag') and el.html_tag and el.html_tag.text:
+            if hasattr(el, "html_tag") and el.html_tag and el.html_tag.text:
                 text = el.html_tag.text.strip()
                 if self._trash.search(text) and len(text) < 200:  # Only short metadata
                     continue  # Skip this element
@@ -465,17 +461,16 @@ class OrphanAttacherStep(AbstractProcessingStep):
                 last_parent = el
             elif isinstance(el, ContentTextElement):
                 # Check if it's an orphan (no parent_id set)
-                if not hasattr(el, 'parent_id') or el.parent_id is None:
-                    if last_parent:
-                        # Attach to the most recent hierarchical element
-                        el.parent_id = last_parent.id
-                        last_parent.children.append(getattr(el, 'id', f'content_{id(el)}'))
-                        el.level = last_parent.level + 1
+                if (not hasattr(el, "parent_id") or el.parent_id is None) and last_parent:
+                    # Attach to the most recent hierarchical element
+                    el.parent_id = last_parent.id
+                    last_parent.children.append(getattr(el, "id", f"content_{id(el)}"))
+                    el.level = last_parent.level + 1
         return elements
 
 
 class FallbackTitleClassifier(AbstractProcessingStep):
-    KNOWN_PREFIX = re.compile(r"^(Exhibit|Schedule|Appendix)\s+\d+[A-Z]?\b", re.I)
+    KNOWN_PREFIX = re.compile(r"^(Exhibit|Schedule|Appendix)\s+\d+[A-Z]?\b", re.IGNORECASE)
 
     def _process(self, elements, context=None):
         if any(isinstance(el, AgreementTitleElement) for el in elements):
@@ -497,7 +492,7 @@ class ImprovedMetadataRemoverV7(AbstractElementwiseProcessingStep):
     def __init__(self, types_to_process=None) -> None:
         super().__init__(types_to_process=types_to_process or {NotYetClassifiedElement, TextElement})
         self.metadata_stats = defaultdict(int)
-        
+
         # V7 additions: field token recognition
         self._field_tokens = {"field:", "page", "sequence", "options", "value", "rule-page", "last"}
 
@@ -536,15 +531,15 @@ class ImprovedMetadataRemoverV7(AbstractElementwiseProcessingStep):
             return ("page_number", PageNumberMetadataElement)
 
         # V7 NEW - Workiva image-file comments may still survive if someone copied the name
-        if re.fullmatch(r"[a-z0-9_\-]+\.(?:jpe?g|png|gif)", text_stripped, re.I):
+        if re.fullmatch(r"[a-z0-9_\-]+\.(?:jpe?g|png|gif)", text_stripped, re.IGNORECASE):
             return ("page_number", PageNumberMetadataElement)
 
         # V7 NEW - Redaction placeholder handling [***]
-        if re.fullmatch(r'\[?\*{3,}\]?', text_stripped):
+        if re.fullmatch(r"\[?\*{3,}\]?", text_stripped):
             return ("redaction_stamp", ExhibitStampElement)
 
         # Existing V6 logic below...
-        
+
         # Exhibit/Document stamps
         exhibit_patterns = [
             r"^Exhibit\s+\d+(\.\d+)?(?:\s|$)",
@@ -570,9 +565,8 @@ class ImprovedMetadataRemoverV7(AbstractElementwiseProcessingStep):
             (r"^\d+\s+of\s+\d+$", 10),
         ]
         for pattern, max_len in page_patterns:
-            if re.match(pattern, text_stripped, re.IGNORECASE):
-                if len(text_stripped) <= max_len:
-                    return ("page_number", PageNumberMetadataElement)
+            if re.match(pattern, text_stripped, re.IGNORECASE) and len(text_stripped) <= max_len:
+                return ("page_number", PageNumberMetadataElement)
 
         return None
 
@@ -615,7 +609,7 @@ class SmartSectionClassifierV6(AbstractElementwiseProcessingStep):
                 return result
             return element
 
-        return result if result else element
+        return result or element
 
     def _get_section_key(self, element) -> str:
         """Generate unique key for section/article."""
@@ -738,16 +732,16 @@ class EnhancedClauseClassifierV6(AbstractElementwiseProcessingStep):
 
         if clause_info:
             clause_id, clause_text, level = clause_info
-            
+
             # Check for duplicates using parent_id and normalized_id
-            normalized = clause_id.strip('().')  # Basic normalization
-            parent_id = getattr(element, 'parent_id', None)
+            normalized = clause_id.strip("().")  # Basic normalization
+            parent_id = getattr(element, "parent_id", None)
             key = (parent_id, normalized)
-            
+
             if key in self._seen:
                 return None  # Drop exact duplicate under same section
             self._seen.add(key)
-            
+
             self.clause_count += 1
             return ClauseElement(
                 element.html_tag,
@@ -1124,14 +1118,14 @@ class AgreementParserV7(AbstractSemanticElementParser):
         return [
             # Phase 0: Early metadata removal
             EarlyMetadataRemoverStep(),
-            
+
             # Phase 1: Initial cleanup
             EmptyElementClassifier(types_to_process={NotYetClassifiedElement}),
-            
+
             # Phase 1.5: NEW V7 - HTML comment removal
             HtmlCommentRemoverStep(),
 
-            # Phase 2: Enhanced metadata removal  
+            # Phase 2: Enhanced metadata removal
             ImprovedMetadataRemoverV7(types_to_process={NotYetClassifiedElement, TextElement}),
 
             # Phase 3: Table processing
@@ -1141,10 +1135,10 @@ class AgreementParserV7(AbstractSemanticElementParser):
             # Phase 4: Structure detection
             SmartSectionClassifierV6(types_to_process={NotYetClassifiedElement, TextElement, TableElement}),
             EnhancedClauseClassifierV6(types_to_process={NotYetClassifiedElement, TextElement}),
-            
+
             # Phase 5: Fallback title detection
             FallbackTitleClassifier(),
-            
+
             # Phase 6: Main title
             MainTitleClassifierV6(types_to_process={NotYetClassifiedElement, TextElement}),
 
@@ -1153,19 +1147,19 @@ class AgreementParserV7(AbstractSemanticElementParser):
 
             # Phase 8: Text processing
             TextClassifier(types_to_process={NotYetClassifiedElement}),
-            
+
             # Phase 8.5: NEW V7 - Consecutive page number classification
             ConsecutivePageNumberClassifier(),
-            
+
             HeadingClassifierV6(types_to_process={TextElement}),
             ContentClassifierV6(types_to_process={TextElement}),
 
             # Phase 9: Hierarchy building
             HierarchyBuilder(),
-            
+
             # Phase 10: Late metadata cleanup
             LateMetadataRemoverStep(),
-            
+
             # Phase 11: Orphan attachment
             OrphanAttacherStep(),
 
@@ -1186,11 +1180,7 @@ def analyze_agreement_v7(parser: AgreementParserV7, html_content: str, agreement
         # Get V7 statistics from new processing steps
         v7_stats = {}
         for step in parser.get_default_steps():
-            if isinstance(step, HtmlCommentRemoverStep):
-                v7_stats.update(step.get_stats())
-            elif isinstance(step, ConsecutivePageNumberClassifier):
-                v7_stats.update(step.get_stats())
-            elif isinstance(step, ImprovedMetadataRemoverV7):
+            if isinstance(step, (HtmlCommentRemoverStep, ConsecutivePageNumberClassifier, ImprovedMetadataRemoverV7)):
                 v7_stats.update(step.get_stats())
 
         # Filter elements
@@ -1273,11 +1263,9 @@ def comprehensive_test_v7() -> None:
 
     html_dir = Path("html_files")
     if not html_dir.exists():
-        print("HTML directory not found")
         return
 
     html_files = sorted(html_dir.glob("*.html"))
-    print(f"🚀 Testing AgreementParserV7 on {len(html_files)} agreements...")
 
     results = []
 
@@ -1290,72 +1278,53 @@ def comprehensive_test_v7() -> None:
         result = analyze_agreement_v7(parser, html_content, i)
 
         # Display results
-        print(f"\n📄 Agreement {i:2d}: {result['status']}")
-        
+
         if result.get("v7_stats"):
-            v7_str = ", ".join([f"{k}: {v}" for k, v in result["v7_stats"].items()])
-            print(f"   🆕 V7 improvements: {v7_str}")
+            ", ".join([f"{k}: {v}" for k, v in result["v7_stats"].items()])
 
         if result.get("title_text"):
-            print(f"   📋 Title: {result['title_text'][:50]}...")
+            pass
 
         # Structure metrics
         if "type_counts" in result:
             counts = result["type_counts"]
-            print(f"   🏗️  Structure: Articles({counts.get('ArticleElement', 0)}) "
-                  f"Sections({counts.get('SectionElement', 0)}) "
-                  f"Clauses({counts.get('ClauseElement', 0)}) "
-                  f"Depth({result.get('hierarchy_depth', 0)})")
 
             # Additional elements
             if counts.get("DefinitionElement", 0) > 0:
-                print(f"   📖 Definitions: {counts['DefinitionElement']}")
+                pass
             if counts.get("PartyElement", 0) > 0:
-                print(f"   👥 Parties: {counts['PartyElement']}")
+                pass
             if counts.get("RecitalElement", 0) > 0:
-                print(f"   📝 Recitals: {counts['RecitalElement']}")
+                pass
 
         # Handle errors
         if "error" in result:
-            print(f"   ❌ Error: {result['error']}")
+            pass
 
         results.append(result)
 
     # Summary statistics
-    print(f"\n{'='*60}")
-    print("📊 SUMMARY STATISTICS - V7")
-    print(f"{'='*60}")
 
-    successful = sum(1 for r in results if "SUCCESS" in r["status"] or "EXCELLENT" in r["status"])
-    partial = sum(1 for r in results if "PARTIAL" in r["status"])
-    failed = sum(1 for r in results if "FAILED" in r["status"])
-    errors = sum(1 for r in results if "ERROR" in r["status"])
+    sum(1 for r in results if "SUCCESS" in r["status"] or "EXCELLENT" in r["status"])
+    sum(1 for r in results if "PARTIAL" in r["status"])
+    sum(1 for r in results if "FAILED" in r["status"])
+    sum(1 for r in results if "ERROR" in r["status"])
 
-    print(f"✅ Successful: {successful}/{len(results)} ({successful/len(results)*100:.1f}%)")
-    print(f"⚠️  Partial: {partial}/{len(results)} ({partial/len(results)*100:.1f}%)")
-    print(f"❌ Failed: {failed}/{len(results)} ({failed/len(results)*100:.1f}%)")
-    print(f"💥 Errors: {errors}/{len(results)} ({errors/len(results)*100:.1f}%)")
-
-    total_metadata = sum(r.get("metadata_removed", 0) for r in results)
-    print(f"🧹 Total metadata removed: {total_metadata}")
+    sum(r.get("metadata_removed", 0) for r in results)
 
     # V7 specific improvements
-    total_comments = sum(r.get("v7_stats", {}).get("comments_removed", 0) for r in results)
-    total_consecutive = sum(r.get("v7_stats", {}).get("consecutive_pages_removed", 0) for r in results)
-    print(f"🆕 V7 HTML comments removed: {total_comments}")
-    print(f"🆕 V7 consecutive page numbers removed: {total_consecutive}")
+    sum(r.get("v7_stats", {}).get("comments_removed", 0) for r in results)
+    sum(r.get("v7_stats", {}).get("consecutive_pages_removed", 0) for r in results)
 
     # Success breakdown
-    excellent = sum(1 for r in results if "EXCELLENT" in r["status"])
-    success = sum(1 for r in results if r["status"] == "✅ SUCCESS")
-    print(f"\n🏆 Excellent: {excellent}, Good: {success}")
+    sum(1 for r in results if "EXCELLENT" in r["status"])
+    sum(1 for r in results if r["status"] == "✅ SUCCESS")
 
     # Hierarchy statistics
     avg_depth = sum(r.get("hierarchy_depth", 0) for r in results if r.get("hierarchy_depth", 0) > 0)
     hierarchical_count = sum(1 for r in results if r.get("hierarchy_depth", 0) > 0)
     if hierarchical_count > 0:
-        avg_depth = avg_depth / hierarchical_count
-        print(f"📊 Average hierarchy depth: {avg_depth:.1f}")
+        avg_depth /= hierarchical_count
 
 
 if __name__ == "__main__":

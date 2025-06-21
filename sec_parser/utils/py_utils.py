@@ -57,7 +57,7 @@ def exceeds_capitalization_threshold(s: str, threshold: float) -> bool:
     total_alpha = 0
     total_capital = 0
 
-    for _idx, char in enumerate(s):
+    for char in s:
         if char.isalpha():
             total_alpha += 1
             if char.isupper():

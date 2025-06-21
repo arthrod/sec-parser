@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import asdict, dataclass
+from itertools import starmap
 from typing import TYPE_CHECKING, Any
 
 from sec_parser.exceptions import SecParserValueError
@@ -117,7 +118,7 @@ class TextStyle:
 
         # Apply checks to the filtered styles
         style_results = {
-            style: any(check(k, v) for (k, v) in filtered_styles)
+            style: any(starmap(check, filtered_styles))
             for style, check in style_checks.items()
         }
 

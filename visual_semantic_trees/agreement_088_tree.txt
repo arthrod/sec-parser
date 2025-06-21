@@ -1,13 +1,40 @@
-AGREEMENT: Second Amendment to Product Agreement
-|-- Content: between Patheon Pharmaceuticals Inc. and ACADIA Pharmaceuticals Inc.
-|-- Party: Patheon Pharmaceuticals Inc. (“Patheon”) (ACADIA Pharmaceuticals Inc. (“ACADIA”).)
-|-- Recital: WHEREAS, Patheon and ACADIA have entered into that certain Master Manufacturing Services Agreement, ...
-|-- Recital: WHEREAS, Patheon and ACADIA now wish to amend the Product Agreement as set forth in this Amendment. ...
-|-- Recital: NOW THEREFORE in consideration of the premises hereof and other good and valuable consideration, the...
-|-- Exhibit Exhibit 1
-`-- Exhibit Schedule C
-    |-- Content: 3.No Other Modifications. Except as specifically modified by this Amendment, the terms and condition...
-    |-- Content: IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed by their authorized r...
-    |-- Content: Patheon Pharmaceuticals Inc.	ACADIA Pharmaceuticals Inc.
-    |-- Content: By:  /s/ Nicholas M. Buschur				By:  /s/ James Nash
-    `-- Content: Title:  Executive Director & GM		Title:   SVP, Technology Development & Operations
+Heading (L1): between Patheon Pharmaceuticals Inc. and ACADIA Pharmaceuticals Inc.
+
+--- (Additional Root Structure) ---
+Party: Patheon Pharmaceuticals Inc. (“Patheon”) (ACADIA Pharmaceuticals Inc. (“ACADIA”).)
+
+--- (Additional Root Structure) ---
+Recital: WHEREAS, Patheon and ACADIA have entered into that certain Master Manufacturing Services Agreement, ...
+
+--- (Additional Root Structure) ---
+Recital: WHEREAS, Patheon and ACADIA now wish to amend the Product Agreement as set forth in this Amendment. ...
+
+--- (Additional Root Structure) ---
+Recital: NOW THEREFORE in consideration of the premises hereof and other good and valuable consideration, the...
+
+--- (Additional Root Structure) ---
+Exhibit Exhibit 1
+
+--- (Additional Root Structure) ---
+Exhibit Schedule C
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.No Other Modifications. Except as specifically modified by this Amendment, the terms and condition...
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed by their authorized r...
+
+--- (Additional Root Structure) ---
+Heading (L1): Patheon Pharmaceuticals Inc.	ACADIA Pharmaceuticals Inc.
+
+--- (Additional Root Structure) ---
+Heading (L1): By:  /s/ Nicholas M. Buschur				By:  /s/ James Nash
+
+--- (Additional Root Structure) ---
+Heading (L1): Name:  Nicholas M. Buschur				Name:  James Nash
+
+--- (Additional Root Structure) ---
+Heading (L1): Title:  Executive Director & GM		Title:   SVP, Technology Development & Operations
+
+--- (Additional Root Structure) ---
+Heading (L1): Updated Stability Pricing

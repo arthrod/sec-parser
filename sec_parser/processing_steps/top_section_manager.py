@@ -118,10 +118,8 @@ class TopSectionManager(AbstractElementwiseProcessingStep):
             self._process_iteration_0(element)
             return element
 
-
         if context.iteration == 1:
             return self._process_iteration_1(element)
-
 
         msg = f"Invalid iteration: {context.iteration}"
         raise ValueError(msg)
@@ -179,7 +177,6 @@ class TopSectionManager(AbstractElementwiseProcessingStep):
                 )
             candidate = _Candidate(section_type, element)
 
-
         if candidate is not None:
             self._candidates.append(candidate)
             element.processing_log.add_item(
@@ -216,7 +213,6 @@ class TopSectionManager(AbstractElementwiseProcessingStep):
         for candidate in self._candidates:
             grouped_candidates[candidate.section_type].append(candidate.element)
 
-
         """
          Selects a semantic element from the provided list based on specific criteria.
 
@@ -228,18 +224,16 @@ class TopSectionManager(AbstractElementwiseProcessingStep):
         """
         def select_element(elements: list[AbstractSemanticElement]) -> AbstractSemanticElement:
 
-
             if len(elements) == 1:
                 return elements[0]
             elements_without_table = [
                         element
                         for element in elements
-                        if not element.html_tag.contains_tag("table", include_self = True)
+                        if not element.html_tag.contains_tag("table", include_self=True)
                     ]
             if len(elements_without_table) >= 1:
                 return elements_without_table[0]
             return elements[0]
-
 
         return tuple(
             _Candidate(
@@ -264,10 +258,8 @@ class TopSectionManager(AbstractElementwiseProcessingStep):
     """
     def _process_selected_candidates(self, element: AbstractSemanticElement) -> AbstractSemanticElement:
 
-
         if self._selected_candidates is None:
             return element
-
 
         for candidate in self._selected_candidates:
             if candidate.element is element:
@@ -304,6 +296,7 @@ class TopSectionManager(AbstractElementwiseProcessingStep):
             log_origin=self.__class__.__name__,
         )
 
+
 class TopSectionManagerFor10Q(TopSectionManager):
     """Specialized version of TopSectionManagerForFiling for handling 10-Q filings.
     Automatically uses FilingSectionsIn10Q while maintaining all the functionality
@@ -321,6 +314,7 @@ class TopSectionManagerFor10Q(TopSectionManager):
             types_to_process=types_to_process,
             types_to_exclude=types_to_exclude,
         )
+
 
 class TopSectionManagerFor10K(TopSectionManager):
     """Specialized version of TopSectionManagerForFiling for handling 10-K filings.

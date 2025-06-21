@@ -1,71 +1,58 @@
 Heading (L1): REPURCHASE AGREEMENT
-|-- Content: This Repurchase Agreement is entered into as of this
-___th day of January 2024, by and among AB Inte...
-|-- Content: Stockholder owns ___________ shares of Common Stock
+`-- Content: Stockholder owns ___________ shares of Common Stock
 of the Company (the "Shares") and the Company is...
-`-- Recital: NOW, THEREFORE, the Stockholder and the Company agree
+
+--- (Additional Root Structure) ---
+AGREEMENT: AGREEMENT
+|-- Recital: NOW, THEREFORE, the Stockholder and the Company agree
 as follows:
-
---- (Additional Root Structure) ---
-Heading (L1): SECTION 1
-
---- (Additional Root Structure) ---
-Heading (L1): REPURCHASE AND SALE OF SHARES
-|-- Content: 1.1 Repurchase and Sale of Shares. On the terms and
+|-- Heading (L1): SECTION 1
+|-- Heading (L1): REPURCHASE AND SALE OF SHARES
+|   `-- Content: 1.1 Repurchase and Sale of Shares. On the terms and
 subject to the conditions set forth in this Agre...
-`-- Content: 1.2 Payment for Shares. The total purchase price for
-the Shares shall be __________ United States Do...
-
---- (Additional Root Structure) ---
-Heading (L1): SECTION 2
-
---- (Additional Root Structure) ---
-Heading (L1): REPRESENTATIONS AND WARRANTIES
-|-- Content: 2.1 Representations and Warranties of the Stockholder.
+|-- Heading (L1): SECTION 2
+|-- Heading (L1): REPRESENTATIONS AND WARRANTIES
+|   |-- Content: 2.1 Representations and Warranties of the Stockholder.
 The Stockholder represents and warrants to th...
-|-- Content: 2.1.1 Power and Authority. The Stockholder
+|   |-- Content: 2.1.1 Power and Authority. The Stockholder
 has the power and authority to execute and deliver this A...
-|-- Content: 2.1.2 Validity; Enforceability. This Agreement
+|   |-- Content: 2.1.2 Validity; Enforceability. This Agreement
 and all other instruments or documents executed by th...
-|-- Content: 2.1.3 No Encumbrances, Etc. The Stockholder
+|   |-- Content: 2.1.3 No Encumbrances, Etc. The Stockholder
 is the owner of record of all right, title and interest ...
-|-- Content: 2.1.4 Knowledge; Access. The Stockholder
+|   |-- Content: 2.1.4 Knowledge; Access. The Stockholder
 has such knowledge and experience in financial and business...
-|-- Content: 2.1.5 Accredited Investor Status. The Stockholder
+|   |-- Content: 2.1.5 Accredited Investor Status. The Stockholder
 is an "accredited investor" as such term is define...
-|-- Content: 2.2 Representations and Warranties of the Company.
+|   |-- Content: 2.2 Representations and Warranties of the Company.
 The Company represents and warrants to the Stockh...
-|-- Content: 2.2.1 Power and Authority. The Company has
+|   |-- Content: 2.2.1 Power and Authority. The Company has
 the power and authority to execute and deliver this Agree...
-|-- Content: 2.2.2 Organization and Qualification. The
+|   |-- Content: 2.2.2 Organization and Qualification. The
 Company is a corporation, duly organized, validly existing...
-`-- Content: 2.2.3 Validity; Enforceability. This Agreement
+|   `-- Content: 2.2.3 Validity; Enforceability. This Agreement
 and all other instruments or documents executed by th...
-
---- (Additional Root Structure) ---
-Heading (L1): SECTION 3
-
---- (Additional Root Structure) ---
-Heading (L1): MISCELLANEOUS
-|-- Content: 3.2 Successors and Assigns. This Agreement shall be
+|-- Heading (L1): SECTION 3
+`-- Heading (L1): MISCELLANEOUS
+    |-- Content: 3.2 Successors and Assigns. This Agreement shall be
 binding upon and inure to the benefit of the par...
-|-- Content: 3.3 Entire Agreement, Amendment. This Agreement constitutes
+    |-- Content: 3.3 Entire Agreement, Amendment. This Agreement constitutes
 the entire agreement between the Company...
-|-- Content: 3.4 Severability of Provisions. If any provision of
+    |-- Content: 3.4 Severability of Provisions. If any provision of
 this Agreement shall be prohibited by or invalid...
-|-- Content: 3.5 Governing Law. This agreement shall be governed
+    |-- Content: 3.5 Governing Law. This agreement shall be governed
 by and construed in accordance with the internal...
-|-- Content: 3.6 Counterparts. This Agreement may be executed in
+    |-- Content: 3.6 Counterparts. This Agreement may be executed in
 separate counterparts, either of which, when so ...
-|-- Content: 3.7 Survival. The representations, warranties, covenants
+    |-- Content: 3.7 Survival. The representations, warranties, covenants
 and agreements made herein shall survive th...
-|-- Content: 3.8 Further Assurances. Each party shall at any time
+    |-- Content: 3.8 Further Assurances. Each party shall at any time
 and from time to time after the date hereof tak...
-|-- Content: 3.9       Indemnification.
+    |-- Content: 3.9       Indemnification.
 Each party shall indemnify the other against any loss, cost or damages (i...
-|-- Content: IN WITNESS WHEREOF, the parties hereto have caused
+    |-- Content: IN WITNESS WHEREOF, the parties hereto have caused
 this Agreement to be executed the day and year fi...
-`-- Content: The Company
+    `-- Content: The Company
  
 AB International Group Corp.
  
