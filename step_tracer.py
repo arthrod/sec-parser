@@ -18,6 +18,7 @@ from typing import Any, Dict, List, NamedTuple, Optional, Tuple
 
 from sec_parser.processing_steps.abstract_classes.abstract_processing_step import AbstractProcessingStep
 from sec_parser.semantic_elements.abstract_semantic_element import AbstractSemanticElement
+import fickling
 
 
 class Metric(NamedTuple):
@@ -370,7 +371,7 @@ def save_traces(traces: Dict, filename: str):
 def load_traces(filename: str) -> Dict:
     """Load traces from pickle file."""
     with open(filename, 'rb') as f:
-        return pickle.load(f)
+        return fickling.load(f)
 
 
 def compare_traces(v1_traces: Dict, v2_traces: Dict, v1_name='V1', v2_name='V2') -> List[str]:
